@@ -1,57 +1,37 @@
-gov-za-multilingual
+Cabinet statements from the SA governemnt in multiple languages - gov-za-multilingual
 ==============================
+About Dataset
+---------------------
+The data set contains cabinet statements from the South African government. Data was scraped from the governments website:
+https://www.gov.za/cabinet-statements
 
-A short description of the project.
+The datasets contain government cabinet statements in 11 languages, namely:
 
-Project Organization
-------------
-
-    ├── LICENSE
-    ├── Makefile           <- Makefile with commands like `make data` or `make train`
-    ├── README.md          <- The top-level README for developers using this project.
-    ├── data
-    │   ├── external       <- Data from third party sources.
-    │   ├── interim        <- Intermediate data that has been transformed.
-    │   ├── processed      <- The final, canonical data sets for modeling.
-    │   └── raw            <- The original, immutable data dump.
-    │
-    ├── docs               <- A default Sphinx project; see sphinx-doc.org for details
-    │
-    ├── models             <- Trained and serialized models, model predictions, or model summaries
-    │
-    ├── notebooks          <- Jupyter notebooks. Naming convention is a number (for ordering),
-    │                         the creator's initials, and a short `-` delimited description, e.g.
-    │                         `1.0-jqp-initial-data-exploration`.
-    │
-    ├── references         <- Data dictionaries, manuals, and all other explanatory materials.
-    │
-    ├── reports            <- Generated analysis as HTML, PDF, LaTeX, etc.
-    │   └── figures        <- Generated graphics and figures to be used in reporting
-    │
-    ├── requirements.txt   <- The requirements file for reproducing the analysis environment, e.g.
-    │                         generated with `pip freeze > requirements.txt`
-    │
-    ├── setup.py           <- makes project pip installable (pip install -e .) so src can be imported
-    ├── src                <- Source code for use in this project.
-    │   ├── __init__.py    <- Makes src a Python module
-    │   │
-    │   ├── data           <- Scripts to download or generate data
-    │   │   └── make_dataset.py
-    │   │
-    │   ├── features       <- Scripts to turn raw data into features for modeling
-    │   │   └── build_features.py
-    │   │
-    │   ├── models         <- Scripts to train models and then use trained models to make
-    │   │   │                 predictions
-    │   │   ├── predict_model.py
-    │   │   └── train_model.py
-    │   │
-    │   └── visualization  <- Scripts to create exploratory and results oriented visualizations
-    │       └── visualize.py
-    │
-    └── tox.ini            <- tox file with settings for running tox; see tox.testrun.org
+|  Language  | Code |  Language  | Code |
+|------------|------|------------|------|
+| English    | (en) | Sepedi     | (nso)|
+| Afrikaans  | (af) | Setswana   | (tn) |
+| isiNdebele | (nr) | Siswati    | (ss) |
+| isiXhosa   | (xh) | Tshivenda  | (ve) |
+| isiZulu    | (zu) | Xitstonga  | (ts) |
+| Sesotho    | (st) |
 
 
+The dataset contains the full data in a JSON file (/data/govza-cabinet-statements.json), as well as CSV’s split by each language, eg: “govza-cabinet-statements-en.csv” for english.
+The dataset does not contain special characters like unicode or ascii.
+
+Please see the data-statement.md for full dataset information. *(TODO)*
+
+Authors
+-------
+- Vukosi Marivate - @vukosi
+- Matimba Shingange
+- Richard Lastrucci
+
+Citation
 --------
+(TODO)
 
-<p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
+Licence
+-------
+License for CC 4.0 BY SA
