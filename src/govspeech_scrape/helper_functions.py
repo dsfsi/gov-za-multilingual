@@ -7,11 +7,11 @@ from urllib.request import urlopen, Request
 languages = ['en','af','nr','xh','zu','st','nso','tn','ss','ve','ts']
 
 def read_JSON_file():
-    try: 
+    try:
         with open('../../data/govza-cabinet-statements.json', 'r') as f:
             data = json.load(f)
         return data
-    except: #if no file is found, create an empty list
+    except:
         return []
 
 def write_JSON_file(data):
@@ -37,30 +37,30 @@ def update_all_csv(new_data):
         update_csv_file(new_data, lang)
     
 
-def get_cabinent_statements_urls(date): # fetch all cabinet statements until a specified date
+def get_cabinent_statements_urls(date):
     page_no = 0
     date_found = False
     cabinent_statements = []
 
     while date_found == False:
         url = 'https://www.gov.za/cabinet-statements?page=' + str(page_no)
-        req = Request(url) # open main page
+        req = Request(url)
         page = urlopen(req)
         doc = BeautifulSoup(page, 'html.parser')
 
-        news_table = doc.tbody # extract table structure
-        news_table_rows = news_table.contents # extract rows
+        news_table = doc.tbody
+        news_table_rows = news_table.contents
         i=0
-        for row in news_table_rows: # build dictonary of url's we have not caputured
+        for row in news_table_rows:
             statement = {}
             statement['title'] = row.find('td').find('a').text
             statement['date'] = row.find_all('td')[1].text.strip()
             statement['url'] = 'https://www.gov.za'+row.find('a')["href"]
-            if statement['date'] == date: # if date found, break out of loop
+            if statement['date'] == date:
                 date_found = True
                 break
             i+=1
-            cabinent_statements.append(statement) 
+            cabinent_statements.append(statement)
         print("Fetched " + str(i) + " results from page " + str(page_no+1) + " of Cabinet Statements")
         page_no += 1
 
@@ -74,7 +74,7 @@ def check_translations(url): #build dictonary of translation urls
 
     title = re.sub("[^\u0000-\u007F]+", " ",(doc.find('h1', class_='title').text))
     translations = doc.find('section', id="block-locale-language") 
-    if translations != None: # if the doc has the translations block
+    if translations != None:
         trans_elements = translations.find_all('li')
         trans_urls = []
         for i in range(len(languages)):
@@ -89,12 +89,12 @@ def check_translations(url): #build dictonary of translation urls
         return []
 
 
-def extract_translations(url): #finally extract translations
+def extract_translations(url):
     req = Request(url)
     page = urlopen(req)
     doc = BeautifulSoup(page, 'html.parser')
 
-    trans_urls = check_translations(url) # get dictonary of urls for translated pages
+    trans_urls = check_translations(url)
     if len(trans_urls) > 0:
         print("Extracting...")
         statement = {}
@@ -106,7 +106,7 @@ def extract_translations(url): #finally extract translations
             req_trans = Request(trans['url'])
             page_trans = urlopen(req_trans)
             doc_trans = BeautifulSoup(page_trans, 'html.parser')
-            title_trans = re.sub("[^\u0000-\u007F]+", " ", doc_trans.find('h1', class_='title').text) #remove unicode with regex
+            title_trans = re.sub("[^\u0000-\u007F]+", " ", doc_trans.find('h1', class_='title').text)
             text_trans = re.sub(
                 "[^\u0000-\u007F]+", 
                 " ",
