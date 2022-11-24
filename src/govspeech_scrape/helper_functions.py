@@ -1,7 +1,10 @@
 import json
 import re
+import pandas as pd
 from bs4 import BeautifulSoup
 from urllib.request import urlopen, Request
+
+languages = ['en','af','nr','xh','zu','st','nso','tn','ss','ve','ts']
 
 def read_JSON_file():
     try:
@@ -14,6 +17,25 @@ def read_JSON_file():
 def write_JSON_file(data):
     with open('../../data/govza-cabinet-statements.json', 'w') as f:
         f.write(json.dumps(data))
+    return
+
+def update_csv_file(new_data ,lang):
+    items = []
+    for data in new_data:
+        item = {}
+        item['title'] = data[lang]['title']
+        item['date'] = data['date']
+        item['origin_url'] = data['url']
+        item['url'] = data[lang]['url']
+        item['text'] = data[lang]['text']
+        items.append(item)
+    items = pd.DataFrame.from_dict(items)
+    items.to_csv('../../data/interim/govza-cabinet-statements-'+lang + '.csv', mode='a', index=False, header=False)
+
+def update_all_csv(new_data):
+    for lang in languages:
+        update_csv_file(new_data, lang)
+    
 
 def get_cabinent_statements_urls(date):
     page_no = 0
@@ -45,9 +67,7 @@ def get_cabinent_statements_urls(date):
     return cabinent_statements
 
 
-def check_translations(url):
-    languages = ['en','af','nr','xh','zu','st','nso','tn','ss','ve','ts']
-
+def check_translations(url): #build dictonary of translation urls
     req = Request(url)
     page = urlopen(req)
     doc = BeautifulSoup(page, 'html.parser')
@@ -62,7 +82,7 @@ def check_translations(url):
             trans_item['lang'] = languages[i]
             trans_item['url'] = 'https://www.gov.za' + trans_elements[i].find('a')['href']
             trans_urls.append(trans_item)
-        print("Translations found for" + title)
+        print("Translations found for " + title)
         return trans_urls 
     else:
         print("No translations available for " + title)
@@ -76,6 +96,7 @@ def extract_translations(url):
 
     trans_urls = check_translations(url)
     if len(trans_urls) > 0:
+        print("Extracting...")
         statement = {}
         statement['title'] = re.sub("[^\u0000-\u007F]+", " ",(doc.find('h1', class_='title').text))
         statement['date'] = doc.find('span', class_='date-display-single').text
@@ -91,5 +112,5 @@ def extract_translations(url):
                 " ",
                 doc_trans.find('div',class_='field field-name-body field-type-text-with-summary field-label-hidden').text.replace('\xa0',' '))
             statement[trans['lang']] = {'text':text_trans, 'title':title_trans, 'url': trans['url']}
-        print ("Extracted Statement: " + statement['title'])
+        print ("Extracted: " + statement['title']) 
         return statement
