@@ -20,17 +20,17 @@ The datasets contain government cabinet statements in 11 languages, namely:
 The dataset contains the full data in a JSON file (/data/govza-cabinet-statements.json), as well as CSV’s split by each language, eg: “govza-cabinet-statements-en.csv” for english.
 The dataset does not contain special characters like unicode or ascii.
 
-Please see the data-statement.md for full dataset information. *(TODO)*
+Please see the [data-statement.md](/data_statement.md) for full dataset information. *(TODO)*
 
 Authors
 -------
-- Vukosi Marivate - @vukosi
+- Vukosi Marivate - [@vukosi](https://twitter.com/vukosi)
 - Matimba Shingange
 - Richard Lastrucci
 
 Citation
 --------
-(TODO)
+Vukosi Maricate, Matimba Shingange, Richard Lastrucci. _Cabinet statements from the SA governemnt in multiple languages_
 
 Licence
 -------
