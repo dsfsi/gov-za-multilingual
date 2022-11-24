@@ -30,7 +30,6 @@ def get_cabinent_statements_urls(date):
         news_table_rows = news_table.contents
         i=0
         for row in news_table_rows:
-            i+=1
             statement = {}
             statement['title'] = row.find('td').find('a').text
             statement['date'] = row.find_all('td')[1].text.strip()
@@ -38,6 +37,7 @@ def get_cabinent_statements_urls(date):
             if statement['date'] == date:
                 date_found = True
                 break
+            i+=1
             cabinent_statements.append(statement)
         print("Fetched " + str(i) + " results from page " + str(page_no+1) + " of Cabinet Statements")
         page_no += 1
