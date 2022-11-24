@@ -1,0 +1,39 @@
+Data statement for Cabinet Statements from the SA Gov in multiple languages
+===========================================================================
+
+Curation Rationale
+------------------
+The data set contains cabinet statements from the South African government. Data was scraped from the governments website: https://www.gov.za/cabinet-statements
+
+The datasets contain government cabinet statements in 11 languages, see next section for details.
+
+The dataset contains the full data in a JSON file (/data/govza-cabinet-statements.json), as well as CSV’s split by each language, eg: “govza-cabinet-statements-en.csv” for english. The dataset does not contain special characters like unicode or ascii.
+
+Language Variety
+----------------
+All recorded cabinet statements have translations to 11 languages:
+|  Language  | Code |  Language  | Code |
+|------------|------|------------|------|
+| English    | (en) | Sepedi     | (nso)|
+| Afrikaans  | (af) | Setswana   | (tn) |
+| isiNdebele | (nr) | Siswati    | (ss) |
+| isiXhosa   | (xh) | Tshivenda  | (ve) |
+| isiZulu    | (zu) | Xitstonga  | (ts) |
+| Sesotho    | (st) |
+
+Speaker demographic
+-------------------
+The data is issued by the government communications department. The datasets are composed of the topics covered in different cabinet meetings.
+
+Speech Situation
+----------------
+The data is comprised of cabinet statements from 2013 - Present
+It is written in formal language and is often split into different topical sections.
+
+Text Characteristics
+--------------------
+All data is relating to the cabinet meetings of the government, so a variety of topics like energy, labour, service delivery, crime, COVID, international relations, the environment, and government affairs like government appointments, cabinet decisions, etc are included.
+
+Provenance Appendix
+-------------------
+Data was scraped from the governments website: https://www.gov.za/cabinet-statements
