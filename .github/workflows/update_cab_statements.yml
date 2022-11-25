@@ -3,6 +3,7 @@ name: fetch and update cabinent statements
 on:
   schedule:
     - cron: '0 14 * * */5' # Every Friday at 2pm
+  workflow_dispatch:
 
 jobs:
   fetch_and_update_statements:
