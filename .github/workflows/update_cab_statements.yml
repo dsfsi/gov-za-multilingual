@@ -3,7 +3,6 @@ name: fetch and update cabinent statements
 on:
   schedule:
     - cron: '0 14 * * */5' # Every Friday at 2pm
-  workflow_dispatch:
 
 jobs:
   fetch_and_update_statements:
@@ -29,7 +28,9 @@ jobs:
         cd ../..
     - name: commit and push changes
       run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
         git add .
         git commit -m "Updated govza-cabinet-statements.json on `date` with GitHub Actions"
-        git push origin automate-fetch-update # will switch to master after testing
+        git push origin master
           
