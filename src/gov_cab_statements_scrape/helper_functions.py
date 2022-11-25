@@ -30,7 +30,7 @@ def update_csv_file(new_data ,lang):
         items.append(item)
     items = pd.DataFrame.from_dict(items)
     file_path = '../../data/interim/govza-cabinet-statements-'+lang + '.csv'
-    if os.path.isFile(file_path):
+    if os.path.isfile(file_path):
         items.to_csv(file_path, mode='a', index=False, header=False) #if file exists, don't write headers
     else:
         items.to_csv(file_path, mode='a', index=False, header=True) #if file doesn't exists, write headers
