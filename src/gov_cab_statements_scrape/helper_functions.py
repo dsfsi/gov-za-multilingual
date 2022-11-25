@@ -1,5 +1,4 @@
-import json
-import re
+import json, re, os
 import pandas as pd
 from bs4 import BeautifulSoup
 from urllib.request import urlopen, Request
@@ -30,7 +29,11 @@ def update_csv_file(new_data ,lang):
         item['text'] = data[lang]['text']
         items.append(item)
     items = pd.DataFrame.from_dict(items)
-    items.to_csv('../../data/interim/govza-cabinet-statements-'+lang + '.csv', mode='a', index=False, header=True)
+    file_path = '../../data/interim/govza-cabinet-statements-'+lang + '.csv'
+    if os.path.isFile(file_path):
+        items.to_csv(file_path, mode='a', index=False, header=False) #if file exists, don't write headers
+    else:
+        items.to_csv(file_path, mode='a', index=False, header=True) #if file doesn't exists, write headers
 
 def update_all_csv(new_data):
     for lang in languages:
