@@ -24,7 +24,7 @@ jobs:
         pip install -r requirements.txt
     - name: execute script
       run: |
-        cd src/govspeech_scrape
+        cd src/gov_cab_statements_scrape
         python3 main.py
         cd ../..
     - name: commit and push changes
