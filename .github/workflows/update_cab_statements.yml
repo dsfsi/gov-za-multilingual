@@ -1,4 +1,4 @@
-name: fetch and update latest cabinent speeches
+name: fetch and update cabinent statements
 
 on:
   schedule:
@@ -6,8 +6,8 @@ on:
   workflow_dispatch:
 
 jobs:
-  fetch_and_update_latest_speeches:
-    name: fetch and update latest cabinent speeches
+  fetch_and_update_statements:
+    name: fetch and update cabinent statements
     runs-on: ubuntu-latest
     steps:
     - name: checkout repo content
