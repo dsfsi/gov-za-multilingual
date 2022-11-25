@@ -30,8 +30,9 @@ Authors
 
 Citation
 --------
-Vukosi Marivate, Matimba Shingange, Richard Lastrucci. _Cabinet statements from the SA governemnt in multiple languages_
+Vukosi Marivate, Matimba Shingange, Richard Lastrucci. **Cabinet statements from the SA governemnt in multiple languages - gov-za-multilingual**, 2022
 
-Licence
+Licences
 -------
-License for CC 4.0 BY SA
+* License for Data - [CC 4.0 BY SA](LICENSE_data.md)
+* Licence for Code - [MIT License](LICENSE)
