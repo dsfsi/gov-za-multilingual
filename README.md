@@ -30,7 +30,7 @@ Authors
 
 Citation
 --------
-Vukosi Maricate, Matimba Shingange, Richard Lastrucci. _Cabinet statements from the SA governemnt in multiple languages_
+Vukosi Marivate, Matimba Shingange, Richard Lastrucci. _Cabinet statements from the SA governemnt in multiple languages_
 
 Licence
 -------
