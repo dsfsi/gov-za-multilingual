@@ -30,7 +30,7 @@ def update_csv_file(new_data ,lang):
         item['text'] = data[lang]['text']
         items.append(item)
     items = pd.DataFrame.from_dict(items)
-    items.to_csv('../../data/interim/govza-cabinet-statements-'+lang + '.csv', mode='a', index=False, header=False)
+    items.to_csv('../../data/interim/govza-cabinet-statements-'+lang + '.csv', mode='a', index=False, header=True)
 
 def update_all_csv(new_data):
     for lang in languages:
