@@ -27,11 +27,14 @@ jobs:
         cd src/gov_cab_statements_scrape
         python3 main.py
         cd ../..
-    - name: commit and push changes
+    - name: check for repo changes
+      id: changes
+      uses: UnicornGlobal/has-changes-action@v1.0.11
+    - name: commit and push if changes
+      if: steps.changes.outputs.changed == 1
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git add .
         git commit -m "Updated govza-cabinet-statements.json on `date` with GitHub Actions"
         git push origin master
-          
