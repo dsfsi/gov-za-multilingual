@@ -1,0 +1,7 @@
+LASER/models/**
+*.cvocab
+*.pt
+*.spm
+tools-external
+LASER/data/**
+LASER/content/sample_data/**
