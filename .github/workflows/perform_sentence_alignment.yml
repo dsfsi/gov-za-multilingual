@@ -1,0 +1,29 @@
+name: sentence alignment of cabinet speeches
+
+on:
+    push:
+        branches:
+            -   'developer/ishe'
+
+jobs:
+    SentenceAlignment:
+        name: perform sentence alignment
+        runs-on:    ubuntu-latest
+
+        steps:
+            -   name:   Checkout to develop/master branch
+                uses:   actions/checkout@v2
+
+            -   name:   Set up Python
+                uses: actions/setup-python@v4
+                with:
+                    python-version: "3.10"
+
+            -   name: Cache pip
+                uses: actions/cache@v2
+                with:
+                    path: ~/.cache/pip
+                    key: ${{ runner.os }}-pip-${{ hashFiles('requirements.txt') }}
+                    restore-keys: |
+                        ${{ runner.os }}-pip-
+                        ${{ runner.os }}-
