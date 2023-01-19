@@ -13,6 +13,8 @@ jobs:
         steps:
             -   name:   Checkout to develop/master branch
                 uses:   actions/checkout@v2
+                with:
+                    path: developer/ishe
 
             -   name:   Set up Python
                 uses: actions/setup-python@v4
