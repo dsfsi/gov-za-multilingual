@@ -166,17 +166,17 @@ if __name__ == "__main__":
     TRG_LANG = "en"
 
     data_frame = create_embeddings("xh", "en", language_mappings, speeches_data)
-    
-    #   Find the text files
-    txt_folder = f'./data/{SRC_LANG}_{TRG_LANG}_aligned_csv'              # Change when loading different files
-
-    txt_files = []
-    for root, folder, files in os.walk(txt_folder):
-        for file in files:
-            if file.endswith('.csv'):
-                txt_files.append(file)
-
-    print(txt_files)
+    #
+    # #   Find the text files
+    # txt_folder = f'./data/{SRC_LANG}_{TRG_LANG}_aligned_csv'              # Change when loading different files
+    #
+    # txt_files = []
+    # for root, folder, files in os.walk(txt_folder):
+    #     for file in files:
+    #         if file.endswith('.csv'):
+    #             txt_files.append(file)
+    #
+    # print(txt_files)
     #
     # df = pd.DataFrame(txt_files, columns=['File_Name'])
     # df["language"] = ''
