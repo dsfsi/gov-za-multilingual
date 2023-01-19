@@ -11,7 +11,7 @@ jobs:
         runs-on:    ubuntu-latest
 
         steps:
-            -   name:   Checkout to develop/master branch
+            -   name:   Checkout to developer/ishe or master branch
                 uses:   actions/checkout@v2
                 with:
                     path: developer/ishe
@@ -29,3 +29,9 @@ jobs:
                     restore-keys: |
                         ${{ runner.os }}-pip-
                         ${{ runner.os }}-
+
+            
+            -   name:   Install python requirements
+                run:    |
+                    python -m pip install --upgrade pip
+                    if [ -f requirements.txt ]; then pip install -r requirements.txt; fi   
