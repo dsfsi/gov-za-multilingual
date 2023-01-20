@@ -7,10 +7,13 @@ from nltk import tokenize
 from sklearn.metrics.pairwise import cosine_similarity
 
 
+DATA_PATH = "./../../../data"
+
+
 def align_files(source_file, target_file, source_lang, target_lang, f, g, date_key):
     #   Create Paths to use to output the aligned files to
-    path = f'./../../../data/processed/{source_lang}_{target_lang}_aligned/'  
-    path_csv = f'./../../../data/processed/{source_lang}_{target_lang}_aligned_csv/'
+    path = f'{DATA_PATH}/processed/{source_lang}_{target_lang}_aligned/'  
+    path_csv = f'{DATA_PATH}/processed/{source_lang}_{target_lang}_aligned_csv/'
 
     if not os.path.exists(path):
         os.mkdir(path)
@@ -104,7 +107,7 @@ def create_embeddings(source_lang, target_lang, lang, data):
     df = None
 
     for i in range(0, len(data)):
-        if not os.path.exists(f'./../../../data/processed/{source_lang}_{target_lang}_aligned_csv/{speeches_data["date_key"][i]}_{source_lang}_{target_lang}.csv'):
+        if not os.path.exists(f'{DATA_PATH}/processed/{source_lang}_{target_lang}_aligned_csv/{speeches_data["date_key"][i]}_{source_lang}_{target_lang}.csv'):
             dict_src = data[source_lang][i]
             dict_targ = data[target_lang][i]
             src_file = source_lang + "_" + data["date_key"][i]
@@ -154,7 +157,7 @@ if __name__ == "__main__":
     config.download_models(language_mappings)
 
     #   Get the speeches data json
-    speeches_data = pd.read_json("../../../data/govza-cabinet-statements.json")
+    speeches_data = pd.read_json(f"{DATA_PATH}/govza-cabinet-statements.json")
 
     #   Create new column with the date - replaced by _ as well as rename Xitsonga column
     speeches_data['date_key'] = speeches_data['date'].astype(str).str.replace('-', '_')
@@ -168,7 +171,7 @@ if __name__ == "__main__":
             data_frame = create_embeddings(SRC_LANG, TRG_LANG, language_mappings, speeches_data)
             
             #   Find the text files
-            txt_folder = f'./../../../data/processed/{SRC_LANG}_{TRG_LANG}_aligned_csv'              # Change when loading different files
+            txt_folder = f'{DATA_PATH}/processed/{SRC_LANG}_{TRG_LANG}_aligned_csv'              # Change when loading different files
     
             txt_files = []
             for root, folder, files in os.walk(txt_folder):
