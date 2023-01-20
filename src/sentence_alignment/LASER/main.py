@@ -9,8 +9,8 @@ from sklearn.metrics.pairwise import cosine_similarity
 
 def align_files(source_file, target_file, source_lang, target_lang, f, g, date_key):
     #   Create Paths to use to output the aligned files to
-    path = f'./data/{source_lang}_{target_lang}_aligned/'
-    path_csv = f'./data/{source_lang}_{target_lang}_aligned_csv/'
+    path = f'./../../../data/processed/{source_lang}_{target_lang}_aligned/'  
+    path_csv = f'./../../../data/processed/{source_lang}_{target_lang}_aligned_csv/'
 
     if not os.path.exists(path):
         os.mkdir(path)
@@ -104,41 +104,40 @@ def create_embeddings(source_lang, target_lang, lang, data):
     df = None
 
     for i in range(0, len(data)):
-        print("Execution")
-        dict_src = data[source_lang][i]
-        dict_targ = data[target_lang][i]
-        src_file = source_lang + "_" + data["date_key"][i]
-        trg_file = target_lang + "_" + data["date_key"][i]
+        if not os.path.exists(f'./../../../data/processed/{source_lang}_{target_lang}_aligned_csv/{speeches_data["date_key"][i]}_{source_lang}_{target_lang}.csv'):
+            dict_src = data[source_lang][i]
+            dict_targ = data[target_lang][i]
+            src_file = source_lang + "_" + data["date_key"][i]
+            trg_file = target_lang + "_" + data["date_key"][i]
 
-        src_sentences = split_sentences_characters(dict_src.get("text"))
-        trg_sentences = split_sentences_characters(dict_targ.get("text"))
+            src_sentences = split_sentences_characters(dict_src.get("text"))
+            trg_sentences = split_sentences_characters(dict_targ.get("text"))
 
-        print("Opening and writing to files")
-        # Read in the file
-        with open("./content/sample_data/%s.txt" % src_file, 'w') as f:
-            for item in src_sentences:
-                if item.strip() and len(item) > 3:
-                    f.write((str(item)))
-                    f.write("\n")
+            # Read in the file
+            with open("./content/sample_data/%s.txt" % src_file, 'w') as f:
+                for item in src_sentences:
+                    if item.strip() and len(item) > 3:
+                        f.write((str(item)))
+                        f.write("\n")
 
-        with open("%s.txt" % trg_file, 'w') as g:
-            for item in trg_sentences:
-                if item.strip() and len(item) > 3:
-                    g.write((str(item)))
-                    g.write("\n")
+            with open("%s.txt" % trg_file, 'w') as g:
+                for item in trg_sentences:
+                    if item.strip() and len(item) > 3:
+                        g.write((str(item)))
+                        g.write("\n")
 
-        source_embeddings = source_lang + "_" + data["date_key"][i] + "_emb"
-        target_embeddings = target_lang + "_" + data["date_key"][i] + "_emb"
+            source_embeddings = source_lang + "_" + data["date_key"][i] + "_emb"
+            target_embeddings = target_lang + "_" + data["date_key"][i] + "_emb"
 
-        src_data_frame = pd.read_csv(f.name, sep="\r\n", engine="python", header=None, names=['text'])
-        trg_data_frame = pd.read_csv(g.name, sep="\r\n", engine="python", header=None, names=['text'])
+            src_data_frame = pd.read_csv(f.name, sep="\r\n", engine="python", header=None, names=['text'])
+            trg_data_frame = pd.read_csv(g.name, sep="\r\n", engine="python", header=None, names=['text'])
 
-        source_file_arr, target_file_arr = get_embeddings(f, g, source_embeddings, target_embeddings, source_model,
-                                                          target_model)
+            source_file_arr, target_file_arr = get_embeddings(f, g, source_embeddings, target_embeddings, source_model,
+                                                            target_model)
 
-        date_key = data['date_key'][i]
-        df = align_files(source_file_arr, target_file_arr, source_lang, target_lang, src_data_frame, trg_data_frame,
-                           date_key)
+            date_key = data['date_key'][i]
+            df = align_files(source_file_arr, target_file_arr, source_lang, target_lang, src_data_frame, trg_data_frame,
+                            date_key)
 
     return df
 
@@ -162,27 +161,34 @@ if __name__ == "__main__":
     speeches_data.rename(columns={'ts last': 'tso'}, inplace=True)
 
     #   Create embeddings & align files
-    SRC_LANG = "xh"
-    TRG_LANG = "en"
+    for (key, value) in language_mappings.items():
+        if key != 'en' and value != '':
+            SRC_LANG = key
+            TRG_LANG = "en"
+            data_frame = create_embeddings(SRC_LANG, TRG_LANG, language_mappings, speeches_data)
+            
+            #   Find the text files
+            txt_folder = f'./../../../data/processed/{SRC_LANG}_{TRG_LANG}_aligned_csv'              # Change when loading different files
+    
+            txt_files = []
+            for root, folder, files in os.walk(txt_folder):
+                for file in files:
+                    if file.endswith('.csv'):
+                        txt_files.append(file)
+    
+            df = pd.DataFrame(txt_files, columns=['File_Name'])
+            df["language"] = ''
+            df_files = pd.concat((pd.read_csv(txt_folder + '/' + f) for f in txt_files), ignore_index=True)
+            df_files.loc[df_files['Cosine_Score'] > 0.7].src_text.to_csv(f'20221002_{SRC_LANG}.txt', header=None, index=None, sep=' ')
+            df_files.loc[df_files['Cosine_Score'] > 0.7].trg_text.to_csv(f'20221002_{TRG_LANG}.txt', header=None, index=None, sep=' ')
+            
+            np.savetxt(f'20221002_{SRC_LANG}.txt', df_files.loc[df_files['Cosine_Score'] > 0.7].src_text, fmt='%s')
+            np.savetxt(f'20221002_{TRG_LANG}.txt', df_files.loc[df_files['Cosine_Score'] > 0.7].trg_text, fmt='%s')
 
-    data_frame = create_embeddings("xh", "en", language_mappings, speeches_data)
-    #
-    # #   Find the text files
-    # txt_folder = f'./data/{SRC_LANG}_{TRG_LANG}_aligned_csv'              # Change when loading different files
-    #
-    # txt_files = []
-    # for root, folder, files in os.walk(txt_folder):
-    #     for file in files:
-    #         if file.endswith('.csv'):
-    #             txt_files.append(file)
-    #
-    # print(txt_files)
-    #
-    # df = pd.DataFrame(txt_files, columns=['File_Name'])
-    # df["language"] = ''
-    # df_files = pd.concat((pd.read_csv(txt_folder + '/' + f) for f in txt_files), ignore_index=True)
-    # df_files.loc[df_files['Cosine_Score'] > 0.7].src_text.to_csv(r'20221002_tso.txt', header=None, index=None, sep=' ')
-    # df_files.loc[df_files['Cosine_Score'] > 0.7].trg_text.to_csv(r'20221002_eng.txt', header=None, index=None, sep=' ')
-    #
-    # np.savetxt(r'20221002_tso.txt', df_files.loc[df_files['Cosine_Score'] > 0.7].src_text, fmt='%s')
-    # np.savetxt(r'20221002_eng.txt', df_files.loc[df_files['Cosine_Score'] > 0.7].trg_text, fmt='%s')
+            #   Do some cleaning
+            os.system(f'rm *.txt')                              #   Remove all text files in current directory
+            os.system(f'rm *_emb')                              #   Remove all embeddings files in current directory
+            os.system(f'rm ./content/sample_data/*.txt')        #   Remove all csv files in current directory
+
+
+
