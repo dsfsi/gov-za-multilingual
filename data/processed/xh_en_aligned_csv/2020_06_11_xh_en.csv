@@ -1,0 +1,87 @@
+xh,en,src_text,trg_text,Cosine_Score
+"[ 1.600803   -0.05192955  0.02890448 ...  0.846805    0.92589605
+  1.6237701 ]",[0.02542355 0.002548   0.00240313 ... 0.02587716 0.02355605 0.05619227],Ezamva nje ngentsholongwane i-Corona (i-COVID-19),Update on Coronavirus (COVID-19),0.88995254
+"[ 1.0685503  -0.03413956 -0.0529592  ...  0.74803966  1.6291462
+  0.66368824]",[0.02043296 0.00983905 0.00211197 ... 0.00938876 0.03454762 0.02230399],"Kwintlanganiso ebibanjwe kusetyenziswa unxibelelwano ngevidiyo ngoLwesithathu, umhla we-10 kweyeSilimela 2020, iKhabhinethi ifumene ingxelo ehlaziyiweyo evela kwiBhunga leSizwe loLawulo lweNtsholongwane i-Corona (i-NCCC).","At its virtual meeting held on Wednesday, 10 June 2020, Cabinet received an updated report from the National Coronavirus Command Council (NCCC).",0.8789165
+[0.7728417  0.12274903 0.07940556 ... 0.85864353 0.80040777 0.8235846 ],"[ 0.02253684 -0.00049858 -0.00014008 ...  0.03114394  0.0133967
+  0.02352388]",I-NCCC ithe thaca inani leengcebiso ezimalunga nomngcipheko weNqanaba lesi-3 lesiLumkiso eliqinisekisiweyo lokuvaleleka phantsi kwemiqathango ethile kwesizw Iingcebiso zisekelwe kwiziphakamiso ezenziwe ngamacandelo ahlukeneyo kunye neengxoxo ezenziwa liZiko eliDibeneyo leSizwe lokuSebenza kunye nobuChul,The NCCC tabled a number of recommendations pertaining to the enhanced risk adjusted Alert Level 3 of the national lockdow The recommendations are based on submissions made by various sectors and deliberations by the National Joint Operational and Intelligence Structur,0.8802937
+"[ 1.0290422   0.04459616 -0.1273204  ...  0.5794958   1.0969257
+  1.5956043 ]","[ 3.2959349e-02  4.2364822e-04 -3.6754973e-06 ...  4.7357311e-03
+  3.8546473e-02  4.7105882e-02]","Nangona kunjalo, iKhabhinethi igqibe ekubeni inqumamise ukuvunywa kweziphakamiso kulindelwe ingxelo epheleleyo yovavanyo lwezempilo evela kwiKomiti yabaPhathiswa yeeNgcebiso ngezeMpilo malunga ne-COVID-19.","However, Cabinet decided to defer approval of the recommendations pending a full health assessment report from the Ministerial Health Advisory Committee on COVID-19.",0.8957028
+"[ 0.8080515  -0.21122976  0.328913   ...  0.75985336  1.613619
+  1.9461032 ]","[ 0.00845968  0.00697995 -0.00041226 ...  0.01813725  0.01889924
+  0.04275167]",I-NCCC ilindeleke ukuba ifumane ingxelo epheleleyo ekuqaleni kweveki ezay,The NCCC is expected to receive the full presentation by early next wee,0.83941233
+[0.69327086 0.0328089  0.00269848 ... 1.120299   1.2236571  1.3842725 ],"[ 0.02889071 -0.00022822  0.002387   ...  0.03595396  0.03576081
+  0.02008016]",IKhabhinethi kwakhona iyacela kwaye idomboza kubo bonke abemi boMzantsi Afrika ukuba balandele baze bathobele ngokuzithandela amanyathelo abekiweyo okunqanda ukusasazeka kwe-COVID-19.,Cabinet once again appeal to and urge all South Africans to adhere and voluntarily comply with measures put in place to combat the spread of COVID-19.,0.9056584
+"[ 0.7511553   0.09979281 -0.174665   ...  0.9811064   1.1946635
+  0.88436216]",[0.01206534 0.00120253 0.00094975 ... 0.03375217 0.03354894 0.04444651],"La manyathelo aquka ukuhlamba rhoqo izandla, ukungasondelelani kwabantu kunye nokunxiba izigqubuthelo-buso (iimaski) xa besesidlangalaleni","The measures include regular washing of hands, social distancing and wearing of masks when in publi 2.",0.85959136
+"[ 1.1052314  -0.09792784 -0.25855914 ...  0.54963773  0.81042075
+ -0.15154466]","[ 0.03670752 -0.0028627   0.00064264 ...  0.01751236  0.00989436
+  0.00292291]",Ikampani ye-Petroleum yesizwe,National Petroleum Company,0.90029985
+"[ 1.2081397   0.14620703 -0.03978419 ...  0.86386347  1.2394147
+  0.52323985]","[ 0.02489653 -0.00182338  0.00131201 ...  0.02520003  0.04190641
+  0.017407  ]","IKhabhinethi inikwe amagqaba-ntshintshi ngomsebenzi oqhubekayo ukuhlenga-hlengisa onke amaqumrhu e-petroleum (i-oli kunye negesi) enkampani karhulumente yeentlobo ezahlukileyo zamandla, i-Central Energy Fun","Cabinet was briefed on the ongoing work to rationalize all petroleum (oil and gas) subsidiaries of the state owned diversified energy company, Central Energy Fun",0.887898
+"[ 1.3949617   0.5157185  -0.06299311 ...  1.0513113   0.45047355
+  0.600009  ]","[ 0.04418067  0.00788699 -0.00023865 ...  0.01134703  0.01831432
+  0.01421845]","Olu hlenga-hlengiso luza kuzala amaqumrhu amathathu (i-PetroSA, i-Strategic Fuel Fund kunye ne-iGas) ezidityaniswe zayiNkampani enye ye-Petroleum yeSizw Oku kuzalisekisa isibhengezo esenziwa nguMongameli Cyril Ramaphosa kwiNtetho yakhe engoBume beSizwe ngomhla we-13 kweyoMdumba 2020, ukutshintsha iinjongo nemibono kunye nokwenza uhlenga-hlengiso kumashishini amaninzi aphantsi kolawulo lukarhulumente ukuxhasa uhlumo kunye nophuhlis","The rationalization will result in three subsidiaries (PetroSA, Strategic Fuel Fund and iGas) merged into one single National Petroleum Compan This gives effect to the announcement made by President Cyril Ramaphosa in his State of the Nation Address on 13 February 2020, to repurpose and rationalize a number of state-owned enterprises to support growth and developmen",0.9018718
+"[ 0.9031754   0.14448516 -0.16172703 ...  0.78767157  1.2087513
+  0.7185201 ]","[ 0.03086655  0.01747404  0.00051064 ... -0.00390669  0.02470141
+  0.03807634]",IKhabhinethi ikwamkele ukuqesha okucetywayo kwenkampani enobugcisa bokuhlenga-hlengisa engumakhwekhwetha kwimiba yokudibanisa amaqumrhu ahlukeneyo ukuze iphande eyona ndlela ifanelekileyo inokusetyenziswa ukuseka iNkampani enye ye-Petroleum yeSizw,Cabinet approved the proposed appointment of a professional restructuring company that specializes in mergers to investigate the most viable model of this single National Petroleum Compan 3.,0.8511473
+[0.8782908  0.8134225  0.01728599 ... 0.99404174 0.4466076  0.6559677 ],"[ 0.01301249 -0.00205306  0.00704658 ...  0.0266531   0.00758804
+  0.02749656]",INkqubo-sikhokelo yoMgaqo-nkqubo wezoBundlobongela obuBhekiselele kwiSini (i-GBV) yamaBakala yeMfundo ePhakamileyo noQeqesho,Gender-Based Violence (GBV) Policy Framework in Post-School Education and Training System,0.8505111
+[0.86057    0.7223818  0.31879148 ... 0.79020315 1.0468266  1.0479922 ],[0.01488605 0.00383483 0.00367633 ... 0.01988677 0.02396017 0.026879  ],IKhabhinethi iyamkele iNkqubo-sikhokelo yoMgaqo-nkqubo wezoBundlobongela obuBhekiselele kwiSini (i-GBV) yamaBakala eMfundo ePhakamileyo noQeqesh Le nkqubo-sikhokelo yomgaqo-nkqubo ifuna ukusabela kwingxaki yokunyuka kwenani lamatyala anxulumene ne-GBV kumaziko emfundo ephakamiley,Cabinet approved the GBV Policy Framework in Post-School Education and Training Syste The policy framework seeks to respond to the increased number of GBV-related cases at institutions of higher learnin,0.8626352
+"[ 0.8454875   0.02208832 -0.03733865 ...  1.018203    0.9181489
+  1.0854336 ]","[ 0.02243712  0.00951012 -0.00032598 ...  0.02398575  0.02574247
+  0.02622226]","Le nkqubo-sikhokelo yomgaqo-nkqubo ibonelela ngesikhokelo sezixhobo, seentlobo kunye neenkqubo ekufuneka amaziko emfundo ephakamileyo azenze ukunqanda iziganeko ze-GBV kwiikhampasi zaw Ukongeza ekuboneleleni ngezixhobo zokongamela, ikwanyanzelisa amaziko anjalo ukuba afundise futhi azise abafundi ngemigaqo-nkqubo yawo ye-GBV","The policy framework provides guidance on structures, mechanisms and processes that institutions of higher learning must put in place to prevent incidents of GBV in their campuse In addition to providing oversight structures, it also compels such institutions to create awareness on their GBV policie 4.",0.8778776
+"[ 1.6153195   0.74738485 -0.08111561 ...  0.68964165  0.7165698
+  0.23511463]","[ 0.05165519 -0.00332489 -0.0003284  ...  0.012593    0.01186142
+  0.00888537]",INgxelo yoPhando ngeMfuneko yeMyuziyamu yeMibutho yoMzabalazo neyeNkululeko (i-RLMM),Feasibility Study Report on the Resistance and Liberation Movement Museum (RLMM),0.8725921
+"[ 1.4628828   0.68433136 -0.15299474 ...  1.8159789   1.6885946
+  1.3251042 ]",[0.03626851 0.00233177 0.0004556  ... 0.05911761 0.03982032 0.02580352],IKhabhinethi iyamkele iNgxelo yoPhando ngeMfuneko yokusekwa kwe-RLM IMyuziyamu iza kuba negalelo ekugcineni imbali yedabi lomzabalazo nenkululeko eMzantsi Afrik,Cabinet approved the Feasibility Study Report on the establishment of the RLM The museum will contribute towards conserving the history of the resistance and liberation struggle in South Afric,0.8931792
+"[ 1.7507713   0.33324155 -0.13557899 ...  0.9314369   1.0689327
+  0.69343185]","[ 0.05379711 -0.0003342  -0.00021374 ...  0.03175668  0.04767815
+  0.02382246]","Olu phando, iKhabhinethi eyavumayo ukuba luqhutywe kwangowama-2015, lwagunyaziswa kulandelwa kwiProjekthi yePhulo loMzila weMbali yoMzabalazo neNkululeko (i-RLHR).","The study, which Cabinet approved in 2015, was commissioned within the context of the Resistance and Liberation Heritage Route (RLHR) Projec The RLHR contributes towards the development and transformation of the South African heritage landscap",0.820318
+"[ 1.0800725  -0.16717358 -0.1811454  ...  0.47824326  1.0498807
+  0.92199945]","[ 0.03041349  0.00158906 -0.0002412  ...  0.03358614  0.04861591
+  0.03412479]",I-RLHR inegalelo kuphuhliso nakwinguqu kwezamafa eMzantsi Afrik,"Cabinet approved the implementation of the National Khoi and San Heritage Route, which is a national legacy projec The route will identify, highlight, conserve and promote the heritage of the Khoi, Nama, Griekwa, Khorana and Sa This project contributes towards the acknowledgement of the previously neglected and marginalized South African histor",0.71169174
+"[ 0.5635652   0.00806376 -0.1171132  ...  1.4245963   1.2438085
+  1.1848583 ]","[ 2.0904861e-02  1.4897758e-03 -3.4700966e-05 ...  4.1844297e-02
+  3.6362670e-02  3.1241646e-02]","Yakuba igqityiwe, le myuziyam iza kugcina uthotho lwezinto zelifa (ezibonakalayo nezingabonakaliyo) kwaye libonelele ngengxelo eqhelekileyo, inkumbulo kunye namava anxulumene nomzabalazo wenkululeko eMzantsi Afrika","Once completed, the museum will conserve a series of heritage elements (tangible and intangible) and provide common narrative, memory and experiences relating to the liberation struggle in South Africa",0.926554
+"[ 1.3438817  -0.07869924 -0.24467696 ...  1.0589428   1.7104737
+  0.6539814 ]","[ 0.0373501  -0.00039161  0.00124024 ...  0.01602575  0.02877161
+  0.00463772]",UMzila weSizwe wamaFa ama-Khoi nama-San,National Khoi and San Heritage Route,0.8104249
+"[ 1.0362161   0.12752222 -0.17382382 ...  1.1611191   2.0950103
+  1.2889354 ]","[ 0.03108113  0.00212694 -0.00021625 ...  0.01416541  0.04466826
+  0.04071252]","IKhabhinethi ikwamkele ukuphunyezwa koMzila weSizwe wamaFa ama-Khoi nama-San, oyiprojekthi yelifa lesizw Lo mzila uza kuphawula, ugxininise, ugcine uze uqinisekise ilifa lama-Khoi, ama-Nama, ama-Griekwa, ama-Khorana kunye nama-Sa Le projekthi inegalelo ekwamkelweni kwembali yoMzantsi Afrika ebingakhathalelwanga kwaye ebikade ijongelwe phants","Cabinet approved the submission of the Financial Sector Laws Amendment Bill of 2020 to Parliamen The Bill proposes to designate the SARB as the Resolution Authority, and enhances the SARB s regulatory tools for discharging its statutory mandate of ensuring stability of the financial syste",0.7630489
+"[ 1.076396    0.19459437 -0.2922565  ...  0.7678101   1.5611689
+  0.88547987]",[0.03665777 0.00184587 0.00356787 ... 0.01133503 0.0509847  0.02328813],"Ikwazalisekisa uMthetho wobuNkokheli beMveli kunye nama-Khoi-San, wowe-2019 (uMthetho 3 wowe-2019), owenza umthetho kuhlonitshwe iinkokheli zemveli zama-Khoi kunye nama-San","It also gives effect to the Traditional and Khoi-San Leadership Act, 2019 (Act 3 of 2019), which legislate for the recognition of the Khoi and San traditional leaders",0.88599527
+"[ 0.631358   -0.15850061 -0.21702605 ...  0.4534984   0.03513176
+  1.627397  ]","[ 0.00597703  0.00343788 -0.00051417 ...  0.01117337  0.02439654
+  0.01913114]",Uyilo lweengqekembe zesikhumbuzo sowama-2021 kunye nowama-2022,Designs of 2021 and 2022 commemorative coins,0.8849419
+"[ 0.87655324 -0.10329325 -0.19666098 ...  1.0268185   1.6579577
+  1.3996338 ]","[ 0.00396803  0.002914   -0.00028778 ...  0.01997139  0.04944687
+  0.03243997]",IKhabhinethi ilwamkele uyilo kweengqekembe zomjikelezo zesikhumbuzo sowama-2021 nowama-2022 ezikhutshwa yiBhanka enguVimba yoMzantsi Afrika (i-SARB) kunye ne-South African Mint Compan,Cabinet approved the designs of the 2021 and 2022 commemorative circulation coins which are issued by the South African Reserve Bank (SARB) and the South African Mint Compan,0.9058343
+"[ 0.9269199  -0.17090315 -0.08254803 ...  1.0679034   1.7788743
+  1.5353707 ]","[ 0.01725311 -0.00207566  0.01793128 ...  0.01317478  0.02933818
+  0.0280796 ]","Ingqekembe yomjikelezo wesikhumbuzo ye-R5 kunye ne-R5 yesilivere ecocisisiweyo, ingqekembe yegolide yomqokeleli iza kukhutshwa ngowama-2021 ukubhiyezela iKhulu leminyaka le-SAR UThotho lwesine lweNgqekembe yaseMzantsi Afrika, oluya kukhutshwa ngowama-2022 luya kuba neengqekembe ze-10 senti, i-20 senti, i-50 senti, i-R1, i-R2 kunye ne-R5","coin will be issued in 2021 to celebrate the Centenary of the SAR The fourth Decimal Coin Series of South Africa, which will be issued in 2022 will consist of 10 cent, 20 cent, 50 cent, R1, R2 and R5 coi",0.8748406
+"[ 0.6876459  -0.07772923 -0.22513211 ... -0.03126936  0.12723005
+  0.41119057]","[ 0.03864396 -0.0012033  -0.00057512 ...  0.00059445  0.00286358
+  0.01372522]",Imithetho Eyilwayo1.,BILLS1.,0.76674104
+"[ 0.5451813  -0.03363914 -0.12024623 ...  0.47777283  0.42727822
+  0.7417356 ]","[ 1.54183535e-02 -4.08702902e-03  4.41545817e-05 ...  1.88936312e-02
+  8.90583545e-03  2.83545926e-02]",UMthetho-siHlomelo osaYilwayo wowama-2020 weMithetho yeCandelo lezeziMali,Financial Sector Laws Amendment Bill of 2020,0.7912636
+"[ 1.2425455   0.20810802 -0.19949538 ...  1.1385659   1.1933405
+  0.992991  ]","[ 0.04009616  0.00293591 -0.00018421 ...  0.03624703  0.06063885
+  0.007404  ]","IKhabhinethi ikwamkele ukungeniswa ePalamente koMthetho-siHlomelo osaYilwayo wowama-2020 weMithetho yeCandelo lezeziMal Lo Mthetho uYilwayo uphakamisa ukuba kumiselwe i-SARB njengeQumrhu elineGunya lokuBhangisa, kunye nokuphucula imithetho yokuxhobisa i-SARB ikwazi ukwenza umsebenzi wayo ewugunyaziswe ngokomthetho wokuqinisekisa ukuba kukho uzinzo kwicandelo lezezimal",Such a scheme will protect the vulnerable depositors and ensure minimal disruptions to the financial system and broader economy when such institutions enter into financial distres APPOINTMENTMs Sekgothadi Kabelo as Non-Executive Director of the Ports Regulator of South Africa BoarEnquiries: Ms Phumla Williams,0.75284064
+"[ 1.1354715  -0.17192526 -0.11318571 ...  1.0177383   1.1465602
+  1.2714741 ]","[ 0.01453576 -0.00215165  0.00602223 ...  0.02509385  0.03825437
+  0.03606954]","Lo Mthetho uYilwayo uphakamisa inkqubo-sikhokelo entsha yokusombulula iingxaki zamaziko ezimali, ingakumbi iibhanki, xa zifikelwa ziingxaki zezimal Iza kuqalisa eMzantsi Afrika isikimu esibanzi sokuqala se-inshorensi sokufaka imali esiza kuthi siqinisekise ukuba abafaki-zimali bahlawulwa iimali zabo xa ibhanki itshon","The Bill proposes a new framework to resolve financial institutions, primarily banks, when they enter a period of financial distres It also introduces South Africa s first comprehensive deposit insurance scheme that will ensure that depositors are paid their funds when a bank fail",0.8696363
+"[ 0.47452667 -0.13606177  0.19203056 ...  1.0412782   0.8571709
+  1.5750175 ]","[ 4.9037334e-02 -6.7880331e-04  2.5839853e-04 ...  1.8405540e-02
+  5.2021600e-02 -7.5040957e-06]",Isikimu esinjalo siza kukhusela abafaki-zimali abasesichengeni kwaye siqinisekise ukuphazamiseka okuncinci kwicandelo lezezimali kunye noqoqosho ngokubanzi xa amaziko engena kwingxaki yezemalUkuqeshwa,"The R5 commemorative circulation coin and the R5 sterling-silver, gold plated collectors",0.62780523
+"[ 0.75357574 -0.081572   -0.23257342 ...  0.83947235  1.0329945
+  0.8113312 ]","[ 0.00104001 -0.00205139  0.0063608  ...  0.02688568  0.01023108
+  0.04815705]",UNks Sekgothadi Kabelo njengoMlawuli ongekho kwiSigqeba soLawulo kuLawulo lwamaChweba kwiBhodi yoMzantsi Afrik Imibuzo: UNks Phumla Williams,"Statement on the Virtual Cabinet Meeting held on Wednesday, 10 June 20201.",0.61316305
+"[ 0.3621652  -0.18140672 -0.11486784 ...  0.46898276 -0.18704894
+  1.7328367 ]","[ 0.00701544 -0.00437688 -0.00014415 ...  0.01022032 -0.00713816
+  0.03588371]",IsiThethi seKhabhinethiIselula: 083 501 0139,Cabinet Spokesperson Mobile: 083 501 0139,0.8967522
