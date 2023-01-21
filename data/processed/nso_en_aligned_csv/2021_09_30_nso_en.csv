@@ -1,0 +1,372 @@
+nso,en,src_text,trg_text,Cosine_Score
+"[ 0.4209265  -0.30877468 -0.14732374 ... -0.03521772  0.12848121
+  1.6048564 ]","[-0.00130068  0.00138589 -0.000487   ... -0.00196136 -0.00190788
+  0.02203241]",Merero ye Bohlokwa Seemong sa Bjale1.,UPCOMING EVENTS1.,0.60440254
+[1.6165084  0.27586403 0.16321076 ... 0.80872506 1.2996585  2.175923  ],"[ 0.03419523 -0.00022764  0.00482805 ...  0.00854204  0.02645731
+  0.00622743]",Lesolo la Meento ya Bolwet i bja Coronavirus (COVID-19),Coronavirus Disease (COVID-19) vaccine roll-out,0.7959846
+[0.90247786 0.02031315 0.0309739  ... 0.86006695 1.305097   1.9650823 ],"[ 0.03326981 -0.00204197  0.01534126 ...  0.01207816  0.02492911
+  0.0202382 ]",Kabinete e filwe hlohlelet o ke dimilione t a batho ba Afrika Borwa bao ba t eerego sephetho sa go hlaba meento kgahlanong le COVID-19.,"Cabinet is encouraged by the millions of people in South Africa who have chosen to vaccinate against COVID-19, with over 17 million vaccine doses administered to dat",0.8279748
+"[ 1.1810495  -0.04835609  0.67786956 ...  0.50897527  1.1766936
+  1.5818805 ]","[ 0.01026066 -0.00073924  0.00030885 ...  0.03074594  0.02668214
+  0.03119058]","Go fihla lehono, go hlabilwe dilekanyo t a go feta 17 milione t a meento kgahlanong le COVID-19.","Through the Department of Small Business Development, a total of 192 applications from small to medium business owners that were affected by the unrest had been receive Cabinet is pleased that a total of R54,2 million has been approved to be allocated to these business owner 6.",0.6606879
+"[ 0.56910986  0.15128896 -0.2885306  ...  1.4724493   1.2747641
+  0.29486528]","[ 0.0253017  -0.00025325 -0.00051708 ...  0.02391277  0.0356581
+  0.00180323]","Kabinete e leboga dihlopha t a sedumedi, gotee le lefapha la dipapadi le bokgabo ka go tsenela masolo a meento go hlohlelet a batho go hlaba meent","Cabinet thanked the religious formations, as well as the sports and arts fraternity, for embarking on vaccination campaigns to encourage the uptake of vaccine",0.8745807
+"[ 0.73195964  0.18418762 -0.05809966 ...  1.2234509   0.6883611
+  1.1785082 ]","[ 0.02156699 -0.00180173 -0.00329724 ...  0.02940495  0.01531835
+  0.01002077]","Ge batho ka bont i ba hlaba meento, gona go ra gore naga ye e tla theo et a fase maemo a bjale a dikilet o t a Maemotemo o a Bobed Se se tla dira gore ntle le pelaelo ditiragalo t a ikonomi di bulwe ka botlalo gore re kgone go godi a le go hloma me omo yeo e nyakegago kud","The more people get vaccinated, the sooner the country will relax the current Adjusted Alert Level 2 restriction This will inevitably result in the full opening of the economy to be able to grow and create much-needed job",0.77407926
+"[ 0.89293903 -0.05596865  0.02297017 ...  0.89307606  0.6663387
+  0.7539361 ]","[ 2.1141168e-02  1.3014558e-02 -7.2852956e-05 ...  3.5988312e-02
+  2.9002706e-02  7.8833885e-03]","Kabinete e sant e e gatelela kgoelet o ye rego gore re fokot e diphetelo t e difsa t a bolwet i, re swanet e gore ka moka ga rena re t wele pele go apara dimaseke ge re le gare ga batho le go","This is a firm warning to all perpetrators of GBVF that they will be arrested and face the full might of the la By working together with the police and law-enforcement agencies, we can make our streets and communities safer for al",0.72136235
+[1.1865548 0.4952429 5.7792687 ... 1.1103987 0.8621696 0.8517714],[0.01509583 0.01834575 0.10658231 ... 0.04694848 0.02878435 0.00981026],"omi a meetse le sesepe goba sanithaesa sa alekhohole ya go feta 70%, le go t welapele go","wearing a mask in public, washing hands with soap and water or using a 70% alcohol-based sanitiser, and maintaining a safe social distance continues to reinforce the country s approach in reducing new infections",0.7632543
+"[ 1.1013755  -0.08716428 -0.12478829 ...  0.8953262   0.8669129
+  0.54331905]","[ 0.02308207  0.00589753 -0.00032758 ... -0.00347321  0.03978608
+  0.02705654]",ielana sekgala go phethagat a morero wa naga ye wa go fokot a diphetelo t e difsa,Cabinet endorsed the collaborative approach adopted towards fast-tracking the finalisation of the migration of the whole country from analogue to digital platforms,0.7068044
+"[ 0.6387461  -0.20399867  0.7511546  ...  0.3907494   0.6266901
+  2.63271   ]","[ 0.02587495 -0.00639938  0.03787225 ... -0.00414299  0.00935656
+  0.06588867]",Lesolo la Vooma Vaccination Weekend go Thoma ka 1 go Fihla ka la 2 Diphalane 2021,Vooma Vaccination Weekend campaign from 1 to 2 October 2021,0.906865
+"[ 0.32615697  0.03476074 -0.1078772  ...  0.7241446   1.2558322
+  1.075655  ]","[ 0.01221385 -0.00069304 -0.00030127 ...  0.003156    0.02959328
+  0.03080616]",Kabinete e dira boipilet o go MaAfrika Borwa bao ba sa hlabago meento le batho bao ba dulago ka mo Afrika Borwa go,Cabinet welcomed the decision by Germany to remove South Africa from its list of high-risk travel areas and plans by the United States of America to admit fully vaccinated travelers into the countr,0.73062336
+[1.0204093  0.37785783 0.54595745 ... 0.13017422 1.2886595  3.3244023 ],"[ 0.03827666 -0.00065338  0.02890072 ...  0.01857441  0.04117009
+  0.08779324]",omi a monyetla wa Vooma Vaccination Weekend gore o ba hol Monyetla wo o tla phethagat wa nageng ka bophara ka Labohlano la 1 le Mokibelo wa la 2 Diphalane 2022.,"Cabinet urges unvaccinated South Africans and people living in South Africa to take advantage of the Vooma Vaccination Weekend which will take place around the country on Friday, 1 and Saturday, 2 October 2022.",0.81888473
+[0.38158467 0.19090378 0.02479666 ... 0.97610456 1.2575908  1.7845204 ],"[ 0.02508532 -0.00054959  0.019428   ...  0.01610679  0.04193255
+  0.03828767]","Lesolo la Vooma Vaccination Weekend ke lesolo la go akaret a batho ka moka la boset haba leo le thekgwago ke badiri ani ka moka set habeng, go akaret wa le dihlopha t a sedumedi, baetapele ba set o, ba omi bao ba ipopilego dihlopha le dikgweb Go lebelet we gore gona mafelelo a beke ye, batho ba go feta 500 000 ba hlabe meent","The Vooma Vaccination Campaign Weekend is an inclusive national campaign supported by all social partners, including faith-based formations, traditional leaders, organised labour and busines The target for this weekend is to vaccinate at least half a million peopl",0.8518392
+[0.98370814 0.1493402  0.18620718 ... 0.8984795  1.32735    0.4196363 ],"[ 0.0184712  -0.00071456  0.00403926 ...  0.02559159  0.01415327
+  0.00036984]","Wo ke monyetla go batho ba bagolo ka moka go hlaba meento ntle le tefo le ka ntle le go beakanya diketelo mafelong a go hlaba meento a mmu o, a praebete le fao batho ba ikelago ka bobon","This is an opportunity for all adults to be vaccinated free of charge and without appointments at public, private and pop-up vaccination site",0.86275315
+"[ 0.98663515 -0.00833226 -0.17444    ...  1.6669879   1.3905653
+  1.3036065 ]","[ 0.02332063 -0.00119933  0.00539976 ...  0.06080493  0.04274797
+  0.02745161]","Ga go hlokege gore o be le in orense ya maphelo goba medical aid gore o hlabe moent Baetapele ba mmu o, ba dikgwebo, ba ba omi le ba dihlopha t a batho set habeng ba tla rapa set haba ka mafolofolo dikarolong ka moka t a naga gore ba itoki et e t hirelet o ye tlago le go hlaba moent","You don t need to have health insurance or medical aid to receive the vaccin Leadership of government, business, labour and community formations will actively mobilise communities in all parts of the country to roll up their sleeves for the protection that comes with being vaccinate",0.85697156
+"[ 0.48669782 -0.06747404  0.11864642 ...  0.8172628   0.87419677
+  2.0421546 ]",[0.02822951 0.00079857 0.00086004 ... 0.04452043 0.02786145 0.04141681],Vooma Vaccination Weekend e ka re thu a go fenya baerase ye e re hlomerego lebaka la go feta ngwag Ga gona motho yo a swanet ego go fetwa ke monyetla w A re Bolokegeng ka Moka ga Rena,Vooma Vaccination Weekend can help us achieve victory over the virus that has haunted us for more than a yea No-one should miss out on this opportunit Let s all Stay Safe,0.8538444
+"[ 0.8954752  -0.29836386 -0.30751014 ...  1.2018913   1.9187928
+  0.2097662 ]","[ 0.00214478 -0.00176021 -0.00013588 ...  0.0187961   0.03190403
+  0.00975979]",Ketelo ya Mopresidente Leporogong la Msikaba,Presidential Visit to Msikaba Bridge,0.81801796
+"[ 1.4009326  -0.10593405 -0.10002257 ...  0.72289395  1.6229081
+  2.60306   ]","[4.61300723e-02 4.35556576e-05 1.32601755e-02 ... 4.12080996e-02
+ 4.51770797e-02 7.90941194e-02]","Mopresidente Cyril Ramaphosa o t wa go fetleka kgatelopele ya mo omo tlhabollong ya mananeokgoparara kua Leporogong la Msikaba, Lusikisiki go la Kapa Bohlabela ka Labone, 23 Lewedi 2021.","President Cyril Ramaphosa went to assess the development of infrastructure at the Msikaba Bridge at Lusikisiki in the Eastern Cape on Thursday, 23 September 2021.",0.8909795
+"[ 1.1050857  -0.03324946  0.39585087 ...  1.0904249   1.1187425
+  0.7456395 ]",[0.01366464 0.00107829 0.00259751 ... 0.03256333 0.04144084 0.00737288],"Prot eke ye ya mananeokgoparara a go bit a R1,65 bilione e bopa karolo ya prot eke ya N2 Tseleng ya Wild Coas Ntle le go kgont ha gabonolo leemaema la batho ka go kgokaganya batho ba go dula dinagamagaeng le mafelo a metsesetoropo, leporogo le le tla hlohlelet a dipeelet o le kgolo ya ikonom","This R1,65 billion infrastructure project forms part of the N2 Wild Coast Road projec Apart from facilitating the convenient movement of people by connecting rural communities to urban centres around the country, the bridge will also stimulate investment and growt",0.850096
+[0.785477   0.07274945 0.00740218 ... 1.0358261  0.9471596  1.1525396 ],"[ 0.01678585  0.00470107 -0.00025511 ...  0.01741323  0.02667222
+  0.05235581]","Tsela ye ya go raragana ya N2 Wild Coast ke ye nngwe ya Diprot eke t e kgolokgolo t a mmu o t a Mohlakanelwa le t e Loget wego Maano go akgofi a go gola ga ikonomi maemong a boset haba, a profense le lona felo le Kabinete e thabi it we ke kgatelopele ya mo omo lesolong la yona la dipeelet o t a mananeokgoparara, e lego boikokotlelo bjo bohlokwa bja Leano la Tso olo o ya Ikonomi le go Boet wa Sekeng ga yona (ERRP), ka diprot eke t e 88 t a go bit a t helete ya go feta Rtrilione t eo di sa tlago",The SIDSSA infrastructure pipeline aims to contribute to industrialisation and job creation as envisaged in the ERRP and the Re-imagined Industrial Strateg The interventions identified aim to boost demand and ensure effective coordination of all infrastructure player It is envisaged that these interventions will also contribute to building a resilient economy by accelerating infrastructure deliver The SIDSSA 2021 is held under the theme:,0.7986136
+"[ 0.7158386  -0.03798851 -0.2056206  ...  0.4823602   0.8965878
+  1.1421877 ]","[ 0.02471759 -0.00024593 -0.00056233 ...  0.02632742  0.01597612
+  0.01948594]","Dikamano t a Bodit habat haba, Bogwebi le t a Boeti","International relations, trade and tourism",0.7659396
+"[ 0.39952177 -0.15640491 -0.20454778 ...  0.90185565  1.2039548
+  1.1465732 ]","[ 0.02470723 -0.0021619   0.00572648 ...  0.02059821  0.04659862
+  0.0424831 ]",Kabinete e amoget e sephetho sa Germany sa go tlo a Afrika Borwa lenaneong la yona la mafelo a goba le kotsi ye kgolo ge a etelwa le dithulaganyo t a Amerika t a go amogela baeti bao ba entilwego ka botlalo ka nageng ye,Cabinet extended its congratulations and well-wishes to: South Africa s Paralympic team for flying the South African flag high by winning seven medals in total,0.74963826
+"[ 0.9716091  -0.00312436  0.00151889 ...  1.2039711   1.0365883
+  1.4675409 ]",[0.01236157 0.02251282 0.02594948 ... 0.0317075  0.029286   0.02523243],"Le ge go le bjalo, Kabinete e laedit e ka fao e nyami it wego ke sephetho sa United Kingdom (UK) sa go tlogela Afrika Borwa lenaneong la naga yeo la dinaga t e lego kotsing ye kgolo go ka etelw Ga gona mabaka a go kwagala a go tlogela Afrika Borwa lenaneong leo kudu ka ge re fihlelet e t e nt i go lwant ha leuba la COVID-19 le go fokot a ka pela palo ye diphetelo t a malwet i gotee le lenaneo la rena la motlalanaga la go hlaba meent",Cabinet however expressed disappointment at the United Kingdom s (UK) decision to keep South Africa on its travel red list of countrie There is no reasonable basis for keeping South Africa on the list given our progress in combating the COVID-19 pandemic and rapidly declining infection rate and our intensive vaccination programm,0.88053435
+"[ 0.5427237  -0.02438351 -0.1180839  ...  0.9467284   1.2277262
+  1.2567385 ]","[ 0.01774866 -0.00090785 -0.0001774  ...  0.02411114  0.052805
+  0.03212487]",Kabinete e sedimo it we ke Kgoro ya Dikamano t a Bodit habat haba le Tiri ano ya Makala ka kgatelopele ye fihlelet wego go tlo a Afrika Borwa lenaneong la dinaga t e lego kotsing ya bolwet,"Cabinet welcomed the recent resumption of flights by the SAA, which operates a few routes between Johannesburg and Cape Tow The national carrier will also fly to African capitals such as Accra (Ghana), Kinshasa (Democratic Republic of the Congo), Harare (Zimbabwe), Lusaka (Zambia) and Maputo (Mozambique), and more destinations will be added to the routes as market conditions improv",0.77222234
+"[ 0.56480515 -0.09502476 -0.12767844 ...  1.3996049   1.5169593
+  1.1701181 ]","[ 0.02510763 -0.00165754 -0.00027874 ...  0.04730734  0.03441598
+  0.02545118]","Kabinete e nale tshepho ya gore Mmu o wa UK o tla boela wa lebeledi i a sephetho sa ona se lego kgahlanong le naga ye, seo se sa amego fela intasteri ya boeti eup a se amago gampe dikgwebo go t wa dinageng t e ka bobedi, malapa le mafapha a mangwe a ikonomi","Cabinet was also briefed by the Department of International Relations and Cooperation on progress made to have South Africa removed from the red lis Cabinet is optimistic that the UK Government will revisit its unfavourable decision, which is not only affecting the tourism industry but businesses from both countries, families and other sectors of the economy",0.8172236
+"[ 0.5085642  -0.5799877   0.04111393 ...  0.08908755  0.02390038
+ -0.14773834]","[ 0.01547124 -0.00111307  0.01659804 ... -0.00047608 -0.00086569
+  0.00027932]",Go Boet wa Sekeng ga Ikonomi,Economic recovery,0.8778595
+"[ 2.126361   -0.02353404  0.3268196  ...  1.0249687   1.5045892
+  0.66533035]",[0.05691879 0.00531836 0.00560515 ... 0.02177384 0.0423337  0.0049312 ],"Kabinete e amoget e go tsebagat wa ga Phothale ya Boingwadi o bja Tahlegelo ya Kgwebo go ngwadi a dikgwebo t eo di amilwego ke megwanto yeo e diraget ego magareng ga la 9 le la 19 Mosegamanye gola KwaZulu-Natal, Gauteng le mafelong a mangwe ao a amilwego ke megwanto y","Cabinet welcomed the launch of the Business Loss Registration Portal to register businesses affected by the unrest that took place between 9 and 19 July 2021 in KwaZulu-Natal, Gauteng and other affected area",0.86699677
+"[ 0.9815833   0.00985483 -0.1059589  ...  0.1592455   1.0950007
+  0.8554464 ]","[ 0.0108041  -0.00070202  0.00092325 ... -0.00160654  0.01170252
+  0.0117248 ]",Phothale ye ya boingwadi o e hwet a tshedimo o go t wa dikgwebong t eo di amilwego ke megwanto go beakanya bokaone magato a kimollo le go tla ka magato a go rarolla se ao a tlo diri wago kamos Phothale ye ke mokgwa o le no i wa mmu o wo ka ona dikgwebo di ka laet ago ka fao di lobilego ka gon,The registration portal collects data from affected businesses to better coordinate relief measures and to inform future intervention It serves as a single governmental entry point for businesses to indicate the extent of their losse,0.83194494
+"[ 0.79936165 -0.07056904  0.40905392 ...  0.5536604   0.75024396
+  3.0211277 ]","[1.9338822e-02 2.8992936e-05 1.1102024e-02 ... 9.7149238e-03 2.3526119e-02
+ 6.7636102e-02]","Kabinete e dirile boipilet o go bengdikgwebo ka moka bao ba amilwego ke megwanto go ingwadi a phothaleng ye mo go wwrelief4scz Ka go le le ngwe, ba ka let et a 080 006 00850 go hwet a thu o magareng ga 08:00 le 17:00 gare ga bek","Cabinet called on all affected business owners to register on the portal at wwrelief4scz Alternatively, they may call 080 006 00850 for assistance between 08:00 and 17:00 on weekday",0.91178036
+[0.73478234 0.02306428 0.17256522 ... 0.9856809  1.3854322  1.7810838 ],"[ 9.8074190e-03 -1.1289531e-03 -2.9581097e-05 ...  2.9439395e-02
+  4.6698645e-02  3.9837092e-02]","Ka Kgoro ya Tlhabollo ya Dikgwebopotlana, palomoka ya dikgopelo t e 192 go t wa go bengdikgwebo t e nnyane le t a magareng bao ba amilwego ke mogwanto wo di amoget w Kabinete e thabi it we ke gore palomoka ya go lekana R54,2 milione e dumelet we gore e abelwe bona bengdikgwebo b 6.","Ms Verity Price, a professional speaker and facilitator, for winning the 2021 Toastmasters World Champion of Public Speakin She is the sixth woman to win the World Championship in the last 80 years of the competition and the first winner from AfricThe Springbok Sevens team, for winning the fourth HSBC World Rugby Sevens Series when they completed the North American double by winning the second of two HSBC Canada Sevens tournaments in Edmon",0.7562959
+"[ 0.19156203 -0.29298675  0.04960019 ...  0.8719489   1.6062025
+  1.2340618 ]","[ 0.00418638 -0.00206878 -0.00037274 ...  0.0110542   0.03322785
+  0.0165678 ]",Go T wet wapele ga Difofane t a Tirelo ya Difofane ya Afrika Borwa (SAA),Resumption of South African Airways (SAA) flights,0.81447643
+"[ 0.6745825   0.01029282 -0.12141342 ...  0.6019263   0.5591499
+  1.1731966 ]","[ 0.02727533 -0.00278405 -0.00040398 ...  0.0303373   0.0173446
+  0.03047584]","Kabinete e amogela go t wet wapele ga difofane ka SAA, fao go",Cabinet approved the publication of the National Council on GBVF Bill of 2021 in the Government Gazette for public commen,0.6950084
+[0.6485417  0.08460899 0.03011443 ... 0.9751051  1.9694849  1.1965388 ],"[ 0.05112436 -0.00048323  0.00130397 ...  0.03367621  0.0670427
+  0.01664983]","omago fela maeto a se makae magareng ga Johannesburg le Motsekap Khamphani ye ya difofane ya boset haba e tla fofi a batho goya metseme ate ya dinaga t a Afrika go swana le Accra (Ghana), Kinshasa (Democratic Republic of the Congo), Harare (Zimbabwe), Lusaka (Zambia) le Maputo (Mozambique), ebile mafelo a mangwe a mant i a tlo lokelwa ge maemo a mebaraka a kaonafal","four golds, a silver and two bronze Team SA s medallists in Tokyo were Ntando Mahlangu (two golds), Pieter du Preez (gold), Anrune Weyers (gold), Louzanne Coetzee (silver and bronze) and Sheryl James (bronze).",0.79431033
+"[ 0.76364017 -0.20130348 -0.07845136 ...  1.2218547   1.4629992
+  2.5008936 ]","[ 0.0182464  -0.00048223 -0.00022342 ...  0.03554134  0.03495776
+  0.04892204]","Kabinete e dirile boipilet o go MaAfrika Borwa ka moka go thekga SAA yeo e beakant wego ka lefsa, e bago seo se laet ago mathomomayo a paka ye mpsha diphofong t a Afrika Borw 7.","Cabinet called on all South Africans to support the restructured SAA, which marks the beginning of a new era in South African aviatio 7.",0.87971264
+"[ 1.2606299   0.75757134 -0.0910082  ...  0.8837638   1.227014
+  1.0165526 ]",[0.00951794 0.00740748 0.00386767 ... 0.02169525 0.02897886 0.00811019],"Yuniti ya Maitshwaro a Maleba a Tshepedi o ya Makala a Mmu o, Bobotegi le Thu o ya Sethekniki go t a Kgalemo (PA-EID-TAU)","Public Administration Ethics, Integrity and Disciplinary Technical Assistance Unit (PA-EID-TAU)",0.8147454
+"[ 0.5974816   2.4668884  -0.20869958 ...  0.6349024   0.86761695
+  1.0629333 ]","[ 0.01585374  0.01016193 -0.00040158 ...  0.03549494  0.02017247
+  0.0085076 ]","Kabinete e amoget e go tsebagat wa ga PA-EID-TAU, e bago yuniti yeo e tii elet ago matsapa a mmu o twant hong ya kgahlanong le bosenyi Ditirelong t a Mmu","Cabinet welcomed the launch of the PA-EID-TAU, which will strengthen government s efforts in the fight against corruption in the Public Servic",0.81024945
+"[ 0.8387075   2.3132515  -0.05586061 ...  1.0729746   0.88993144
+  0.94983804]",[0.02031296 0.00748402 0.00160333 ... 0.04653393 0.02329651 0.02295441],"PA-EID-TAU e tla bea leihlo go phethagat wa ga maitshwaro a maleba ditirelong t a mmu o le dipholisi t e kgahlanong le bosenyi go swana le go dira kgwebo le Mmu o, go diragat wa ga me omo e mengwe ya go tsent ha meputso, taolo ya kgalemo le go phethagat wa ga dipego t a bohlaki i t a ka fao batho ba phelago ka gon","The PA-EID-TAU will oversee the implementation of public service ethics and anti-corruption policies such as conducting business with the State, performance of other remunerative work, discipline management and implementation of lifestyle audit",0.87483746
+"[ 0.68549     2.6223724  -0.07784186 ...  0.715106    1.12239
+  1.8717988 ]","[ 0.02697696  0.02519503  0.00084916 ... -0.00099434  0.03683807
+  0.04883519]","Kabinete e dira boipilet o go ba omedi ba mmu o go ema ka molomo wa lehlabula mo matsapeng a bona a go fedi a boseny Ka go no ba batho bao ba etelet ego pele ka go bega ditiragalo ka moka t a go amana le bosenyi bjo bo diragalagong Makaleng le ditheong t a mmu o, re ka kgona go ihlolela bokamoso bjo kaone le go tlogelela bao ba tlago ka morago ga rena bohwa bja goyagoile","Cabinet called on public officials to remain resolute in stamping out corruptio By simply taking the lead in reporting all corruption-related activities taking place in government institutions, we can ensure a better tomorrow and leave a lasting legacy for future generations",0.8428544
+"[ 1.9238505  -0.38658658 -0.09850451 ...  0.554903    0.7926408
+  0.21417132]","[ 0.07056022 -0.00241785 -0.00283601 ...  0.02250353  0.02634591
+  0.00144549]",Dikgetho t a 2021 t a Pu o Selegae (LGE),2021 Local Government Elections (LGE),0.8575184
+"[ 0.87869847 -0.15862781  0.22910072 ...  0.9616209   1.0032637
+  1.0524764 ]","[ 0.01923353 -0.00051755  0.01552614 ...  0.03126673  0.03359838
+  0.02226466]","Kabinete e retile bakgethi bao ba tla bego ba kgetha lekga la mathomo ba 1,7 milione bao ba ngwadi it ego ka beke ya go ingwadi et a go kgetha ka la 18 le 19 Lewed Go ingwadi et a go kgetha ke mokgwa wo baswa ba laet ago gore ba nyaka go kgatha tema ka gare ga temokrasi ya rena ka go kgetha baetapele mafelong ao ba t wago go on","Cabinet commends the 1,7 million first-time voters who registered during the voter registration weekend of 18 and 19 Septembe This was young people s way of saying they want to play their part in our democracy by electing local leadershi",0.877306
+"[ 1.1584471  -0.06178652  0.35999286 ...  0.659921    1.0994709
+  1.3117915 ]","[ 0.02916773 -0.00018551  0.08386908 ...  0.02535751  0.01898846
+  0.02423574]","Ka ge baswa ba bopa palo ye kgolo ya set haba sa gaborena, Lethabo la baswa go ba karolo ya ditshepedi o t a rena t a dikgetho ke taba yeo re amogelago ka diatla t e pedi le go e hlomph","As young people constitute the majority of our population, the enthusiasm of young people to be part of our electoral processes is something we welcome and respec",0.8315139
+"[ 1.0393244  -0.11056625 -0.07908938 ...  0.8152403   1.2440141
+  1.6274761 ]",[0.02911517 0.03168291 0.03011638 ... 0.03807138 0.04750993 0.04501897],Dikgetho t a Pu oselegae (LGE) t a 2021 t eo di rulaganyedit wego go swarwa ka la 1 Dibatsela 2021 di fa MaAfrika Borwa monyetla wa go phethagat a ditokelo t a bona t a molaotheo go kgetha baetapele ba bona set haben,"Cabinet welcomed the double life sentence handed down to Mr Sbusiso Nkosi (36) by the Mpumalanga Division of the High Court on Monday, 13 September 2021, for the rape and murder of Ms Nomcebo Simelane (23) on 5 September 2020.",0.7294657
+"[ 0.9698511  -0.10442262  0.3044527  ...  0.9051973   1.4688617
+  3.155519  ]","[ 0.03566105 -0.00196355  0.01627043 ...  0.04441197  0.03516037
+  0.0751238 ]",Bakgethi bao ba sa kgoneng go kgetha ka Let at i la Dikgetho le bao ba sa kgoneng go fihla ditei eneng t a go kgetha ka baka la malwet i mebeleng goba bogole ba ka kgetha ka Diboutu t a Moswanano i mat at i a mabedi pele ga Let at i la Dikgeth Dikgopelo t a diboutu t a moswanano i di tla bulwa ka la 20 Lewedi 2021 t a bu a t a tswalelwa ka la 4 Diphalane 2021 ka iri ya bohlano mathapam 9.,Voters who are not able to cast their votes on Election Day and those who are not able to travel to voting stations due to physical infirmity or disability can vote by Special Vote on the two days preceding Election Da Applications for special votes opened on 20 September 2021 and will close on 4 October 2021 at 17:00.,0.8880268
+[0.71552444 1.3721441  0.16001683 ... 0.1630432  0.6740973  0.34756365],[0.02221511 0.0446863  0.02398325 ... 0.01056389 0.02443393 0.00814211],Dikgaruru t a go Ikala ka Bong le Polao ya Basadi (GBVF),Gender-based violence and femicide (GBVF),0.8424096
+"[ 0.61752176  0.14756802 -0.06933063 ...  1.9077015   1.8871804
+  1.8307712 ]","[ 0.01558264 -0.00186478 -0.00018538 ...  0.03200666  0.03747899
+  0.04434356]","Kabinete e amoget e kahlolelo t e pedi t a bophelo ka moka t eo di ahlolet wego Morena Sbusiso Nkosi (36) ka Kgorotsheko ya Godimo ya Lekala la Mpumalanga, ka la 13 Lewedi 2021, ka go kata le go bolaya Mohumagat ana Nomcebo Simelane (23) ka la 5 Lewedi 2020.","Cabinet noted the High Court, KwaZulu-Natal Division judgment in the matter involving the applicant, Ms Phumza Ethel Mankayi and the respondents, the Minister of Home Affairs, Ms Ntombizakhe Portia Miya and the Master of the High Court of South Afric The judgment affirms the rights of people married under the Recognition of Customary Marriages Act, 1998 (Act 120 of 1998).",0.75586915
+"[ 0.85684943  1.8665304  -0.17836846 ...  0.7566705   0.9892903
+  1.056206  ]",[0.00973422 0.04781223 0.00135361 ... 0.02339401 0.0178051  0.05824351],"Kgorotsheko e ahlolet e sekata se le mmolai dikwebo t e pedi t a bophelo ka moka le sekwebo sa tlalelet o sa go golegwa mengwaga ye meraro ka baka la bohodu, gomme dikwebo t e di a latelan",The court sentenced the rapist and murderer to two life imprisonment terms and an additional three years,0.8051677
+[1.2092565  2.0920117  0.06338052 ... 0.6679911  0.5954138  1.3430943 ],"[ 0.03378378  0.00014009 -0.00187867 ...  0.02207868  0.02304205
+  0.02428468]",Ye ke temo o ye tii eledit wego letsogo go batho ka moka ba go dira bosenyi bja GBVF gore ba tla golegwa le go lebana le letsogo la molao ka botlal Ka go,Major General David Chilembe as Deputy Commissioner of Operations at the BM Cabinet concurred with the appointment of the Board members subject to the verification of the qualifications and relevant clearance,0.7381213
+"[ 0.89037055  0.28635338 -0.08041624 ...  1.1348233   1.0923432
+  1.2754678 ]","[ 3.2094605e-02  3.5637832e-04 -9.2048875e-05 ...  3.1419117e-02
+  2.1159789e-02  2.5768125e-02]","omi ana le maphodisa le mabotho a phethagat o ya molao, re ka dira gore mekgotha ya rena ka mo nageng le batho set habeng ba bolokege ka moka ga bon","Among other provisions, the Bill establishes structures in the public sector and at community level that will work together to mitigate veldfire risks, and promote effective compliance and law enforcemen",0.7182069
+[0.9239489  0.26638234 0.03562244 ... 0.93113977 0.9945034  1.9249856 ],"[ 8.9637833e-03  9.1446480e-03 -7.5409880e-05 ...  5.0546270e-02
+  2.8168766e-02  3.0274702e-02]",Bega ditiragalo ka moka t a go amana le GBVF maphodiseng goba o let et e Senthara ya Boset haba ya GBVF mo go: 0800 428 428 goba Mogala wa PHEDI O ya Dikgaruru t a Bong mo go: 0800 150 150 / *120*7867#10.,Report all GBVF-related incidents to the police or call the National GBVF Command Centre: 0800 428 428 or STOP Gender Violence Helpline: 0800 150 150 / *120*7867#9.,0.89447975
+"[ 0.8679865  -0.18718532 -0.21583186 ...  0.4773764   0.39433956
+  1.047668  ]","[ 0.0132179  -0.00038452  0.00214401 ...  0.0015473   0.01971474
+  0.00621884]",Boingwadi o bja Manyalo a Set o1,Registration of customary marriages,0.7448105
+"[ 1.2353716   0.22665931 -0.3942599  ...  1.0336102   1.2774084
+  1.7704656 ]","[ 4.2074807e-02 -9.9649455e-04 -7.4509859e-05 ...  4.5424094e-03
+  3.7856113e-02  1.8029772e-02]","Kabinete e lemogile kahlolo ya Kgorotsheko ya Godimo ya Lekala la KwaZulu-Natal tabeng ya go amana le modirakgopelo, Mohumagadi Phumza Ethel Mankayi le baarabedi tabeng ye, Tona ya Merero ya Selegae, Mohumagadi Ntombizakhe Portia Miya le Kantorokgolo ya Kgorotsheko ya Godimo ya Afrika Borw Kahlolo ye e kgonthi i a ditokelo t a batho bao ba nyet wego ka fase ga Molao wa Temogo ya Manyalo a Set o, 1998 (Molao 120 wa 1998)","Condolences Cabinet expressed condolences to the family and friends of: Prof Hlengiwe Buhle Mkhize (69), Deputy Minister in The Presidency for Women, Youth and Persons with Disabilitie Throughout her life she distinguished herself as a tireless and passionate anti-apartheid and human rights activist, and campaigner for an end to gender inequalitMr Karabo Gungubele (32), the son of Minister in The Presidency, Mr Mondli Gungubel Ms Zanele kaMagwaza-Msibi (59), National Freedom Party leader and former Deputy Minister of Science and Technology, who devoted herself to making numerous extraordinary contributions to our democracy and societMr Jolidee Matongo (46), City of Johannesburg Executive Mayor,",0.80211806
+"[ 0.5632213  -0.1099015  -0.06587836 ...  0.6490664   1.0925165
+  2.7316525 ]","[ 0.01332236 -0.00135325  0.01602554 ...  0.00658911  0.03493312
+  0.06974054]",Kabinete e dira boipilet o go banyalani bao ba nyalanego ka set o go yo ngwadi a manyalo a bona a set o Kgorong ya Merero ya Selegae mo nakong ya dikgwedi t e tharo morago ga ge ba nyalan Tona ya Merero ya Selegae e okedit e nako ya go ngwadi a manyalo ao a set o go fihla ka la 30 Phupu 2024.,Cabinet calls on couples to register their customary marriages at Home Affairs within three months of their marriag The Minister of Home Affairs has extended the registration period to 30 June 2024.,0.8733846
+"[ 0.7714452  -0.04567483 -0.18458119 ...  0.9586663   1.24498
+  1.510799  ]","[ 0.03535929 -0.00064819  0.0003059  ...  0.02178948  0.0273391
+  0.04293849]","Se se diret we go akaret a bao manyalo a bona a sa kago a ngwadi wa mo dikgweding t e tharo t a go nyala ga bon Go ingwadi a, batho ba swanet e go tli a bohlatse bja ditheri ano t a magadi goba lengwalo le afitabiti go t wa go bao ba nyalanago le dihlatse t a bona, t eo di laet ago gore lenyalo le bile gona goba le ketekilwe","that were not registered within three month To register, people need to bring proof of lobola negotiations or a letter and an affidavit from people getting married and their witnesses, indicating that a marriage was entered into or celebrate",0.8607491
+[0.7459708  0.06146394 0.09494512 ... 0.62344265 0.85079426 2.0215642 ],"[ 0.01265351 -0.00464006  0.0042492  ...  0.01778685  0.01011024
+  0.06875124]","Go fihla lehono, ke fela manyalo a set o a 99 491 ao a ngwadi it wego Kgorong ya Merero ya Selegae ga e sale go tloga mola molao o thomang go tsenywa tiri ong ka Dibatsela 2000.","To date, only 99 491 customary marriages have been registered at Home Affairs since the law came into effect in November 2000.",0.8692859
+"[ 0.4554033  -0.24552377 -0.28648272 ...  0.46115032  0.10971288
+  0.48838902]","[ 0.00408866 -0.00296827 -0.00060771 ...  0.00854465 -0.00353386
+  0.01201626]",Diphetho t a Kabinete1.,Cabinet decisions1.,0.8018999
+"[ 1.1635724  -0.36628065 -0.10490766 ...  1.0064435   1.6992954
+  1.4506217 ]",[0.01214252 0.00039575 0.00215167 ... 0.00488385 0.03761126 0.03423099],Khonferense ya Afrika Borwa ya Dipeelet o (SAIC),South Africa Investment Conference (SAIC),0.8506895
+"[ 1.3086843  -0.08775856 -0.2487823  ...  0.71722203  1.3837479
+  3.1056378 ]","[ 0.02658169 -0.00181012  0.00334431 ...  0.02929412  0.0286627
+  0.07140024]",Kabinete e dumelet e dithulaganyo t a go beakanya SAIC ye tlago yeo e tlo swarwago ka Hlakola 2022.,Cabinet approved the scheduling of the next SAIC to take place in March 2022.,0.83104163
+"[ 1.4515724  -0.15933023  0.01996055 ...  0.78405243  1.0904132
+  2.7867646 ]","[ 0.02493349 -0.00052924  0.01061489 ...  0.01610972  0.01845977
+  0.05259804]","Khonferense ye e mo ngwageng wa yona wa boraro ebile nepokgolo ya yona ke go goket a dipeelet o t a go bit a R1,2 trilione mo mengwageng ye mehlan Lesolo la dipeelet o le t welapele go tlalelet a dikopano t a SAIC t e pedi t a go feta t eo di atlegileg Tshedimo o ka botlalo ya khonferense ye le let at ikgwedi leo e tlo swarwago ka lona di tla tsebagat wa ka moragonyan 2.","The conference is on its third year and aims to attract R1,2 trillion investments over five year The investment drive continues to build on the two previous successful SAIC The details of the conference and date will be announced at a later stage",0.8267757
+"[ 1.1286117  -0.13848878 -0.25416717 ...  0.9600226   0.04318381
+  0.47654086]","[ 0.00645753 -0.00052258 -0.00137093 ...  0.00451256  0.00479029
+  0.00434275]",Lenaneo la go Fetogela Kga ong ya Tit ithale (BDM),Broadcasting Digital Migration (BDM) programme,0.8388221
+"[ 1.4132589  -0.11797824  0.57184196 ...  0.83296674  1.6101831
+  0.7765012 ]",[0.01735724 0.00062945 0.03250276 ... 0.02957459 0.03704786 0.04570678],Kabinete e hlalo edit we ka lenaneo la naga ye la BD Kgatelopele ye e wi ago pelo e fihlelet we go hudu a dikarolo t e dingwe t a naga ye go tloga dikga ong t a megala goya go t a tit ithal,Cabinet was apprised on the country s BDM programm Substantial progress has been made in migrating some parts of the country from analogue to digital platform,0.78714
+"[ 0.9374512  -0.00630439 -0.34892306 ...  0.8082246   0.84863275
+  0.5944886 ]","[ 0.02988398 -0.00061974  0.00027245 ...  0.00720841  0.02489456
+  0.02921143]","Kabinete e dumelet e leanophethagat o leo le fetlekilwego la mohlakanelwa la go feto et a megala goya go dit ithale, e lego","The N2 Wild Coast road network is one of government s key Strategic Integrated Projects to catalyse economic growth at a national, provincial and local leve",0.7433036
+"[ 0.85117024 -0.32033676 -0.44118723 ...  0.56168795  0.72469735
+  0.9247028 ]","[ 0.04968618  0.00062014 -0.00045659 ...  0.0115886   0.02606083
+  0.00081801]",etulu yeo e beakanyedit wego go phethagat a ka botlalo mafelo ao a,The symposium will engage with a range of stakeholders to revitalise the infrastructure pipelin,0.6817515
+"[ 1.5464268  -0.26807332 -0.11432289 ...  0.6969943   0.947054
+  1.8165426 ]",[0.0122332  0.0086018  0.01254719 ... 0.01894865 0.01719895 0.03436699],alet ego morago pele ga Manthole 2022.,"The postponement from October 2021 to October 2022, follows the first one in 2020 as a result of the pandemi",0.68292814
+"[ 1.513731   -0.01204352  0.02619189 ...  0.9994595   1.5286998
+  2.2070296 ]","[ 0.02837463 -0.00132313  0.00194639 ...  0.01447833  0.02071344
+  0.05653481]","Afrika Borwa ke ye nngwe ya dinaga t e nt i mo lefaseng t eo di ikgafet ego go phethagat a ka bonako prot eke ya go hudugela theknolot ing ya tit ithale, yeo phelet o ya yona e tla bago gore kga o ya megala e tla t eelwa legato ke ya tit ithale ka 2023.","South Africa is one of many countries in the world that have committed to expedite the digital migration project, which will lead to a complete analogue switch-off in 2023.",0.82954466
+"[ 1.0788637  -0.12907945 -0.04599973 ...  0.5346386   1.6239103
+  1.0511469 ]","[ 0.01420347  0.00038121 -0.0003259  ...  0.03508577  0.04147797
+  0.02621171]",Kabinete e thekgile lemanoga la mohlakanelwa leo le diri wago go lebelet we go akgofi a go rungwa ga go hudugela ga naga ka moka go tloga kga ong ya megala go ya kga ong ya tit ithale,The Bill proposes the establishment of a representative independent council to oversee the NSP on GBVF,0.72639155
+[0.605896   0.5332326  0.30304456 ... 0.43321025 0.58197343 0.43055052],"[ 0.01693413  0.00545643  0.0027392  ... -0.00105756  0.01950488
+  0.01678872]",Pholisi ya Boset haba ya Thibelo le Taolo ya go Ima ga Barutwana Dikolong,National Policy on the Prevention and Management of Learner Pregnancy in Schools,0.8482499
+"[ 0.9819993   0.51626205 -0.13050877 ...  1.1933216   1.0351825
+  2.0042446 ]","[1.7382683e-02 8.4829181e-03 3.2085227e-05 ... 4.4279635e-02 2.5022378e-02
+ 6.2041994e-02]",Kabinete e dumelet e Pholisi ya Boset haba ya Thibelo le Taolo ya go Ima ga Barutwana Dikolon Pholisi ye e arabela Kahlolelo ya Kgorotsheko ya 2012 yeo e t eerego sephetho sa kgahlanong le Kgoro ya Thuto ya Motheo mo ditemaneng t e it ego t eo di bego di dira gore barutwana ba lofi we go tla dikolong lebaka la mengwaga ye mebedi morago ga go beleg,Cabinet approved the National Policy on the Prevention and Management of Learner Pregnancy in School The policy responds to the 2012 Court Judgement that ruled against the Department of Basic Education on certain clauses that called for learners to take leave of absence from school for up to two years post-deliver,0.8730486
+[1.0637773  0.24711585 0.02777558 ... 1.2723763  0.4066677  0.99316734],"[ 0.02499354  0.00459103 -0.00013184 ...  0.03481356  0.01376022
+  0.0127783 ]","Pholisi ye e fana ka tikologo ya go kgont ha go thekga barutwana le go efoga kgethollo kgahlanong le barutwana bao ba imileg Pholisi ye e fana gape ka khumanego ya tshedimo o ye felet ego ka botlalo ya thibelo ya go ima; ditlhahlo t a thobamaikutlo le t a tlhokomelo, gotee le go hloma ditheo t a taolo ya pholisi le t a peakany","The policy provides for an enabling environment to support learners and prevent discrimination against pregnant learner It also provides for access to comprehensive pregnancy prevention information; counselling and care guidelines, as well as the setting up of policy management and coordinating structure",0.8733432
+"[ 0.19207837  0.39508647 -0.06286696 ...  0.24439931  0.30396077
+  0.26006994]","[-0.00182752 -0.00149743  0.00157246 ...  0.01479987  0.00549291
+  0.001254  ]",Pholisi ye e,Cabinet Spokesperson,0.6613475
+"[ 1.0909042  -0.08055887 -0.12050375 ...  0.6751272   0.5815055
+  1.0023926 ]","[ 0.02773604 -0.00155451  0.00043267 ...  0.00802807  0.00815068
+  0.03979258]",et e e fetile ditheri anong t a motlalanaga ebile e gata ka mo ito o tee le melao ka moka ye maleb 4.,The policy has gone through extensive consultation with all relevant stakeholders and is aligned with all relevant law 4.,0.7382673
+"[ 0.51990134 -0.03816554 -0.24599425 ...  0.8016146   1.2122492
+  1.3584731 ]","[-0.00063759 -0.00138812 -0.0003232  ...  0.01008981  0.01077534
+  0.00629449]","Kwanelo go Kopano ya 2003 ya Dit habakopano ya Setheo sa t a Thuto, t a Saenthefiki le t a Set o (UNESCO) go","Accession to the 2003 United Nations Educational, Scientific and Cultural Organization (UNESCO) Convention for the Safeguarding of Intangible Cultural Heritage (ICH)",0.79019785
+"[ 1.2347554   0.02210492 -0.18024677 ...  1.0249354   0.2362111
+  0.64554644]","[ 6.56305701e-02  1.06530955e-04 -8.10368219e-05 ... -2.55893421e-04
+  3.28823105e-02  2.71092411e-02]",irelet a Bohwa bja Set o bjo Lego Dikgopolong (ICH),Chief Livhuwani Lyborn Matsila;(viii),0.7132882
+"[ 0.72332656 -0.12003358 -0.3481229  ...  0.8022734   0.5465145
+  1.5885246 ]",[0.00375069 0.00348266 0.00012532 ... 0.02000645 0.01923645 0.02196774],Kabinete e dumelet e kwanelo ya Afrika Borwa Kopanong ya 2003 ya UNESCO go,Cabinet approved South Africa s accession to the 2003 UNESCO Convention for the Safeguarding of IC,0.8493709
+"[ 1.2410364  -0.25759327 -0.3254602  ...  0.8155215   0.43075982
+  0.6049537 ]","[ 0.03068645  0.00076503 -0.00046594 ...  0.01699145  0.02212965
+  0.00154952]",irelet a IC Kopano ye e fana ka monyetla wa go,The campaign s slogan is,0.62264204
+"[ 1.5144173  -0.08778921 -0.12880324 ...  1.2558545   1.7366835
+  0.3514517 ]","[ 0.01784283 -0.00015725 -0.00047674 ...  0.03876243  0.03173156
+  0.01400311]","irelet wa, go lotwa le go hlohlelet wa ga ICH ka mebu o ya go fapafapana ya dinaga t eo e lego malok","Uncontrolled veldfires are responsible for environmental degradation, loss of jobs, displacement of communities, and general destruction of infrastructure, livestock, habitat and biodiversit",0.7141103
+"[ 0.81344557 -0.02128693 -0.05089002 ...  0.68880385  1.1331538
+  1.7571703 ]","[ 0.00263785 -0.000823   -0.00084453 ...  0.03464362 -0.0018568
+  0.02358784]","ICH e akaret a gare ga t e dingwe dit o t e lego set habeng, tsebo, didiri wa le dibetlwa mo set haben","The ICH includes amongst others community cultural spaces, knowledge, objects and artefacts in communitie",0.79007465
+"[ 1.0290954   0.03805094 -0.21721251 ...  0.7368553   1.0857539
+  1.3732017 ]",[0.02528409 0.02775262 0.00029401 ... 0.01970456 0.04217484 0.05781265],"Kopano ye e gapelet a mebu o yeo e lego maloko go hlaola, go hlalo a le go hlama magato a maleba go lota bohwa bj E hlohlelet a gape le dinaga go diri a magato a semolao, a tsamai o ya sethekniki le a go amana le t a dit helete go","The convention obliges member states to identify, define and devise appropriate measures for their preservatio It also encourages countries to adopt legal, technical administrative and financial measures to safeguard and promote IC The accession will be tabled to Parliament for ratification",0.81563264
+"[ 1.0567544  -0.14176631 -0.27743572 ...  0.683214    0.3513398
+  1.8077301 ]","[ 0.00786027 -0.00424672 -0.00049524 ...  0.01452767  0.04250089
+  0.06988547]",irelet a le go hlohlelet a IC Kwanelo ye e tlo hlagi et wa Palamente gore e dumelelwe,Cabinet approved the publication of South Africa s Review Report on the implementation of the Conventio South Africa ratified the UNCAC in 2004.,0.7092842
+"[ 0.7604608   2.9587305  -0.2774174  ...  0.33778554  0.452384
+  0.4789928 ]",[0.03003942 0.01309316 0.00017647 ... 0.01226254 0.02825318 0.01774252],Kopano ya Dit habakopano Kgahlanong le Bosenyi (UNCAC),UN Convention against Corruption (UNCAC),0.85183513
+"[ 1.0931882   0.45309997 -0.2679265  ...  0.950126    0.85429716
+  2.7135417 ]","[ 0.01720871 -0.00053841 -0.0008407  ...  0.01873889  0.04533618
+  0.06362331]",Kabinete e dumelet e phatlalat o ya Pego ya Afrika Borwa ya tshekatsheko ka phethagat o ya Kopan Afrika Borwa e dumelet e UNCAC ka 2004.,The International Maritime Organisation has once again granted South Africa permission to postpone the hosting of the WMDPE owing to COVID-19.,0.7080126
+"[ 1.6283572   0.05527055 -0.08800907 ...  0.5887381   1.1921778
+  1.5039415 ]","[ 0.00375729 -0.00194849  0.00389742 ... -0.00130972  0.00749995
+  0.0247254 ]",Mebu o yeo e lego maloko a kopano ye e sekasekwa goya ka phethagat o ya kopano y,Member states are peer reviewed on the implementation of the conventio,0.6836971
+[ 0.9670516  2.5631793 -0.1522499 ...  1.2707071  1.127904   2.3330617],[0.01938136 0.05978354 0.00178192 ... 0.00248907 0.02394702 0.03056596],"Afrika Borwa e sekasekilwe la mathomo ka 2012 ka phethagat o ya magato a bosenyi le a phethagat o ya molao, le gape ka fao e latelago tshepedi o ka gona t homi anong ya bodit habat hab Pego ya phetleko ya bjale ya 2019/20 e","South Africa was first reviewed in 2012 on the implementation of the criminalisation and law-enforcement interventions, and also on its international cooperation adherenc The current 2019/20 review report focused on preventative and asset recovery measure",0.83788633
+"[ 0.980893    0.27230322 -0.19441605 ... -0.01883853  1.005547
+ -0.04017905]","[ 0.01406482 -0.00063634 -0.00053446 ...  0.01356061  0.00358904
+  0.03317172]",edit e magato a thibelo le go hwet wa ga dithot,"Quality infrastructure for development, recovery and inclusive growth .",0.6945447
+"[1.0692888e+00 1.1740261e-01 2.2153300e-03 ... 7.0833319e-01 1.2712374e+00
+ 2.2729070e+00]","[ 0.01537186 -0.0010457   0.00586717 ...  0.01084704  0.01317479
+  0.05161169]","Magato a a phetleko a hlohlelet a tiri ano ye agi ago ka, gare ga t e dingwe, go fana ka mananeo a thu o ya sethekniki mebu ong yeo e lego maloko a kopano y 6.","The review mechanism promotes constructive collaboration by, amongst others, providing technical assistance programmes to the member state 6.",0.77576196
+"[ 0.58514583 -0.22773033 -0.02176122 ...  0.4880241   0.8073092
+  1.1156254 ]",[0.01392455 0.00231225 0.00283555 ... 0.01680517 0.00723547 0.019139  ],Go Fegwa ga Afrika Borwa go Swara Let at i la Lefase la Mabopo le Tiragalo ya go Lebana le Lona (WMDPE),Postponement for South Africa to host the World Maritime Day Parallel Event (WMDPE),0.79875106
+"[ 8.4981823e-01 -1.1763405e-03 -6.8003215e-02 ...  5.5673701e-01
+  1.2890280e+00  2.5227170e+00]","[ 0.02582233  0.00359894 -0.0003296  ...  0.03950636  0.03743104
+  0.01412604]",Mokgatlo wa Bodit hat haba wa Mabopo o file gape gape Afrika Borwa tumelelo ya go fega go swara WMDPE ka baka la COVID-19.,Deputy Director General: Rail Transport Department of Transport Mr Ngwako Wilson Makaepea Enquiries:Ms Phumla Williams,0.69036186
+[1.0842723  0.16276532 0.3207599  ... 0.76559603 1.1721495  2.1095173 ],"[ 2.1820795e-02 -2.6566929e-03 -2.0971833e-05 ...  1.1300047e-02
+  3.4296880e-03  3.6193442e-02]",Phego ye go tloga ka Diphalane 2021 go fihla ka Diphalane 2022 e latela ya mathomo ka 2020 ka baka la leuba la COVID-19.,The 2021 LGE scheduled to take place on 1 November 2021 provides,0.68162155
+"[ 0.2286935  -0.27011663 -0.05375139 ... -0.09187656 -0.10676888
+  0.3233756 ]","[ 2.0932467e-03 -2.0482062e-04  4.8137150e-05 ...  1.0729725e-03
+  1.5222376e-03  7.8740409e-03]",Melaokakanywa 1.,MESSAGES1.,0.81203693
+"[ 1.0281379   0.959187   -0.16325895 ...  0.7419956   1.0149404
+  0.2726397 ]",[0.01418205 0.01715722 0.00031483 ... 0.02376691 0.02281098 0.04415119],Khansele ya Boset haba ka Molaokakanywa wa 2021 wa GBV le Polao ya Basadi (GBVF),National Council on GBV and Femicide (GBVF) Bill of 2021,0.8246295
+"[ 1.2104205  -0.08995853 -0.30034178 ...  1.1486492   1.5175505
+  0.98843443]","[ 0.02328912 -0.00197678 -0.000348   ...  0.01440757  0.00676293
+  0.04215   ]",Kabinete e dumelet e phatlalat o ya Khansele ya Boset haba ka Molaokakanywa wa 2021 wa GBVF ka gare ga Kuranta ya Mmu o gore set haba se fe ditshwayotshway,Cabinet approved the submission of the National Veld and Forest Fire Amendment Bill of 2021 to Parliamen This Bill was first submitted to Parliament in 2017 and was sent back for further consultation with the publi,0.7222295
+[ 1.4281787 -0.0690191 -0.2510779 ...  0.8372342  1.4063495  2.581482 ],"[ 0.01663465 -0.00372837 -0.00051867 ...  0.04644074  0.01596907
+  0.06846468]",Molaokakanywa wo o arabela tlhahlo ye loget wego maano go Leanopeakanyo la Boset haba (NSP) ka GBVF leo le dumelet wego ke Kabinete ka Hlakola 2020.,The Bill responds to the strategic directive from the National Strategic Plan (NSP) on GBVF that was approved by Cabinet in March 2020.,0.80203116
+"[ 3.1356660e-01  6.3292746e-04 -1.2384726e+00 ...  9.4926273e-03
+  1.0155638e-01  7.3263943e-02]","[ 4.3035611e-03 -4.9268550e-05 -5.6170177e-04 ...  2.6530115e-04
+  3.3288756e-03 -1.8969752e-04]",Molaokakanywa wo o,Congratulations,0.5028101
+"[ 0.8327214  -0.19129245 -0.25356266 ...  0.3426884   0.99606544
+  0.69842684]",[0.01705471 0.01529767 0.00655028 ... 0.03396621 0.02457003 0.01631329],i inya go hlongwa ga khansele ya boetapele ye ikemego go bea leihlo NSP godimo ga GBVF,The Department of Transport will share the month s activities with the public and more information is available on wwtransporgoz,0.69679815
+"[ 0.9656237   0.00945112 -0.28590712 ...  0.33174023  0.34526315
+  0.85411704]","[ 0.01336807 -0.00296626  0.00069966 ...  0.00579083  0.01149882
+  0.0499438 ]",Molaokakanywapheto wa wa Boset haba wa 2021 wa Mello ya Tlhaga (NVFFA),National Veld and Forest Fire Amendment (NVFFA) Bill of 2021,0.83853066
+"[ 0.7521066   0.110552   -0.28770688 ...  0.8339965   1.0634953
+  1.4284521 ]","[ 0.01936361 -0.00076865  0.0090196  ...  0.02970862  0.01306574
+  0.05772281]",Kabinete e dumelet e tlhagi o Palamenteng ya Molaokakanywapheto wa wa Boset haba wa 2021 wa Mello ya Tlhag Molaokakanywa wo o hlagi edit we Palamente la Mathomo ka 2017 ebile o bu edit we morago gore set haba se fe ditshwayotshwayo t a sona ka on,October is dedicated to bringing a sharp focus to transport issues in the countr This is the 16th year that the country observes Transport Mont Cabinet approved this year s theme:,0.73839074
+"[ 1.1036634  -0.09249172 -0.07941889 ...  1.187747    1.3915879
+  1.2458218 ]","[-9.8254590e-04 -5.5991299e-05 -4.1296816e-04 ...  4.5078661e-02
+  3.4590036e-02  1.8511984e-02]","Godimo ga dipeakanyet o t e dingwe, Molaokakanywa wo o o hloma ditheo lefapheng la mmu o le maemong a set haba t eo di tla",Deputy Director General: Marine Transport Department of Transport Mr Mthunzi Edmund d Madiya7.,0.66992325
+"[ 1.0622382   0.03611499 -0.19523734 ...  0.5941153   1.3524529
+  0.6890007 ]","[ 0.04199541 -0.00026772 -0.00053092 ...  0.01694627  0.01281773
+  0.05641087]",omago mmogo go fedi a kotsi ya mello ya tlhaga le go hlohlelet a kobamelo ye nago le mohola le phethagat o ya mola,Brika Bova: Riding the wave to a better transport system for tomorrow .,0.6848543
+"[ 0.5411611   0.01292521 -0.09122232 ...  1.1312419   1.15431
+  0.8216845 ]",[0.01171731 0.00069106 0.00600352 ... 0.04218018 0.01854269 0.01733478],"Mello ya tlhaga ya go se laolege ke yona e hlolago go gwahlafala ga tikologo, tobo ya me omo, go hudu wa ga batho set habeng, le tshenyo ka kakaret o ya mananeokgoparara, diruiwa, madulo a t ona le diphedi t a go fapafapan","The transport sector is an important socio-economic element in South Afric This year the campaign will focus on positioning transport as a key enabler in the country s economic recovery; create an awareness and educate on the safety in all transport modes, and also showcase the improvements made in the transport syste",0.6963875
+[0.30325964 0.03850213 0.02494962 ... 0.04903424 0.05486158 1.2098862 ],"[ 0.03711418 -0.00074501 -0.00080939 ... -0.00445885  0.01018452
+  0.00774709]",Ditiragalo t eo di Tlago1.,Bills 1.,0.70137864
+"[ 0.25872573 -0.39301845 -0.07970534 ...  0.9335753   1.5795183
+  0.84973973]","[-0.00149392 -0.00143581 -0.00049958 ...  0.02480478  0.0429065
+  0.03284431]",Kopano Tlhabollo ya Mananeokgoparara a go Swarelela ya Afrika Borwa (SIDSSA),Sustainable Infrastructure Development Symposium South Africa (SIDSSA),0.8879926
+"[ 0.189327   -0.32882127  0.2882253  ...  1.0486264   0.7882446
+  3.5253315 ]","[ 0.00743759 -0.00058008  0.02072912 ...  0.0214549   0.0175764
+  0.08454943]","Mmu o o tla swara SIDSSA ya 2021 ka Laboraro, 6 le ka Labone 7 Diphalane 2021.","Government will be hosting the SIDSSA 2021 on Wednesday, 6 and Thursday, 7 October 2021.",0.91089743
+"[ 0.93060577 -0.08066695 -0.24259728 ...  1.033378    0.50726706
+  1.0111356 ]","[ 0.00041733  0.0041239  -0.00029484 ...  0.02785207  0.02251645
+  0.02419182]",Kopanong ye go tla boledi anwa le bakgathatema ba go fapafapana go tso olo a mananeokgoparara ao a tlogo dirw,who was dedicated to improving conditions and creating opportunities for all the people of Johannesburg and stakeholders in the metropolitan econom,0.65887207
+"[ 0.87399256  0.21214747 -0.1088798  ...  1.1859566   1.3307338
+  1.9136205 ]",[0.04073361 0.00363078 0.00561453 ... 0.00075565 0.0335279  0.01780532],Mananeokgoparara a SIDSSA ao a tlogo dirwa a nepile go kgatha tema go hloma diintasteri le go hloma me omo go ya ka fao go bolet wego ka gare ga ERRP le Leano la Diintasteri leo le Nagani it wego ka lesw Magato a go rarolla seemo se ao a hlaot wego a nepile go roto a nyakego le go netefat a tsamai o ye nago le mohola ya bakgathatema ka moka ba mananeokgoparar Go ukangwa gore magato a go rarolla seemo se a tla thu a gape go bopa ikomomi yeo e tielet ego ka go akgofi a kabo ya mananeokgoparar SIDSSA ya 2021 e tla swarwa ka fase ga morero wo:,"Cabinet was pleased with the progress in its infrastructure investment drive, which remains a central pillar of the Economic Reconstruction and Recovery Plan (ERRP), with 88 projects worth more than Rtrillion in the pipelin",0.72271764
+"[ 0.36061135 -0.22470438 -0.1840573  ...  0.28376174  0.15294206
+  0.95583016]","[ 0.0091471  -0.00361458  0.00077966 ...  0.01155131  0.012833
+  0.01660657]","Mananeokgoparara a hlwahlwa bakeng sa tlhabollo, poelosekeng le kgolo ya go akaret a batho ka moka .","The convention provides for the safeguarding, preservation and promotion of ICH by the respective member state",0.6231817
+"[ 0.10493799 -0.26155862 -0.2701799  ...  0.38260913 -0.3589549
+  1.0732392 ]","[-0.00394913 -0.00207007  0.00301877 ...  0.0068598  -0.00438509
+  0.02902236]",Kgwedi ya Dinamelwa ya 2021,Transport Month 2021,0.8906677
+"[ 0.95769876 -0.13743386  0.14329685 ...  0.40988004  0.9753557
+  1.8087574 ]","[ 0.0184753  -0.00260509  0.00717583 ...  0.01594352  0.03095124
+  0.06575666]",Diphalane ke kgwedi yeo e kgafet wego go lebi a,"Cabinet approved the revised integrated analogue switch-off implementation plan, which is a schedule to complete the remaining areas by March 2022.",0.6503975
+"[ 1.7158136  -0.11481423  0.35912848 ...  0.90792024  1.0269785
+  2.1175516 ]","[ 1.36294365e-02 -8.78602805e-05 -9.55073163e-04 ... -2.21932749e-03
+  2.31373347e-02  7.53848022e-03]",edi ye kgolo mererong ya dinamelwa ka mo nagen Wo ke ngwaga wa bo-16 mola naga e thomago go keteka Kgwedi ya Dinamelw Kabinete e dumelet e morero wa ngwaga wo:,Dr Nakampe Michael Masiapato as Commissioner of the Border Management Authority (BMA),0.61402595
+"[ 0.4294258  -0.377165   -0.40603706 ...  0.28088957  0.3491699
+  0.90248543]","[ 1.9456113e-02 -1.5480610e-03 -5.9987789e-05 ... -4.0903606e-04
+  7.0459121e-03  1.5454889e-02]","Mmogo, a re swari aneng go loki a dinamelwa .","Together, let s fix transport .",0.73808706
+"[ 0.513311   -0.34235588 -0.40867835 ...  0.15174     0.36480513
+  0.09794364]","[ 0.00632663  0.00505467 -0.00047216 ...  0.00941082  0.01826911
+  0.01340113]",Mmolelwana wa lesolo le ke,Cabinet reiterates the call that to,0.6151017
+"[ 0.9649277  -0.07386506 -0.1576576  ...  0.19941705  0.4561109
+  1.6528077 ]","[ 0.04239306 -0.00132333 -0.00100372 ...  0.03808921  0.0049578
+  0.01381069]",Brika Bova: A re phegeleleng peakanyo ye kaonafet ego ya dinamelwa go direla kamoso .,Dr Reginald Sethole Legoabe Director General: Department of Higher Education and Training Dr,0.573395
+[0.7063189  0.12591203 0.03274242 ... 1.0038035  0.5181728  0.78949255],"[ 3.3261343e-03 -1.4879893e-05 -9.6997427e-04 ...  3.0558165e-02
+  1.2534222e-02  2.2961715e-02]","Lefapha la dinamelwa ke karolo ye bohlokwa ya ikonomi maphelong a batho ka mo Afrika Borw Ngwaga wo, lesolo le le tla set a go bea sekeng dinamelwa bjalo ka sekgont hi se bohlokwa go boet a ikonomi ya naga ye sekeng; go lemo a batho le go ba ruta ka polokego ya mehuta ka moka dinamelwa, le go laet a gape dikaonafat o t eo di dirilwego peakanyong ya dinamelw",APPOINTMENTSCabinet has endorsed the appointment of the Commissioner and Deputy Commissioner of the Boarder Management Agency;1.,0.60565245
+"[ 0.9361178   0.01067239 -0.03836818 ...  0.80665016  1.1652704
+  1.0339234 ]","[ 7.1988694e-02  6.6065011e-03 -9.1948132e-06 ...  1.0115105e-02
+  6.1134044e-02  1.8715676e-02]",Kgoro ya Dinamelwa e tla abelana ditiragalo t a kgwedi ye le set haba ebile tshedimo o ka botlalo e ya hwet agala mo go wwtransporgoz,Ms Nandi Nyameka Mayathula-Khoza;(iv),0.6012949
+"[-0.13995525 -0.22596999 -0.44119224 ...  0.29179233  0.1434369
+  0.8420091 ]","[ 0.00131374 -0.00141663 -0.00015947 ... -0.00232111  0.01373385
+  0.01127642]",Melaet a1.,Sishi6.,0.6361114
+"[ 0.76484406 -0.21176724 -0.09991854 ...  0.89348704  1.5916724
+  1.6995384 ]","[-0.00204347 -0.00244854 -0.00117152 ...  0.01636715  0.01403857
+  0.01544241]",Ditebogi oKabinete e lebi a ditebogi o t a yona le go lakalet a mahlogonolo go: Sehlopha sa Afrika Borwa sa Diolimpiki t a Bagolofadi ge ba phagami edit e folaga ya Afrika Borwa godimo ka go thopa dimetale t e,Board of directors of the South African Biodiversity Institute:,0.67984885
+"[ 0.5872541  -0.34254408 -0.70795774 ...  0.15631379  0.578925
+  0.47319055]","[-0.00043591  0.00428632 -0.0004632  ... -0.01179624  0.00842996
+  0.01410628]",upa ge di kopane,Nkosinathi,0.5551958
+"[ 1.3881551  -0.06350423 -0.18757455 ...  1.3408802   2.2959213
+  1.0268005 ]","[ 0.05260497 -0.00029463  0.00102686 ...  0.01181765  0.03205191
+  0.03293359]","t e nne t a gauta, ye tee ya silibere le t e pedi t e porontsh Bathopasefoka ba dimetale t e ba Sehlopha sa Afrika Borwa e be e le Ntando Mahlangu (digauta t e pedi), Pieter du Preez (gauta), Anrune Weyers (gauta), Louzanne Coetzee (silibere le porontshe) le Sheryl James (porontshe).",Ms Zukisa Millicent Ramasia;(vi),0.6615171
+"[ 0.57743883 -0.07792976 -0.07893145 ...  0.88199073  2.1416042
+  1.5302949 ]","[ 0.0763056   0.00308959 -0.00013535 ...  0.01341961  0.04232689
+  0.02747876]","Mohumagadi Verity Price, seboledi sa bokgoni le mosepedi i wa lenaneo ge a thopile Sefoka sa 2021 sa Dikonokono t a Lefase t a Boswaramarapo t a go Bolela Pele ga Bath Ke mosadi wa boselela wa go thopa sefoka sa Dikonokono t a Lefase mo mengwageng ye 80 ya go feta le mothopasefoka wa mathomothomo go t wa AfrikSehlopha sa The Springbok Sevens, ka go go thopa mogopo wa bone wa Rakbi wa Bolefase wa HSBC wa go bit wa Sevens Series ge ba fihlelet e gabedi difoka t a North America ka go thopa ya bobedi ya diphadi ano t e pedi t a HSBC Canada Sevens go la Edmon 2.",Mr Fulufhelo Edgar Neluchalani;(x),0.55458975
+"[ 1.0050131   0.0756641  -0.29130882 ...  0.95423675  1.269093
+  0.8406553 ]","[ 0.06074251 -0.00093339 -0.00126155 ...  0.02460957  0.03931971
+  0.00938374]","Mahloko Kabinete e lebi it e mahloko a yona go ba lapa le bagwera ba: Prof Hlengiwe Buhle Mkhize (69), Motlat atona Kantorong ya Mopresidente wa Basadi, Bafsa le Bao ba Phelago ka Bogol Mo bophelong bja gagwe o itaedit e e le motho wa go",Dr Pulane Elsie Molokwane;(iv),0.66718286
+"[ 1.2012483   0.06547821 -0.2789977  ...  1.3564998   1.0666898
+  0.711509  ]","[ 0.01119397  0.00083377 -0.00103132 ... -0.00207279  0.00535372
+  0.02114946]","oma ntle le go khut a, molweladitokelo wa phi egelo, wa go lwant ha mmu o wa kgethollo le molweladitokelo t a botho, le mot walesolo wa go fedi a go hloka tekatekano ga bon Morena Karabo Gungubele (32), morwa wa Tona Kantorong ya Mopresidente, Morena Mondli Gungubel Mohumagadi Zanele kaMagwaza-Msibi (59), moetapele wa National Freedom Party le Motlat atona wa peleng wa Saense le Theknolot i, yo a kgafilego bophelo bja gagwe go kgatha tema ya gagwe ya go se tlwaelege le t e mmalwa ka gare ga temokrasi le set haba sa gaborenMorena Jolidee Matongo (46), Meyaraphethi i wa Toropokgolo ya Johannesburg, yo a bego a ikgafet e go hloma menyetla bathong ka moka ba Johannesburg le baamegi ka gare ga ikonomi ya motsesetorop",Prof Azwihangwisi Edward Nesamvuni;(vii),0.62560236
+"[ 1.0579677   0.13311996 -0.12729608 ...  1.2173674   1.1645385
+  1.2056365 ]","[ 0.01080977  0.0002343  -0.00010281 ...  0.00930226  0.0139417
+  0.03461055]",Bao ba Thwet wego Me omongKabinete e thekgile go thwalwa ga Mokomi inare le Motlat amokomi inare wa Et ensi ya Taolo ya Badudi;1.,Mr Ntsako Brian Ngobeni; and(xi),0.6934452
+"[ 0.88450146 -0.01285537 -0.16769142 ...  0.49789652  0.4128193
+  0.5246417 ]","[ 0.07824219  0.00329737 -0.00096843 ...  0.00955761  0.01095548
+  0.0111731 ]",Ngaka Nakampe Michael Masiapato bjalo ka Mokomi inare wa Lekgotla la Taolo ya Badudi (BMA),Dr Lesley Thulani Luthuli;(v),0.7074894
+"[ 1.4500219   0.55923945 -0.20177017 ...  0.9019009   0.97150683
+  1.1371437 ]","[ 0.02863166 -0.00053046 -0.00084056 ... -0.00305064  0.00892195
+  0.02798891]",Mot enenaremogolo David Chilembe bjalo ka Motlat amokomi inare wa Ditiro t a BM Kabinete e kwane le go thwalwa ga maloko a Lekgotla ka go latela kgonthi i o ya mangwalo a bona a thuto le go hlatswa maina a bona ka tsela ye maleba,Dr Mmaphaka Ephraim Tau; and(viii),0.6346749
+"[ 0.65432316 -0.03774999 -0.18280345 ...  0.8467711   1.2182646
+  1.4505122 ]","[-0.00221389 -0.00177262 -0.00095175 ...  0.01487454  0.01198405
+  0.01191236]",Lekgotla la balaodi ba Diphaka t a Boset haba t a Afrika Borwa:(i),Board of directors of the South African National Parks:(i),0.8361856
+"[ 1.971996   -0.30042613 -0.17842668 ...  0.14851817  0.35059404
+  0.88786006]",[0.08707921 0.00042327 0.00030955 ... 0.00640367 0.03214092 0.02522429],Mme Pamela Bulelwa Yako;(ii),Ms Pamela Bulelwa Yako;(ii),0.71130586
+"[ 1.5872036  -0.10215881 -0.196822   ...  0.26831192  1.1812104
+  1.1775897 ]","[ 8.0864772e-02 -6.8045032e-05  4.2531543e-04 ... -3.3383772e-03
+  7.1429156e-02  1.5280223e-02]",Mme Gertrude Bulelwa Koyana;(iii),Ms Gertrude Bulelwa Koyana;(iii),0.82485807
+"[ 0.71804327 -0.18446472 -0.09797958 ...  0.10320818  0.17430149
+  0.5691573 ]","[ 0.03230455  0.00637523 -0.00012117 ...  0.00633581  0.00563225
+  0.00305381]",Mme Nandi Nyameka Mayathula-Khoza;(iv),Ms Yolan Friedmann;(v),0.65404177
+"[ 1.7246219  -0.183321   -0.16323757 ...  0.7491375   0.06263307
+  0.643429  ]","[ 3.0756857e-02 -1.3490961e-03 -9.0635403e-05 ...  1.2944733e-02
+  1.2026659e-02  1.9433042e-02]",Mme Yolan Friedmann;(v),Ms Joanne Yawitch; (ii),0.79103917
+"[ 0.92147356 -0.30081227 -0.16207759 ...  0.65036744  0.9987102
+  1.0836636 ]","[ 0.02738365 -0.00092752 -0.00015318 ...  0.01827241  0.04592852
+  0.03716103]",Mme Zukisa Millicent Ramasia;(vi),Mr Lourence Bernad Mogakane;(ix),0.7982029
+"[ 2.5020804  -0.12688406 -0.22841255 ...  0.45858157  1.1246048
+  1.4011575 ]","[ 0.05237892  0.00079201 -0.00025313 ... -0.00012406  0.0361865
+  0.0178301 ]",Ntate Jeoffrey Godfrey Mashele;(vii),Mr Jeoffrey Godfrey Mashele;(vii),0.8874532
+"[ 1.754456   -0.08194526 -0.2089615  ...  0.5314057   0.8313256
+  1.3060049 ]","[ 6.54302239e-02 -9.97557072e-04 -7.39623356e-05 ...  1.41781885e-02
+  2.18276326e-02  2.20927317e-02]",Kgo i Livhuwani Lyborn Matsila;(viii),Ms Beryl Delores Ferguson;(iii),0.7449139
+"[ 1.4321653  -0.1979129  -0.27659515 ...  0.70789665  1.2938786
+  1.6557783 ]","[ 0.04017244  0.00125548 -0.00020084 ...  0.00912526  0.01521995
+  0.01533644]",Ntate Lourence Bernad Mogakane;(ix),Mr Paul Graeme Daphne;(vi),0.76015437
+"[ 0.8228615  -0.13044745 -0.1971872  ...  0.96638685  0.62888205
+  0.8609439 ]","[ 4.5160726e-02  3.7559650e-03 -7.4314121e-05 ... -2.2548581e-03
+  5.6705870e-02  1.5526796e-02]",Ntate Fulufhelo Edgar Neluchalani;(x),Ms Hulisani Helen Mushiane,0.6137507
+"[ 1.1330351  -0.09675892 -0.18255222 ...  0.7248928   0.69020796
+  1.1890248 ]","[ 0.01522476 -0.00089772  0.00152476 ...  0.02395465  0.00587726
+  0.00742091]",Ntate Ntsako Brian Ngobeni; le(xi),South Africans with the opportunity to exercise their constitutional right to elect their public representative,0.5661127
+"[ 1.4586812  -0.18634579 -0.42773968 ...  0.8456646   1.9790503
+  0.6403414 ]","[ 0.01601995  0.00253431 -0.00028783 ...  0.00537885  0.02276659
+  0.01275415]",Mme Hulisani Helen Mushiane,This is to cater for those whose marriages,0.4679774
+"[ 0.46867773 -0.3150127  -0.34832272 ...  0.462896    0.7538652
+  0.33073032]","[ 0.00980162 -0.0033715  -0.00078007 ...  0.00912488 -0.00173329
+  0.03020796]",Lekgotla la Balaodi ba Setheo sa Afrika Borwa sa Diphedi t a go Fapafapana:,Issues in the environment1.,0.5183628
+"[ 0.3903487  -0.3203676  -0.17834155 ...  0.4563421   0.60439175
+  1.2816375 ]","[-0.00393639 -0.00370962 -0.00302806 ... -0.0044093  -0.00694692
+  0.0168343 ]",Mme Joanne Yawitch; (ii),083 501 0139,0.45430052
+"[ 2.4341536  -0.36573285 -0.19225863 ...  0.56453395  0.4009486
+  1.2864754 ]","[ 0.01839094  0.02430493 -0.00106553 ... -0.00435404  0.01735097
+  0.02744952]",Mme Beryl Delores Ferguson;(iii),"imprisonment for theft, which will run concurrentl",0.43313622
+"[ 1.3768194   0.03047998 -0.25303182 ...  0.52143425  0.49038628
+  1.2560574 ]","[-0.00262008  0.00370138  0.00011581 ...  0.00274868  0.00413707
+  0.01468899]",Ngaka Pulane Elsie Molokwane;(iv),"reduce new infections, we all have to continue",0.43754002

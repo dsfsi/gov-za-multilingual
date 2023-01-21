@@ -1,0 +1,142 @@
+nso,en,src_text,trg_text,Cosine_Score
+"[ 0.48187217 -0.09531728 -0.2676804  ...  1.0267419   0.36444113
+  1.5293758 ]","[ 0.04629111 -0.00193979  0.00536488 ...  0.03096706  0.01185535
+  0.03526812]",Kopano ye e kgethegilego ya Kabinete ye e bego e swerwe ka bidio ya inthanete e swerwe pele go thomi wa ka Kopano ya Kabinete ya Lekgotl,"Statement on the virtual Special Cabinet Meeting of Tuesday, 14 September 2021The virtual Special Cabinet Meeting was held before the commencement of the Cabinet Lekgotl",0.7085777
+"[ 0.47407523 -0.32341328 -0.25657183 ...  0.3325599   0.17395419
+  0.4903576 ]","[ 0.00408866 -0.00296827 -0.00060771 ...  0.00854466 -0.00353386
+  0.01201626]",Dipheto t a Kabinete1.,CABINET DECISIONS1.,0.8002812
+"[ 0.56604165 -0.09398047 -0.22819367 ...  0.32325426  0.37709767
+  0.67906183]","[-0.00198909 -0.00150242 -0.00374726 ...  0.01311654  0.01403849
+  0.02882557]",Katolo o ya Leano la Mokgatlo wa Mohlagase wa Haetrot ene (HSRM),Extension of the Hydrogen Society Roadmap (HSRM),0.8541945
+"[ 0.36480278  0.07558446 -0.02823063 ...  0.8257433   0.41255873
+  2.1929402 ]","[ 0.00348226 -0.00379556 -0.00061687 ...  0.01497319  0.01119706
+  0.06269512]",Kabinete e dumelet e go katolo wa ga HSRM mo mengwageng ye e latelago ye 10.,Cabinet approved the extension of the HSRM for the next 10 year,0.83873194
+"[ 0.71704227 -0.02447165 -0.05985785 ...  1.1314551   1.0294188
+  2.1033947 ]","[ 0.01169046  0.02254639 -0.00017604 ...  0.02520902  0.0171426
+  0.03985069]",HSRM e phethagat a Togamaano ya Leano la Naga ya Afrika Borwa la Mohlagase wa Haetrot ene leo le dumelet wego ke Kabinete ka 2007 go loki et a naga go tla go diri a mohlagase wa haetrot ene mo ekonomin HSRM e aga go seo se fihlelet wego mo mengwageng ye e fetilego ye 10 go loki et a gore Afrika Borwa bjale e fet e ka magato a yona a go nyaki i a le go itoki et a gomme e thome ka a go t welet a le go,The HSRM gives effect to the Hydrogen South Africa Strategy that was approved by Cabinet in 2007 to prepare the country for a hydrogen econom The HSRM builds on what has been achieved in the past 10 years to prepare South Africa to move from research and development to manufacturing and commercializatio,0.8766811
+"[ 0.8462543  -0.2324876  -0.16782472 ...  0.31839702  0.44300404
+  0.21547419]","[ 0.00799136 -0.00169247 -0.00033866 ...  0.00714567  0.01109021
+  0.00353751]",omi a mohlagase wo ka go o reki,export markets on hydrogen technologie,0.72904897
+"[ 0.44358078 -0.1160256  -0.15758988 ...  0.9569488   0.8135302
+  1.345374  ]","[-0.00043024 -0.00011435 -0.00021768 ...  0.02359032  0.03525933
+  0.02809241]",HSRM e kopanya gabotse ditheknolot i ka moka t a go amana le haetrot ene ka makaleng a mehutahuta a ekonomi ebile e hlohlelet a kgolo ya ekonomi ye e akaret ago mang le man E bea Afrika Borwa bjalo ka lefelo leo le nago le bokgoni bja go ya go ile bja haetrot ene ye e ka diri wago ka ekonoming le gape go katolo a mebaraka ya diromelwantle ka ga ditheknolot i t a haetrot en,The HSRM effectively integrates all hydrogen-related technologies in various sectors of the economy and also fosters an inclusive economic growt It positions South Africa as a destination with sustainable hydrogen economic capability and to also expand,0.86864555
+"[ 0.77881336  0.16614296 -0.08737625 ...  0.9746738   1.6319828
+  1.2306699 ]",[0.00929388 0.00427624 0.00305759 ... 0.02074056 0.02805511 0.02205473],"Bot welet i bja dit welet wa le dikarolo t a met ini ya haetrot ene ka mo nageng go tla tsenya letsogo go hlomeng ga me omo le tlhabollong ya bokgoni, le gape go maatlafat a pheto o ya ekonomi yeo e tlago hola lekala la set haba leo le beet wego thoko mo nakong ye e fetilego, kudukudu basadi le bafs","Local manufacturing of hydrogen products and components will contribute towards job creation and skills development, and also enhance economic transformation that will benefit the previously marginalised sector of society, particularly women and yout",0.8675953
+"[ 1.093859   -0.12008294  0.07365593 ...  0.35651612  0.9844998
+  1.4094913 ]","[ 0.01616085 -0.00161216  0.00144206 ...  0.00596431  0.03084485
+  0.00634381]",HSRM e fana gape ka ditsenogare t eo di tlago tsenya letsogo go fokot eng ga me i ya lefaufaung (GHG).,The HSRM also provides interventions that will contribute towards the reduction of greenhouse gas (GHG) emission,0.8127847
+"[ 0.7687791  -0.21589012  0.4111455  ...  0.47335252  0.7482201
+  0.5757936 ]","[ 0.01839002 -0.00026125  0.00237901 ...  0.03286703  0.04346514
+  0.03412109]",Gareng ga t e dingwe e tla maatlafat a kabo ya mohlagase wa go diri wa leswa go kabokgolo ya mohlagase ebile e,"It will amongst others enhance the provision of renewable energy to the main electricity grid and it proposes interventions in the Heavy-Duty Transport sector, which is one of the contributors in GHG emission",0.77089614
+"[ 0.74336493 -0.07303865 -0.03478952 ...  0.8783916   0.97190493
+  1.2749939 ]",[0.02598662 0.00211053 0.00151959 ... 0.02496774 0.04271522 0.05777807],"i inye gore go be le ditsenogare ka go lekala la Dinamelwa t a Merwalo ye Boima, e lego le lengwe la ao a tsenyago letsogo ka go me i ya GH","South Africa has made a commitment to contribute fairly to the global efforts to stabilise GHG emissions within the country s developmental prioritie As a signatory to the UNFCCC, South Africa is expected to submit these updated reports regularly",0.71086836
+"[ 0.73949087 -0.01979636 -0.19186108 ...  0.88966453  1.0513282
+  1.382018  ]","[ 0.01019048 -0.00045425 -0.000314   ...  0.02362015  0.03287164
+  0.03347885]","Leano le le sepedi it we ka go ditheri ano t e di tsenelet ego le bat eakarolo ba maleba ka moka, go akaret wa dikgoro t a mmu o, dirutegi, lekala la phraebete le makgotla a t a mahlal Le fana ka motheo wa kamano go netefat a gore go ba le kopanyo ya ditheknolot i ka moka t a haetrot ene le tlhabollo ya bokgoni ka mo nagen Sengwalwa se se tla dirwa gore se hwet agale wepsaeteng ya Kgoro ya Mahlale le Boitlhamelo ya: wwdsgoza","The roadmap went through extensive consultation with all relevant stakeholders, including government departments, academia, private sector and science council It provides a coordination framework to ensure an integration of all hydrogen-related technologies and skills development for the countr The document will be made accessible through the Department of Science and Innovation website: wwdsgoza",0.8734926
+"[ 0.516159    0.05347429 -0.2248666  ...  0.32863936  0.8945076
+  0.9119677 ]","[-0.00212847 -0.00061215 -0.00141511 ... -0.00538395  0.02590135
+  0.00905939]",Kwano ye e Feto it wego ka ga T hirelet o ya Sebele ya Dithoto t a Nyutleleara (CPPNM),Amended Convention on the Physical Protection of Nuclear Material (CPPNM),0.75522935
+"[ 0.5477609  -0.12006105 -0.2552119  ...  1.3425047   1.1005616
+  1.7509997 ]","[ 0.00456713 -0.00388235 -0.00020489 ...  0.03052216  0.02650246
+  0.03214523]","Kabinete e dumelet e go romelwa ga CPPNM ye e feto it wego Palamenteng go ya go dumelelwa, go latela Karolo ya 231(2) ya Molaotheo wa Repabliki ya Afrika Borwa wa 1996, ye e bolelago gore:","Cabinet approved the submission of the amended CPPNM to Parliament for approval, in terms of Section 231(2) of the Constitution of the Republic of South Africa of 1996, which states that:",0.896035
+"[ 0.84220654 -0.08935391 -0.10730076 ...  1.1681855   1.2654202
+  1.5450145 ]","[ 0.01434228 -0.00264175  0.00033239 ...  0.00786093  0.03369476
+  0.01934753]",Tumelelano ya bodit habat haba e tlama Repabliki fela ka morago ga ge e dumelet we ke sepheto sa dintlo t e pedi t a Palamente e lego sa Kopanokgothekgothe ya Maloko a Palamente le sa Lekgotla la Boset haba la Diprofense .,An international agreement binds the Republic only after it has been approved by resolution in both the National Assembly and the National Council of Provinces .,0.7681675
+"[ 0.5301029  -0.03958552 -0.21416618 ...  0.7432575   0.8464955
+  1.2418023 ]",[0.0049436  0.00161944 0.00523381 ... 0.04905405 0.03925018 0.08130166],Dipheto t e di dirilwego ke Setheo sa Bodit habat haba sa Enet i ya Athomo (IAEA) di maatlafat a t hirelet o ya fasefase ya lefase ka bophara ya meago le dithoto t a nyutleleara t eo di,"The amendments made by the International Atomic Energy Agency (IAEA) strengthen the global minimum physical protection of facilities and nuclear material used for peaceful purpose As a member of the IAEA, South Africa had signed this convention and subsequently ratified it in 2003.",0.74354553
+"[ 0.93291485 -0.39459074 -0.28837922 ...  0.54441684  0.45820978
+  0.76178765]","[ 2.2540938e-02 -4.9783168e-05 -1.8478655e-04 ...  2.9650837e-02
+  1.5041716e-02  3.0803457e-02]",omi wago mabakeng a go tli a khut,which provides an update on the country s efforts to mitigate and adapt to climate change,0.5703474
+"[ 0.06007386 -0.326763   -0.08707017 ...  0.89283156  0.47993815
+  2.713374  ]","[ 0.00771007 -0.00035499  0.00069829 ...  0.01034101  0.01879882
+  0.05699986]","Bjalo ka leloko la IAEA, Afrika Borwa e ile ya saenela kwano ye gomme ka moragonyana ya e feto a ka 2003.",The reactor has been in operation from 1965 and its lifespan is due to end in 2032.,0.6375565
+"[ 0.6730714  -0.13713461 -0.12641619 ...  0.90369475  1.2197002
+  0.9369574 ]","[-0.00077359 -0.00529257 -0.00047586 ...  0.02849128  0.01656025
+  0.01538793]","Dipheto o t a kwano ye di maatlafat a t hirelet o ya naga ya dinagamaloko, go akaret wa dinyakwa t a t hirelet o ya sebele ya mafelo le dithoto t a nyutlelear","The amendments to the convention strengthens the national security of the member states, including the physical protection requirements for nuclear facilities and materia",0.8284367
+"[ 1.6643822   1.4376159  -0.05274342 ...  1.3808545   0.9896303
+  0.61020464]","[ 0.00308407  0.07234808 -0.00012693 ...  0.03520479  0.03084459
+  0.03140811]",E fana ka lenaneo la melato ya go swana le go tsenya ka nageng le go romela dinageng t e dingwe dithoto t a nyutleleara ka ntle le go dumelelwa pelen E t wet a pele tiri ano magareng ga dinagamaloko mabapi le go abelana tshedimo o ka ga ditiro t e di sego molaong ka ga dithoto t a nyutleleara,It provides a list of offences such as the import and export of nuclear material without prior authorisatio It enhances cooperation amongst member states in the sharing of information in respect of illegal activities on nuclear material,0.82905704
+"[ 0.73848855 -0.3007406   0.07808907 ...  0.39019182  0.52716464
+  1.1905721 ]","[ 0.02468977  0.0361232  -0.0004223  ...  0.01067534  0.02180555
+  0.00757303]",Go Tsenywa ga Reekthara ye Nngwe ya Dinyaki i o t a Nyutleleara ya SAFARI-1,Replacement of SAFARI-1 nuclear research reactor,0.78867894
+"[ 0.81925166  0.0407186  -0.21455914 ...  1.0784996   1.8294988
+  1.3135892 ]","[ 0.0200542   0.03241505 -0.0003116  ...  0.0326078   0.0549758
+  0.02614421]",Kabinete e dumelet e go hlongwa ga prot eke ya reekthara ya nyutleleara ya me omo ye ment i ka nepo ya go t eela legato reekthara ya bjale ya nyutleleara ya SAFARI-1 yeo e lego ya Koporase ya Enet i ya Nyutleleara ya Afrika Borwa (NECSA).,Cabinet approved the setting up of the multi-purpose nuclear reactor project to replace the current SAFARI-1 nuclear research reactor owned by the South African Nuclear Energy Corporation (NECSA).,0.8395252
+"[ 0.6586805  -0.33373457 -0.6465255  ...  0.32397577  0.46123254
+  0.38221833]","[ 0.02631021 -0.00389915  0.00047185 ...  0.01301063  0.00732261
+ -0.00071833]",Reekthara ye e thomile go,National Climate Change Bill,0.48426086
+"[ 0.80199534 -0.2902181  -0.1543093  ...  0.48208454  0.82972336
+  1.253714  ]","[ 0.02234176 -0.00292825 -0.00042057 ...  0.03213311  0.00801092
+  0.01346103]",oma ka 1965 gomme nako ya yona ya go,Cabinet approved the current Bill for public consultation in August 2018 and the outcome thereof led to the redrafting of the amendment,0.583861
+"[ 0.588479   -0.21208917 -0.15379347 ...  0.3611997   0.26188982
+  1.8841361 ]","[ 0.01240785 -0.0074564  -0.0002342  ...  0.01123441 -0.00343533
+  0.03558119]",oma e tlo fela ka 2032.,Companies Amendment Bill of 2021,0.5749161
+"[ 0.6956763  -0.30338046  0.17799053 ... -0.0169285   0.9028332
+  1.0218315 ]",[0.03093299 0.01914633 0.00648051 ... 0.0631706  0.04488423 0.00192426],SAFARI-1 ke ye nngwe ya bat welet i ba bane bao ba etilego pele ba radioaesothopu ya t a kalafo lefaseng yeo e,"SAFARI-1 is one of the four leading producers of medical radioisotopes in the world used to treat millions of patients annuall It also provides the country with support in science research, development and innovation in medicine, agriculture, paleontology and bioscienc",0.7329917
+"[ 0.519403    0.11454082 -0.10684005 ...  1.2727634   1.0513455
+  0.9567839 ]",[0.02801025 0.00607455 0.00105122 ... 0.04861914 0.02935239 0.02250458],"omi wago go alafa dimilione t a balwet i ngwaga o mongwe le o mongw E thekga naga gape le mo dinyaki i ong t a mahlale, mo legorong la go dira dihlare, mo boleming, mo dithutong t a masaledi batho le diphoofolo le mo mahlaleng a t a tlhag","The revised amendments provide more clarity in a number of clauses of the Bill, which seeks to reduce regulatory regime on businesses; tighten anti-money laundering gaps; strengthen the disclosure requirements and enhance the shareholder powers in a compan",0.701192
+"[ 1.0512708  -0.05899632 -0.09475196 ...  0.8622624   1.5479019
+  1.3632503 ]",[0.02368061 0.00149347 0.00384702 ... 0.01554712 0.03179052 0.02305077],Go tsenywa ga reekthara ye mpsha go tla netefat a gore Afrika Borwa e t wela pele go ba ye nngwe ya dinaga t e di etilego pele ka mo Makaleng a le gore e holege go ditheknolot i t e diswa ka mo lefapheng l Prot eke ye e tla etwa pele ke dikgoro t e mmalwa t e di amanego le NECSA bjalo ka modirelwamogolo,The replacement will ensure South Africa remains one of the leading countries in these fields and benefit from the new technologies in this environmen The project will be led by a number of related departments and NECSA as the main client,0.8307179
+"[ 0.7626118  -0.36425465  0.08638312 ...  0.7469495   0.71620536
+  2.159468  ]",[0.0063953  0.00803018 0.0028985  ... 0.03196072 0.0155629  0.06228972],Pego ya Bone ya Naga ya Afrika Borwa ka ga Tshedimo o ya Moragorago ye e Nt hiwago ka Morago ga Dingwaga t e Pedi,Cabinet approved South Africa s revised NDC climate change mitigation target range for 2030 for submission to the UNFCC South Africa has revised its target range for 2025 to 398 to 510 and for 2030 to 350,0.7088687
+"[ 0.76848435 -0.10570571 -0.15503377 ...  0.9900912   1.0399041
+  2.3149955 ]",[0.0055726  0.00329632 0.00499628 ... 0.01601267 0.04126636 0.06574415],Kabinete e dumelet e go romelwa ga Pego ya Bone ya Naga ya Afrika Borwa ka ga Tshedimo o ya Moragorago ye e Nt hiwago ka Morago ga Dingwaga t e Pedi,"Under the Paris Agreement all parties are required to deposit NDCs every five year South Africa deposited its first NDC with the UNFCCC in October 2015, committing to keep national GHG emissions within a range from 398 to 614 Mt CO2-eq for 2025 and 2030.",0.7251246
+"[ 0.07543588 -0.49529657 -0.07625008 ... -0.12353601  0.16342776
+  0.22618976]","[ 0.0371142  -0.00074501 -0.00080939 ... -0.00445885  0.01018453
+  0.00774708]",yeo e,BILLS 1.,0.547814
+"[ 0.77361405 -0.19641604 -0.2939422  ...  0.47677326  0.5212318
+  0.66998786]","[ 2.8495511e-02 -1.5201075e-04 -6.2289859e-05 ...  2.5187571e-02
+  5.1368475e-02  2.0402053e-02]",i inyago gore go fanwe ka tshedimo o ya moragorago ka ga matsapa a naga ye a go fokot a le go beakanya leswa phetogo ya tlelaemete,It allows for the alignment of policies that will influence the country s climate change respons It also provides for the transitional arrangement for the country to move towards a lower carbon and climate-resilient econom,0.73103726
+"[ 0.9558114  -0.16277027 -0.2381148  ...  0.48339078  0.6748793
+  0.54054993]","[ 0.01442286 -0.0003717  -0.00022298 ...  0.01639967  0.02621913
+  0.00980483]",go Kopano ya Mokgatlo wa Dinagakopano ka ga Metheo ya Phetogo ya Tlelaemete (UNFCCC).,to the United Nations Framework Convention on Climate Change (UNFCCC).,0.8152317
+"[ 0.8508144   0.1338363  -0.16684847 ...  1.0254947   0.7066769
+  1.0198405 ]","[ 2.1373710e-02 -4.4042208e-06 -1.5475966e-04 ...  4.2490005e-02
+  4.7159940e-02  1.7127117e-02]",Pego ye e hlagi a melawana yeo e phethagadit wego gammogo le magato le ditiro t eo di dirilwego ke naga ye ka nepo ya go fokot a me i ya GH E hlagi a gape Tshedimo o ya moragorago ka ga go feto a ditsenogare t a go leka go fokot a me i yeo e t welet wago ke ditiro t a ekonomi go latela Sengwalwa sa Ditheri ano sa Boset haba ka ga Melawana ya go Arabela Phetogo ya Tlelaemet,The report outlines the policies implemented as well as the measures and actions undertaken by the country to reduce GHG emission It also provides an update on the transitioning interventions towards a lower carbon economy guided by the National Climate Change Response Policy White Pape,0.8286786
+"[ 0.2892563  -0.14845152  0.01785703 ...  0.91617227  1.0803264
+  1.5009247 ]",[0.01258194 0.00105547 0.00347085 ... 0.01897728 0.04517291 0.02423463],"Afrika Borwa e ikgafile go tsenya letsogo ka maleba go matsapa a lefase ka bophara a go fokot a me i ya GHG go latela dintlha t a tlhabollo t eo di beilwego pele ke nag Bjalo ka mosaenedi wa UNFCCC, Afrika Borwa e emet we go romela dipego t e t a moragorago kgafet akgafet a","All parties were expected to update their 2015 targets in 2020 to ensure they are aligned to the latest scienc The revised target range takes into account the latest reports of the Intergovernmental Panel on Climate Change, and is aligned with all the stakeholders that contribute towards the country s effort",0.76311696
+"[ 0.7303149  -0.01842271  0.01781738 ...  0.32312623  0.57260674
+  0.36244795]","[ 0.00951073  0.00141655  0.00217699 ...  0.00171396  0.01069864
+ -0.0007041 ]",Seabe sa Maikemi et o sa Boset haba (NDC),Nationally Determined Contribution (NDC),0.7257723
+[0.5239258  0.06152788 0.0502181  ... 1.5315949  1.4208425  1.9237138 ],"[3.0207485e-02 1.7021751e-03 3.5144250e-05 ... 2.4431586e-02 1.8232979e-02
+ 3.8902421e-02]",Kabinete e dumelet e NDC ye e bu eledit wego ya Afrika Borwa ka ga mollwane wa dinepi o t a go fokot a phetogo ya klaemete t a 2030 go romelwa go UNFCC Afrika Borwa e bu eledit e mollwane wa nepi o ya yona ya 2025 go tloga go t e 398 go ya go t e 510 gomme t a 2030 go tloga go t e 350 go ya go t e 420 t a ditone t a Methriki t a tekano ya Khaponetaeoksaete (Mt Co2-eq).,"Marine Pollution (Prevention of Pollution from Ships) Amendment Bill of 2021 Cabinet approved the Marine Pollution (Prevention of Pollution from Ships) Amendment Bill of 2021 for submission to Parliamen The Amendment Bill seeks to amend the Marine Pollution (Prevention of Pollution from Ships) Act, 1986 (Act 2 of 1986) and align it to the revised International Convention for the Prevention of Pollution from Ships (MARPOL).",0.75444084
+"[ 1.1838793  -0.08162472  0.18417887 ...  1.2181082   1.5015335
+  2.7487159 ]",[0.03412636 0.00651191 0.00086448 ... 0.02684194 0.03086517 0.02643289],"Ka fase ga Tumelelano ya Paris dinaga ka moka di swanet e go romela di-NDC t a t ona kamorago ga mengwaga ye mengwe le ye mengwe ye mehlan Afrika Borwa e romet e NDC ya yona ya mathomo go UNFCCC ka Diphalane 2015, go realo e tshepi a go fokot a me i ya GHG nageng ya yona k mollwaneng wa go tloga go 398 go fihla go 614 t a ditone t a Methriki t a tekano ya Khaponetaeoksaete ka ngwaga wa 2025 le wa 2030.","South Africa is a signatory to MARPOL, the main international convention covering prevention of pollution of the marine environment by ships from operational or accidental cause The Amendment Bill will contribute towards the preservation of the marine environment by eliminating pollution of the sea by ships dispensing oil and harmful substance",0.6908777
+[ 1.552671  -0.2114436  0.786866  ...  1.1492604  1.7458252  1.1599263],"[ 0.06358715 -0.00255471  0.00970972 ...  0.0290478   0.04003695
+  0.03869945]",Tumelelano ya Paris e nyaka gape go fokot a dithempheret ha t a lefase ka bophara go ya fase gareng ga kgrata le seripagare le dikgrata t e pedi t a Sel ia,The Paris Agreement also seeks to lower the global temperatures to well below two degrees Celsius and pursue efforts to degrees Celsiu,0.7861457
+"[ 0.6310974   0.10511692 -0.06788121 ...  1.1507299   0.97558564
+  1.1937134 ]","[ 0.0202243  -0.00475421 -0.00043654 ...  0.04545636  0.01143529
+  0.06613516]","Dinaga ka moka di ile t a emelwa go mpshafat a dinepi o t a t ona t a ngwaga wa 2015 ka 2020 go netefat a gore di sepelelana le dithutamahlale t a moragorag Mellwane ya dinepi o ye e bu eledit wego e hlokomet e dipego t a moragorago t a Phanele ya mebu o ye ment i ka ga Phetogo ya Tlelaemete, ebile e sepelelana le bat eakarolo ka moka bao ba tsenyago letsogo go matsapa a ka mo nagen","Cabinet approved the publication of the Companies Amendment Bill of 2021 for public commen The Bill amends the Companies Act, 2008 (Act 71 of 2008).",0.7115824
+"[ 0.2286935  -0.27011663 -0.05375139 ... -0.09187656 -0.10676888
+  0.3233756 ]","[ 0.01918229 -0.00488378  0.0002112  ...  0.00795901 -0.00629274
+  0.0325876 ]",Melaokakanywa 1.,Cabinet Spokesperson Cell: 083 501 0139,0.35629472
+"[ 1.3750228   0.10747851 -0.09171013 ...  1.1313931   1.1292155
+  2.1184833 ]","[ 0.02301044  0.00050443 -0.00074519 ...  0.01314014  0.0371211
+  0.01057801]",Molaokakanywapheto wa wa T hilafat o ya Mawatle (Thibelo ya T hilafat o ye e Bakwago ke Dikepe) wa 2021,Dr Margaret Mkhosi-Motsaathebe as Chief Executive Officer of the National Radioactive Waste Disposal Institut Enquiries:Ms Phumla Williams,0.71133727
+"[ 1.0036539   0.24881344 -0.13069224 ...  0.98350096  1.1792984
+  1.183666  ]","[ 0.00912767 -0.00060047  0.00099552 ...  0.02685496  0.04372447
+  0.02960404]","Kabinete e dumelet e Molaokakanywapheto wa wa T hilafat o ya Mawatle (Thibelo ya T hilafat o ye e bakwago ke Dikepe) wa 2021 gore set haba se fe ditshwaotshwao ka ga on Molaokakanywapheto wa wo o nyaka go feto a Molao wa T hilafat o ya Mawatle (Thibelo ya T hilafat o ye e bakwago ke Dikepe), wa 1986 (Molao wa bo 2 wa 1986) gomme o dira gore o sepelelane le Kwano ye e bu eledit wego ya Bodit habat hab ka ga Thibelo ya T hilafat o ye e bakwago ke Dikepe (MARPOL).",420 Metric tons of Carbon Dioxide equivalent (Mt Co2-eq).,0.6760355
+"[ 0.97951424  0.12080161 -0.07885388 ...  0.53464955  1.1287487
+  1.4441565 ]","[ 0.04970882 -0.00029336  0.10121542 ...  0.03664757  0.02601025
+  0.01798407]","Afrika Borwa ke mosaenedi wa kwano ya MARPOL, e lego kwanokgolo ya bodit habat haba yeo e akaret ago thibelo ya t hilafat o ya tikologo ya mawatle ka dikepe ka ge di sepet wa fao goba ka lebaka la dikots","It also proposes that ships should use fuel with no more than 0,50% sulphur content or use approved fuel treatment systems",0.67949057
+"[ 0.95639414 -0.02323246 -0.10428051 ...  1.283268    1.3585432
+  1.3017224 ]","[ 0.02134511  0.00659555 -0.00043828 ...  0.00728334  0.02580484
+  0.0065772 ]",Molaokakanywapheto wa wo o tla tsenya letsogo go lota tikologo ya mawatleng ka go fedi a t hilafat o ya mawatle ka dikepe t eo di t hollago oli le dilo t e kots,The Bill seeks to provide a legal instrument towards the implementation of the National Climate Change Response Polic,0.65172267
+"[ 0.7562986  -0.4575587  -0.6828102  ...  0.2947926   0.6888298
+  0.70038074]","[ 0.03336871 -0.00450029 -0.00337803 ... -0.00920606  0.01423008
+  0.02951902]",i inya gape gore dikepe di swanet e go,APPOINTMENTSAll appointments are subject to the verification of qualifications and the relevant clearance,0.55388814
+"[ 1.406518   -0.2836184   4.687223   ...  0.45535317  0.97628134
+  1.0120924 ]","[ 0.01609882 -0.002003    0.00181394 ...  0.02213913  0.00882555
+  0.018598  ]","omi a makhura ao a nago le salfiri ya go se fete 0,50% goba di",South Africa s 4th Biennial Update Report,0.57316595
+"[ 1.4524462  -0.10141158 -0.18693171 ...  0.5251857   1.5658394
+  0.8097408 ]","[-4.2966026e-04 -8.8184699e-04  6.2380641e-05 ... -4.5372504e-03
+  4.8108745e-02  3.6715925e-02]",omi e ditshepedi o t e di dumelet wego t a go hlweki a makhura a t ona,Mr Smunda Mokoena as Chairperson of the National Energy Regulator of South Afric 2.,0.61175203
+"[ 0.146877   -0.26146847 -0.26503286 ...  0.47961518 -0.12727831
+  1.0772955 ]","[ 0.02974592 -0.00330729 -0.00066136 ...  0.01776988  0.02136588
+  0.03056144]",Molaokakanywapheto wa wa Dikhamphani wa 2021,Cabinet approved the submission of the National Climate Change Bill to Parliamen,0.5863507
+"[ 0.9625293  -0.03554077 -0.3316628  ...  1.3219335   0.21643348
+  2.0512938 ]","[ 0.0225252  -0.00581104 -0.00055007 ...  0.04002883  0.01778831
+  0.03203291]",Kabinete e dumelet e go phatlalat wa ga Molaokakanywapheto wa wa Dikhamphani wa 2021 gore set haba se fe ditshwaotshwao ka ga on Molaokakanywa wo o feto a Molao wa Dikhamphani wa 2008 (Molao wa bo 71 wa 2008).,Cabinet approved the submission of the country s 4th Biennial Update Report,0.59850895
+"[ 0.8965501   0.03819866 -0.19854902 ...  0.96156263  0.62685376
+  1.2599901 ]","[ 0.0107257  -0.00043303 -0.00045032 ...  0.00883927  0.01344334
+  0.00868359]",Kabinete e dumelet e Molaokakanywa wo gore set haba se rei ane ka ga ona ka Phato 2018 gomme dipoelo t a ditheri ano t e di feleledit e ka gore go ngwalwe leswa dipheto o t eo di dirilweg,The Bill has already gone through an extensive public consultation process involving relevant stakeholder,0.6035261

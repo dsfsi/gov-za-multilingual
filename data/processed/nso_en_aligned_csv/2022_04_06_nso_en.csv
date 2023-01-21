@@ -1,0 +1,247 @@
+nso,en,src_text,trg_text,Cosine_Score
+"[ 0.4209265  -0.30877468 -0.14732374 ... -0.03521772  0.12848121
+  1.6048564 ]","[ 0.00980162 -0.0033715  -0.00078007 ...  0.00912488 -0.00173329
+  0.03020796]",Merero ye Bohlokwa Seemong sa Bjale1.,Issues in the environment1.,0.5868941
+"[ 1.3089164  -0.34270012 -0.1624987  ...  0.95821637  1.6830174
+  1.2597057 ]","[ 7.1193073e-03 -3.6752095e-05 -1.4266147e-03 ...  9.5373280e-03
+  3.6711741e-02  3.2576740e-02]",Khonferense ya Bone ya Afrika Borwa ya Dipeelet o (SAIC),Fourth South Africa Investment Conference (SAIC),0.816916
+"[ 1.2362883  -0.13428898 -0.037384   ...  0.9883036   2.0069084
+  0.9695846 ]","[ 0.00172248 -0.00062557  0.00330591 ...  0.0067927   0.04377005
+  0.01189124]","Kabinete e amoget e thumo ye atlegilego ya khonferense ya bone ya SAIC yeo e bego e swaret we gola Sandton Convention Centre, Johannesburg ka Labone, 24 Hlakola 2022, fao go yona babeelet i ba ka mo nageng le ba bodit habat haba ba dirilego dikano t a dipeelet o t e diswa ka mo nageng ya gaboren","Cabinet welcomed the successful conclusion of the fourth SAIC held at the Sandton Convention Centre, Johannesburg on Thursday, 24 March 2022, which saw domestic and international investors pledging new investments in our countr",0.8402906
+"[ 1.1441847  -0.13220204  2.8880005  ...  0.9508491   1.5255239
+  1.6561017 ]","[ 0.04243664 -0.00103801  0.09942723 ...  0.02241443  0.03879613
+  0.03718598]","Naga ya gaborena e amoget e dikano t a dipeelet o t e 80 t a palomoka ya go lekana R322 bilion Se se hlatlo it e palomoka ya dipeelet o go fihla R trilione, yeo e sa laet ego fela 95% ya nepo ya dipeelet o t a rena eup a e re bea maemong a go feti a Rtrilione ya nepo ya dipeelet o t a rena mo mengwageng ye mehlano ye tlag","Our country received 80 new investment pledges totalling R332 billio This takes the total investments pledged to R trillion, which not only represents 95 percent of our investment target but also places us firmly on the path to exceed our Rtrillion investment target over five year",0.8580589
+"[ 1.4670447   0.03531329 -0.18100789 ...  1.0586934   1.7408407
+  0.5709388 ]",[0.02263793 0.00790484 0.01690935 ... 0.05123928 0.04232692 0.00842606],Maikgafo a a dipeelet o a kgonthi i a seemo sa naga ya gaborena bjalo ka naga yeo batho ba ka kgethago go beelet a go yon,These investment commitments affirm our country s status as an investment destination of choic,0.7932047
+[0.5064473  0.02099632 0.02020483 ... 1.2575799  0.94673055 0.46104977],"[ 0.01273586 -0.00209413  0.02150424 ...  0.03872459  0.02162436
+  0.01086536]","Go fihla gabjale, R316 bilione ya maikgafo ao a dirilwego a beeledit we diprot ekeng t e 46 t eo di phethagadit wego ka botlalo le t e dingwe t e 57 t eo di sant ego di t welapel Kabinete e lemogile dikano t e di dirilwego kua morago goya le ka fao go filwego pego khonferenseng, t eo di akaret ago magareng ga t e dingwe mabokgoni a maswa mo mafapheng a go fapafapana go swana le difatanaga, t welet o ya dijo, meriana ya ka dikhemising le disenthara t a tit ithal","So far, R316 billion of the commitments have been invested in 46 projects that have been completed and a further 57 projects that are still under constructio Cabinet notes the successes of past pledges as reported at the Conference, covering among others new production capacityin sectors as diverse as automobiles, food production, pharmaceuticals and digital centre",0.8853126
+"[ 0.61666733  0.03155538 -0.11800245 ...  0.6635141   0.388717
+  0.76086515]","[ 6.2827272e-03 -4.0025719e-05  1.3348026e-03 ...  3.0717030e-02
+  2.3185406e-02  1.3279595e-02]",Kabinete e ipiledit e go mafapha ka moka a set haba go thekga magatotharollo a a bohlokwa ge re le gare re,"Leave no one behind , will assess the level of service delivery in the province, track progress on the DDM, and oversee key interventions and plan",0.7358743
+"[ 0.6919181  -0.14194185  2.593398   ...  1.0507101   1.8867757
+  1.8899794 ]",[0.01497603 0.00379368 0.10679501 ... 0.02061017 0.03580444 0.04784891],"oma mmogo go theo a palo ya godimo ya tlhokego ya me omo yeo e hlatloget ego godimo go fihla go 3, goya le ka dipoelo t a Dinyaki i okakaret o t a Kotara le Kotara t a Dipalo t a Ba omi t eo di lokolot wego ke ba Dipalopalo t a Afrika Borwa malobanyana m 2.","Cabinet called on all sectors of society to support these critical interventions as we work together to reverse our unemployment rate, which climbed to 3percent, according to the Quarterly Labour Force Survey results released recently by Statistics South Afric 2.",0.78077364
+"[ 0.78870773 -0.28970793 -0.54111403 ...  0.26783526  0.27366465
+  0.3004843 ]","[ 0.01707562 -0.00063466 -0.000701   ... -0.00015684  0.00356974
+ -0.00273638]",Phedi o ya Maemo a Masetlapelo a Boset haba,Migration to digital broadcasting,0.6756006
+[2.1813676  1.4402002  0.1087066  ... 0.69351846 1.0226282  1.9289538 ],"[ 0.06221702 -0.00073171 -0.00035872 ...  0.03025967  0.04784849
+  0.06359242]","Kabinete e amoget e go fedi wa ga Maemo a Masetlapelo a Boset haba ao a tsebagadit wego ke Mopresidente Cyril Ramaphosa ka Mo upologo, 4 Moranang 2022.","Cabinet also welcomed the lifting of the National State of Disaster announced by President Cyril Ramaphosa on Monday, 4 April 2022.",0.85293615
+[1.1743894  0.19936347 0.02734336 ... 0.5490584  0.4962149  1.078206  ],[0.03281797 0.00081571 0.00860291 ... 0.0159331  0.0073087  0.01127292],Phenyo ye e kgonaget e ka baka la bopelotelele bja MaAfrika Borwa bao ba obamet ego magato a polokego a Bolwet i bja Coronavirus (COVID-19) ao a hlamilwego ke mmu o go pholo a maphelo le mekgwa yeo batho ba iphedi ago ka yon,This milestone was made possible by the resilience of people in South African who complied with all Coronavirus Disease (COVID-19) safety protocols designed by government to save lives and livelihood,0.8634769
+"[ 1.1585487   0.03977604 -0.09989861 ...  0.71151507  0.27515182
+  2.2930007 ]",[0.01910121 0.02344268 0.0019493  ... 0.00725438 0.00263331 0.07723796],"Leuba le goyapele le tla laolwa goya ka Molao wa Boset haba wa Maphelo, 2003, (Molao 61 wa 2003).","The pandemic will henceforth be managed in terms of the National Health Act, 2003 (Act 61 of 2003).",0.80938405
+"[ 0.77873194 -0.07480347  0.0081132  ...  0.6213629   0.7885179
+  3.2648418 ]","[ 0.02571548 -0.00203087  0.00578284 ...  0.01531379  0.02877478
+  0.0926993 ]",Seakanywa sa melao ya maphelo yeo e tlo hlamago Molao wa Boset haba wa Maphelo wa 2003 se bulet we batho ka moka go fihla ka 16 Moranang 2022.,The draft health regulations that will inform the National Health Act of 2003 are open for public comment until 16 April 2022.,0.86643183
+"[ 0.51362014  0.09064277 -0.09739831 ...  0.82444715  0.36403772
+  0.73731786]","[ 0.00675608  0.00155921 -0.00053157 ...  0.0141109   0.00437058
+  0.02237591]",Kabinete e gopodit e batho ka moka ka mo nageng go t welapele go t ea magato a maleba a thibelo go it hirelet a le go,Cabinet approved the publication of the draft NISED Masterplan for public commen,0.72999716
+"[ 1.2202159e+00 -7.9590688e-03  1.4820092e-03 ...  5.5183309e-01
+  1.2109824e+00  1.6774127e+00]","[ 0.02426301 -0.00086748  0.00092662 ...  0.00881802  0.02684016
+  0.04691971]",irelet a ba bangwe kgahlanong le diphetelo t a COVID-19.,Cabinet called on all South Africans to work together as we continue our struggle to overcome the impact of COVID-19.,0.6734638
+"[ 1.3787173  -0.14628635 -0.15131044 ...  0.9426007   1.1818371
+  0.5794992 ]",[0.01743951 0.01744127 0.08727486 ... 0.02676146 0.02916463 0.0221956 ],Se se akaret a go hlapa matsogo a rena kgafet akgafet a ka meetse le ka sesepe goba ka go,"Cabinet reminded all people in the country to continue taking the necessary preventative measures to safeguard ourselves and others against COVID-19 infection This includes regularly washing our hands with water and soap or using a 70% alcohol-based sanitiser, wearing a mask that covers both the nose and mouth when indoors, keeping a safe social distance of at least one metre, opening windows for ventilation and vaccinatin",0.6757956
+[1.4130124 0.588744  4.8286376 ... 1.8711114 1.1597617 0.7450066],[0.02733219 0.05925414 0.00512686 ... 0.02236598 0.0430285  0.01059398],"omi a sanithaesa sa diatla sa go tswakwa ka alekhohole ya go feta 70%, ka go apara dimaseke t a go pipa dinko le melomo ge ba le ka gare ga meago, ka go","In holding those involved in corruption accountable, Cabinet also welcomed the judgement by the Palm Ridge Specialised Commercial Crimes Court in Gauteng against a former Eskom financial controller for defrauding the power utility of R35 million by loading fake invoices for coal transport and the initiatives to recover the stolen monie",0.70651275
+"[ 0.90010023 -0.38452107 -0.12940028 ...  0.48615357  1.3812678
+  0.5415095 ]",[0.01974866 0.00507544 0.00376033 ... 0.03626032 0.01742805 0.00863834],"ielana sekgala se ka bago mithara o tee, ka go bula mafastere gore go tsene moya le ka go hlaba meent","Government is using the additional revenue to accelerate debt stabilisation and address urgent social needs, promote job creation through the Presidential Youth Employment Initiative, and support the public health sector",0.65380704
+[1.3619512  0.22579867 0.09077915 ... 1.0448115  1.2322912  1.8954594 ],[0.01860935 0.00457545 0.00459484 ... 0.02947322 0.03211674 0.03762815],"Meento ya COVID-19 e nale mohola ka go thibela malwet i a ma oro, go amogelwa maokelong le go efoga mahu a go hlolwa ke COVID-19.","COVID-19 vaccinations are effective in preventing serious illness, hospitalisation and even deat Protect yourself and your loved ones by visiting your nearest vaccination site to get vaccinated for free, even without an appointment",0.76898754
+"[ 0.16337916 -0.15433441 -0.5003984  ... -0.15399884  0.14540114
+  0.3117835 ]","[-0.00134702  0.00188217  0.00125464 ... -0.00383575 -0.00040524
+  0.0004095 ]",It hirelet e o be o,financing,0.7450632
+"[ 1.1880724   0.16937344 -0.04894351 ...  0.64886737  0.95835006
+  1.2044874 ]","[ 0.01417555  0.00835007 -0.00021727 ...  0.05059842  0.00325317
+  0.04113474]","irelet e le bao o ba ratago ka go etela lefelo la kgauswi le wena la meento gore o yo hlaba moento ntle le tefo, e ita le ge o sena peakanyet o ya goya go hlaba","To give effect to the assumption of responsibility, National Cabinet Representatives (NCR) will shortly be deployed to both municipalitie The Minister of Finance will delegate powers to the NCR and will also be supported by a multidisciplinary team of expert No decision has yet been taken to dissolve the municipal council in terms of Section 139(5)(b) of the Constitutio",0.6855626
+"[ 1.1371974  -0.14747225 -0.49218103 ...  0.6171092   0.89421904
+  0.6538347 ]","[ 0.0415078  -0.00061487 -0.0001516  ... -0.00412211  0.00865742
+ -0.00059214]",Go Hudugela Kga ong ya Tit ithale,Gungubele will,0.67159295
+[0.8819059  0.06024924 0.19240741 ... 0.89756596 0.7964322  1.4901783 ],"[ 0.02053936 -0.00266674  0.00170852 ...  0.03128455  0.02919715
+  0.05630985]",Go fegwa ga Let at i la go Tingwa ga Dikga o t a Megala go tloga ka 31 Hlakola go fihla ka la 30 Phupu 2022 go fa mmu o nako ye lekanego ya go phethagat a ka botlalo go lokelwa ga mapokisana a dikga o t a dit ithale (di-STB) go magae ao a ingwadi it ego ka nako ebile a nale maloka a go fiwa ona mapokisana ao pele ga ge dikga o t a megala di tingw,The deferment on the Analogue Switch-off Date from 31 March to 30 June 2022 provides sufficient time to government to complete the installation of set-top boxes (STBs) for households that have registered timeously and are entitled to receive them before the analogue switch-of,0.8603469
+"[ 0.6284359  -0.14715391  0.14034063 ...  0.34063983  0.89880633
+  3.1553793 ]","[ 0.01482124 -0.00185007  0.0205128  ...  0.00250508  0.02363469
+  0.09750202]",Kgoro ya Dikgokagano le ya Ditheknolot i t a Tit ithale e tla netefat a gore magae ka moka a 507 251 ao a ingwadi it ego pele ga la 31 Diphalane 2021 a hlomesedit we dikga o t e t a dit ithale pele ga la 30 Phupu 2022.,The Department of Communications and Digital Technologies will ensure that all the 507 251 households that registered by 31 October 2021 are connected no later than 30 June 2022.,0.89010555
+"[ 0.86723876 -0.23216677  0.24176104 ...  1.2301092   1.3740748
+  2.8357553 ]","[ 0.02318601 -0.00180224  0.01919981 ...  0.0347256   0.02703799
+  0.0777595 ]",Magae a 260 868 ao a ingwadi it ego magareng ga la 31 Diphalane 2021 le la 10 Hlakola 2022 a tlo kgokaganywa dikga ong t a tit ithale ka mapokisana a bona a di-STB pele ga la 30 Lewedi 2023.,The 260 868 households that registered between 31 October 2021 and 10 March 2022 will be connected to their STBs by 30 September 2023.,0.88868445
+"[ 1.4562832   0.12247743 -0.20577565 ...  1.3337686   1.4810936
+  1.1899405 ]","[ 0.02604876 -0.00071277 -0.00023279 ...  0.01765469  0.0299421
+  0.02482225]",Kabinete e nale boitshepho bja gore phethagat o ya kgato ye e tla thekga tshepedi o ya go fetogela kga ong ya tit ithale gotee le maphoto a maemo a godimodimo a diyalemoya ao a tlo lokollwago ka morago,Cabinet is confident that the completion of this process will support the process of digital migration and the subsequent release of the high frequency spectrum,0.8057621
+"[ 0.7658776   3.7632174  -0.03314656 ...  0.06156761  0.3236406
+  0.11599126]","[ 0.02473455  0.09264512 -0.00030661 ...  0.01203164  0.02900536
+ -0.00259964]",Go Lwant ha Bosenyi le Bomenenene,Fighting crime and corruption,0.8462174
+"[ 0.91642123  0.53237146 -0.2973356  ...  0.721694    1.0576879
+  1.3023134 ]","[ 0.05750503  0.00831122 -0.00022577 ...  0.01555682  0.03265654
+  0.04291184]","Kabinete e lebogi it e Mokhomi inare wo moswa wa Boset haba wa Maphodisa wa naga, Jenerale Sehlahle Fannie Masemola, morago ga thwalo ya gagwe malobanyana mo ka Mopresidente Ramaphos Jenerale Masemola o nale rekhoto ya maemo a godimo ya go fihlelela dimaka go t a sephodisa go ralala Afrika Borw","Cabinet congratulated the country s new National Commissioner of Police, General Sehlahle Fannie Masemola, following his recent appointment by President Ramaphos General Masemola has an outstanding record of achievements in policing across South Afric",0.8978716
+[1.5169196  0.47575828 0.17721863 ... 1.1890234  1.1981605  1.0447317 ],"[ 0.04673032 -0.00188499 -0.00049805 ...  0.02579559  0.02115872
+  0.01057011]",Kabinete e amoget e ditaelo t a kilet o t eo di filwego Yuniti ya Kamogo ya Dithoto ya Lekgotla la Boset haba la Boseki i (NPA) ka Kgorotsheko ya Godimo ya Gauteng kgahlanong le bao ba amegago go thekga ka dit helete go rekwa ga Moepo wa Malahla wa Optimum ka Rbilione ka 2016 ka khamphani ya go laolwa ke lapa la ga Gupta ya go bit wa Tegeta Exploration and Resource,the purchase of Optimum Coal Mine for Rbillion in 2016 by the Gupta-owned Tegeta Exploration and Resources compan,0.7741616
+"[ 0.51418847  0.39067137 -0.18572329 ...  1.2524222   0.9711673
+  0.67647666]","[ 0.0064168   0.07299072 -0.00011375 ...  0.01558353  0.03671741
+  0.01828282]","Diphetho t e t a kgorotsheko, t a go laet a lemanoga le nago le mohola la go logelwa maano ke NPA le Lebotho la Sephodisa sa Afrika Borwa la Nyaki i o ya Melato ya Maemo a Godimo, di romela molaet a wo bogale mabapi le mabokgoni a mmu o ao a golelago godimo a go swaragana le go Gogwa ga Mmu o ka Nko le go netefat a gore bao ba amegago ba rwe wa maikarabelo a mediro ya bona","The rulings, which demonstrate the effective coordinated approach of the NPA and the Directorate for Priority Crime Investigation of the South African Police Service, send a strong message about the growing capacity of government to deal with State Capture and ensure accountability for those involved",0.86645126
+"[ 1.0002272   0.04899652 -0.19948207 ...  0.67842096  1.1470189
+  1.0303142 ]",[0.02126562 0.00156902 0.00059369 ... 0.01190272 0.03376075 0.00148539],"le gape go amoga, go hwet a le go bu et a morago dit helete t e utswit weg","and to seize, recover and return stolen mone",0.72884125
+[0.54934937 2.2189708  0.0857759  ... 1.6173123  0.7546223  0.78450537],"[ 0.033594    0.0079402  -0.00157812 ...  0.02665529  0.03714641
+  0.01301457]","Ka gona go dira gore bao ba amegago bosenying ba ikarabele medirong ya bona, Kabinete e amoget e kahlolo ka Kgorotsheko ya Palm Ridge ya Bosenyi bja Kgwebo bja Moswanano i gola Gauteng kgahlanong le molaodi wa peleng wa dit helete wa Eskom ka go timelet a R35 milione go t wa khamphaning ye ya kabo ya mohlagase ka go ithomela mananeotheko a bofora a go sepet wa ga malahlaka dinamelwa gotee le maitekelo a go hwet a t helete yeo e utswit weg",Appointment All appointments are subject to the verification of qualifications and the relevant clearancMr Mpumelelo Tyikwe as Chief Executive Officer and Executive Director of the South African Special Risk Insurance Associatio Enquiries:Ms Phumla Williams,0.75397146
+"[ 0.8447577   1.503477   -0.01899326 ...  0.79100895  0.9196407
+  2.3959355 ]",[0.02019941 0.02570514 0.04476207 ... 0.02947765 0.02129154 0.09057458],"Bjalo ka phenyo ye bohlokwa mo phenkgi anong ya set haba sa gaborena ya go lwant ha bomenemene, Kabinete e amoget e neelet o ya karolo ya bone ya pego ya Khomi ene ya Dinyaki i o ya Tirelo ya Semolao go tsinkelela go Gogwa ga Mmu o ka Nk Mopresidente Ramaphosa o tla hlagi et a Palamente magatotharollo a go phethagat a dit hi inyo t a khomi ene ge a romela pego ye felet ego ka botlalo ka la 30 Phupu 2022.",the handover of the fourth part of the Judicial Commission of Inquiry into State Capture Repor President Ramaphosa will present to Parliament interventions to implement the commission s recommendations when he submits the full report by 30 June 2022.,0.80336905
+"[ 0.6195531  -0.18866669 -0.13718852 ...  1.0864795   1.422342
+  1.4460572 ]","[ 0.01476523 -0.00278997  0.00169587 ...  0.02021641  0.01856221
+  0.01639047]",Samiti ye sa Tlwaelegago ya Setho sa Troika ya Dit haba t eo di Hlabologago t a Borwa bja Afrika (SADC),Southern African Development Community (SADC) Extraordinary Organ Troika Summit,0.79300773
+"[ 0.91924125 -0.18880188  0.27065077 ...  1.259383    1.0043521
+  2.8837016 ]","[ 0.02894935 -0.00211465  0.01322516 ...  0.02151679  0.03317808
+  0.06703094]",Kabinete e amoget e dipoelo t a Samiti ye sa Tlwaelegago ya Setho sa Troika ye swaret wego gola Pretoria ka Mo upologo wa la 4 le ka Labobedi la 5 Moranang 2022.,"Cabinet welcomed the outcomes of SADC Extraordinary Organ Troika Summit held in Pretoria on Monday, 4 and Tuesday, 5 April 2022.",0.8605938
+"[ 0.6978537  -0.24779102  0.13947187 ...  0.7331511   1.7943434
+  3.29077   ]","[ 0.0042884  -0.00181034  0.00300899 ...  0.00736217  0.03605181
+  0.10600044]","Afrika Borwa ebile naga ya go swara samiti ye bjalo ka Modulasetulo wa Setho sa SADC go t a Dipolotiki, Boiphemelo le Tiri ano ya T hirelet eg Monyetla wa naga ye wa go tsorama setulo se o thoma ka Phato 2021 go fihla ka Phato 2022.","South Africa hosted the summit as Chair of the SADC Organ on Politics, Defence and Security Cooperatio The country s tenure runs from August 2021 to August 2022.",0.87625384
+"[ 0.4764591  -0.12735303 -0.07916292 ...  1.456138    1.7104667
+  1.4868652 ]",[0.01798999 0.02144237 0.00230749 ... 0.03268978 0.02049854 0.0520945 ],"Samiti ye e amoget e, magareng ga t e dingwe, pego ya mo omo wo dirilwego Morerong wa SADC gola Mozambique (SAMIM).","The summit received, among others, the SADC Mission in Mozambique (SAMIM) progress repor The SAMIM was deployed to support Mozambique to combat terrorism and acts of violent extremis 6.",0.7752465
+"[ 1.0115873  -0.16772383 -0.16802032 ...  0.72846663  0.8466597
+  1.7970031 ]","[ 0.01581532 -0.00085081  0.00126386 ...  0.04431794  0.04496492
+  0.05515392]",Lebotho la se ole la SAMIM le romet we ka nageng ya Mozambique go lwant ha mat ho et i le ditiragalo t a dikgaruru t a go dirwa ka boom 6.,"Incorporation of the Small Enterprise Finance Agency (SEFA) and Cooperative Banks Development Agency (CBDA) into the Small Enterprise Development Agency (SEDA) Cabinet approved the 20 months extension period for the merging of the two entities, the SEFA and CBDA, into the SED The merger was initially set to be effective from 1 April 2022.",0.7120665
+"[ 0.14106597 -0.29482582  0.40315735 ...  0.24937221  0.10972545
+  0.12602682]","[ 0.00778594 -0.0007077   0.00053992 ...  0.00284386  0.00279296
+  0.00283432]",Ikonomi,Economy,0.94720334
+[0.8270567  0.19054359 0.11172207 ... 0.7772303  1.5188923  1.4145169 ],"[ 0.01820404 -0.00255608 -0.00030264 ...  0.01240878  0.04446287
+  0.04247534]",Kabinete e amoget e tlhatlo o ya kemedi ya kelo ya dikoloto e bago Moody ka ponelopele ya yona ya Afrika Borwa gore e tielet e go t wa seemong sa go se kgahli e le sephetho sa yona sa go kgonthi i a gore dikelo t a dikoloto t a Afrika Borwa t a kharensi ya nako ye telele ya dinagadi ele le ya ka mo nageng di tlogelwa maemong a,Cabinet welcomed credit rating agency Moody s upgrade of its outlook on South Africa to stable from negative and the decision to affirm South Africa s long-term foreign and local currency debt ratings at,0.8320887
+"[ 0.07150996 -0.4321325  -0.01410274 ... -0.14865817  0.30838192
+  0.15919752]","[ 0.00597844 -0.00051369 -0.00033279 ...  0.00267128  0.01192885
+  0.00110465]",Ba2 .,Ba2 .,0.85638726
+[0.82987326 0.63647515 0.7558904  ... 0.68528444 0.7983029  0.968792  ],[0.02559946 0.00129979 0.00022248 ... 0.04386458 0.01665284 0.0058735 ],"Tlhatlo o ye e kgonthi i a mo omo wa mmu o wa go bu et a sekeng tielelo matlotlong a mmu o a naga ye, ya go thekgwa ke kgoboket o ya lekgetho ya go","The upgrade affirms the work of government to restore sustainability to the country s public finances, which is supported by better-than-expected revenue collectio",0.79106426
+"[ 1.1737818  -0.17522778 -0.10590819 ...  0.34483558  1.2920156
+  0.46023387]","[ 0.02901351  0.00676628 -0.00022628 ...  0.01539052  0.03447942
+  0.04363446]",oma gabotse go feti a ka fao go bego go letet we ka gon,"CongradulationsCabinet extended its congratulations and well-wishes to: Mr Nkosinathi Maphumulo, better known as DJ Black Coffee, who recently won his first Grammy in the category of",0.555825
+[1.4579364  0.8631729  5.003414   ... 0.77839017 1.1882812  3.0761065 ],[0.04393096 0.00739544 0.08804638 ... 0.02964129 0.03649132 0.08217674],"Dipoelo t a lekgetho t a go thoma ka Moranang 2021 go fihla ka Hlakola 2022, di laedit e gore ba Ditirelo t a Lekgetho la Afrika Borwa ba kgobokedit e t helete ya go feta Rtrilion T helete ye e laet a kaonafat o ya 25% mo ngwageng wa go feta le tlhatlogo ya 15% ka ngwaga wa mafelelo pele ga leuba la COVID-14.","Revenue results for the period April 2021 to March 2022, showed that the South African Revenue Service collected more than Rtrillio It represents a 25 percent improvement over the previous year and a 15 percent increase over the last year prior to the COVID-19 pandemi",0.8924072
+"[ 0.5410825  -0.41935125  0.02772118 ...  0.1624978   0.5996731
+ -0.09677485]","[ 0.02226276 -0.00110459 -0.00397569 ...  0.00255081  0.01257975
+  0.01476539]",Mmu o o,Freedom Month,0.6882932
+"[ 0.68835133  0.6046565  -0.10089105 ...  1.1669861   1.241984
+  1.3122557 ]","[-0.00340623  0.00651906 -0.00021956 ...  0.02403698  0.03770589
+  0.02571486]","omi a lekgetho la tlalelet o go akgofi a go bewa ga dikoloto ka fase ga taolo le go kalokana le dinyakwa t a t hoganyet o t a leago, go hlohlelet a tlhomo ya me omo ka Lesolo la Mopresidente la go Thwalwa ga Baswa, le go thekga lefapha la mmu o la t a maphelo",SED A single and well-resourced entity will provide a more streamlined support to small to medium enterprises and cooperative Cabinet also approved the appointment of the interim Boards of Directors for the SEFA and SEDA,0.7617225
+"[ 1.2772336  -0.37217465  0.02626599 ... -0.04461937  0.20053263
+ -0.32911104]","[ 0.01812785 -0.00093245  0.00135103 ...  0.00956501  0.01173026
+  0.00638177]",Kgwedi ya Tokologo,Holy Month of Ramadan,0.6326282
+"[ 0.9838584  -0.00860383 -0.03622187 ...  1.1265329   1.0716947
+  2.3420203 ]",[0.02709369 0.01934454 0.00864253 ... 0.01761408 0.03979487 0.07251363],"Ngwaga wo Afrika Borwa e keteka Kgwedi ya Tokologo ka Moranang ka tshepho ye mpshafadit wego ya bokamoso bjo kaone, ka baka la ge e fetile mengwaga ye mebedi ya masetlapelo ka baka la leuba la lefase ka bophara la COVID-19.","South Africa this year celebrates Freedom Month in April with renewed hope for a better tomorrow, having endured two sombre years under the global COVID-19 pandemi The annual Freedom Day will be commemorated on Wednesday, 27 April 2022.",0.85882473
+"[ 0.5929684  -0.35983658  0.23307486 ...  0.85056597  0.632105
+  2.0636275 ]",[0.05761423 0.00053811 0.00854891 ... 0.01484112 0.04352444 0.09181717],"Let at i le la Tokologo la Ngwaga ka Ngwaga le tla ketekwa ka Laboraro, 27 Moranang 2022.","President Ramaphosa will hold a DDM Presidential Imbizo at the Petrus Molemela Sports Complex in Mangaung, Free State on Friday, 8 and Saturday, 9 April 2022.",0.6433703
+"[ 0.62156826 -0.1035818  -0.24251397 ...  0.89220285  1.4306495
+  1.7262568 ]","[ 0.01249367 -0.00109806 -0.00092428 ...  0.01197243  0.036334
+  0.06528211]",Ka Let at i la Tokologo go ketekwa le go rolela kefa batho ka moka bao ka go ikuna ga bona t e nt i ba dirilego gore go kgonagale gore re ipshine ka ditokelo t a botho le tokologo yeo e lego ka gare ga Molaotheo wa go hlomphega kudu lefaseng wa Rephabliki ya Afrika Borwa wa 1993.,Freedom Month commemorates and salutes all those whose sacrifices made it possible for us to enjoy the human rights and freedoms contained in our world-acclaimed Constitution of the Republic of South Africa of 1996.,0.83858246
+"[-0.12722716 -0.17430834 -0.0594391  ...  0.65518415  1.1558232
+  0.883382  ]","[ 0.00447296 -0.00266592 -0.00028648 ...  0.03086995  0.04283676
+  0.0350647 ]",Kabinete e dirile boipilet o go MaAfrika Borwa ka moka go,"Cabinet approved South Africa s UNSDCF 2020-2025 for implementatio The framework provides an accountability partnership between government, the broader society and the UN s country office in South Afric",0.56729436
+"[ 1.2279245  -0.03245196 -0.02830568 ...  0.34800592  1.086185
+  1.6567734 ]","[ 1.11719305e-02  2.63901800e-03 -5.33853781e-05 ...  2.60039102e-02
+  2.62153391e-02  5.44061651e-03]",oma mmogo ge re le gare re t welapele ka phenkgi ano ya rena ya go fekeet a ditlamorago t a COVID-19.,Once adopted the NISED will replace the current Integrated Strategy for Entrepreneurship and Small Enterprise It will provide a coordination framework for all key ecosystem role players in small enterprise developmen It guides the coordinating mechanism that will guide all programmes that support small enterprise,0.6688807
+[0.6003006  0.03961726 0.11900342 ... 0.62886167 0.8431278  0.8599135 ],"[ 2.3096964e-02 -5.0768242e-05  7.1121221e-03 ...  2.7977193e-02
+  1.7940968e-02  7.8855250e-03]","Ka moka re swanet e go kgatha tema ya rena go bu et a seemo sa ikonomi sekeng, ka Leano la Kagoleswa ya Ikonomi le go Boet wa Sekeng ga yona, le go godi a dikgwebo t e dingwe t e nt i gore di tle di kgone go hloma me omo ye mengwe ye ment i","We all need to do our part to restore our economy, through the Economic Reconstruction and Recovery Plan, and grow more businesses to be able to create more jobs",0.8337379
+"[ 0.76768327 -0.35484445 -0.15382524 ...  0.52479875  1.0048196
+  0.40652028]","[ 0.0618173   0.00258719 -0.0003729  ... -0.00495233  0.04197283
+  0.0318028 ]",Kgwedi ye Kgethwa ya Ramadan,Nkosazana Dlamini Zuma,0.55140054
+"[ 0.9055009   0.28608453 -0.09147401 ...  1.451095    1.4850816
+  1.0086124 ]","[ 0.02129339 -0.00107091  0.00813934 ...  0.0469513   0.03690611
+  0.01884921]","Kabinete e lakaledit e set haba sa Afrika Borwa sa Mamoslemo Kgwedi ye Kgethwa ya di egofat o ya Ramada Ramadan e ketekwa ngwaga ka ngwaga go potologa lefase ka dithapelo, go ikuna dijo le ditiragalo t a dipelo t e boruth Set haba sa Mamoslemo ke karolo ye bohlokwa ya dit o t a rena t a go fapafapana le semelo sa rena sa boset hab","Cabinet wished South Africa s Muslim community a blessed Holy Month of Ramada Ramadan is annually marked around the world with prayer, fasting and acts of charit The Muslim community is an integral part of our national diversity and of our national characte",0.8853759
+"[ 0.4554033  -0.24552377 -0.28648272 ...  0.46115032  0.10971288
+  0.48838902]","[ 0.00408866 -0.00296827 -0.00060771 ...  0.00854465 -0.00353386
+  0.01201626]",Diphetho t a Kabinete1.,Cabinet decisions1.,0.8018999
+"[ 0.9012851  -0.02280718 -0.08475559 ...  0.47939324  1.0908674
+  0.33845657]","[ 0.00143043 -0.0023372  -0.00039367 ...  0.01440503  0.02144657
+  0.0176694 ]",Seakanywa sa Leano la Makgonat ohle sa Tlhabollo ya Boset haba ya Dikgwepotlana t a Mohlakanelwa (NISED),Draft National Integrated Small Enterprise Development (NISED) Masterplan,0.81683505
+"[ 0.79246217 -0.00873769 -0.23576565 ...  1.3360366   1.3339518
+  1.5418824 ]","[ 0.02958975 -0.00162544 -0.00034502 ...  0.03760524  0.0389848
+  0.07144118]",Kabinete e dumelet e go phatlalat wa ga Seakanywa sa NISED sa Leano la Makgonat ohle gore set haba se fe ditshwayotshwayo t a son Leanopeakanyo la mathomo la Mohlakanelwa le Bogwebi le Dikgwebo t e Nnyane le amoget we ka 2005.,"Cabinet approved the publication of IK regulations for public commen The IK regulations will give effect to the implementation of the IK Act, 2019 (Act 6 of 2019).",0.7440667
+"[ 0.3535399   0.08632357 -0.04927037 ...  0.7872691   1.2599074
+  1.0425906 ]","[ 0.00877442 -0.00159936 -0.0003452  ...  0.01961305  0.04311318
+  0.00596168]",Leanopeakanyo le le NISED ya go tla ka morago ga lona le kgont ha Sengwalwa sa 1995 sa Makgoraditsela godimo ga Leanopeakanyo la Boset haba Tlhabollong le Tlhohlelet ong ya Kgwebo mo Afrika Borw,The strategy and the subsequent NISED give effect to the 1995 White Paper on National Strategy for the Development and Promotion of Small Business in South Afric,0.81314814
+"[ 0.1045846  -0.39389458 -0.06012964 ... -0.13409564  0.04608044
+  0.12252911]","[-0.00154578  0.00023227  0.00338498 ... -0.004986   -0.00194967
+  0.0009193 ]",Ge e,strategic priority,0.5247034
+"[ 0.58024114 -0.09092747 -0.23711766 ...  0.9172048   1.1502689
+  0.82480395]","[ 6.8032341e-03 -7.1852014e-04 -5.3825483e-05 ...  1.0748525e-02
+  4.8554973e-03  2.5125856e-02]","et e e amoget we, NISED e tla t eela legato Leanopeakanyo la bjale la Mohlakanelwa la Bogwebi le Dikgwebo t e Nnyan E tla fana ka tlhako ya tsamai o go bakgathatema ka moka ba bohlokwa ba mo kamanong ye tlhabollong ya dikgwebo t e nnyan Yona e hlahla magato a tsamai o ao a tlo hlahlago mananeo ka moka a go thekga dikgwebo t e nnyan",This was after Cabinet approved the mergers to ensure government provides a single entity that will support its work in supporting small to medium enterprises and cooperative The approved extension will enable the Department of Small Business Development to finalise the legislative review to provide a proper legislated and policy environment that allows the formation of the single entity,0.7594505
+"[ 0.0833078  -0.37305272 -0.33495623 ... -0.07753318 -0.01944323
+ -0.05022376]","[ 0.00690212 -0.00283671 -0.00029209 ...  0.01952514 -0.00300545
+  0.01047987]",Leanopeakanyo le le,Lifting of the National State of Disaster,0.61283433
+[0.679035   0.15510507 0.04679926 ... 0.9628443  1.4267908  0.67167604],"[ 2.7295850e-02  8.6123713e-05 -3.3273126e-04 ...  4.4028446e-02
+  4.1642740e-02  9.3083549e-03]","et ane le go ati a go kgatha tema ga dikgwebo t e nnyane ka ikonoming ya go lefi wa met helo, go fedi a magatotshepedi o a go rarela le go hlohlelet a go dirwa ga dikgwebo moroba, kudukudu bahlomi ba dikgwebo t e nnyan","This strategy seeks to increase the participation of small enterprises in the formal economy, eliminate red tape and promote the ease of doing business, particularly for small entrepreneur",0.81093156
+"[ 0.6788845   0.04362049 -0.2792245  ...  1.2284056   1.2058847
+  0.8605751 ]","[ 0.01500026  0.00269026 -0.00016686 ...  0.02578719  0.02516592
+  0.03579738]","NISED ke lenaneo leo le hlot wego ke ditheri ano t a motlalanaga gotee le dikgoro t e maleba didikong t a mmu o t a boset haba, t a profense le t a pu oselegae, dikgwebo, ba omi, dirutegi le ditheo t e maleba t a go fapafapana","The NISED is the product of a wide consultation with the relevant departments in the national, provincial and local spheres of government, business, labour, academics and various relevant institutions",0.8305783
+"[ 0.65337676 -0.20169349 -0.03388222 ...  0.9107836   1.4003156
+  0.85087955]","[ 0.02027128  0.00146204 -0.00014357 ...  0.03116822  0.03998498
+  0.03534202]",Go tsenyelet wa ga Et ensi ya Dit helete ya Dikgwebo t e Nnyane (SEFA) le Et ensi ya Tlhabollo ya Dipankaseboka (CBDA) ka gare ga Et ensi ya Tlhabollo ya Dikgwebo t e Nnyane (SEDA),"pillars to cover (1) inclusive , justice and sustainable growth; (2) human capital and social transformation; (3) effective, efficient and transformative governance; and (4) climate resilience and sustainably managed natural resource",0.73288214
+"[ 0.87231725 -0.0588108   0.2792259  ...  0.7976608   1.0637668
+  2.6415863 ]","[ 0.01773886 -0.00218846 -0.00020393 ...  0.02825047  0.01280692
+  0.02520356]","Kabinete e dumelet e katolo o ya dikgwedi t e 20 ya go kopant hwa ga makalakgwebo a mabedi, ebago SEFA le CBDA ka gare ga SED Kopanyo ye mathomong e be e theilwe gore e thome go tsenywa tiri ong go tloga ka la 1 Moranang 2022.","Cabinet approved the intervention in terms of Section 139(7) of the Constitution of the Republic of South Africa of 1996, read together with Section 150 of the Municipal Finance Management Act, 2003 (Act 56 of 2003), in the Mangaung Metropolitan and Enoch Mgijima Local municipalitie Both municipalities have been experiencing significant financial and service delivery failures for a prolonged perio",0.7260089
+"[ 0.6903026  -0.04597878  0.0934264  ...  1.3813596   1.4733003
+  1.3631493 ]","[ 0.00334194  0.00492292 -0.00042851 ...  0.01757921  0.02125393
+  0.06122768]",Kopanyo ye e bile ka morago ga gore Kabinete e dumelele kopanyo ye go netefat a gore mmu o o hloma lekalakgwebo le tee leo le tla kgonago go thekga mo omo wa yona wa go thekga dikgwebo t e nnyane go fihla go t a magareng gotee le dikhamphan,The Free State Provincial Executive placed the Mangaung Metropolitan Municipality under a mandatory intervention in terms of Section 139(5) (a) and (c) of the Constitution in December 2019.,0.69887614
+"[ 0.94499743  0.41124347 -0.20039088 ...  1.1416355   1.069323
+  0.6812331 ]","[ 0.01929764 -0.00070765  0.00025349 ...  0.02390802  0.01332196
+  0.03538066]",Katolo o ye e dumelet wego e tla kgont ha Kgoro ya Tlhabollo ya Dikgwebo t e Nnyane go ruma phetleko ya semolao go kgont ha tikologo ye maleba ya pholisi ye theilwego goya ka molao ya go dumelelwa go hlongwa ga lekalakgwebo le tee fela la SED Lekalakgwebo le tee fela leo le tlabet wego gabotse ka didiri wa le tla kgont ha thekgo ya go se,"The national intervention will take effect upon formal gazetting in the Government Gazette, however, the current Section 139(5) intervention will remain in effect until this dat The Section 139(1) intervention into the Enoch Mgijima Local Municipality will also be replaced by a Section 139 (5) (a) and (c) intervention, which will also cover the failure of the municipality to fulfil its executive obligation The Minister in The Presidency, Mr Mondli",0.74431276
+[0.8014992  0.44216385 0.17240773 ... 0.73428464 1.7726703  0.98643464],"[ 0.02295783  0.00247074 -0.00020224 ...  0.03894621  0.02212168
+  0.02364448]",iti we ke selo le ya go otlologa dikgwebong t e nnyane go fihla go t a magareng gotee le dikhamphan Kabinete e dumelet e thwalo ya Lekgotla la Balaodi la Mot waoswere la SEFA le SEDA,"The Act provides for the protection, promotion, development and management of indigenous knowledg It provides for the establishment of national IK systems; management of rights of IK of communitie It also provides for the establishment of an advisory panel; recognition of prior learnings; facilitation and coordination of I",0.7173157
+"[ 0.48433763  0.08660354 -0.3008814  ...  0.8481463   0.29814035
+  1.0145353 ]","[-5.3737225e-05 -1.0151726e-03 -7.8396255e-04 ...  7.2478764e-03
+  1.5698969e-02 -4.0504942e-03]","Melawana ya go Amana le T hirelet o, T wet opele, Tlhabollo le Taolo ya Tsebo ya Setlogo (IK)","Regulations relating to the Protection, Promotion, Development and Management of Indigenous Knowledge (IK regulations)",0.81074
+"[ 0.9673191   0.0307942  -0.29980662 ...  1.1057247   0.62047046
+  1.1795337 ]",[0.01390174 0.04654255 0.00109212 ... 0.00462835 0.03289327 0.01220425],Kabinete e dumelet e go phatlalat wa ga melawana ya IK gore set haba se fe ditshwayotshwayo t a son Melawana ya IK e tla kgont ha gore go phethagat we,Cabinet welcomed the preservation orders granted to the Asset Forfeiture Unit of the National Prosecuting Authority (NPA) by the Gauteng High Court against those involved in,0.7439115
+"[ 1.0621151  -0.2212565  -0.15262894 ...  0.46319222  0.8354159
+  2.4055438 ]","[ 0.01671218  0.00201791 -0.00057338 ...  0.03589313  0.02331118
+  0.02007684]","Molao wa IK, 2019 (Molao 6 wa 2019).",District Development Model (DDM) Presidential Imbizo,0.5992789
+"[ 0.78201723  0.08347183 -0.24552403 ...  1.5694206   0.63733983
+  1.2188172 ]","[ 0.01225352  0.00696169 -0.00034454 ...  0.03024008  0.01812627
+  0.03177328]","Molawana wo o bolela ka t hirelet o, t wet opele, tlhabollo le taolo ya tsebo ya setlog O bolela le ka go hlongwa ga ditheo t a boset haba t a IK; taolo ya maloka a IK a batho set haben O bolela gape le ka go hlongwa ga sebokakelet o; temogo ya t eo batho ba ithutilego t ona kua morago; nolofat o le tsamai o ya I","The proposed regulations deal with, amongst others, the setting up of the Advisory Panel; accreditation processes; registration of competencies of IK practitioners; how to access or use IK and the safekeeping of registers of I The regulations also provide for dispute-resolution mechanism",0.7961744
+"[ 0.13306245 -0.36179233 -0.26962113 ... -0.3373663  -0.07557999
+ -0.16205248]","[ 0.0047313   0.01131954 -0.00040775 ...  0.0120939   0.00258434
+  0.00462483]",Melawana ye e,The UNSDCF outlines four broad,0.4741954
+"[ 0.52123094 -0.01025307 -0.17159508 ...  1.1143203   1.0148456
+  1.0645142 ]",[0.00951685 0.00617926 0.00062634 ... 0.03918269 0.00794194 0.0443355 ],"i int wego e swaragane le, magareng ga t e dingwe, go hlongwa ga Komitikelet o; ditshepedi o t a tumelelo; ngwadi o ya mabokgoni a ditsebi t a IK; ka fao IK e ka humanwago goba ya","The invocation of a national intervention in terms of Section 139(7) of the Constitution implies that in both municipalities, national government will now act in the stead of the Provincial Executiv This type of intervention is mandatory and follows the same procedure as Section 139(5) of the Constitution, except that national government will now directly assume responsibility for these intervention",0.7272183
+"[ 2.009299    0.05731029 -0.19648808 ...  1.1910632   1.4519016
+ -0.22563438]","[-0.00128551 -0.00136073  0.00171333 ...  0.01612878  0.02053435
+  0.02187007]",omi wa le go boloka diret istara t a I Melao ye e bolela gape le ka magato a go rarolla dithulan,"Vision 2030 and the Medium Term Strategic Framework, and also with the UN Sustainable Development Goals driven through the UN country s office in South Afric The implementation will be done through a joint resource mobilisation strategy",0.67280227
+"[ 0.7993788   0.03424912 -0.27828035 ...  1.1531229   1.5762049
+  1.2197249 ]","[ 0.01160505  0.00109553 -0.00016184 ...  0.04362296  0.03246473
+  0.03775496]",Melawana ye e tla phatlalat wa kuranteng ya mmu o ebile e ka humanwa wepsaeteng ya Kgoro ya Saense le Diphetogo mo: wwdsgoz Melawanaye e tla hwet agala gape le ka maleme ka moka sa semmu,The regulations will be gazetted and can also be accessed through the Department of Science and Innovation website: wwdsgoz They will also be available in all official language,0.87353814
+"[ 0.18244025 -0.2801143   0.0202818  ...  0.73073417  0.27022204
+  1.6199715 ]","[-0.00129612 -0.00093762 -0.0002283  ...  0.02137008  0.01341062
+  0.04270156]",Tlhaku ya Dit habakopano ya Tiri ano ya Tlhabollo ye Swarelelago (UNSDCF) ya 2020-2025,United Nations Sustainable Development Cooperation Framework (UNSDCF) 2020-2025,0.8632339
+"[ 0.85220575 -0.05952432 -0.0797468  ...  1.2424562   1.5851192
+  1.4367111 ]","[ 0.02138205 -0.00300735 -0.00019736 ...  0.00380072  0.03539465
+  0.01855103]","Kabinete e dumelet e UNSDCF ya 2020-2025 ya Afrika Borwa gore e phethagat w Tlhaku ye e kgont ha tiri ano ya maikarabelo magareng ga mmu o, set haba ka kakaret o le kantoro ya Dit habakopano (UN) ye lego ka mo nageng ya Afrika Borw","for his album Subconsciously, at the 64th Grammy Awards ceremony held in Las Vegas, United State",0.7270777
+"[ 0.6572809   0.23119389 -0.01767663 ...  1.4401745   0.88971686
+  1.4134221 ]","[ 0.02139301 -0.00109888 -0.00024106 ...  0.04650186  0.02675543
+  0.04543828]","UNSDCF e hlatholla dikokwane t e nne t a kakaret o t e tlago pele t e loget wego maano go akaret wa (1) kgolo ya go akaret a bohle, ya toka le ya go swarelela; (2) methopo ya batho le diphetogo t a leago; (3) pu o ye nago le mohola, ya go seket a t helete le ya go gatela pele goya ka diphetogo; le (4) tielelo ya klaemete le methopo ya tlhago ye laolwago ka mokgwa wa go logelwa maan",The DDM Presidential Imbizo is an important public participation platform as its gives citizens a voice and the President the opportunity to listen to the people and respond to their concern South Africans can follow and participate in discussions on social media under the hashtag #PresidentialImbiz,0.69270706
+[0.36562356 0.01814414 0.03037857 ... 0.7584559  1.1012715  1.4722292 ],[0.01496283 0.00209761 0.00084992 ... 0.01597542 0.01434032 0.05913102],"Dikokwane t e t a go logelwa maano di amana le Leanotlhabollo la Boset haba la naga ye; Ponelopele ya 2030 le Tlhaku ya Paka ya Magareng, le gape le Dinepo t a UN t a Tlhabollo ye Swarelelago t eo di phethagat wago ka kantoro ya UN ye lego ka mo nageng ya Afrika Borw Phethagat o ye e tla dirwa ka leano la mohlakanelwa la go rapa didiri wa",The Enoch Mgijima Local Municipality was also placed under mandatory intervention by the Eastern Cape Provincial Executive in terms of Section 139(5) (a) of the Constitution in 2018.,0.68807054
+"[ 0.5301029  -0.0970334  -0.45040748 ...  0.91005933  1.273934
+  0.62086546]","[-0.00140589  0.00234564  0.00096918 ...  0.02945319  0.02800562
+  0.0015395 ]",Magato a Boset haba Mmasepaleng wa Metsesetoropo wa Mangaung le Mmasepaleng wa Selegae wa Enoch Mgijima,National intervention in the Mangaung Metropolitan and Enoch Mgijima Local municipalities,0.8640686
+[0.59163624 0.0395002  1.0192469  ... 1.1890755  0.91744226 1.0174251 ],"[ 0.00156378  0.00021204  0.00191142 ...  0.02181755 -0.00012103
+  0.05614396]","Kabinete e dumelet e magatotharollo a go bewa ka fase ga taolo goya ka Karolo 139(7) ya Molaotheo wa Rephabliki ya Afrika Borwa wa 1996; ge e balwa mmogo le Karolo 150 ya Molao wa Taolo ya Matlotlo a Mmasepala, 2003 (Molao 56 wa 2003), ka Mmasepaleng wa Metsesetoropo wa Mangaung le ka Mmasepaleng wa Selegae wa Enoch Mgijim Bobedi bja mebasepala ye e be e itemogela mafokodi ao a tsenelet ego a dit helete le a kabo ya ditirelo lebaka le le telel","After failing for more than two years to implement the financial recovery plan during the provincial intervention, the Metro has now been placed under a national intervention in terms of Section 139(7) of the Constitutio",0.6824726
+"[ 1.1711982  -0.03550812 -0.19646867 ...  1.0688173   1.4136562
+  2.7688265 ]","[ 0.00249482  0.002168   -0.00061509 ...  0.02428906  0.03095758
+  0.00992005]",Lekgotlaphethi i la Profense la Freistata le gapelet egile go bea Mmasepala wa Metsesetoropo wa Mangaung ka fase ga taolo goya ka Karolo 139(5)(a) le (c) ya Molaotheo ka Manthole 2019.,"Enoch Godongwana and the Minister of Cooperative Governance and Traditional Affairs,",0.6165563
+"[ 0.817162    0.0696396  -0.18260159 ...  0.4560107   0.62806094
+  2.5041206 ]","[ 0.01332492  0.00036417 -0.00019614 ...  0.01409288  0.00656699
+  0.05289746]",Leano la kgapelet o la dit helete la go boet a seemo sekeng le ile la felet a le phethagadit we mmasepaleng wo ka 2020.,A mandatory financial recovery plan was subsequently imposed on the municipality in 2020.,0.781541
+"[-0.12441816 -0.4487411  -0.2035748  ... -0.25941533 -0.06884481
+  0.42306322]","[ 3.1667408e-03  2.1820075e-03 -6.8050082e-05 ...  5.8511519e-03
+  2.8389075e-03  5.5122026e-03]",Ka morago ga go,"together with the Minister of Finance, Mr",0.4115464
+"[ 1.3979769   0.65485144 -0.0799796  ...  1.1640935   1.3695679
+  1.66809   ]","[ 1.0567232e-02 -2.5357513e-04 -2.9097723e-06 ...  1.2937200e-02
+  1.0606228e-02  2.1642111e-02]","itwa mengwaga ya go feta ye mebedi go phethagat a leano la go bu et wa seemo sa dit helete sekeng nakong ya ge profense e be e tsena seemo se ka bogare, Mmasepala wo wa Metsesetoropo gabjale o beilwe ka fase ga taolo ya boset haba goya ka Karolo 139(7) ya Molaothe","However, after the municipality failed to make progress in improving its financial and service delivery performance, Cabinet decided to place it under a national interventio",0.65500367
+[1.0776205  0.07121252 0.05600362 ... 1.246038   1.3740253  2.0772061 ],"[ 0.00504785  0.00531197 -0.00059481 ...  0.02797849  0.02842755
+  0.03748976]",Mmasepala wa Selegae wa Enoch Mgijima le ona o gapelet egile go bewa ka fase ga taolo ke Lekgotlaphethi i la Profense la Kapa Bohlabela goya ka Karolo 139(5) (a) ya Molaotheo ka 2018.,The initial Integrated Strategy for Entrepreneurship and Small Enterprises was adopted in 2005.,0.6185622
+"[ 0.46224552 -0.09616063 -0.8845877  ...  0.1883106   0.2089999
+  0.4673358 ]","[-0.00162928  0.00054904 -0.00078434 ... -0.00574096  0.00208824
+  0.02360199]","Le ge go le bjalo, morago ga gore mmasepala o","The Imbizo, convened under the theme:",0.5418326
+"[ 0.89192295  0.00116436 -0.111554   ...  0.67832303  0.92612404
+  0.941436  ]",[0.03594571 0.00881603 0.00043643 ... 0.00513779 0.01038499 0.0222651 ],"itwe ke go gatela pele go kaonafat a bodiragat i bja ona bja dit helete le bja kabo ya ditirelo, Kabinete e t eere sephetho sa go bea mmasepala wo ka fase ga taolo ya boset hab","As an important milestone in our nation s fight against corruption, Cabinet welcomed",0.6820365
+"[ 0.7860557   0.14213802 -0.02384148 ...  0.8894227   0.97435015
+  1.5235149 ]","[-0.00062683  0.00328989  0.00763448 ... -0.00511397 -0.00682812
+  0.03550823]","Phethagat o ya go bewa ka fase ga taolo goya ka Karolo 139(7) ya Molaotheo e ra gore mebasepaleng ye ka bobedi, mmu o wa boset haba o tla t ea magato legatong la Lekgotlaphethi i la Profens Mohuta wo wa magato a go bewa ka fase ga taolo ya boset haba ke kgapelet o ebile a latela tshepedi o ya go swana le ya Karolo 139(5) ya Molaotheo, ntle fela le gore mmu o wa boset haba o tla thoma go rwala maikarabelo a magato a a go bewa ka fase ga taol",hold a media briefieng next week to outline the national interventio Upcoming event1.,0.6093644
+"[ 0.8183462   0.13699858 -0.15531906 ...  1.0270154   1.1800953
+  1.6288377 ]","[ 1.6314972e-02 -6.7550835e-04 -7.9319766e-04 ... -6.8917776e-05
+  1.6950522e-02  1.7501280e-02]","Go kgont ha mo omo wa go thoma go rwala maikarabelo a, Baemedi ba Boset haba ba Kabinete (NCR) ba tlo thwalwa go se goye kae mebasepaleng ye ka bobedi ga yon Tona ya Dit helete o tla nea NCR maatla a go t ea magato ebile o tla thekgwa ke ditsebi t a dihlopha t a magoro a mehutahut Go fihla gabjale ga gona sephetho seo se t eerwego sa go",These strategic pillars are interlinked with the country s National Development Plan:,0.5873591
+"[ 1.3192544   0.01938639 -0.0033685  ...  0.8389735   0.431428
+  1.0712854 ]","[ 0.00701544 -0.00437689 -0.00014415 ...  0.01022033 -0.00713817
+  0.0358837 ]",walalanya khansele ya mmasepala goya ka Karolo 139(5)(b) ya Molaothe,Cabinet Spokesperson Mobile: 083 501 0139,0.64997244
+"[ 0.50332546  0.10222068 -0.49252996 ...  0.28821534  0.23333825
+  0.63380086]","[ 0.0306949  -0.00068672  0.00199616 ...  0.00753201 -0.0016887
+  0.00472741]",Magato a go bewa ka fase ka taolo ya boset haba a tlo thoma go,Best Dance/Electronic Album,0.5712212
