@@ -3,7 +3,7 @@ name: sentence alignment of cabinet speeches
 on:
     push:
         branches:
-            -   'developer/ishe'
+            -   'master'
 
 jobs:
     SentenceAlignment:
@@ -11,10 +11,8 @@ jobs:
         runs-on:    ubuntu-latest
 
         steps:
-            -   name:   Checkout to developer/ishe or master branch
+            -   name:   Checkout to develop/master branch
                 uses:   actions/checkout@v2
-                with:
-                    path: "developer/ishe"
 
             -   name:   Set up Python
                 uses: actions/setup-python@v4
@@ -34,4 +32,3 @@ jobs:
             -   name:   Install python requirements
                 run:    |
                     python -m pip install --upgrade pip
-                    echo running on branch ${GITHUB_REF##*/}
