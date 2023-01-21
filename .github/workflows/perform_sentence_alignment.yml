@@ -52,9 +52,6 @@ jobs:
             -   name:   Commit and push the changes into the repository (master branch) if there are any
                 if: steps.changes.outputs.changed == 1
                 run:    |
-                    git config --global --add safe.directory '*'
-                    git config --local user.email "action@github.com"
-                    git config --local user.name "GitHub Action"
                     git add .
                     git commit -m "📦(SA): Added new aligned files"
                     git push origin master
