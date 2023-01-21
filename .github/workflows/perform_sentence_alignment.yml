@@ -52,6 +52,7 @@ jobs:
             -   name:   Commit and push the changes into the repository (master branch) if there are any
                 if: steps.changes.outputs.changed == 1
                 run:    |
+                    git config --global --add safe.directory /github/workspace
                     git config --local user.email "action@github.com"
                     git config --local user.name "GitHub Action"
                     git add .
