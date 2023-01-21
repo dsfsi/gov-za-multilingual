@@ -27,6 +27,7 @@ Authors
 - Vukosi Marivate - [@vukosi](https://twitter.com/vukosi)
 - Matimba Shingange
 - Richard Lastrucci
+- Isheanesu Joseph Dzingirai
 
 Citation
 --------

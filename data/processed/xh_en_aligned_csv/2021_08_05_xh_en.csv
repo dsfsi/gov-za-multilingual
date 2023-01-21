@@ -1,0 +1,306 @@
+xh,en,src_text,trg_text,Cosine_Score
+"[ 0.8788828   0.03101685 -0.06078941 ...  0.20173371  0.48246408
+  0.87736976]","[ 2.0932467e-03 -2.0482062e-04  4.8137150e-05 ...  1.0729725e-03
+  1.5222376e-03  7.8740409e-03]",IMIBA ENGUNDABAMLONYENI1.,MESSAGES1.,0.78976214
+[1.5176648  0.12962975 0.04485946 ... 0.77301025 1.0483208  1.644151  ],"[ 0.03419523 -0.00022764  0.00482805 ...  0.00854204  0.02645731
+  0.00622743]",Ukukhutshwa kweyeza lokugonya leSifo seNtsholongwane ye-Corona (i-COVID-19),Coronavirus Disease (COVID-19) vaccine roll-out,0.872893
+[0.42714414 0.30530402 0.73950374 ... 0.7283578  0.58324367 2.08847   ],"[ 1.7481713e-02 -4.9061815e-05  3.1262439e-02 ...  3.0582219e-02
+  2.2339400e-02  3.9098211e-02]",Inkqubo yesizwe yokugonya yoMzantsi Afrika iqokelele ngokupheleleyo isantya kwaye icandelo lezempilo (likarhulumente kunye nelabucala) ligonya isigidi esinye sabantu ubuncinane ngeentsuku ezintath,"South Africa s national vaccination programme has fully gathered pace and the health sector (public and private) vaccinates a minimum of 1 million people in 3 day To date, over 8 million South Africans have been vaccinate At the current pace, the President should soon announce a revised target date for the country to reach population immunit",0.8367618
+[0.7810746  0.00757521 0.4189736  ... 1.1553221  1.719463   1.5485443 ],"[ 0.02432381 -0.00104383  0.00343806 ...  0.02974566  0.04023897
+  0.04483544]","Ukuza kufikelela ngoku, bangaphezulu kwezigidi ezisibhozo abantu baseMzantsi Afrika abagonyiwey Kwisantya esikhoyo, uMongameli kufuneka kungekudala abhengeze umhla ohlaziyiweyo ekujoliswe kuwo wokuba ilizwe lifikelele kuwo ekugonyweni koluntu oluninz Ikhabhinethi iyaqhubeka nokucela abemmi boMzantsi Afrika ukuba bagonye, njengoko kusesona sixhobo sisebenzayo kwidabi lokulwa ne-COVID-19.","Cabinet continues to call on South Africans to vaccinate, as it remains our most effective weapon in the fight against COVID-19.",0.7664612
+"[ 0.68900687  0.07580166 -0.12217583 ...  0.52368534  0.9585933
+  1.1904072 ]","[ 0.01161786 -0.00037879  0.00107712 ...  0.00728102  0.03444939
+  0.01622268]","Abantu ngoku bangaya nakweyiphi na indawo yokugonya kunye neencwadi zabo zezazisi, nangaphandle kwedinga, ukuze babhaliswe kwaye bagonyw","People can now go to any vaccination site with their identity documents, even without an appointment, to be registered and vaccinate",0.88628125
+[0.2870561  0.8927076  0.31466454 ... 0.7327223  0.99608654 0.75088084],"[ 0.01793019 -0.0016526   0.00913427 ...  0.0290107   0.03231989
+  0.02289948]","Ikhabhinethi ikwamkele ukuhanjiswa kwamayeza okugonya e-Pfizer ayi-yezigidi kule veki anikezelwe yiMelika, aza kuqinisekisa ukubakho kwamayeza okugonya aneleyo ukomeleza inkqubo yethu yokukhutshwa kweyeza lokugony","Cabinet welcomed the delivery of million Pfizer vaccines this week donated by the United States of America, which will ensure an adequate supply of vaccines to intensify our vaccination roll-out programm",0.8877964
+"[ 0.302424   -0.16473995  0.50271976 ...  0.72960776  0.6035139
+  2.1686022 ]","[ 0.02083887 -0.00464037  0.00086471 ...  0.00644046  0.03684811
+  0.00982785]","Ngomhla woku-1 kweyoMsintsi 2021, abantu abaphakathi kobudala beminyaka eli-18 kunye nama-34 baza kufaneleka ukuba bagonyw","1st September 2021, people between the ages of 18 and 34 will be eligible for vaccinatio",0.8721814
+"[ 0.6492543  -0.15273477  0.36044705 ...  1.0371945   1.3713908
+  0.8315998 ]",[0.01294294 0.00144938 0.02618747 ... 0.00998659 0.04233435 0.01262518],"Ikhabhinethi ikuqaphele ukwehla okubonakalayo kweemeko ezintsha zosuleleko eMzantsi Afrika emva kokuba eli lizwe liye layigqitha ngokusesikweni inkcochoyi yetyeli lesithath Nangona kunjalo, amaphondo amane","Cabinet noted the significant decline in new infection cases in South Africa after the country officially surpassed the peak of the third wav However, four provinces",0.89631844
+"[ 1.2603177  -0.00776111  0.6597489  ...  1.8874911   0.9423077
+  1.4383756 ]","[ 1.6749702e-02 -1.2886701e-03 -2.0422522e-06 ...  5.5128043e-03
+  3.9261673e-02  3.1477712e-02]","iNtshona Koloni (nangona isandula ukubhengezwa njengesenkcochoyini), uMntla Koloni, uMntla Ntshona kunye neFreyistata - bezikade zichaza ukwanda kwamazinga osuleleko lwemihla ngemihl","Western Cape (although just announced a peak), Northern Cape, North West and Free State",0.8198315
+"[ 0.7170844   0.04898873 -0.07820165 ...  0.7793186   0.9836972
+  1.313634  ]",[0.01226763 0.00216801 0.00512916 ... 0.00733007 0.00973015 0.01219052],"Ikhabhinethi iye yasiphinda isicelo sayo kubo bonke abantu baseMzantsi Afrika ukuba baqhubeke nokubambelela kwiinkqubo ezilandelwayo zothintelo lokuNxiba isigqubutheli-buso, Ukuhlamba izandla, ukugcina umgama wasekuhlaleni oyi-yeemitha kunye nokuphepha iindibano ezinkul 2.","Cabinet reiterated its call to all people in South Africa to continue adhering to the prevention protocols of Masking-Up, Washing -Up, Maintaining meter social distance and avoiding large gatherings",0.8790295
+"[ 0.6814104  -0.5725797  -0.579324   ... -0.15060924  0.36107674
+ -0.51570755]","[ 1.1663848e-02 -1.4170658e-05 -9.6822786e-04 ... -3.1928006e-03
+  3.2078412e-03 -2.6034983e-04]",Ukuvulwa kwezikolo,Opening of schools,0.9046864
+"[ 0.60248315 -0.10865531  0.29811284 ...  0.7187662   0.7448452
+  1.1524634 ]","[ 0.0222089  -0.00048972  0.00331611 ...  0.0315867   0.02476301
+  0.06037904]","Ikhabhinethi ikwamkele ukuvulwa kakuhle kwezikolo, ingakumbi ukubuyela ezifundweni kwemihla ngemihla kwabo bonke abafundi abakumabanga aphants","Cabinet welcomed the smooth opening of schools, especially the return of all primary pupils to daily classe Cabinet urged all schools to continue to work within the established COVID-19 health protocol",0.8218211
+"[ 1.0953457  -0.08482293 -0.02153835 ...  0.42891103  1.1226106
+  1.5844505 ]",[0.02538401 0.02728098 0.00467272 ... 0.03739541 0.03941844 0.0214191 ],Ikhabhinethi ibongoze zonke izikolo ukuba ziqhubeke nokusebenza ngokweenkqubo ezilandelwayo zempilo ezisekiweyo ze-COVID-19.,Cabinet approved the Norms and Standards for the safe operations of the Tourism Sector in the context of the COVID-19 and other related pandemic,0.732743
+"[ 0.49570605  0.6923819  -0.01154136 ...  1.0646088   0.77203923
+  1.6972504 ]","[ 0.0191118  -0.00341371 -0.00064585 ...  0.0405048   0.02794367
+  0.04497115]",Isigqibo sokubuyisela bonke abafundi bamabanga aphantsi kwizifundo zemihla ngemihla sithathwe emva kokuthathela ingqalelo yemfuno elungileyo yomntwana kwaye siza kunceda ukubuyisa ixesha lokufunda elilahlekileyo ngexesha elinzima lesizwe lokuma ngxi kweentshukumo,The decision to return all primary pupils to daily classes was taken after considering the best interests of the child and it will help to recover the learning time that was lost during the hard national lockdown,0.8920635
+"[ 0.62569624 -0.11372401 -0.37376133 ...  0.40377542  0.49748737
+  0.15199526]","[ 0.0215891  -0.00373624  0.01011435 ...  0.0182192   0.00401283
+  0.0006249 ]",Isivumelwano semivuzo yaBasebenzi bakaRhulumente,Public Service wage agreement,0.8412045
+"[ 0.6898074   0.4128083  -0.13716136 ...  0.89680034  0.8889537
+  1.4447788 ]","[ 0.02620219 -0.00233334 -0.0003485  ...  0.02496476  0.01097022
+  0.02321348]","Ikhabhinethi ibulele abasebenzi bakarhulumente kunye nabo babandakanyeka kwiingxoxo zemivuzo ngokubeka isizwe sethu nabantu baso phambili, kulandela ukutyikitywa kwangoku kwesivumelwano esihlangeneyo sokunyuswa kwemivuzo yaBasebenzi bakaRhulument","Cabinet thanked public servants and those involved in the salary negotiations for putting our nation and her people first, following the recent signing of the collective agreement on wage increases in the Public Servic",0.8595395
+"[ 0.690151   -0.05301987 -0.21106336 ...  0.41113532  0.99429107
+  0.88730997]","[ 0.02571931 -0.00163807  0.00139402 ...  0.01340153  0.03788903
+  0.03081952]","Ikhabhinethi ichulumancile kukuba onke amaqela abonise ubunkokheli obuhlangeneyo nobuzimiseleyo obungagungqiyo ekufumaneni isisombululo esixhamlisa abasebenzi bakarhulumente kunye nabemmi, kwaye icela bonke abantu ukuba baqhubele phambili kwangalo moya mnye wobambiswano","Cabinet is pleased that all parties showed collective leadership and a steely resolve to find a solution that benefits public servants and citizens, and calls on everyone to move forward in this same spirit of partnership and patriotis 4.",0.8853406
+"[ 1.1471826  -0.00381698 -0.30306488 ...  0.42872444  0.5038671
+  0.12650457]","[ 2.5236947e-02 -2.6697392e-04 -5.0757564e-05 ... -4.0718270e-03
+  7.3652826e-03  7.2718263e-03]",nowokuthanda ilizwe labo,Rebuilding the economy,0.6606003
+"[ 0.10913609 -0.12470764 -0.22464733 ...  0.00464506 -0.213018
+  0.10422938]","[-0.00358278 -0.00429317 -0.00093002 ...  0.00047969 -0.00339706
+  0.00339507]",Iinkcukacha zakutsha nje ngemeko yezokhuseleko,Update on the security situation,0.8309765
+"[ 3.1876986  -0.11490764 -0.15216185 ...  0.50264263  2.1095195
+  0.78151196]",[0.05347182 0.00138186 0.0045927  ... 0.01059088 0.04955879 0.0120397 ],Ikhabhinethi yamkele iinzame zogcino-mthetho ukubuyisela ngokukhawuleza uzinzo kumaPhondo aKwaZulu-Natal nase-Gauten,Cabinet welcomed the efforts of law enforcement to speedily restore stability to the Provinces of KwaZulu-Natal and Gauten,0.9049045
+"[ 0.5665649   0.11131847 -0.07767735 ...  0.43526655  1.3183404
+  0.9819306 ]",[0.02738812 0.00114228 0.00076264 ... 0.00632579 0.03322138 0.0270928 ],Ikhabhinethi kananjalo izincomile ii-arhente zogcino-mthetho ngenkqubela-phambili eziyenzayo ekubambeni abo banoxanduva lokuphembelela ubundlobongela kwaye sithanda ukuqinisekisa abemmi boMzantsi Afrika ukuba asizukushiya ngasemva nabani na ekubambeni abo babangele izidubedube ezenzeke kulamaPhondo mabin,Cabinet also commended law enforcement agencies for the progress they are making in bringing to book those responsible for the incitement of the violence and we would like to reassure South Africans that no stone will be left unturned to bring to justice those responsible for the unrests that took place in the 2 Province,0.9039491
+[0.70877767 0.78002095 0.01587884 ... 0.61398935 1.1504036  0.67677665],[0.02138365 0.03307743 0.02733209 ... 0.00214917 0.01943169 0.01479884],"Ukuza kufikelela ngoku, bayisithandathu abarhanelwa abasele bebanjiwe kwaye bavelile kwiinkundla zamatyala ezahlukeneyo ngokuphembelela izidubedube zasesidlangalaleni kwaye ii-arhente zogcino-mthetho kunye neGunya lezoTshutshiso leSizwe zixakekile ngokuqinisekisa ngotshutshiso oluyimpumelel","To date, 06 number of suspects have been arrested and appeared in various courts for incitement of public and law enforcement agencies and the National Prosecution Authority are seized with ensuring successful prosecution",0.8927103
+[0.73395246 0.02316015 0.5500618  ... 0.82892776 1.5811974  1.944527  ],[0.03405594 0.00205042 0.00091894 ... 0.01976291 0.04521086 0.06258504],"Ikhabhinethi iqwalasele ukuba inani labantu abaswelekileyo ngenxa yobundlobongela lihlaziyiwe layakufikelela kuma-354, ngamanani abantu abaswelekileyo abhengeziweyo adityaniswa nezidubedube zase-Gauteng ezingatshintshanga elikuma-79 kunye nama-275 e-KZN ukusukela izolo, umhla we-4 kweyeThupha 2025.","Cabinet noted that the number of deaths as a results of the violence has been revised to 354, with the numbers of reported deaths linked to the unrests in Gauteng unchanged at 79 and 275 in KZN as of yesterday, 04 August 2025.",0.90949506
+[0.861834   0.07388657 0.66656286 ... 0.28562647 0.7695476  0.71437424],[0.00755518 0.00134404 0.0062572  ... 0.0111913  0.0229849  0.0557664 ],"Kumanani abantu abaswelekileyo abhengeziweyo e-KZN, kwiSixeko","For the numbers of reported deaths in KZN, eThekwini Metro accounts for the highest number at 122.",0.72012603
+"[ 0.6244566  -0.26802984  0.42027235 ...  0.41059178  0.6883917
+  1.190701  ]","[ 0.02046406 -0.00494268 -0.00032854 ...  0.02436622  0.00742294
+  0.04390388]",esimbaxa saseThekwini enza elona nani liphezulu elikwi-122.,"Cabinet approved the submission of the Older Persons Amendment Bill of 2021 for tabling in Parliamen The Bill amends the current Older Persons Act, 2006 (Act 13 of 2006).",0.6526329
+[0.13342321 1.636144   0.09030174 ... 0.36623722 0.8412249  1.9091576 ],[0.00245027 0.04222268 0.00131913 ... 0.00862608 0.01515685 0.04304253],"Kubantu abaswelekileyo ababhengezwe eThekwini, abangama-36 babhengezwe e-Phoenix (ukubulawa kwabantu abangama-29 namaphando ayisixhenxe, kwaye ukuza kufikelela ngoku, abarhanelwa abangama-22 babanjiwe ngenxa yokubulala e-Phoenix kwaye bavele enkundleni yamatyala).","Of the deaths reported in eThekwini, 36 were reported in Phoenix (29 murders and 7 inquests, and to date, 22 suspects have been arrested for the murders in Phoenix and appeared in cour",0.91739273
+[0.7189371  0.04877368 0.01132325 ... 1.585884   1.4144082  0.69604725],"[2.7565582e-02 1.5354832e-03 7.7991186e-05 ... 2.6896220e-02 3.7255511e-02
+ 2.6126660e-02]","Ikhabhinethi ibongoza uluntu lwase-KZN ukuba lusebenze kunye kwaye luxhase iinzame zikarhulumente zokulungisa iinkxalabo kunye neemvakalelo zobuhlanga ezigrogrisa ukujongela phantsi iimfundiso zookhokho bethu boMzantsi Afrika olinganayo wentando yesininzi, ongenabuhlanga abanikezela ngenkululeko yabo nangobomi bab 5.","Cabinet urges the communities in KZN to work together and support government efforts to address racial tensions and undertones that threaten to undermine the values the founding fathers of a democratic, non-racial and equal South Africa gave up their freedom and lives for",0.88545895
+"[ 0.57174146 -0.37169617 -0.02998888 ... -0.02401609 -0.02034867
+ -0.17487332]","[ 0.00733842  0.00035684 -0.0007631  ... -0.00269579  0.00484391
+  0.00118707]",Ukwakha ngokutsha uqoqosho,Energy,0.7172533
+"[ 1.9826418  -0.00953602  0.1665582  ...  1.3822117   1.5276442
+  0.61871135]",[0.04152379 0.02065542 0.00829739 ... 0.04059415 0.06405703 0.00247359],"Ikhabhinethi yamkele izigidigidi ezingama-36 eeRanti zenkxaso yoncedo loqoqosho ezivela kurhulumente njengonikezelo lwesibini lwesindululo samangenelelo okubuyisela ilizwe kwisimo sangaphambili ngenxa yefuthe lobhubhane we-COVID-19 nelenziwe mandundu zizidubedube nakukonakaliswa kweempahla zamashishini okwenzeke KwaZulu-Natal, e-Gauteng nakwezinye iindawo zaseMpumalanga (nangona bezincinane kakhulu).","Cabinet welcomed the R36 billion in economic relief support from government as a second set of a package of interventions to get the country back on its feet from the impact of the Covid-19 pandemic and exacerbated by the unrests and destruction of business properties that took place in KwaZulu-Natal, Gauteng and some parts of Mpumalanga (albeit at a very small scale).",0.8855047
+"[ 0.39266506 -0.07564078  0.6637231  ...  0.8636188   0.90215033
+  1.3294281 ]","[ 0.02042902 -0.00070754  0.04171568 ...  0.01760862  0.02369131
+  0.03676372]",Ubuninzi bolu ncedo luNcedo lweNtlalo lweSibonelelo soNxunguphalo olungama-R350 okunciphisa ubuhlwempu kunye nendlala kwabona bantu bahlelelekileyo eluntwini kunye nezindululo zokuxhasa abasebenzi kunye namashishin Urhulumente usaqhubekeka nokufuna isindululo senkxaso eyongezelelweyo ukuqinisekisa ukuvuseleleka koqoqosho ngokukhawuleza ngokuhambelana nesiCwangciso sokuVuselela noKwakha ngokutsha uQoqosh,The bulk of this relief is for the R350 Social Relief of Distress Grant to alleviate poverty and hunger amongst the poorest of the in society and the support packages for employees and businesse Government continues to seek additional support package to ensure a speedy economic recovery in line with the Economic Reconstruction and Recovery Pla,0.8684186
+"[ 0.62661874 -0.22480094 -0.03607524 ...  1.3013281   1.3439063
+  1.4018178 ]","[ 0.00950793 -0.00071049  0.00457907 ...  0.04853227  0.0397824
+  0.02324054]","Umsebenzi wokwakha ngokutsha uqoqosho ngowabantu bonke boMzantsi Afrik Ikhabhinethi icele bonke abemmi kunye necandelo labucala ukuba bazibandakanye neenzame zethu zesizwe zokwakha ngokutsha ngokuhlangeneyo, ngokungcono nangokukhawulezileyo ukwenzela uMzantsi Afrika onempumelelo, olinganayo kunye nongcon 6.","The task of rebuilding the economy belongs to all South African Cabinet called on every citizen and the private sector to join our national efforts to rebuild together, better and faster for a prosperous, equal and better South Africa",0.8923087
+"[ 0.41456196 -0.27032998 -0.06516801 ...  0.1765264   0.021041
+ -0.05445363]","[ 0.00235307 -0.00415091  0.01191015 ...  0.00799844  0.01299947
+  0.01362393]",Amandla ombane,Women s Day,0.6162243
+"[ 0.5662498  -0.1694957  -0.16813071 ...  0.6902676   0.7215672
+  0.9899328 ]","[ 2.4688378e-02 -8.5241358e-05  5.9580808e-03 ...  1.7742928e-02
+  3.9365284e-02  2.1282991e-02]",Ikhabhinethi ikwamkele ukugqitywa kweSitishi Sombane seMedupi esinazo zonke iiyunithi ezintandathu zokuvelisa umbane ngokupheleleyo kwiziko lamandla ombane lesizw,Cabinet welcomed the completion of Medupi Power Station with all the six generation units fully on the gri This will go a long way in alleviate the pressure on the grid and government remains focussed on ensuring energy securit,0.80820155
+"[ 0.57949257 -0.18561067 -0.02415761 ...  0.99715436  0.971453
+  0.84211755]","[-0.00083089 -0.0004758   0.00229288 ...  0.01959469  0.02133761
+  0.00408211]",Oku kuyakuthatha ixesha elide ukunciphisa uxinzelelo kwiziko lamandla ombane lesizwe kwaye urhulumente uhlala egxile ekuqinisekiseni ukufumaneka kwamandla omban,Government has urged both the management and employees of ESKOM to stay the course and deliver on the outstanding power stations including renewables,0.6896558
+"[ 0.5779806  -0.08216012 -0.07961757 ...  0.7205239   1.5355366
+  1.4519477 ]","[ 0.00540302 -0.00066889 -0.00022004 ...  0.01456975  0.05501637
+  0.02731794]","Ikhabhinethi inqwenela ukuvuyisana noNks Zandi Shange, uMlawuli weProjekthi yeSitishi Sombane seMedupi ngokuzisa eli ziko likhulu lamandla ombane ukuba lisebenze ngokupheleley Njengokuba kubhaliwe kwimbali yobunjineli bokwakha, abasetyhini belizwe lethu baza kumelwa ngokupheleleyo njengoko uNks Shange engowasetyhini wokuqala wase-Afrika ukufezekisa le projekthi inkulu kangak","Cabinet wishes to congratulate Ms Zandi Shange, the Project Director for Medupi Power Station for bringing this mammoth power plant fully onlin As the history of construction engineering is written, the women of our country will be fully represented as Ms Shange is the first African women to deliver a project of this magnitud",0.90593195
+"[ 0.51340383 -0.208051   -0.15914677 ...  1.1958965   0.6517261
+  0.52094215]","[ 0.01147358 -0.00019845 -0.00032036 ...  0.02197433  0.04979919
+  0.04628024]",Urhulumente ubongoze abaphathi kunye nabasebenzi base-ESKOM ukuba basebenze kude kubesekugqibeleni kwaye bagqibezele izitishi zombane ezingekagqitywa kuquka nezivuselelekayo,"Cabinet approved the incorporation of the SEFA and CBDA into the SED The merger of these entities will enable an integrated government support to small, micro and medium enterprises as well as cooperatives with effect from 1st April 2022.",0.7344462
+"[ 0.76249397 -0.22310303 -0.38219342 ...  0.6548096   0.9978325
+  1.1481178 ]","[ 1.5068669e-02  3.4813595e-03 -3.4178101e-05 ...  1.5193062e-02
+  2.1221278e-02  3.0976102e-02]",Iwonga lokuba nguMakhi-mkhanyo wakwa-Sirayeli kwiKhomishini yeManyano yase-Afrika (i-AUC),Israel Observer Status in the African Union (AU) Commission (AUC),0.78675294
+"[ 0.6168686  -0.01540968 -0.2413128  ...  1.0520115   0.89572287
+  1.0998608 ]",[0.01207436 0.00570485 0.00628483 ... 0.03014384 0.02890368 0.02613736],Ikhabhinethi iyasichasa ngamandla isigqibo esingenabulungisa nesesomntu omnye esenziwe nguSihlalo we-AUC sokunika uSirayeli iwonga lokuba ngumakhi-mkhanyo kwi-A I-AU ngummeli osemthethweni wawo wonke amazwe angamalungu e-Afrika ekufuneka kuboniswene nawo ngezigqibo ezinjal,Cabinet strongly objects to the unjust and unilateral decision by the Chairperson of the AUC to grant Israel observer status in the A The AU is the legitimate representative of all African member states that should be consulted on such decision,0.8794935
+"[ 0.71437335 -0.08652289 -0.20081158 ...  0.9189675   0.86092275
+  1.4587357 ]","[ 0.01264846 -0.00233467  0.0075771  ...  0.01271253  0.01559819
+  0.00550821]","I-AU iquka iminqweno yabo bonke abantu base-Afrika kwaye ithwele uphawu lokuzithemba kubunkokheli bayo babantu base-Afrik Ngoko ke, kufanele ukuba izame ukuthatha izigqibo ezingangqubaniyo nemigaqo yoMqulu we-A","The AU embodies the aspirations of all Africans and carries the mark of confidence in its leadership of the African people Therefore, it should endeavour to take decisions",0.8684252
+"[ 0.5734734   0.11935738 -0.01499874 ...  0.7832196   2.0148535
+  1.6181434 ]",[0.0090017  0.00388287 0.00081965 ... 0.0147897  0.03095514 0.03672299],"Ukuqhubeka kokuhlala koSirayeli ePalestina kuhlala kungenabulungisa kwaye kulihlazo ngokupheleleyo, kwaye kuhlutha amalungelo oluntu lwasePalestin Esi sigqibo somntu omnye silandela ukuhlaselwa ngokungenabulungisa kwakutsha nje kwamaPalestina amsulwa ngamaSirayeli eMpuma Jerusalemu nase-Gaz","The continued occupation of Palestine by Israel remains totally unjust and shameful, and takes away the human rights of Palestinian This unilateral decision follows the recent unjust attacks on innocent Palestinians by the Israelis in East Jerusalem and Gaz",0.9147923
+"[ 0.58528477 -0.02155202 -0.21863657 ...  1.1268234   0.9983077
+  0.8941145 ]",[0.023058   0.00416917 0.00239447 ... 0.03010714 0.03017663 0.03437336],"Ikhabhinethi icela i-AU ukuba iphinde iqwalasele isigqibo sayo sokunika uSirayeli iwonga lokuba ngumakhi-mkhanyo kwi-A Ihlala izinikele ngokungathandabuzekiyo kwiinzame ezijolise ekuvuseleleni inkqubo yezopolitiko ezakukhokelela ekumisweni kwelizwe lasePalestina elinokubakhona, elihlalisana ngemvisiswano kunye noSirayel","Cabinet calls on the AU to reconsider its unilateral decision to grant Israel an observer status in the A It remains unequivocally committed to efforts aimed at reviving a political process that would lead to the establishment of a viable Palestinian state, existing side by side in peace with Israe",0.8923749
+"[ 0.5911111  -0.29460326 -0.24286498 ...  0.34989712  0.17151697
+  0.513254  ]","[ 0.00408866 -0.00296827 -0.00060771 ...  0.00854465 -0.00353386
+  0.01201626]",IZIGQIBO ZEKHABHINETHI 1.,CABINET DECISIONS1.,0.8410877
+"[ 0.78539705 -0.09790582 -0.09459966 ...  0.5506109   0.89905554
+  0.51065326]","[ 0.00842306 -0.00163998  0.00627095 ...  0.01501178  0.01166802
+  0.01495321]",Isikhumbuzo seNyanga yaBasetyhini,Women s Month commemoration,0.781196
+[1.1555882  0.8613254  0.25996664 ... 1.1404908  1.3430223  1.3657852 ],[0.01719457 0.02890068 0.00563923 ... 0.02497286 0.02565995 0.03616773],"Ikhabhinethi iwuvumile umxholo kunye nemisebenzi yesikhumbuzo seNyanga yaBasetyhini yalo nyaka, onika imbeko kwabasetyhini abangaphezulu kwama-20 000 abamatsha besiya kwiZakhiwo zoMdibaniso ezisePitoli ngomhla we-9 kweyeThupha 1956 beqhankqalazela ukwandiswa kweMithetho yamaPasi kwabasetyhin","Cabinet approved the theme and activities for the commemoration of this year s Women s Month, which pays tribute to the more than 20 000 women who marched to the Union Buildings in Pretoria on 9 August 1956 in protest against the extension of Pass Laws to wome",0.87745917
+"[ 0.39461172 -0.2767123  -0.26141864 ... -0.00107714  0.48973805
+  1.0273901 ]","[ 0.01153043 -0.00041427 -0.00014858 ... -0.00173317  0.0053967
+  0.02734035]",Imisitho yalo nyaka iza kubhiyozelwa phantsi komxholo othi:,This year s events will be celebrated under the theme:,0.8701208
+"[ 1.2554986  -0.00532547 -0.15693873 ...  0.24061036  0.8218586
+  0.30048907]","[ 0.01674993 -0.00064189 -0.00058697 ...  0.02432949  0.02735583
+  0.00903766]",Unyaka ka-Charlotte Maxeke: Ukufezekisa Amalungelo Abasetyhini .,The Year of Charlotte Maxeke: Realising Women s Rights .,0.79662436
+"[ 1.6812922  -0.11115222 -0.37550244 ...  0.72195464  1.2805074
+  0.91084236]",[0.04939978 0.00143685 0.00523621 ... 0.01241431 0.04074209 0.00668466],Umxholo uhambelana nombhiyozo wonyaka wonke wesikhumbuzo seminyaka eli-150 seqhawe loMzabalazo u-Charlotte Mannya Maxek,The theme is aligned to the year-long celebration of the 150th anniversary of Struggle stalwart Charlotte Mannya Maxek,0.8819313
+"[ 2.42058     0.06158739 -0.04339486 ...  1.069636    1.2926484
+  1.7810518 ]","[ 0.06213331  0.00775039 -0.00080294 ...  0.03344337  0.03612968
+  0.04477093]","Izenzo zesibindi zaba bantu basetyhini ziyasikhuthaza ukuba sakhe ngokutsha isizwe sethu ukuze somelele emva kobundlobongela basesidlangalaleni kutshanje KwaZulu-Natal nase-Gauteng, nakwimpembelelo yezentlalo nezoqoqosho kunye neyezempilo ye-COVID-19.","The brave actions of these women encourage us to rebuild our nation to become stronger after the recent public violence in KwaZulu-Natal and Gauteng, and from the socio-economic and health impact of COVID-19.",0.9313123
+"[ 0.49703783 -0.13757332 -0.18003917 ...  0.7414771   0.46436515
+  1.0998333 ]","[ 0.02769588 -0.00186864  0.00032775 ...  0.0042121   0.00385446
+  0.02198544]","Ezi ziganeko zisibonisile ukuba xa sibambisene njengesizwe esithanda uxolo nesithobela umthetho, singawoyisa nawuphi na umceli-mngeni osichaphazelay","These incidents have showed us that when we stand together as a peace- loving and law-abiding nation, we can overcome any challenge that affects u",0.89770234
+"[ 0.7564562   0.7491758  -0.01607721 ...  0.5913588   0.61637
+  0.9046534 ]","[ 0.02690456 -0.00253097  0.00472684 ...  0.00933112  0.02209481
+  0.00886669]","Ngelixa ilizwe lethu lenze imigudu emikhulu yamalungelo abasetyhini, kuninzi ekufuneka kwenziwe ukuzinzisa ukulingana ngokwesini kunye nokulwa imbandezelo yobundlobongela obusekelwe kwisini kunye nokuxhatshazwa kwabasetyhini kuluntu lweth","While our nation has made great strides for women s rights, more needs to be done to entrench gender equality and fight the scourge of gender-based violence and abuse of women in our societ",0.87585616
+[0.63267386 1.8527747  0.12951827 ... 0.89393824 0.7401011  1.4400136 ],[0.01505599 0.01464911 0.00543024 ... 0.02627016 0.03038926 0.05768142],Ikhabhinethi icela onke amacandelo oluntu ukuba enze imigaqo-nkqubo yethu yokulingana ngokwesini ibe yinto eyenzeka ngokwenyani kwaye bathathe amanyathelo okulwa ubundlobongela obujoliswe kwabasetyhini ngokuthi baxele abenzi bobubi kwisikhululo samapolisa esikufutshane,Cabinet called on all sectors of society to make our policies on gender equality a lived reality and take a stand against violence against women by reporting perpetrators to the nearest police statio 2.,0.8826664
+"[ 0.76192224  0.6012319  -0.09960107 ...  0.6671559   1.054621
+  0.70794886]","[ 0.00691632  0.01806366 -0.00012569 ...  0.01302743  0.02872631
+  0.00688788]",Ingxelo yoPhando lweKomiti yabaPhathiswa abohlukeneyo (i-IMC) ngeNkqubo yeSizwe yoNcedo lwezeMali yaBafundi (i-NSFAS),Report of the Inter-Ministerial Committee (IMC) Inquiry on the National Student Financial Aid Scheme (NSFAS),0.90301263
+"[ 0.50238955  0.39669132 -0.25177178 ...  0.46807072  0.7846608
+  0.9561987 ]","[ 0.01283656  0.02346969 -0.00035689 ...  0.03027248  0.0259847
+  0.05012714]",Ikhabhinethi ikuvumile ukukhutshwa kwengxelo yoPhando lwe-IMC kwi-NSFA,"Cabinet approved the release of the report of the IMC Inquiry into NSFA The committee was appointed in May 2020 to look into the business processes, systems and capacity of the NSFAS to deliver on its mandat",0.76840144
+"[ 0.4287839  -0.10655966 -0.2937961  ...  0.69418305  0.7926803
+  1.5202215 ]","[ 3.4334850e-02  2.8088512e-02 -7.0630347e-05 ...  1.9640910e-02
+  1.8999064e-02  3.1215288e-02]","Le komiti yamiselwa ngoCanzibe ngowama-2020 ukuba ijonge iinkqubo zeshishini, iinkqubo kunye namandla e-NSFAS ekufezekiseni igunya lay","The conference was organised collaboratively with relevant government departments, research community and civil societ The conference culminated in the setting up of a Forum for Migration and Urbanisation Data and Research to serve as a knowledge resource to support the work of migration and urbanisatio 7.",0.7220614
+"[ 1.3314898   0.6620339  -0.07071079 ...  0.83069634  1.8649752
+  2.2320306 ]","[ 1.9175876e-02  2.2255421e-02 -8.3274943e-05 ...  1.8664826e-02
+  3.3610243e-02  5.1919438e-02]",Uphando lujolise konobangela beengxaki ezifunyenwe yi-NSFAS kunye nokuphunyezwa kwenkqubo entsha yebhasari ukususela ngowama-2018.,The investigation focused on the root causes of the problems experienced by NSFAS and the implementation of the new bursary scheme since 2018.,0.90624994
+"[ 0.4967899   0.28495666 -0.23484798 ...  0.42830536  0.8513841
+  0.6061371 ]","[ 0.01737257  0.02848685 -0.00026961 ...  0.00396401  0.03624629
+  0.00587226]",Olu phando lunikezele ngeengcebiso ezixabisekileyo zokuphucula ukusebenza kwe-NSFA,The enquiry provided valuable recommendations towards improving the operations of NSFA,0.84456486
+[0.39982533 0.02701489 0.78867346 ... 0.34103557 0.38047627 0.5603599 ],"[ 0.00843772 -0.00214201  0.00978535 ...  0.05284209  0.05353754
+ -0.00032858]",Ikhabhinethi iyivuyele into yokuba ezinye zezi ngcebiso sele ziphunyeziw,Cabinet appreciated that some of these recommendations have already been implemente The report can be accessed through the Department of Higher Education and Training website: wwdhegoza,0.6762738
+"[ 0.97148466  0.03396076 -0.11025933 ...  0.7394745   1.2767556
+  0.45203358]","[ 0.00552057  0.00585324  0.00534645 ... -0.00172053  0.0462194
+  0.05238177]",Ingxelo ingafunyanwa kwiwebhusayithi yeSebe leMfundo ePhakamileyo kunye noQeqesho ku: wwdhegoza,"The designation affords South Africa an opportunity to grow its science and engineering technology and innovation sector, and puts the country in the map as a global player in the space science",0.7140404
+"[ 0.49678352 -0.39629263 -0.40459862 ...  0.7164384   0.1618626
+  1.132768  ]","[ 0.00202163 -0.00118256 -0.00052897 ...  0.02131967  0.00256854
+  0.0243517 ]",IsiCwangciso seZiseko zophuhliso zeSizwe (i-NIP) sowama-2050,National Infrastructure Plan (NIP) 2050,0.87568605
+"[ 0.7314071  -0.08229113 -0.25460276 ...  0.89869505  0.55465865
+  0.7300231 ]",[0.00737485 0.00152014 0.01150245 ... 0.04598544 0.02959229 0.02722767],Ikhabhinethi ikuvumile ukupapashwa kwe-NIP yama-2050 ukuze uluntu luhloml,"Cabinet approved the publication of the NIP 2050 for public commen The plan drives the country s infrastructure investment drive, which also integrates African economies through some of its regional project",0.7639729
+"[ 0.44209248 -0.10908645  0.48200387 ...  1.3266835   0.951747
+  0.6960505 ]","[ 0.00735601 -0.00110552  0.00057853 ...  0.02577699  0.0342553
+  0.03216245]","Esi sicwangciso siqhuba iphulo lotyalo-mali kwiziseko zophuhliso lwelizwe, esikwahlanganisa uqoqosho lwase-Afrika ngokusebenzisa ezinye zeeprojekthi zalo zengingq",Cabinet approved the submission to Parliament the revised agreement (AFRA) for another five year AFRA is an intergovernmental agreement established by African member states to further strengthen and enlarge the contribution of nuclear science and technology to socio-economic development on the African continen South Africa has been an active member of AFRA and it collaborates with other member states to promote the agreement s objectives on the African continent,0.72132784
+"[ 0.38889202 -0.1011808  -0.06623205 ...  0.83635217  0.4521842
+  0.7842832 ]","[-2.4820309e-05  1.6725044e-03 -2.2528897e-05 ...  3.4508057e-02
+  1.3852155e-02  1.1934452e-02]","Ukongeza ekuqhubeni ukukhula koqoqosho, siza kujongana neengxaki zexesha lobandlululo zokuhlaliswa koluntu ngendlela engenabulungis","In addition to driving economic growth, it will also address the legacy of apartheid spatial injustice It is anchored on the participation of government, business, state- owned entities and civil societ",0.73591805
+"[ 0.40535712 -0.00286197 -0.20412746 ...  1.3130332   0.46861896
+  0.82324564]","[ 3.2935370e-02 -8.3817489e-05  3.6899536e-04 ...  1.7101040e-02
+  2.5457539e-02  1.6594777e-02]","Esi sicwangciso sisekwe ekuthatheni inxaxheba kukarhulumente, amashishini, amaziko aseburhulumenteni kunye nolunt",governance institutions; support to growing inland fisheries value chains; management of a sustainable inland fishing and addresses the issues of equity and transformation of the secto,0.72823906
+"[ 1.4116745  -0.16027176 -0.05370124 ...  1.4220227   1.3077881
+  1.5532587 ]","[ 0.02157074 -0.00021219 -0.00078087 ...  0.03462142  0.01653382
+  0.03500503]","Amacandelo aso aphambili aquka amandla ombane, uthutho lweempahla, amanzi kunye nonxibelelwano lwedijithal I-NIP 2050 izakufakwa kwigazethi kungekudala ukuze kudliwane indlebe nolunt 4.","Its priority sectors include energy, freight transport, water and digital communicatio The NIP 2050 will soon be gazetted for public consultation",0.870031
+"[ 0.41986227 -0.11564529 -0.18294282 ...  0.89869434  1.2040583
+  0.7454449 ]","[-0.00087769 -0.00150728 -0.00074461 ...  0.0268756   0.03144858
+  0.01760991]",Ukuhlanganiswa kwe-Arhente yoNcedo lwezeMali lwamaShishini amaNcinane (i-SEFA) kunye ne-Arhente yoPhuhliso lweeBhanki zeNtsebenziswano (i-CBDA) kwi-Arhente yoPhuhliso lwamaShishini amaNcinane (i-SEDA),Incorporation of the Small Enterprise Finance Agency (SEFA) and Cooperative Banks Development Agency (CBDA) into the Small Enterprise Development Agency (SEDA),0.9111264
+"[ 0.48177692 -0.03411063 -0.03684988 ...  1.0469018   1.0839233
+  2.4355626 ]","[ 0.01575792 -0.0001905   0.03206507 ...  0.00346258  0.01833965
+  0.07321074]","Ikhabhinethi ikuvumile ukufakwa kwe-SEFA kunye ne-CBDA kwi-SED Ukudityaniswa kwala maziko kuza kubangela inkxaso karhulumente ohlanganiswe kumashishini amancinane, kwamancinane kakhulu, kunye naphakathi kunye nomanyano lwamashishini ukususela ngomhla woku-1 kuTshazimpunzi 2022.",Cabinet endorsed the National Conference on Migration and Urbanisation in South Africa held virtually from 26 to 30 July 2021.,0.7529956
+"[ 0.44986865 -0.09060441 -0.19568048 ...  0.69444346  0.9980305
+  0.87414306]","[ 0.01682233 -0.00048018  0.00243607 ...  0.01863036  0.02454574
+  0.04700247]",I-arhente enye esisindululo iza kubonelela ngazo zombini inkxaso yezemali kunye nengeyiyo eyezemali kula mashishin,"A proposed single agency will provide both financial and non-financial support to these businesse By pooling all the resources together, the agency will be more impactful and accessible in all the districts and metro",0.7629131
+"[ 0.36228964 -0.16683045 -0.12188348 ...  0.8817085   0.722306
+  0.668537  ]",[0.0286088  0.0015999  0.00227705 ... 0.02449592 0.00884941 0.02180771],"Ngokudibanisa yonke imithombo ndawonye, i-arhente iza kuba nefuthe nangakumbi kwaye ifikeleleke kuzo zonke izithili nakwizixeko ezimbax","The conference took stock of the available data, knowledge and information on migration and urbanisation trends in the countr Such information serves as evidence base for policy and programme development, including planning in all three spheres of governmen",0.68901175
+[0.871711   0.1136983  0.06812599 ... 0.6344682  1.1115961  2.2724357 ],"[ 0.02024321  0.00348267  0.00278457 ... -0.00043385  0.01848604
+  0.06380441]","Ukudityaniswa okuvunyiweyo kuzakukhokelela kuqukaniso ngokutsha kwe-SEDA (okuyakuthi kuthiywe igama ekuhambeni kwexesha) ngokwemiqathango yoMthetho woLawulo lweMali kaRhulumente, ka-1999 (Umthetho woku-1 ka-1999) ukusuka kwiSicwangciso 3A ukuya kutsho kwiziko leSicwangciso sesi-4.","The approved incorporation will result in the reclassification of SEDA (which will be renamed later) in terms of the Public Finance Management Act, 1999 (Act 1 of 1999) from a Schedule 3A to a Schedule 2 entit",0.8840202
+"[ 0.56968343 -0.10219295  0.18491137 ...  0.99621004  0.54371953
+  1.661961  ]",[0.02647627 0.05804773 0.01007624 ... 0.03452885 0.0301959  0.05110478],Ikhabhinethi ikuvumile ukongezwa kwexesha lokusebenza kweBhodi ye-SEFA ukuya kutsho kumhla wama-31 kweyoKwindla 2022 ukuze kubenakho ukulungelelwaniswa koqaliso lolungiselelo lotshintsh 5.,Cabinet approved the proposed pre-release calendar for the publication of the quarterly crime statistics for the 2021/22 financial yea The proposed remaining pre-release calendar crime statistics is August 2021 for quarter one and November 2021 for quarter tw Crime statistics for quarter three and quarter four will be released in February and May 2022 respectivel BILLS1.,0.74843466
+[1.2077458  0.28390458 0.00192212 ... 0.7416919  1.0081909  0.9752364 ],"[ 0.0322699   0.00918238 -0.0005404  ...  0.04194848  0.03453301
+  0.0086019 ]",Iindlela zokuziphatha kunye neMigangatho yokusebenza ngokukhuselekileyo kwezokhenketho ngexesha le-COVID-19 kunye nabanye oobhubhane,Norms and Standards for the safe operation of tourism during COVID-19 and other pandemics,0.8904208
+[1.0062371  0.44467807 0.17668422 ... 0.8102414  1.1322955  1.1862043 ],"[ 0.0186495   0.02979782 -0.00065534 ...  0.03828157  0.06150759
+  0.03351569]",Ikhabhinethi izivumile Iindlela zokuziphatha kunye neMigangatho yokusebenza ngokukhuselekileyo kweCandelo lezoKhenketho ngokwemeko ye-COVID-19 kunye nabanye oobhubhane abanxulumene nok,"The norms and standards provide common minimum health and safety measures that will ensure uniformity across the tourism secto They will cover services such as accommodation, food, tour operators, casinos, weddings and other related activitie",0.75595516
+"[ 0.8283191   0.8751123  -0.12167925 ...  0.89435124  1.535769
+  0.9447398 ]","[ 0.0108808  -0.00154482 -0.00030524 ...  0.03966537  0.01233522
+  0.02631728]","Iindlela zokuziphatha kunye neMigangatho zibonelela ngamanyathelo amancinane axhaphakileyo ezempilo kunye nokhuseleko eziza kuqinisekisa ngokulingana kwicandelo lezokhenketho lilonk Ziza kubandakanya iinkonzo ezinje ngendawo yokuhlala, ukutya, abasebenzi bezokhenketho, iindawo okungcakaza (iikhasino), imitshato kunye neminye imisebenzi enxulumene nok","The amendments seek to strengthen measures that protect older person It improves the services offered to older persons such as social support, health, community-based and residential-based car",0.73924804
+"[ 0.6888613  -0.16995968  0.3886569  ...  1.5280199   0.90793884
+  1.4106245 ]","[ 0.0118358  -0.00132835  0.0009827  ...  0.04715766  0.0196513
+  0.03764794]",Ngoku sikwizinga elinye kunye neemarike zehlabathi kwaye kuzakwenza ukuba icandelo libenakho ukuvuleka ngokupheleleyo ukufika kwabakhenkethi behlabathi,We are now at par with international markets and it will enable the sector to fully open for international tourist arrivals,0.8842876
+"[ 0.27703807 -0.3540678  -0.07164633 ...  0.83487624  0.7848647
+  0.7057317 ]",[0.02091774 0.00080067 0.00012693 ... 0.00342555 0.021738   0.02387952],Inkomfa yeSizwe yokuFuduka kunye nokuHlala kwabantu eziDolophini eMzantsi Afrika,National Conference on Migration and Urbanisation in South Africa,0.8931298
+"[ 0.46830502 -0.07924179  0.18350014 ...  1.1224773   0.96867603
+  2.2007823 ]","[ 0.03386977 -0.00057549  0.00863911 ...  0.02449568  0.03836091
+  0.06220327]",Ikhabhinethi ixhase Inkomfa yeSizwe yokuFuduka kunye nokuHlala kwabantu eziDolophini eMzantsi Afrika ebibanjwe ngokubonana kwikhompyutha ngomhla wama-26 ukuya kutsho kowama-30 kweyeKhala 2021.,"President Cyril Ramaphosa will deliver the virtual Women s Day address on Monday, 9 August 2021, as part of our country s celebration of Women s Month under the theme:",0.72542155
+"[ 0.5321926  -0.23428527  0.39505553 ...  0.46434993  0.9274138
+  2.4075007 ]","[ 0.00696785  0.00048361  0.03147985 ...  0.01044456 -0.00096233
+  0.04635805]",Ukufuduka kunye nokuhlala kwabantu ezidolophini kube yinxalenye yezinto eziphambili zeMigaqo-nkqubo emine yoMzantsi Afrika ukusukela ngowama-2012.,Migration and urbanisation have been part of South Africa s four Population Policy priorities since 2012.,0.8830935
+"[ 0.6201087   0.17816484 -0.03905102 ...  0.9137448   0.57252175
+  1.1483762 ]",[0.01851374 0.00068985 0.00119294 ... 0.02784972 0.02374133 0.01370246],"Inkomfa ithathe ulwazi olufumanekayo kunye neenkcukacha malunga neentsingiselo zokufuduka kunye nokuhlala kwabantu ezidolophini elizwen Iinkcukacha ezinjalo zisebenza njengesiseko sobungqina bomgaqo-nkqubo kunye nophuhliso lwenkqubo, kuquka ukucwangciswa kuwo omathathu amanqanaba karhulument","The Act was meant to create an enabling environment in which NPOs could be formed and function optimall Overtime gaps have been identified, particularly on smaller NPOs and community-based organisation",0.7457881
+"[ 0.68145186  1.0802042  -0.10930222 ...  1.3514451   0.57011425
+  0.60473424]","[ 0.01662488  0.00462408 -0.0002138  ...  0.01283184  0.02772525
+  0.01705397]","Le nkomfa ibiququzelelwe ngentsebenziswano kunye namasebe karhulumente afanelekileyo, abaphandi basekuhlaleni kunye nolunt Le nkomfa ifikelele kuvutho ndaba ekumiseleni iQonga leeNkcukacha noPhando lokuFuduka kunye nokuHlala kwabantu eziDolophini ukuze lisebenze njengomthombo wolwazi wokuxhasa umsebenzi wokufuduka kunye nokuhlala kwabantu ezidolophin","The proposed amendment addresses the challenges faced by smaller NPOs; deals with abuse of NPOs and simplifies accessibility procedure It also proposes the setting up of the NPO Registrar to strengthen the servicing, monitoring and promotion of transparency and accountability of the NPO",0.7543294
+"[ 0.95288205 -0.18165393 -0.14707989 ...  1.1259022   0.90259486
+  1.1903664 ]","[ 0.02816435  0.00161147  0.00121823 ... -0.00135079  0.04600741
+  0.03309306]",Unyulo loMzantsi Afrika njengoMbutho wezoPhapho weHlabathi (i-ICAO) oliZiko leMozulu yoMmandla waseMajukujukwini elichongiweyo,South Africa s election as an International Civil Aviation Organization (ICAO) designated Regional Space Weather Centre,0.8592905
+"[ 0.8617139  -0.13350773 -0.176811   ...  1.1382959   1.7909547
+  1.6659269 ]","[ 0.01208885  0.00487894 -0.00037924 ...  0.0287204   0.01985023
+  0.05717182]",Ikhabhinethi ivumile yaza yamkela ukunyulwa koMzantsi Afrika njengeZiko leMozulu loMmandla waseMajukujukwini le-ICA,Cabinet approved and welcomed the designation of South Africa as a Regional Space Weather Centre for ICA This was announced after South Africa received excellent audit results from ICA,0.8033304
+"[ 0.65665996 -0.13373274 -0.15936285 ...  0.541169    1.3798723
+  1.0637512 ]",[0.01869115 0.00175507 0.00399289 ... 0.00737167 0.01500821 0.03889163],Oku kubhengezwe emva kokuba uMzantsi Afrika ufumene iziphumo zophicotho-zincwadi ezigqwesileyo kwi-ICA,"South Africa, through the South African National Space Agency, has been designated to provide space weather information that is now an adopted standard by ICAO for all aviation requirement",0.7362597
+"[ 0.9034424  -0.00148227 -0.02950573 ...  0.8780827   1.2815259
+  1.3501048 ]",[0.01083803 0.03076494 0.00151904 ... 0.03059793 0.04073928 0.04026024],"UMzantsi Afrika, ngokusebenzisa i-Arhente yeSizwe yaseMajukujukwini yaseMzantsi Afrika, uchongiwe ukuba ubonelele ngeenkcukacha zemozulu yasemajukujukwini ngoku engumgangatho owamkelwe yi-ICAO yazo zonke iimfuno zophaph",South Africa has been given three years to upgrade its current limited capacity to meet ICAO s requirement The requirements require 24-hours/seven-days operations with an established team of trained forecasters and specialist space researcher It has also been granted permission to collaborate with the Pan- European Consortium for Aviation Space Weather User Servic,0.75249493
+[0.66628516 0.3054096  0.22552088 ... 1.1762557  1.2187332  1.2526743 ],"[ 0.0209277  -0.00077215 -0.00029847 ...  0.02309484  0.03951509
+  0.03226313]",UMzantsi Afrika unikwe iminyaka emithathu ukuba uphucule amandla wawo aqingqekileyo angoku ukuze uhlangabezane neemfuno ze-ICA Iimfuno zifuna imisebenzi yeeyure ezingama-24/iintsuku ezisixhenxe kunye neqela elisekiweyo labaqikeleli abaqeqeshiweyo kunye nabaphandi basemajukujukwini abaziingcal,"CongratulationsCabinet extended its congratulations and well-wishes to:Tatjana Schoenmaker, for claiming South Africa's first Olympic gold medal in Tokyo, Japan after competing in the women's 200m breaststroke final in a world record tim She had earlier won a silver medal during the 100m breaststrokBianca Buitendag, for winning silver in the women s surfing final These outstanding achievements at the Tokyo Olympics bring our nation s medal tally to three",0.6953025
+"[ 1.0032945  -0.10003901 -0.14937963 ...  0.7367426   1.0007867
+  1.3106267 ]","[ 3.3203829e-02 -4.0766460e-04 -7.6724893e-05 ...  7.2948462e-03
+  3.2308899e-02  1.7514430e-02]",Ikwanikwe imvume yokusebenzisana neNtlangano yamaqumrhu Onke aseYurophu yeNkonzo yokuSebenzisa iMozulu yoPhapho lwaseMajukujukwini i-Pan-European Consortium for Aviation Space Weather User Servic,Ms Danile Nyakale as a representative of the Industrial Development Corporation on the Board of the State Diamond Traders,0.65233815
+"[5.9430152e-01 4.2424339e-04 1.9861630e-01 ... 2.6947609e-01 1.6566771e+00
+ 2.0657012e+00]","[ 0.03059033  0.00031897 -0.00024252 ...  0.01077656  0.03670069
+  0.02364006]","Eli wonga linika uMzantsi Afrika ithuba lokukhulisa icandelo lalo lezobunzululwazi nelobugcisa bezenjineli kunye nelokuqalisa izinto ezintsha, kwaye libeka ilizwe emephini njengomdlali wehlabathi kwinzululwazi yasemajukujukwini","CondolencesCabinet expressed condolences to the family and friends of:Mr Shona Ferguson (47), the television (TV) and film producer and actor who contributed enormously to the development of the country s film industrMr Clive Scott (84), the TV veteran and legendary actor who graced our screens for many yearMr Pandelani Jonathan Mudziwa Makhado (99), a veteran political activist who was one of the leaders of the 1960 anti-pass campaign, and who also dedicated his life to the struggle for democracy and freedoMama Thalitha Monica Lebea-Mampuru (87), who fought tirelessly for the liberation of this country as well as a non-racial, non-sexist and a free South Afric She was the 1st Matron of the Solomon Mahlangu Freedom College (SOMAFCO).Mr Geoff Makhubo (53), the Executive Mayor of the City of Johannesburg; a selfless and hardworking leader who championed service deliver He was a Regional Chairperson of the African National CongresMr Luthendo Benedict Sigogo (49), the Acting Mpumalanga High Court Judge and Commissioner of the Judicial Service Commission, with a stellar career in the legal profession, and was a dedicated champion of transformatio He also served as the president of the Black Lawyers AssociatioFamily and relatives of members of Parliament who have recently passed on",0.6654146
+"[ 0.5478151   1.1377717  -0.2336743  ...  0.26653123  1.1901917
+  0.54120976]","[1.25929015e-02 2.52527930e-02 3.13666278e-05 ... 1.13500534e-02
+ 3.70337926e-02 1.82787366e-02]","IsiVumelwano seNtsebenziswano seMimandla yase-Afrika soPhando, uPhuhliso kunye noQeqesho olunxulumene neNzululwazi kunye noBugcisa beNyukliya (i-AFRA)","African Regional Cooperative Agreement for Research, Development and Training related to Nuclear Science and Technology (AFRA)",0.91924226
+"[ 0.6832674  -0.03553451 -0.21251254 ...  0.96950585  0.84150594
+  1.764726  ]","[ 0.01263383 -0.00281435 -0.0003897  ...  0.04439396  0.01138319
+  0.05964722]",Ikhabhinethi ikuvumile ukungeniswa ePalamente kwesivumelwano esihlaziyiweyo (i-AFRA) kangangeminye iminyaka emihlan,"Cabinet approved the publication of the draft NPO Amendment Bill for public commen The Bill amends the current NPO Act, 1997 (Act 71 of 1997).",0.6892953
+"[ 0.36355352 -0.01873632 -0.08645548 ...  1.6676574   0.9941098
+  1.2567933 ]","[ 0.05243859 -0.00120585 -0.00164079 ... -0.00134338  0.03210849
+  0.02846323]",I-AFRA sisivumelwano sangaphakathi soorhulumente esisekwe ngamazwe angamalungu e-Afrika ukuqinisa ngakumbi kunye nokwandisa igalelo lezenzululwazi kunye nobugcisa benyukliya kuphuhliso lwezentlalo noqoqosho kwilizwekazi lase-Afrik,Adv Nomalanga Petronella Sithole as Chief Executive Officer of the National Energy Regulator of South Africa,0.65097034
+"[ 0.46727556 -0.21755636 -0.1303276  ...  0.86771446  1.1832579
+  1.940734  ]","[ 0.01658977  0.00253615 -0.00030851 ...  0.02383639  0.01989561
+  0.03479061]",UMzantsi Afrika ubelilungu elisebenzayo le-AFRA kwaye uyasebenzisana namanye amazwe angamalungu ukukhuthaza iinjongo zesivumelwano kwilizwekazi lase-Afrik 9.,The proposed Bill introduces the monitoring and evaluation of services offered to older person It also provides for the removal of older persons with disabilities from a hostile or unhealthy environment without obtaining a Court Orde 2.,0.6591009
+"[ 1.0620203  -0.17015243 -0.03509286 ...  1.0556645   0.89753824
+  0.7663364 ]","[ 0.03328069 -0.00102465  0.00844245 ...  0.02420807  0.0442315
+ -0.00311176]",UMgaqo-nkqubo weSizwe wezokuLoba ngokuBanjwa kweNdalo kuManzi acocekileyo (kwiindawo eziphakathi nelizwe),Cabinet approved the National Freshwater (Inland) Wild Capture Fisheries,0.82426894
+"[ 0.97977567 -0.00670949 -0.0848395  ...  1.1601849   1.0504656
+  0.6705957 ]","[ 0.02979363 -0.00046012  0.00498915 ...  0.01381507  0.04181656
+ -0.0028688 ]",Ikhabhinethi iwuvumile umgaqo-nkqubo weSizwe weSizwe wezokuLoba ngokuBanjwa kweNdalo kuManzi acocekileyo (kwiindawo eziphakathi nelizwe),National Freshwater (Inland) Wild Capture Fisheries Policy,0.75852966
+"[ 0.33901304 -0.33765998 -0.88036925 ...  0.05205574  0.21151905
+  0.33344996]","[ 0.0333687  -0.00450028 -0.00337803 ... -0.00920606  0.01423008
+  0.02951902]",ukuze uphunyezw,APPOINTMENTSAll appointments are subject to the verification of qualifications and the relevant clearance,0.55579376
+[0.44239572 0.50009406 0.22932641 ... 1.2312826  1.6326808  0.65864927],"[ 1.3543763e-02  3.3448797e-02  3.4528217e-05 ...  7.8441883e-03
+  4.1535981e-02 -1.2059386e-03]",Umgaqo-nkqubo ubonelela ngolawulo olusebenzayo kwicandelo lokuloba kwiindawo eziphakathi nelizw Ikwacwangcisa ngokusesikweni imisebenzi engamiselwanga yangoku kunye nengaziwayo yamashishini abalobi abakhasay,fisheries secto It also formalises the currently informal and unrecognised activities of small-scale fisherie,0.7803395
+"[ 0.86708736 -0.03396239 -0.08751559 ...  0.7812424   1.4547378
+  0.62666047]","[ 0.00634853  0.00377508 -0.00058325 ...  0.01376182  0.02525062
+  0.00525078]","Umgaqo-nkqubo, phakathi kwezinye izinto, ubonelela ngokumiselwa kwamaziko olawulo lwamashishini abalobi bophuhliso; inkxaso yokukhulisa imixokelelwano yamashishini abalobi abakwiindawo eziphakathi kwelizwe; ulawulo lokuloba okugcinakalayo kwindawo ephakathi kwelizwe kunye nokulungisa imiba yobulungisa kunye nenguqu yecandel","The policy, amongst others, provides for the setting up of developmental fisheries",0.6820052
+"[ 0.906803    1.8563837  -0.15380724 ...  0.99701935  0.45788154
+  1.8201969 ]","[ 2.9121805e-02  6.7008227e-02 -3.8114340e-05 ... -5.0551710e-03
+  1.0629818e-02  7.4224189e-02]",Ikhalenda ekhutshwa kwangaphambili esisindululo sokupapashwa kweenkcukacha-manani zolwaphulo-mthetho zonyaka-mali wama-2021/22 1 Ikhabhinethi iyivumile ikhalenda ekhutshwa kwangaphambili esisindululo sokupapashwa kweenkcukacha-manani zolwaphulo-mthetho zonyaka-mali wama-2021/22.,Proposed pre-release calendar for the publication of crime statistics for the 2021/22 financial year1,0.77094126
+[0.73350906 1.9968501  1.5122198  ... 0.9335364  0.96436065 1.7631544 ],"[ 0.01247925 -0.00401744  0.00128434 ...  0.00553228  0.01983268
+  0.03872911]",Isindululo esiseleyo seenkcukacha-manani zolwaphulo-mthetho zekhalenda ekhutshwa kwangaphambili yeyeThupha wama-2021 yekota yokuqala kunye neyeNkanga wama-2021 yekota yesibin Iinkcukacha-manani zolwaphulo-mthetho zekota yesithathu nezekota yesine ziza kukhutshwa kweyoMdumba nangoCanzibe wama-2022 ngokwahlukeney,March 2022 to enable the alignment to the commencement of the transitional arrangement,0.6698785
+"[ 0.53627414 -0.1681182  -0.16509004 ...  0.3435234   0.10677285
+  0.45178568]","[-0.00018523  0.00449687 -0.00057569 ...  0.00189751 -0.00278017
+  0.01646384]",IMITHETHO-SIHLOMELO 1.,UPCOMING EVENT1.,0.6401162
+"[ 0.30687007 -0.24706835 -0.06648587 ...  0.6672402  -0.08095521
+  1.4363054 ]","[ 0.00928327 -0.01123967 -0.00241611 ...  0.01280584 -0.00473121
+  0.03758345]",UMthetho-sihlomelo Oyilwayo waBantu abaDala wama-2021,Older Persons Amendment Bill of 2021,0.79403096
+"[ 0.6201637  -0.02835408 -0.04950676 ...  0.7610827   0.7744352
+  1.2098833 ]","[ 0.00213347 -0.00290755 -0.00107461 ...  0.01017787  0.0176197
+  0.01812597]",Ikhabhinethi ikuvumile ukungeniswa koMthetho-sihlomelo Oyilwayo waBantu abaDala wama-2021 ukuba uthiwe thaca ePalament,Policy for implementatio The policy provides an efficient regulatory regime for the inland,0.70697725
+"[ 0.58229256  0.0321528  -0.17028756 ...  0.74001384  0.591345
+  1.4788271 ]","[ 0.00130421 -0.00147829 -0.0001639  ...  0.00376183  0.00679263
+  0.04115653]","Lo Mthetho ulungisa uMthetho waBantu aBadala wangoku, wama-2006 (uMthetho we-13 wama-2006).",Draft Non-Profit Organisations (NPO) Amendment Bill of 2021,0.64059776
+"[ 0.24178448 -0.03410762 -0.20652798 ...  0.09370903  0.5455934
+  0.4346483 ]","[-0.00056213  0.00624425  0.04430145 ...  0.00477255  0.00424232
+  0.01031769]",Ezi zilungiso zifuna ukomeleza amanyathelo akhusela abantu abadal,have been recording increases in daily new infection rate,0.58820677
+"[ 0.44140974 -0.05609116  0.06809238 ...  0.6165452   0.55320626
+  0.71805376]","[ 0.02764446 -0.00015874 -0.0003997  ...  0.02035716  0.02659116
+  0.01044453]","Uphucula iinkonzo ezinikezelwa kubantu abadala ezinje ngenkxaso yezentlalo, eyezempilo, eyezoluntu kunye neyonakekelo olujolise kubahlal",Additional Board of Directors of the South African Diamonds and Precious Metals Regulator:(i),0.6454896
+"[ 0.4112958   0.02266989 -0.13751866 ...  0.4427839   0.6744857
+  0.7987625 ]","[ 0.01070572 -0.00468971  0.00097851 ...  0.01698696  0.01673764
+  0.06155962]",UMthetho-sihlomelo ophakanyiswayo wazisa ngokubekwa kweliso nangovavanyo lweenkonzo ezinikezelwa kubantu abadal,Cabinet approved the extension of the Board of SEFA to the 31st,0.6451331
+"[ 0.4653531   0.0053187  -0.06360144 ...  0.7836366   0.5226188
+  1.3071138 ]","[ 3.2491278e-02  1.2302354e-03  2.4322580e-05 ... -9.7866380e-04
+  3.4068108e-02  1.8097760e-02]",Ukwabonelela ngokususwa kwabantu abadala abakhubazekileyo kwindawo enohlaselo okanye engenampilo ngaphandle kokufumana uMyalelo weNkundla,Ms Ndivhuho MunyaEnquiries:Ms Phumla Williams,0.5561044
+"[ 0.46382338 -0.17273837 -0.3631113  ...  0.7289096   0.36682168
+  1.6142104 ]","[ 2.2365225e-02  9.2743612e-05  2.2979142e-04 ... -2.1636952e-03
+  2.9111542e-02  2.3212092e-02]",Uyilo loMthetho-sihlomelo Oyilwayo weMibutho Engenzi Nzuzo (ii-NPO) wama-2021,Ms Lusanda Nomasongo Netshitenzhe (Chairperson);(ii),0.6528949
+"[ 0.45133746 -0.0160354  -0.2746555  ...  0.76146406  0.5840442
+  0.5739845 ]","[ 0.01674993 -0.00064189 -0.00058697 ...  0.02432949  0.02735583
+  0.00903766]",Ikhabhinethi ikuvumile ukupapashwa koMthetho-sihlomelo Oyilwayo we-NPO ukuze uluntu luhloml,The Year of Charlotte Maxeke: Realising Women s Rights .,0.60632086
+"[ 0.39693937 -0.06845657 -0.32240358 ...  0.905765    0.64239395
+  1.9090797 ]",[0.05212689 0.0011062  0.00033823 ... 0.01684511 0.04335367 0.01248618],"Lo Mthetho-sihlomelo ulungisa uMthetho we-NPO wangoku, ka-1997 (uMthetho wama-71 ka-1997).",Ms Precious Hlengiwe Makoe,0.5308342
+"[ 0.41409504  0.02859173 -0.00929932 ...  1.3717489   1.270968
+  0.4804945 ]","[ 4.5604479e-02  8.1796115e-03 -5.6731111e-05 ... -3.9076926e-03
+  3.8232673e-02  2.6828406e-02]","Umthetho wawenzelwe ukuvelisa imeko evumela ii-NPO ukuba zisungulwe kwaye zisebenze ngokugqibeleley Izithuba zexesha elongezelelweyo ziye zaziwa, ingakumbi kwii-NPO ezincinane nakwimibutho yolunt",Mr Virendra Gangaram Magan; and(ii),0.5486315
+"[ 0.29457632  0.10266462 -0.0992537  ...  0.8493018   0.68884784
+  0.7259902 ]","[ 0.06748322 -0.00112377 -0.00104794 ... -0.00332403  0.00884937
+  0.01118693]","Olu yilo luphakanyisiweyo lulungisa imiceli-mngeni ejongene nee-NPO ezincinane; lujongana nokuphatha gadalala kwee-NPO kwaye lwenza lula iinkqubo zokufikelelek Lwenza isindululo sokusekwa koMgcini-zincwadi zobhaliso lwe-NPO ukomeleza unikezelo lweenkonzo, ukubeka esweni kunye nokukhuthaza kokwenziwa kwezinto elubala kunye noxanduva lwee-NP",Dr James Fraser Bourhill; and(v),0.5353396
+"[ 0.25548792 -0.33357775 -0.21230663 ...  0.19298312  0.47886226
+  1.1247627 ]","[ 0.00980162 -0.0033715  -0.00078007 ...  0.00912488 -0.00173329
+  0.03020796]",UMSITHO OZAKULANDELA1.,ISSUES IN THE ENVIRONMENT1.,0.5490614
+"[ 0.7242218  -0.35160202 -0.2373233  ...  0.14816822  0.53680444
+  0.34530467]","[ 0.00368236 -0.00475362  0.00044468 ...  0.00985675 -0.00769426
+  0.03373469]",Usuku lwaBasetyhini,Cabinet SpokespersonCell: 083 501 0139,0.49388924
+[1.645077   0.04093578 0.09696356 ... 0.7161786  1.4227906  2.080571  ],"[ 0.01806657  0.00033825 -0.00012332 ... -0.00360556  0.03317289
+  0.02098956]","UMongameli Cyril Ramaphosa uza kwenza intetho yoSuku lwaBasetyhini ngoMvulo, umhla we-9 kweyeThupha 2021, njengenxalenye yokubhiyozela ilizwe lethu leNyanga yaBasetyhini phantsi komxholo othi:",Mr Masopha Moshoeshoe;(iii),0.5425123
+"[ 1.2554986  -0.00532547 -0.15693873 ...  0.24061036  0.8218586
+  0.30048907]","[ 0.02936231 -0.00160062 -0.00134369 ...  0.00478662  0.01572943
+  0.01676595]",Unyaka ka-Charlotte Maxeke: Ukufezekisa Amalungelo Abasetyhini .,Adv Anthonie Viviers;(iv),0.5741471
+"[ 0.3709374  -0.1373083  -0.29566813 ...  0.16049162  0.11906455
+  0.41722143]","[ 1.8053805e-02 -1.5527983e-06  1.9277180e-04 ...  9.4289500e-03
+  1.3613009e-02  2.6357200e-02]",IMIYALEZO1.,which are not in conflict with the principles of the AU Charte,0.29336968
+"[ 0.7834067  -0.04889004 -0.1224909  ...  0.6817177   1.8137263
+  1.5807631 ]","[ 0.01432504 -0.002857   -0.00122244 ...  0.0077234   0.01010378
+  0.01473443]","Uvuyiswano Ikhabhinethi ivakalisa ukuvuyisana kunye neminqweno emihle ku: Tatjana Schoenmaker, ngokufumana imbasa yegolide yokuqala ye-Olimpiki yoMzantsi Afrika e-Tokyo, e-Japan emva kokhuphiswano lokugqibela lomgama oyi-200m lwe-breaststroke kwabasetyhini ngexesha lerekhodi yehlabath Ngaphambili uye waphumelela imbasa yesilivere kumgama oyi-100m we- breaststrokBianca Buitendag, ngokuphumelela isilivere kukhuphiswano lokugqibela lokutyibiliza ngamaz",Board of Directors of the Land Affairs Board:(i),0.4548021
