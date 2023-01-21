@@ -1,0 +1,230 @@
+zu,en,src_text,trg_text,Cosine_Score
+"[ 0.12172295 -0.33622175  0.258443   ... -0.05734028  0.22555247
+  0.25355998]","[ 0.00778594 -0.0007077   0.00053992 ...  0.00284386  0.00279296
+  0.00283432]",Ezisematheni1.,Economy,0.7883593
+"[ 0.12403445 -0.36763138  0.46801898 ... -0.0150638   0.20936784
+  0.07780506]","[ 0.0055456   0.10863436  0.0014488  ... -0.00156413 -0.00342323
+ -0.00016912]",Umnotho,Crime,0.7482959
+"[ 0.50250804 -0.2527955   2.9546719  ...  1.2370169   0.95554966
+  2.7488256 ]","[ 0.01182612 -0.00174731  0.11171225 ...  0.03755266  0.03249948
+  0.07145927]","IKhabhinethi lamukele ukwehla kancane kwezinga labantu abangasebenzi kuleli lizwe, okwehle nge-, kusuka kuma-3 kwikota yokuqala kwaya kuma-3 kwikota yesibili ngowezi-2022.","Cabinet welcomed the slight decline in the country s unemployment rate, which dropped by percent, from 3 in the first quarter to 3percent in the second quarter of 2022.",0.9060507
+[0.93697023 0.01895912 1.9103719  ... 0.6441148  0.8883864  0.9975918 ],[0.02650982 0.00206013 0.03083766 ... 0.01329854 0.01013236 0.03366211],"Amanani ashicilelwe kuCwaningo Lwabasebenzi Lwekota ngabeZezibalo eNingizimu Afrika abonisa ukuthi imisebenzi eminingi ebe khona ibe semkhakheni wezoMphakathi Nezinsiza Zenhlalo (276 000), wezoHwebo (169 000), weZezimali (128 000) kanye nowoKwakha (104 000).","The figures published in the Quarterly Labour Force Survey by Statistics South Africa show that the biggest job gains were recorded in Community and Social Services (276 000), Trade (169 000), Finance (128 000) and Construction (104 000).",0.90627396
+"[ 0.3156742  -0.32347012  2.7335753  ...  1.033164    0.8808909
+  2.43249   ]","[ 0.003169   -0.00025772  0.06670545 ...  0.0399767   0.02630427
+  0.06667893]","Inani eliphelele labantu abaqashiwe lime kwizigidi eziyi-1kwikota yesibili ngowezi-2022, kwathi inani labantu abangasebenzi lakhula ngezi-132 000 laya ezigidini eziyi-kwikota yesibili ngowezi-2022 uma kuqhathaniswa nekota eyedlul","The total number of employed persons stood at 15, 6 million in the second quarter of 2022, and the number of unemployed persons increased by 132 000 to 8, 0 million in the second quarter of 2022 compared to the previous quarte",0.91608214
+"[ 0.5493308  -0.00549315 -0.11165993 ...  0.85379606  1.0161966
+  0.3524426 ]","[8.85718409e-03 7.08271982e-05 4.77549527e-03 ... 4.43733707e-02
+ 1.93800237e-02 1.29417945e-02]",Le mpumelelo engatheni kodwa ejabulisayo ibonisa ukuthi inhlanganisela yemizamo kahulumeni ekanye nozakwabo emiphakathini yokukhulisa umnotho nokusungula imisebenzi edingekayo isiqala ukuthela izithel,These modest yet impressive gains show that the concerted efforts by government and its social partners to grow the economy and create much-needed jobs are beginning to bear frui,0.89241457
+"[ 0.50429416 -0.19264925 -0.00850643 ...  0.6470535   0.49520954
+  1.4852407 ]","[ 1.9468840e-02 -4.1309548e-05 -1.3945278e-04 ...  2.2748163e-02
+  1.7525762e-03  3.4885831e-02]","Lokhu kungubufakazi bokuthi uma sonke sisebenza ngokubambisana siphikelele phambili ngamandla ahlangene, singazinqoba izinselele ezibhekene nomnotho weth","This is a testament to the fact that if we all work together by harnessing our collective strengths, we can overcome the challenges facing our econom",0.85787815
+"[ 0.32722127 -0.08529101  0.02419813 ...  0.9271273   0.6469769
+  0.8010149 ]",[0.01218107 0.00139241 0.00065826 ... 0.02305007 0.01702972 0.01442265],"IKhabhinethi liyakuqonda ukukhungatheka kwabantu baseNingizimu Afrika njengoba bethwele kanzima ukuphila nsuku zonke ngenxa yezindleko eziphezulu zempilo kanye nezinga eliphezulu labantu abangasebenz Njengohulumeni onakekelayo, silokhu sizimisele futhi sizinikele ekusebenzisaneni nozakwethu emiphakathini ukwakha ikusasa elingcono lawo wonke umunt Uhulumeni usalokhu ezinikele ekwesekeni amabhizinisi alapha ekhaya ngokuthenga impahla nokusebenzisa izinsiza zalapha ekhaya","Cabinet understands the frustrations of South Africans as they struggle to go about their daily lives owing to the cost of living and high unemployment rat As a caring government, we remain determined and committed to working together with our social partners to build a better tomorrow for everyon Government remains committed to supporting local businesses by buying local goods and services",0.90656
+"[ 0.24457337 -0.0855981  -0.0620409  ...  0.54719526 -0.28775254
+ -0.04347839]","[ 0.00317568 -0.00055323  0.00012978 ...  0.00647747 -0.00561066
+ -0.00298943]",Ingqalasizinda Yomphakathi,Public infrastructure,0.7794516
+"[ 2.4197726  -0.01647972 -0.15568961 ...  0.9105284   1.1894351
+  1.3094666 ]","[ 0.03599494 -0.00082297  0.00045902 ...  0.02972131  0.04257071
+  0.01080704]",Ikhabhinethi liyakugxeka kakhulu ukucekelwa phansi kwengqalasizinda ngabahlali basoThongathi KwaZulu Natali ngesikhathi bebhikishela amanz IKhabhinethi licela ukuthi kwehliswe amaphaphu futhi kubekezelwe njengoba umsebenzi usuqalile wokulungisa iSizinda Samanzi oThongath,Cabinet condemned the destruction of infrastructure by Tongaat residents in KwaZulu-Natal during a protest over access to wate Cabinet called for calm and patience as work is underway to restore the Tongaat Water Treatment Work,0.85872114
+"[ 8.4639621e-01 -2.9843894e-04  3.4399550e-02 ...  7.3775136e-01
+  2.8230554e-01  8.2228583e-01]","[ 0.01623381 -0.00081253 -0.0003208  ...  0.03669006  0.00658506
+ -0.00281108]","IKhabhinethi liyakuqonda ukukhungatheka kwabahlali okufanele basebenzise izimoto zamathangi amanzi isikhathi esengeziwe selokhu kwaba nezikhukhula ekuqaleni kwalo nyak Noma kunjalo, udlame nesiphithiphithi akusona isixazululo, futhi ukucekelwa phansi kwengqalasizinda yomphakathi kulimaza imiphakathi esendaweni kuphela","Cabinet understands the frustrations of residents who have had to use water tankers for an extended period since the flooding earlier this yea However, violence and anarchy are not a solution, and the destruction of public infrastructure only hurts local communities",0.88518155
+"[ 0.48523125 -0.01954641 -0.1661383  ...  0.57504827  0.0206528
+  1.1548103 ]","[ 0.0085302  -0.00073236  0.00238188 ...  0.0185788  -0.0045133
+  0.02549889]",ISichibiyelo soMthetho Wezindlela Zokusebenza Zomasipala Bohulumeni Basekhaya sezi-2022,Local Government Municipal Systems Amendment Act of 2022,0.8569934
+"[ 1.452653    0.47537124 -0.10259232 ...  1.242229    0.87464356
+  1.5027452 ]","[ 0.02847798 -0.00128083  0.00398576 ...  0.01979058  0.02034165
+  0.04515892]","IKhabhinethi lamukele ukusayinwa kufakwe emthethweni iSichibiyelo Somthetho Wezindlela Zokusebenza Komasipala Bohulumeni Basekhaya, sezi-2022 (Umthetho wesi-3 wezi-2022) nguMongameli u-Cyril Ramaphos Lo Mthetho uhlose ukuthuthukisa ikhono kanye namazinga okuziphatha kohulumeni basekhay Lo mthetho uyingxenye yemizamo kahulumeni yokusebenza ngokulandela umthetho Kwezemisebenzi Kahulumeni kanye nokuqinisekisa ukuhlinzekwa okusimeme kwezinsiza kubantu, njengelungelo elihamba phambili elilotshwe kuMthethosisekelo waseNingizimu Afrika wangowe-1992.","Cabinet welcomed the signed into law the Local Government Municipal Systems Amendment Act, 2022 (Act 3 of 2022) by President Cyril Ramaphos The Act aims to improve the capacity and ethical standards of local governmen The law forms part of government s efforts to professionalise the Public Service and ensure the sustainable provision of services to the people, as a basic right enshrined in the Constitution of the Republic of South Africa of 1992.",0.9112056
+[0.41278648 0.00843366 0.2573293  ... 0.97950184 0.7778226  0.8959023 ],"[ 0.01840002 -0.00171889  0.00982936 ...  0.00866006  0.0254384
+  0.01800324]","Lo Mthetho ucacisa inqubo okumele ilandelwe uma kuqashwa abantu ezikhundleni zokuphath Manje usuvimbela izikhulu eziphethe kuhulumeni ukuthi zibe nezikhundla emahhovisi amaqembu epolitik Ngalo Mthetho futhi, izikhundla ezingenabantu zabaphathi bomasipala kulindeleke ukuthi zikhangiswe kuzwelonke ukuze kuzohehwa abantu abaningi abafanelekile abangafaka izicelo zalezi zikhundl","The Act specifies the processes to be followed for senior position appointment It now prevents senior public officials from holding political office in political partie Also with this Act in place, vacant municipal manager posts are expected to be advertised nationally to attract a wide pool of suitable candidate",0.88167334
+"[ 0.44573903 -0.1123597  -0.27225855 ...  0.56220186  0.72191983
+  0.94749427]","[ 0.02058833 -0.00097853 -0.00017786 ...  0.00633907  0.02283238
+  0.03946626]",IKhabhinethi liyazethemba ukuthi lezi zinguquko zizoqinisekisa ukuthi labo abaqashwayo noma abakhethwayo kulezi zikhundla bazokwazi ukugcina izethembiso zabo ukuze sizokwazi ukuba nempilo engcono yawo wonke umuntu,Cabinet is confident that these changes will ensure that those who are appointed or elected into these positions will be able to deliver on their promises so that we can achieve a better life for all,0.9062983
+"[ 0.5717485   4.553577    0.0925995  ... -0.12667413 -0.2565639
+ -0.07082888]","[-0.00366134 -0.00078529  0.00867198 ...  0.00058287  0.01755215
+  0.00937484]",Ubugebengu,South Africa,0.71494263
+[1.3936304  1.5754406  0.20411018 ... 0.5500591  1.2458721  2.7684627 ],"[ 0.03494519 -0.00044326  0.00440215 ...  0.02303164  0.03831121
+  0.07169686]","IKhabhinethi lincome izikhulu ezisebenza ngentela eSikhungweni Esiqoqa Intela eNingizimu Afrika ngokushaqa izidakamizwa ze-crystal meth ezingama-785 kg ezingabiza inani eliyizigidi ezingama-R236 esikhumulweni sezindiza i-OR Tambo International Airport ngeSonto, mhla wama-28 kuNcwaba 2022.","Cabinet commended the South African Revenue Service s customs officials for seizing 785 kg of crystal meth with a street value of R236 million at the OR Tambo International Airport on Sunday, 28 August 2022.",0.9177881
+"[ 0.4399108   2.7755892  -0.06990188 ...  0.8302503   1.1163858
+  0.6042328 ]","[ 0.00059064  0.06425176 -0.00019639 ... -0.00216026  0.02337366
+  0.01207684]",Ukushaqwa kwalezi zidakamizwa kuzothumela isexwayiso kuzigelekeqe sokuthi imingcele yethu engenayo nephumayo ivikelwe kakhulu futhi amahhovisi ethu asebenza ngokuzikhandla ukuqeda nya ubugebeng,The drug bust will send a clear warning to criminal syndicates that our ports of entry and exit are well protected and our officers are working hard to stamp out any criminalit,0.8578098
+"[ 0.39207047 -0.22572657 -0.3353854  ...  0.5726221   0.11196823
+  0.48716938]","[ 0.00408866 -0.00296827 -0.00060771 ...  0.00854465 -0.00353386
+  0.01201626]",Izinqumo zeKhabhinethi1.,Cabinet decisions1.,0.8546453
+"[ 0.6530094   0.96855825 -0.00901325 ...  0.43323094  1.0993551
+  1.1220665 ]","[ 8.9568188e-03  1.2038571e-02 -6.2986430e-05 ...  7.2045531e-03
+  3.0965323e-02  2.6453784e-02]",UMbiko Womkhandlu Wezemfundo Ephakeme (i-CHE) Wophenyo lokuKhokhelwa kwamaPhini oShansela Emanyuvesi kanye Nabaphathi Abakhulu eNingizimu Afrika,Report of the Council on Higher Education (CHE) Enquiry into the Remuneration of University Vice Chancellors and Senior Executive Managers in South Africa,0.8904905
+"[ 1.4345473   0.54318434 -0.1019343  ...  0.97530144  0.4576751
+  2.47466   ]",[0.03565235 0.01377498 0.01698419 ... 0.03204675 0.01471475 0.06830109],"IKhabhinethi litshelwe kafushane ngemiphumela yophenyo lwe-CHE eyayijutshwe ngowezi-2020 nguNgqongqoshe Wezemfundo Ephakeme, Ezesayensi Nokuqamba Kabusha, uDkt u-Blade Nzimande, ukuthi iphenyisise ngezigaba zokukhokhelwa nokuhola kwezikhulu eziphezulu emanyuvesi esikhathini seminyaka eyi-15 kusukela ngowezi-2005 kuya kowezi-2012.","Cabinet was briefed on the outcomes of the CHE enquiry that was commissioned in 2020 by the Minister of Higher Education, Science and Innovation, Dr Blade Nzimande, to examine the remuneration levels and trends of the university executives over the 15-year period from 2005 to 2012.",0.919524
+"[ 0.6930064   0.8372917  -0.13792902 ...  0.81337595  0.5378052
+  1.132262  ]",[0.02990457 0.02362983 0.00481607 ... 0.0227727  0.01864369 0.02992636],"Uphenyo lwalusungulelwa ukuthola ukusimama, ukusebenza kahle kanye nokuthuthukiswa komkhakha wamanyuvesi noma wemfundo ephakeme kuleli lizw Lo mbiko ucacisa lokho okutholiwe kanye nezincomo ezethuliwe zokulungisa isim","The investigation was to establish the sustainability, viability and development of the universities or higher education sector in the countr This report outlines the key findings together with proposed remedial recommendation",0.8915262
+"[ 0.9334858   0.22707334 -0.16887212 ...  0.56024426  0.7927594
+  1.003925  ]","[ 0.01424845  0.0018661  -0.00020984 ...  0.00510759  0.01710234
+  0.04135627]","Izincomo lezi ziphakamisa, phakathi kokunye, inqubo yokukhokhelwa eqinile nengafihli luth Ukusungulwa kwethimba langaphandle futhi elizimele ukuqapha inqubo yokuthathwa kwezinqumo ngamahol","The recommendations propose, amongst others, a strengthened and more transparent remuneration proces The setting up of an external and independent oversight structure to oversee the decision-making process of remuneration",0.8651852
+[0.6123319  0.94149256 0.10960992 ... 0.85679257 1.2598366  1.6297861 ],"[ 9.4760517e-03 -2.2446053e-04 -1.7002039e-05 ...  2.6586648e-02
+  3.8461056e-02  3.4446821e-02]",Uphinde waphakamisa ukuqiniswa kwezindlela zokuhlola ukwenziwa komsebenzi ezikhungwen Ucwaningo luphinde labhekisisa ubukhulu balezo nalezo zikhungo futhi wabe sewenza isilinganiso esihambelana nesamazwe ngamazw,It also proposes the strengthening of the performance evaluation systems in the institution The study has also taken into account the various sizes of these institutions and it also did international benchmarkin,0.8298631
+"[ 0.61379945  0.07095974 -0.14050691 ...  0.92085195  1.0398884
+  1.0868672 ]","[ 0.01454582  0.00117093 -0.00034738 ...  0.0074931   0.02773406
+  0.01233416]","UNgqongqoshe Wezemfundo Ephakeme, Ezesayensi Nokuqamba Kabusha ulindeleke ukuthi axoxisane ngalo mbiko nobuholi basemanyuvesi njengesinyathelo sokuqinisa lezi zikhungo zemfund Umbiko uzobe emva kwalokho sewuchicilelwa kwiwebhusayithi yoMnyango Wezemfundo Ephakeme Nokuqeqeshwa ethi: wwdhegoza","The Minister of Higher Education, Science and Innovation is expected to discuss this report with the university leadership as a measure to strengthen these academic institution The report will thereafter be published in the Department of Higher Education and Training s website: wwdhegoza",0.9260401
+[0.14526121 1.2013164  0.04303077 ... 0.40612224 0.46795598 0.55472386],[0.01121569 0.03177733 0.0145108  ... 0.00525311 0.02028057 0.02670185],Uguquko Olusheshisiwe Lwezocwaningo kanye Nekhono Lokufundisa Emkhakheni Wezemfundo Ephakeme,Accelerated Transformation of the Research and Teaching Capacity in the Higher Education Sector,0.89602864
+"[ 0.47853002  1.1234602  -0.1768598  ...  0.67593503  0.90971017
+  0.7751725 ]","[ 0.01903128  0.04005636 -0.0003209  ...  0.02328334  0.03288636
+  0.01178044]",IKhabhinethi leseke izincomo zocwaningo olubili obelwenzelwe ukweluleka ngezinyathelo okumele zithathwe ukuze kuzosheshiswa uguquko kwezocwaningo kanye nekhono lokufundisa ezikhungweni zemfundo ephakem,Cabinet supported the recommendations of the two studies that were commissioned to advise on the measures to be put in place so as to accelerate the transformation of research and teaching capacity in the institutions of higher learnin,0.895749
+"[ 0.25547016  0.8861744  -0.26520613 ...  0.9983747   1.2346821
+  1.043381  ]","[ 0.02053735  0.01156822 -0.00042936 ...  0.0149317   0.04215828
+  0.05016036]","Umbiko wokuqala wenziwa iThimba LikaNgqongqoshe elaliphenya imigoqo evimbe ukuqashwa, ukugcinwa emsebenzini kanye nenqubekelaphambili ezifundisweni zabantu abamnyama eNingizimu Afrik Umbiko wesibili - owayalelwa nguMnyango Wezesayensi Nokuqamba Kabusha kanye neNhlangano Kazwelonke Yezocwaningo - yenziwa yibhodi i-Universities South Africa, okuyibhodi eliyinhlanganisela elimele amanyuvesi angama-26 kuleli lizw","The first report was done by the Ministerial Task Team which investigated the blockages that prevent the recruitment, retention and progression of black South African academic The second report",0.81008583
+"[ 0.49185175  0.12584579 -0.10891841 ...  1.261578    1.0357035
+  0.5669013 ]",[0.01931166 0.0054736  0.00223653 ... 0.01918598 0.0050529  0.01523642],"Yomibili le mibiko iphakamisa amaqhingasu okungenelela ukuze kuzolethwa ngokushesha uguquko emikhakheni emihlanu ebanzi, okubalwa kuyo umkhakha wasebeneziqu; ukubamba iqhaza kwabasebenzi; usikompilo nemikhuba yesikhungo; inqubomgomo neqhingasu, kanye nezinsiza-kusebenza ezinganel","Both these reports proposes intervention strategies to accelerate transformation in five broad areas, namely in postgraduate pineline; staff participation; institutional culture and practice; policy and the strategy, and limited resource",0.8952265
+"[ 0.548395   -0.16708052 -0.11575346 ...  0.7175023   0.75253016
+  0.5746746 ]","[-0.00022256 -0.00085608 -0.00030982 ...  0.00264888  0.0096364
+  0.02337805]",ISivumelwano Samazwe Ngamazwe Ngemithombo Yofuzo Lwezitshalo Zokudla Nezolimo (iSivumelwano),International Treaty on Plant Genetic Resources for Food and Agriculture (the Treaty),0.9007493
+[0.61941344 0.11186031 0.02107191 ... 1.5676337  1.6422998  0.7314748 ],"[-0.00030172 -0.00233966  0.00732981 ...  0.03259024  0.03836533
+  0.02234703]","IKhabhinethi ligunyaze ukungeniswa kweSivumelwano ePhalamend Lokhu kuzovumela iNingizimu Afrika ukuthi ibe ingxenye yamazwe ahambisana nalesi Sivumelwano, esikhomba indlela amazwe angamalungu ekugcineni nasekuqinisekiseni ukusetshenziswa okusimeme kwemithombo yofuzo lwezitshalo ukuze kuzokhiqizwa ukudla nezolim","Cabinet approved the submission of the Treaty to Parliament for accessio This will enable South Africa to form part of the parties to this Treaty, which guides the member countries in conserving and ensuring the sustainable usage of the plant genetic resources for food and agricultur",0.8856412
+"[ 0.5338615   0.07086529 -0.19738036 ...  1.8961173   1.0396137
+  0.40057766]","[ 0.00245223 -0.00179255 -0.00026543 ...  0.03041321  0.03976304
+  0.01773081]","Ukungena kulesi Sivumelwano kuzophinde kuqinise ukuzinikela kwaleli lizwe ekugcineni nasekusebenziseni ngokusimeme imithombo yofuzo lwezitshalo, kuphinde kweseke imiphakathi yasemakhaya","Acceding to this Treaty will also strengthen the country s commitment towards conservation and sustainable use of plant genetic resources, and provide support to rural communities",0.8544358
+"[-0.63253605 -0.30876067 -0.03986389 ...  0.40806946  0.59359807
+  0.28965443]","[ 0.00570988 -0.00086163 -0.0061406  ...  0.01072202  0.03023882
+  0.02119537]",UHlaka Loguquko Lwesimo eNingizimu Afrika,Just Transition Framework for South Africa,0.7581665
+"[ 0.3257062   0.14531471 -0.2045555  ...  1.0921669   0.8753382
+  1.1837963 ]","[ 0.01007007  0.01208287 -0.00020209 ...  0.01978461  0.02457598
+  0.01836778]","IKhabhinethi ligunyaze uHlaka Loguquko Lwesimo ukuthi luqale ukusebenz Uhlaka lolu luletha umbono owodwa weNingizimu Afrika elinganayo, nemelana nesimo sezul Licacisa izimiso nenqubomgomo ezoholela kulokh Uhlaka loguquko luzothinta wonke umuntu eNingizimu Afrika, futhi lunika ithuba lokubhekana nokungalingani kwangesikhathi esedlule futhi lwakha umnotho okuzozuza kuwona wonke umunt","Cabinet approved the Just Transition Framework for implementatio The framework presents a shared vision for an equitable, climate-resilient South Afric It defines the principles and policy areas to achieve thi The transition framework will impact everyone in South Africa, and provides an opportunity to address historical inequities and creates an economy that benefits al",0.87802446
+"[ 1.010697    1.0948714  -0.30670473 ...  0.80112636  0.05511484
+  0.5416777 ]","[ 3.5550926e-02 -5.0754647e-05 -2.3196204e-04 ...  1.1607557e-02
+  1.2421629e-02  1.1808317e-02]","IKhomishini KaMongameli Eqaphe Isimo Sezulu yaqhuba inqubo ejulile yokuxoxisana nokusetshenzisanwa nabo emphakathini futhi yathola ukwesekwa okukhulu ngalolu hlak IKhabhinethi likuqinisekisile ukuthi ukuguqukela emnothweni ongenayo ikhabhoni ngowezi-2050 kumele kweseke izifiso zentuthuko zezwe, kubandakanya imisebenzi engcono yawo wonke umuntu, ukubandakanywa komphakathi kanye nokuqedwa nya kobubh","The Presidential Climate Commission conducted an extensive consultation process with social partners and received broad support for the framewor Cabinet affirmed that the shift to a net-zero carbon economy by 2050 must support national development aspirations, including decent work for all, social inclusion and the eradication of povert",0.89601994
+"[ 0.7385735  -0.10875095 -0.23671727 ...  0.8842453   0.5505309
+  1.1287367 ]","[ 0.00608524 -0.00102774  0.00177264 ...  0.01294347  0.00195208
+  0.0469327 ]","IKhabhinethi selicele bonke okusetshenziswana nabo emphakathini ukuthi beseke futhi bamukele lolu hlak Uhlelo olunemininingo lokuqalisa lolu hlaka luzokwenziwa, futhi luzohlanganiswa nezinhlelo zikahulumeni kanye nesabelomali","Cabinet has called on all social partners to rally behind and embrace this framewor A detailed implementation plan for the framework will be developed, and it will be integrated into the government planning and budgeting system",0.8565235
+"[ 0.15990494 -0.04058848 -0.1577397  ...  0.56680804  0.985855
+  0.5947656 ]","[ 0.00543181 -0.00087944 -0.00095633 ...  0.016204    0.02009074
+ -0.00092021]",Ikhadi Elisha Lelayisensi Yokushayela eNingizimu Afrika,New South African Driving Licence Card,0.91542524
+"[ 0.82416505  0.16908404 -0.25048238 ...  1.0918915   0.45544526
+  1.0069013 ]","[ 0.01733165  0.01217643 -0.00044832 ...  0.0305394   0.01385593
+  0.01052905]",IKhabhinethi ligunyaze ukushintshwa kweKhadi Lelayisensi Yokushayela lamanje kube yileli eliklanywe lafakwa izici zokupheph,Cabinet approved the replacement of the current Driving Licence Card to a one with more secure design feature,0.8611609
+"[ 0.07683658 -0.22800896 -0.26187742 ...  0.45003566  0.53375316
+  1.7803973 ]","[ 0.00111287 -0.00385432 -0.00148494 ...  0.0264632   0.00481267
+  0.05453381]",Indlela yamanje selokhu yasetshenziswa kusukela ngowe-1998.,The current system has been in operation since 1998.,0.824237
+"[ 0.54418486  0.38543257 -0.08097199 ...  0.9356689   0.62286955
+  1.1277211 ]","[ 0.01616848  0.0124357  -0.00027741 ...  0.02217821  0.01348799
+  0.03043175]",Ubuchwepheshe buyaguquguquka futhi sekuyizindleko ukugcina ingqalasizinda ekhona njengamanj Ikhadi elisha eliphakanyisiwe lizokwenza ukuthi ilayisensi yokushayela kuleli lizwe ihambisane nobuchwepheshe be-International Information Technology Personal Identification Compliant Driving Licence (i-ISO18013),The technology has since evolved and it is becoming expensive to maintain the current infrastructur The new proposed card will make the country s driving licence compatible with the International Information Technology Personal Identification Compliant Driving Licence (ISO18013),0.90627015
+"[ 0.19676271  0.62025416 -0.11946719 ...  0.5875585  -0.09855234
+  0.28853962]","[-0.00042595 -0.00112842 -0.00671863 ...  0.02023762  0.00019517
+ -0.00014635]",INqubomgomo Yohlelo Olweluliwe Lwezemisebenzi Kahulumeni (i-EPWP),Expanded Public Works Programme (EPWP) Policy,0.8334381
+[0.7179963  0.22449604 0.04497996 ... 2.0004258  1.3021388  0.7296278 ],"[ 0.016163    0.00179031 -0.00029176 ...  0.04537946  0.03166962
+  0.01140538]","IKhabhinethi ligunyaze ukufakwa kusomqulu kweNqubomgomo ye-EPWP ehlongozwayo ukuze kubonisanwe ngayo emphakathin I-EPWP ngenye yezinhlelo ezingumongo zikahulumeni okuhloswe ngazo ukuletha usizo ekubhekaneni nobubha kanye nosizo lwemalingena ngokusungula amathuba emisebenzi yesikhashana, ikakhulukazi entsheni nakwabesifazan","Cabinet approved the gazetting of the draft EPWP Policy for public consultatio The EPWP is one of government's key programmes aimed at providing poverty and income relief by creating temporary work opportunities, particularly for youth and wome",0.87820935
+"[ 0.24865223  0.14401442 -0.1459209  ...  1.7976506   0.7067806
+  1.2578671 ]","[ 0.00643691  0.0009758  -0.00026793 ...  0.04116429  0.01598122
+  0.02246477]","Inqubomgomo entsha ehlongozwayo izoqinisa uhlelo futhi icacise ngodaba lwamaholo, uxhasomali kanye nokuvikeleka komphakathi, futhi luzolinganisa i-EPWP nezindlela zesimanje zokusebenz Izogqugquzela ubudlelwano phakathi kukahulumeni nomkhakha ozimele ekuqinisekiseni ukuthi i-EPWP inegalelo elikhulu ekwakheni imisebenzi engcono nokuqedwa kobubh Le nqubomgomo izophinde igqugquzele ukuqamba kabusha ekuqalisweni kwezinhlelo zemisebenzi kahulumeni kulolonke izw 7.","The draft new policy will strengthen the programme and provide clarity on aspects such as wages, funding model and social protection, and also align the EPWP with modern labour practice It will promote partnerships between government and the private sector toward ensuring the EPWP contributes massively towards the creation of decent work and alleviation of povert The policy will also promote innovation in the implementation of public works programmes across the countr 7.",0.8814652
+"[ 0.66570246 -0.2511522   0.42025936 ...  0.3463147   1.4201013
+  0.64693516]","[ 0.03932877 -0.0030881  -0.00044563 ...  0.01716144  0.03722368
+  0.01904907]",Izichibiyelo zoChungechunge Lwesine Lwezinhlamvu Zemali eNingizimu Afrika,Amendments to the Fourth Decimal Coin Series of South Africa,0.8373871
+[0.79688424 0.02128657 0.04461045 ... 0.9825077  1.9343799  1.9238627 ],[0.02729403 0.00329523 0.00232788 ... 0.00973915 0.03843829 0.02601739],"IKhabhinethi ligunyaze ububanzi, umklamo kanye nokuhlanganiswa koChungechunge Lwesine Lwezinhlamvu Zemali eNingizimu Afrika Lwangowezi-2023.","Cabinet has approved the dimension, design and compilation of the year 2023 Fourth Decimal Coin Series of South Afric It approved the annual rotational system of the usage of the official languages on the fourth decimal coin serie",0.8144273
+"[ 1.3282539  -0.06028677 -0.00157401 ...  0.9511055   1.067235
+  0.8393052 ]","[ 0.01221471  0.00034646 -0.00024931 ...  0.03435097  0.03328047
+  0.03810854]",Ligunyaze uhlelo lokusebenza lokushintshanisa njalo ngonyaka ukusetshenziswa kwezilimi ezisemthethweni kulolu chungechunge lwesine lwezinhlamvu zemal,Cabinet approved the publication of the draft Next Generation Radio Frequency Spectrum Policy for public commen Radio frequency spectrum is a finite natural resource that is vital to the growth of South Africa s digital economy and communication infrastructur,0.676801
+"[ 0.8068715   0.61209154 -0.19091304 ...  1.1059866   1.6326104
+  2.4758503 ]","[ 0.01954179 -0.00030405  0.00891235 ...  0.0322771   0.05114863
+  0.05297853]","Igama elithi ""iNingizimu Afrika"" lizofakwa ngakwelinye icala lohlamvu futhi lizobhalwa ngazo zonke izilimi ezisemthethwen Izilimi ezintathu zizofakwa kuhlamvu luka-R5; izilimi ezimbili ku-R2; bese kuthi izinhlamvu zika-50c, 20c no-10c kanye no-R1 kufakwe ulimi olulodw Zonke lezi zilimi zizosetshenziswa ngokushintshana njalo ngonyaka isikhathi esiyiminyaka eyishumi ezayo","will be inserted on the one side of the coins and printed in all the official language Three languages will be used in the R5 coin; two languages R2; 50c, 20c and 10c coins and the R1 will be in one languag All these languages will be used on an annual rotational basis over the next 10 years",0.8806395
+"[ 0.48723295 -0.10359491 -0.125939   ...  0.73881584  0.1864973
+  1.5371422 ]","[ 0.00320612 -0.00139979 -0.00044222 ...  0.01420258  0.0063287
+  0.0357247 ]",INqubomgomo Ehlongozwayo Ngokuphathwa Kwezinga Lamanzi (i-IWQM) yangowezi-2022,Draft Integrated Water Quality Management (IWQM) Policy of 2022,0.86905813
+[ 0.3920682 -0.0808198 -0.2937955 ...  1.124623   0.8247063  1.8937031],"[ 0.01446794  0.00137924 -0.00036626 ...  0.01389564  0.01391589
+  0.05345515]",IKhabhinethi ligunyaze ukufakwa kosomqulu kweNqubomgomo Esahlongozwa ye-IWQM ukuze kuzoxoxisanwa nomphakath Inqubomgomo ehlongozwayo izongena esikhundleni seNqubomgomo ye-WQM yowe-1991 ephelelwe isikhathi kanye neqhingasu layo elabekwa ngowezi-2006.,Cabinet approved the gazetting of the Draft IWQM Policy for public consultatio The proposed policy will replace the outdated WQM Policy of 1991 and its strategy that was put in place in 2006.,0.8821383
+"[ 0.75399643 -0.04625427 -0.01938273 ...  0.641372    1.4151622
+  1.3802533 ]","[ 0.01814099 -0.00063187  0.00538231 ... -0.00174588  0.03240983
+  0.02727292]",Inqubomgomo icacisa iqoqwana lezimiso ezizokwakha isisekelo sokulawulwa kwezinga lamanz Ihlinzeka ukuhambisana kuyoyonke imithetho efanele ehambisana namanzi kanye nokuzinikela emhlabeni kwaleli lizwe ukuhlinzeka nokugcina amanzi njengensiza eyingcosana,The policy outlines a set of principles that will form the basis for water quality managemen It provides an alignment to all the relevant water-related legislation and the country s global commitments to the provision and conservation of water as a scarce resource,0.8667922
+"[ 1.2134067  -0.2624663  -0.31007972 ...  0.4943229   0.63083136
+  0.1130579 ]","[ 0.01780105 -0.00190959  0.00143126 ...  0.01820148 -0.00095462
+ -0.00368384]",Inqubomgomo Ehlongozwayo Ngokusakaza Ngamagagasi Omoya,Draft Next Generation Radio Frequency Spectrum Policy,0.69692826
+"[ 1.0106152  -0.11430816 -0.06005692 ...  1.397417    1.269267
+  1.8048334 ]",[0.02068187 0.02267511 0.00383714 ... 0.03071994 0.03838112 0.02122201],IKhabhinethi ligunyaze ukushicilelwa kweNqubomgomo ehlongozwayo Ngokusakaza Ngamagagasi Omoya ukuze umphakathi uzobeka imibon Ukusakaza ngamagagasi omoya kungumthombo wemvelo obaluleke kakhulu ekukhuleni komnotho wedijithali eNingizimu Afrika kanye nengqalasizinda yezokuxhuman,"The proposed policy intends to support the spectrum allocation and licensing for fixed mobile; broadcasting; aeronautical and marine; research and development; community access, and other relevant industrie The policy also seeks to promote equity and fair allocation to contribute towards the transformation of the sector and accessibility of digital connectivity even in outlying parts of the countr",0.7326451
+"[ 0.17799558  0.75587237 -0.0018155  ...  1.0667654   0.74735796
+  0.94551337]","[ 2.2005044e-02  7.9654768e-05 -3.2688520e-04 ...  4.3680646e-02
+  3.1009959e-02  2.5982143e-02]","Inqubomgomo ehlongozwayo ihlose ukweseka ukwabiwa kwamagagasi omoya kanye nokukhishwa kwamalayisensi ezimboni zomakhalekhukhwini; zokusakaza; zezindiza nezasolwandle; zocwaningo nokuthuthukisa; ukufinyelela emphakathini, kanye nezinye izimboni ezifanel Inqubomgomo iphinde igqugquzele ukwabelwa okulinganayo nokuneqiniso ukuze kuzofakwa igalelo ekuguqulweni kwalo mkhakha kanye nokufinyelela ekuxhumaneni ngokwedijithali ngisho ezingxenyeni ezingaphandle kwezw",Cabinet urges all South Africans to use Heritage Month to celebrate our rich cultural heritage and diversity that has the power to unite our natio We must all be committed to working together to eradicate the divisions and injustices of the past and promote a conscious sense of being proudly South Africa,0.7094427
+"[ 0.34259394 -0.08314708 -0.26554826 ...  1.2263856   1.0134459
+  1.2007875 ]","[ 0.00836924 -0.00376044  0.00128329 ...  0.01729939  0.00177925
+  0.02786334]",Ukukhethwa Kozomela iNingizimu Afrika kumkhandlu woMfelandawonye Wezokuxhumana Wamazwe Ngamazwe (i-ITU) kanye neBhodi Lokulawulwa Komsakaz 1,South Africa s Candidature for the International Telecommunication Union ( ITU) Council and Radio Regulations Board 1,0.8797451
+"[ 1.020528   -0.02138399 -0.14139777 ...  1.0832956   0.49174187
+  0.6093625 ]","[ 0.04428047 -0.00345895  0.0016496  ...  0.01980315  0.02231324
+  0.01446582]",IKhabhinethi ligunyaze ukukhethwa komele iNingizimu Afrika uMnu Mandla Samuel Mchunu kwiBhodi Lokulawulwa Komsakazo (iSifunda D).,Cabinet approved South Africa s candidature of Mr Mandla Samuel Mchunu to the ITU Radio Regulations Board (Region D).,0.89926803
+"[ 0.78536993 -0.16909084  0.0927371  ...  0.8785832   0.56882334
+  2.3218937 ]",[0.02200898 0.00101833 0.00082121 ... 0.00313478 0.02017914 0.07598478],UMnu Mchunu njengamanje usebenza njengelungu lebhod Uphakanyiselwe ukuthi aphinde akhethwe kuMkhandlu we-ITU wesikhathi sangowezi-2023 kuya kowezi-2026.,Mr Mchunu is currently a serving board membe He is proposed for re-election to the ITU Council for the term 2023 to 2026.,0.90601504
+"[ 1.3715824  -0.07357053  0.3817219  ...  0.7391753   1.3396748
+  2.689966  ]","[ 0.04242098 -0.00400332  0.0269598  ...  0.00675434  0.028155
+  0.08731999]","Ukhetho luzokwenzeka ngesikhathi seNkomfa Yamanxusa e-ITU ezobanjwa e-Bucharest, e-Romania kusuka mhla wama-26 kuMandulo kuya mhla ziyi-14 kuMfumfu 2022.","The elections will take place during the ITU Plenipotentiary Conference to be held in Bucharest, Romania from 26 September to 14 October 2022.",0.8894798
+"[ 1.1647913  -0.05457718 -0.10170107 ...  0.6633734   0.864532
+  1.2823954 ]","[ 0.04329672 -0.00027521  0.00158902 ...  0.02439843  0.02267029
+  0.00953697]",INingizimu Afrika isalokhu izinikele ngezinjongo ze-ITU zokuvala igebe kwezedijithali ixhumanise bonke abantu emhlaben,South Africa remains committed to the goals and objectives of the ITU of bridging the digital divide and connecting all the people of the worl,0.858166
+"[ 0.00133382 -0.3435462  -0.08929026 ... -0.16213733 -0.05346286
+  0.70759404]","[ 0.0068522  -0.00178764 -0.00063207 ... -0.00179214  0.0032565
+  0.0095327 ]",Imicimbi Ezayo1.,Appointment1.,0.82998925
+"[ 0.4777569  -0.2750266   0.01185023 ...  0.2566103   0.4450082
+  0.41658306]","[ 0.01459405 -0.0031718   0.00065742 ...  0.01124514  0.01109864
+  0.01602557]",INyanga Yamagugu,Heritage Month,0.7759196
+"[ 1.1777864  -0.13882728  0.0287084  ...  0.8503907   1.9940829
+  1.2383571 ]","[ 0.02716218 -0.00291872 -0.0003367  ...  0.02954824  0.03555198
+  0.01432964]","INyanga Yamagugu ngoMandulo kulo nyaka izobungazwa ngaphansi kwesiqubulo esithi: ""Sibungaza Ifa lika-Solomon Linda kanye Nomculo Womdabu waseNingizimu Afrika"".",Celebrating the Legacy of Solomon Linda and South Africa s Indigenous Music .,0.77514195
+"[ 1.0775518  -0.12958142 -0.10339526 ...  1.0824221   1.399597
+  1.1197215 ]","[ 0.01881179 -0.00097633 -0.00052109 ...  0.01786649  0.01941639
+  0.01484236]",IKhabhinethi linxusa bonke abantu baseNingizimu Afrika ukuthi basebenzise iNyanga Yamagugu ukubungaza amasiko ethu anothile kanye nokwehlukana okunamandla okubumba isizwe seth Kufanele sonke sizinikele ekusebenzeni ngokubambisana,"CongratulationsCabinet extended its congratulations and well-wishes to: All winners, medallists and competitors who participated in the 95th Comrades Marathon, popularly known as the",0.7170947
+"[ 0.35830906  0.06449414 -0.10665619 ...  1.2171406   1.4002717
+  1.4711443 ]","[ 0.00972914  0.00895905 -0.00017215 ...  0.01346633  0.03038111
+  0.07433432]",ukuqeda ukwahlukana kanye nokungabi nabulungiswa kwesikhathi esedlule futhi sigqugquzele umuzwa wokuzigqaja ngokuba ngowaseNingizimu Afrik,"rights and to the realisation of a non-racial, non-sexist, free and democratic South Africa .The five South African Police Service (SAPS) officers who were passengers onboard the SAPS aircraft that crashed at Rand Airport, Germiston on Tuesday, 30 August 2022.",0.6219329
+"[ 0.14904723 -0.13190971 -0.16343243 ...  0.09044494 -0.02993598
+  0.21119046]","[ 2.0932467e-03 -2.0482062e-04  4.8137150e-05 ...  1.0729725e-03
+  1.5222376e-03  7.8740409e-03]",Imiyalezo1.,Messages1.,0.87739104
+"[ 0.71082705 -0.3692165  -0.07244623 ... -0.16031374  0.22334798
+ -0.06663217]","[ 0.00079281  0.02344358 -0.0004932  ...  0.00139092  0.00462581
+  0.00056778]",Ukuhalalisa,The word,0.74249506
+"[ 0.82034385 -0.17093132  0.15569854 ...  0.44482994  1.7639923
+  2.1234894 ]","[ 0.04210696  0.0019386  -0.0007536  ...  0.00387958  0.04066182
+  0.02250096]","IKhabhinethi ihalalisela futhi ifisela okuhle laba: Bonke abadle umhlanganiso, abathole izindondo kanye nalabo abangenele umncintiswano ababe yingxenye yomjaho we-95th Comrades Marathon, owaziwa kakhulu ngokuthi yi- Ultimate Human Race , ngeSonto, mhla wama-28 kuNcwaba 2022.","Condolences Cabinet expressed condolences to the family and friends of: Mama Rita Alice Ndzanga (88), the Struggle veteran and pioneering trade unionist",0.7214614
+"[ 0.5248772  -0.24889368 -0.06225258 ...  1.1175923   2.0723054
+  2.8099802 ]","[ 0.01041444 -0.00414613 -0.00034529 ...  0.01745935  0.04407445
+  0.03507427]","U-Tete Dijana wahlabana kumjaho wamadoda (ngamahora ama-5, imizuzu engama-30, imizuzwana engama-38) ongowase-Mahikeng eNyakatho Ntshonalanga kwathi kumjaho wabesifazane owadla umhlanganiso kwaba ngumsubathi waseRashiya u-Alexandra Morozova (amahora ayisi-6, imizuzu eyi-17, imizuzwana engama-47).","The men's race was won by Tete Dijana (5 hrs, 30 min, 38 sec) from Mahikeng in North West while Russian runner Alexandra Morozova (6 hrs, 17 min, 47 sec) won the women s rac",0.89689016
+[0.48727274 0.32813883 0.14024171 ... 1.114426   1.2576203  1.2046425 ],"[ 0.01100617 -0.00184125  0.00420238 ...  0.03489147  0.04250771
+  0.01528074]","Amazwi enduduzo IKhabhinethi lizwakalisa amazwi enduduzo emndenini nakubangani baka: UMama Rita Alice Ndzanga (88), umakadebona woMzabalazo nomqambi ophambili wemfelandawonye yabasebenzi owaphinde wamukela i-National Order of Luthuli ngowezi-2004 ngomsebenzi wakhe wokuba negalelo emzabalazweni wamalungelo abasebenzi kanye nasekuzuzeni iNingizimu Afrika engacwasi ngokobuhlanga, ngokobulili, ekhululekile futhi enentando yeningi labantu"".Amaphoyisa amahlanu angamalungu oPhiko Lwamaphoyisa eNingizimu Afrika (i-SAPS) akade engabagibeli kwindiza ephahlazeke e-Rand Airport, e-Germiston ngoLwesibili, mhla wama-30 kuNcwaba 2022.","Ms Kwena Komape as DDG: Economic Development, Trade and Marketing at the Department of Agriculture, Land Reform and Rural Developmen 2.",0.6873025
+"[ 0.7888867   0.15220352 -0.18992703 ...  0.8977095   0.8731473
+  1.0116066 ]","[ 0.02450901  0.00874635 -0.00034558 ...  0.03672179  0.02303276
+  0.02188001]",I-SAPS iyaphenya ngaloku kuphahlazek IKhabhinethi lifisele umshayeli wendiza olimele kakhulu ukululama okusheshay,The SAPS are investigating the cras Cabinet wished the critically injured pilot a speedy recover,0.8881448
+"[-0.00691691 -0.4149921   0.1346057  ... -0.17901427 -0.09501041
+  0.14167196]","[ 0.00980162 -0.0033715  -0.00078007 ...  0.00912488 -0.00173329
+  0.03020796]",Abaqashiwe1.,Issues in the environment1.,0.5773413
+"[ 0.3508779  -0.08755638 -0.08387342 ...  0.42657068  0.21000405
+  0.89501256]","[ 0.05107161 -0.00043387  0.00025928 ... -0.00699497  0.04538759
+  0.02235301]",Bonke abaqashiwe kumele kuqinisekiswe iziqu zabo futhi bahlolwe ngokufanel,All appointments are subject to the verification of qualifications and the relevant clearanc,0.75314903
+"[ 0.68263257  0.2086637  -0.3191523  ...  1.2277315   0.23491631
+  0.7448774 ]","[ 1.8849384e-02  1.9870154e-03 -8.2695049e-05 ...  1.3891415e-02
+  2.7249844e-03  2.5085276e-02]","Nks Gugulethu Abigail Thimane njengePhini LoMqondisi-Jikelele (i-DDG): Kwezokuqashwa Komkhakha Kahulumeni Nokuthuthukiswa kwamakhono kuMnyango Wezokuhlela, Ukuqapha kanye Nokuhlol","Ms Gugulethu Abigail Thimane as Deputy Director-General (DDG): Public Sector Monitoring and Capacity Development at the Department of Planning, Monitoring and Evaluatio",0.9140308
+"[ 0.20052223 -0.05151458 -0.14453062 ...  1.1316252   0.99280876
+  0.60365206]","[ 0.03804929 -0.00013833 -0.00015671 ...  0.0141567   0.02086568
+  0.01344247]","Nks Kwena Komape njenge-DDG: KwezokuThuthukiswa Komnotho, Ukuhweba nokuMaketha kuMnyango Wezolimo, Ukuguqulwa Komhlaba Nokuthuthukiswa Kwezindawo Zasemakhay",Booi as Chief Executive Officer (CEO): National Home Builders Registration Counci,0.69026303
+"[ 0.9654479   0.00494421 -0.19677433 ...  0.81638557  0.47746295
+  0.94793445]","[ 1.6096927e-02 -8.6638363e-05  1.3412916e-03 ...  9.8967860e-03
+  2.1906324e-02  1.9847510e-02]",Dkt Bongani Elias Sithole njengo-DDG: Esikhungweni Sokulawulwa Kwesimo Senhlekelele Kuzwelonke kuMnyango Wezokubusa Ngokubambisana,"was done by Universities South Africa, the umbrella body representative of the 26 public universities in the countr",0.6865806
+"[ 0.25937355 -0.21570875 -0.28772286 ...  0.32135984  0.53317344
+  0.7904826 ]","[-0.00195105 -0.0015066   0.00049718 ...  0.01137685  0.00593667
+  0.01793528]",IKhabhinethi livumelane nokuqashwa kwalaba abalandelayo:,Cabinet concurred with the following appointments:,0.83658624
+"[ 0.4248991   0.07051815 -0.12256433 ...  0.23662718  0.2622615
+  0.34197384]","[ 2.8796244e-02  5.3102165e-05 -5.0076545e-04 ...  1.0069716e-02
+  3.9927829e-02  1.4404509e-02]",Mnu Songezo,Mr Songezo,0.80150616
+"[ 1.0305483   0.00922774 -0.35577407 ...  0.76292723  0.5679149
+  0.7037104 ]","[ 0.00934676  0.03244649 -0.00053629 ...  0.01344249  0.03113512
+  0.00129718]",Booi njengoMphathi Omkhulu (i-CEO): kuMKhandlu Kazwelonke Wokubhalisa Abakhi Bemiz,commissioned by the Department of Science and Innovation and the National Research Foundation,0.72836614
+"[ 0.27577147  0.18977681 -0.2209566  ... -0.02998669  0.65670216
+  0.6893724 ]","[ 0.00459936  0.00089272 -0.00142617 ... -0.00431109  0.01165063
+  0.00913197]",IBhodi le-African Exploration Mining and Finance Corporation:(i),Board of African Exploration Mining and Finance Corporation:(i),0.92864823
+"[ 2.2662144  -0.26886514 -0.27948663 ...  0.46099848  0.6542232
+  1.3300548 ]","[ 0.06162676  0.00078522 -0.00032716 ...  0.03543524  0.01221688
+  0.04209276]",Mnu Zacharias Bernardus Swanepoel (uSihlalo);(ii),who was also the recipient of the National Order of Luthuli in 2004 for,0.5141873
+"[ 0.94065577 -0.1284486  -0.34653026 ...  0.6612961   0.9697902
+  1.275693  ]",[0.00953499 0.0014862  0.00633092 ... 0.0284605  0.01603016 0.0519535 ],Mnu Mzwandile Zwelinzima Themba Masondo; kanye no(iii),"Ultimate Human Race , on Sunday, 28 August 2022.",0.53680456
+"[ 0.42888695  0.49141878 -0.1617932  ...  0.24921301  0.5970737
+  0.5425004 ]","[ 0.01830375 -0.00414516 -0.00062143 ...  0.00514096  0.01363847
+  0.00034886]",Nks Phumzile Mthombeni (uMqondisi Omkhulu).,her lifetime contribution to the struggle for workers,0.5187384
+"[ 1.0704643  -0.15597428 -0.26806015 ...  1.0894243   1.4871539
+  0.69626236]","[ 0.01785162 -0.00041941 -0.00018771 ...  0.00803014  0.00620964
+  0.05218841]",Mnu Patrick Dlamini njenge-CEO (Kwelulwe isivumelwano somsebenzi) yebhange i-Development Bank of Southern Afric Imibuzo: Nks Phumla Williams,Heritage Month in September will this year be commemorated under the theme:,0.4903882
+"[ 0.9785364  -0.17363192 -0.07300061 ...  0.24744153  0.39382368
+  1.3971689 ]","[-0.00018523  0.00449687 -0.00057569 ...  0.00189751 -0.00278017
+  0.01646384]",uSomlomo Wekhabhinethi Umakhalekhukhwini: 083 501 0139,Upcoming event1.,0.43231374

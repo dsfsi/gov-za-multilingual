@@ -1,0 +1,132 @@
+zu,en,src_text,trg_text,Cosine_Score
+"[ 0.45446795 -0.18648578 -0.20293428 ...  1.0012903   0.60252017
+  1.5103798 ]","[ 0.04629111 -0.00193979  0.00536488 ...  0.03096706  0.01185535
+  0.03526812]",Umhlangano Okhethekile weKhabhinethi obubanjwe nge-inthanethi ubanjwe ngaphambi kokuqala kwe-Lekgotla yeKhabhineth,"Statement on the virtual Special Cabinet Meeting of Tuesday, 14 September 2021The virtual Special Cabinet Meeting was held before the commencement of the Cabinet Lekgotl",0.7168306
+"[ 0.39207047 -0.22572657 -0.3353854  ...  0.5726221   0.11196823
+  0.48716938]","[ 0.00408866 -0.00296827 -0.00060771 ...  0.00854466 -0.00353386
+  0.01201626]",Izinqumo zeKhabhinethi1.,CABINET DECISIONS1.,0.85464525
+"[ 0.4198276  -0.15774255 -0.2376095  ...  0.84357315  0.42579043
+  0.78279835]","[-0.00198909 -0.00150242 -0.00374726 ...  0.01311654  0.01403849
+  0.02882557]",Ukwelulwa koMhlahlandlela i-Hydrogen Society Roadmap (i-HSRM),Extension of the Hydrogen Society Roadmap (HSRM),0.89044285
+[0.50005215 1.2118326  2.1421702  ... 1.3188621  0.8619015  1.8121405 ],"[ 0.01169046  0.02254639 -0.00017604 ...  0.02520902  0.0171426
+  0.03985069]",IKhabhinethi ikuvumile ukwelulwa kwe-HSRM ngeminyaka elishumi ezay I-HSRM inikeza ukusebenza kweQhingasu laseNingizimu Africa le-Hydrogen elagunyazwa yiKhabhinethi ngowezi-2007 ukulungiselela izwe umnotho we-hydroge I-HSRM yakhela phezu kwesisekelo sobesekuzuziwe eminyakeni elishumi eyedlule ukulungiselela iNingizimu Afrika ukusuka ocwaningweni nokuthuthukisa iye ekukhiqizeni nakuhweb,The HSRM gives effect to the Hydrogen South Africa Strategy that was approved by Cabinet in 2007 to prepare the country for a hydrogen econom The HSRM builds on what has been achieved in the past 10 years to prepare South Africa to move from research and development to manufacturing and commercializatio,0.89581954
+"[ 0.4064028   0.07164298 -0.0753187  ...  0.9579872   1.6165208
+  0.7738446 ]","[-0.00043024 -0.00011435 -0.00021768 ...  0.02359032  0.03525933
+  0.02809241]",I-HSRM ihlanganisa ngempumelelo bonke ubuchwepheshe obuhlobene ne-hydrogen emikhakheni eyehlukahlukene yomnotho futhi ikhuthaza ukukhula komnotho okubandakanya wonke umunt Ibeka iNingizimu Afrika njengendawo enekhono lomnotho we-hydrogen osimeme futhi ikhulisa ukuhwebela amazwe angaphandle ngobuchwepheshe be-hydroge,The HSRM effectively integrates all hydrogen-related technologies in various sectors of the economy and also fosters an inclusive economic growt It positions South Africa as a destination with sustainable hydrogen economic capability and to also expand,0.8923018
+"[ 0.28036246 -0.10094266  0.08058574 ...  0.8654508   1.3110235
+  0.70185393]",[0.00929388 0.00427624 0.00305759 ... 0.02074056 0.02805511 0.02205473],"Ukukhiqizwa kwemikhiqizo nezingxenye ze-hydrogen lapha ezweni kuzosiza ekusungulweni kwemisebenzi nokuthuthukiswa kwamakhono, futhi kukhulisa uguquko lomnotho oluzozuzisa umkhakha womphakathi obuncishwe amathuba phambilini, ikakhulukazi abesifazane nentsh","Local manufacturing of hydrogen products and components will contribute towards job creation and skills development, and also enhance economic transformation that will benefit the previously marginalised sector of society, particularly women and yout",0.901391
+"[ 0.8795169  -0.18439208  0.03405945 ...  0.24322976  1.3194097
+  0.89473087]","[ 0.01616085 -0.00161216  0.00144206 ...  0.00596431  0.03084485
+  0.00634381]",I-HSRM iphinde ihlinzeke ngezingenelelo ezizosiza ekunciphisweni kwegesi engcolisa umoya i-greenhouse gas (i-GHG).,The HSRM also provides interventions that will contribute towards the reduction of greenhouse gas (GHG) emission,0.85497975
+[0.8843948  0.00322386 0.07318293 ... 1.1361394  1.1097662  0.7928376 ],"[ 0.01839002 -0.00026125  0.00237901 ...  0.03286703  0.04346514
+  0.03412109]","Phakathi kwezinye izinto izokhulisa ukuhlinzekwa kogesi ovuselelekayo kwisizinda esikhulu sogesi futhi yethula izingenelelo emkhakheni Wezokuthuthwa Wempahla Esinda Kakhulu, okungelinye lamagalelo ekungcoleni kwe-GH","It will amongst others enhance the provision of renewable energy to the main electricity grid and it proposes interventions in the Heavy-Duty Transport sector, which is one of the contributors in GHG emission",0.87019557
+"[ 0.4860654   0.07306704 -0.2542257  ...  1.2332355   1.2251219
+  0.9887762 ]","[ 0.01019048 -0.00045425 -0.000314   ...  0.02362015  0.03287164
+  0.03347885]","Umhlahlandlela kubonisanwe ngawo kabanzi nabo bonke ababambiqhaza abafanelekile, kubandakanya iminyango kahulumeni, izifundiswa, umkhakha ozimele nemikhandlu yezesayens Uhlinzeka ngohlaka lokuxhumanisa ukuqinisekisa ukuhlangana kwabo bonke ubuchwepheshe obuhlobene ne-hydrogen kanye nokuthuthukiswa kwamakhono ezwen Lo mqulu uzotholakala kwiwebhusayithi yoMnyango Wesayensi Nokuqamba Kabusha ku: wwdsgoza","The roadmap went through extensive consultation with all relevant stakeholders, including government departments, academia, private sector and science council It provides a coordination framework to ensure an integration of all hydrogen-related technologies and skills development for the countr The document will be made accessible through the Department of Science and Innovation website: wwdsgoza",0.9082815
+"[ 0.10345548 -0.27865657 -0.26539466 ...  0.2518973   0.5198112
+  0.42765215]","[-0.00212847 -0.00061215 -0.00141511 ... -0.00538395  0.02590135
+  0.00905939]",Isivumelwano Esichitshiyelwe Ngokuvikelwa Kwemikhiqizo Yenuzi (i-CPPNM),Amended Convention on the Physical Protection of Nuclear Material (CPPNM),0.8340337
+"[ 0.38258317 -0.13254957 -0.3741047  ...  1.1693096   1.0724859
+  1.695475  ]","[ 0.00456713 -0.00388235 -0.00020489 ...  0.03052216  0.02650246
+  0.03214523]","IKhabhinethi igunyaze ukwethulwa kwe-CPPNM echitshiyelwe ePhalamende ukuze igunyazwe, ngokweSahluko sama-231(2) soMthethosisekelo waseNingizimu Afrika wangowe-1996, obeka ukuthi:","Cabinet approved the submission of the amended CPPNM to Parliament for approval, in terms of Section 231(2) of the Constitution of the Republic of South Africa of 1996, which states that:",0.9012983
+"[ 0.56948537 -0.16161638 -0.23900443 ...  1.0003015   0.9338524
+  1.2727971 ]","[ 0.01434228 -0.00264175  0.00033239 ...  0.00786093  0.03369476
+  0.01934753]",Isivumelwano samazwe ngamazwe sibophezela izwe kuphela emva kwesinqumo sokugunyazwa kwiSigungu Sikazwelonke nakuMkhandlu Kazwelonke Wezifundazwe .,An international agreement binds the Republic only after it has been approved by resolution in both the National Assembly and the National Council of Provinces .,0.82848907
+[1.1536702  0.04959076 0.05732061 ... 0.91485804 2.0580754  2.7608166 ],[0.0049436  0.00161944 0.00523381 ... 0.04905405 0.03925018 0.08130166],"Izichibiyelo ezenziwe yi-International Atomic Energy Agency (i-IAEA) zaqinisa ukuvikelwa okuncane kwezikhungo kanye nemikhiqizo yenuzi esetshenziselwa izinhloso zokuletha ukuthul Njengelungu le-IAEA, iNingizimu Afrika isisayine lesi sivumelwano futhi saqinisekiswa kamuva ngowezi-2003.","The amendments made by the International Atomic Energy Agency (IAEA) strengthen the global minimum physical protection of facilities and nuclear material used for peaceful purpose As a member of the IAEA, South Africa had signed this convention and subsequently ratified it in 2003.",0.89350474
+"[ 0.4810676  -0.15375781 -0.16905385 ...  1.1647149   1.0148983
+  0.71076053]","[-0.00077359 -0.00529257 -0.00047586 ...  0.02849128  0.01656025
+  0.01538793]","Izichibiyelo kulesi sivumelwano ziqinisa ukuphepha kukazwelonke kwamazwe angamalungu, kubandakanya ukuvikeleka kwezikhungo nemikhiqizo yenuz","The amendments to the convention strengthens the national security of the member states, including the physical protection requirements for nuclear facilities and materia",0.8498268
+"[ 0.59501874  0.40532345 -0.03435835 ...  1.2941576   0.9088243
+  1.0060738 ]","[ 0.00308407  0.07234808 -0.00012693 ...  0.03520479  0.03084459
+  0.03140811]",Sihlinzeka ngohlu lwamacala afana nokulethwa nokuhanjiswa kwemikhiqizo yenuzi kuleli lizwe ngaphandle kokuthola kuqala imvum Sikhulisa ukusebenzisana phakathi kwamazwe angamalungu ekwabelananeni ngolwazi ezintweni ezenziwayo ezingekho emthethweni ngemikhiqizo yenuzi,It provides a list of offences such as the import and export of nuclear material without prior authorisatio It enhances cooperation amongst member states in the sharing of information in respect of illegal activities on nuclear material,0.8777083
+"[ 0.83862245  1.0250347  -0.05497768 ...  0.5512174   1.1677825
+  1.351618  ]","[ 0.02468977  0.0361232  -0.0004223  ...  0.01067534  0.02180555
+  0.00757303]",Ukushintshwa kwesiphehlimandla socwaningo lwenuzi i-SAFARI-1,Replacement of SAFARI-1 nuclear research reactor,0.8773237
+"[ 0.98224264 -0.03242067 -0.19865713 ...  0.63276136  2.1021764
+  1.7349333 ]","[ 0.0200542   0.03241505 -0.0003116  ...  0.0326078   0.0549758
+  0.02614421]",IKhabhinethi igunyaze ukubekwa komklamo wesiphehlimandla esisebenza ngezindlela ezehlukahlukene senuzi ukuze kushintshwe isiphehlimandla senuzi i-SAFARI-1 yamanje ephethwe iNhlangano Yamandla Enuzi eNingizimu Afrika (i-NECSA).,Cabinet approved the setting up of the multi-purpose nuclear reactor project to replace the current SAFARI-1 nuclear research reactor owned by the South African Nuclear Energy Corporation (NECSA).,0.90134495
+"[ 0.5225994  -0.15773572 -0.08193274 ...  0.51321995  0.50164706
+  2.697162  ]","[ 0.00771007 -0.00035499  0.00069829 ...  0.01034101  0.01879882
+  0.05699986]",Lesi siphehlimandla selokhu saqala ukusebenza ngowe-1965 kanti isikhathi saso sokusebenza sesizophela ngowezi-2032.,The reactor has been in operation from 1965 and its lifespan is due to end in 2032.,0.8772876
+"[ 0.7025505   0.7330531  -0.12089335 ...  1.9794152   1.156214
+  0.61696875]",[0.03093299 0.01914633 0.00648051 ... 0.0631706  0.04488423 0.00192426],"I-SAFARI-1 ingomunye wabakhiqizi abane abahamba phambili bobuchwepheshe bezokulapha i-radioisotopes emhlabeni jikelele esetshenziswa ukwelapha izigidi zeziguli unyaka nonyak Iphinde yeseke izwe ngocwaningo lwesayensi, ukuthuthukiswa kanye nokuqamba kabusha kwezokwelapha, ezolimo, ucwaningo lwezitshalo nezilwane kanye nesayensi yezinto eziphilay","SAFARI-1 is one of the four leading producers of medical radioisotopes in the world used to treat millions of patients annuall It also provides the country with support in science research, development and innovation in medicine, agriculture, paleontology and bioscienc",0.9159195
+[0.8419591  0.00809077 0.07417595 ... 0.8868787  1.8263396  1.1738702 ],[0.02368061 0.00149347 0.00384702 ... 0.01554712 0.03179052 0.02305077],Lokhu kushintshwa kuzoqinisekisa ukuthi iNingizimu Afrika ihlala ingelinye lamazwe aphambili kule mikhakha futhi iyazuza kulobu buchwepheshe obusha kule ndim Umklamo uzoholwa iminyango eminingi efanele kanye ne-NECSA njengekhasimende eliqavile,The replacement will ensure South Africa remains one of the leading countries in these fields and benefit from the new technologies in this environmen The project will be led by a number of related departments and NECSA as the main client,0.886742
+"[ 0.6782787  -0.3537291   0.4320314  ...  0.5597282   0.64902675
+  0.68837976]","[ 0.01609882 -0.002003    0.00181394 ...  0.02213913  0.00882555
+  0.018598  ]",Umbiko Obuyekeziwe Wonyakambili weSine weNingizimu Afrika,South Africa s 4th Biennial Update Report,0.76128805
+"[ 0.48244616 -0.17609212  0.35696134 ...  0.46669602  0.52766573
+  1.4599097 ]","[ 0.0225252  -0.00581104 -0.00055007 ...  0.04002883  0.01778831
+  0.03203291]",IKhabhinethi ivume ukulethwa koMbiko Obuyekeziwe Wonyakambili weSine wezwe,Cabinet approved the submission of the country s 4th Biennial Update Report,0.7790621
+"[ 0.9179262  -0.16969769 -0.1752514  ...  0.54766494  0.5247275
+  0.99459225]","[ 2.2540938e-02 -4.9783168e-05 -1.8478655e-04 ...  2.9650837e-02
+  1.5041716e-02  3.0803457e-02]",ohlinzeka ngezakamuva emizamweni yezwe ukunciphisa kanye nokuhambisana nokuguquka kwesimo sezulu,which provides an update on the country s efforts to mitigate and adapt to climate change,0.8312892
+"[ 0.9925121   0.03630625 -0.29662475 ...  0.8086812   0.6229108
+  0.4922684 ]","[ 0.01442286 -0.0003717  -0.00022298 ...  0.01639967  0.02621913
+  0.00980483]",kwiSivumelwano Sohlaka Lwezizwe Ezihlangene Ngokuguquka Kwesimo Sezulu (i-UNFCCC).,to the United Nations Framework Convention on Climate Change (UNFCCC).,0.86278355
+"[ 0.68027097  0.164226   -0.13542724 ...  1.0681858   0.60537297
+  1.0734897 ]","[ 2.1373710e-02 -4.4042208e-06 -1.5475966e-04 ...  4.2490005e-02
+  4.7159940e-02  1.7127117e-02]",Umbiko ucacisa imithethonqubo elandeliwe kanjalo nezinyathelo nezenzo ezithathwe yizwe ukunciphisa ukungcolisa kwe-GH Uphinde uhlinzeke ngokubuyekezwa kwezingenelelo ezishintshayo ezibhekiswe emnothweni wekhabhoni ophansi okuholwa nguMthethonqubo Womthetho Odingidwayo kaZwelonke Wokubhekana Nokuguquka Kwesimo Sezul,The report outlines the policies implemented as well as the measures and actions undertaken by the country to reduce GHG emission It also provides an update on the transitioning interventions towards a lower carbon economy guided by the National Climate Change Response Policy White Pape,0.84888405
+"[ 0.63608855  0.06971496 -0.06459074 ...  1.1367322   1.312722
+  1.6798446 ]",[0.02598662 0.00211053 0.00151959 ... 0.02496774 0.04271522 0.05777807],"INingizimu Afrika izinikele ukuba negalelo elihle emizamweni yomhlaba yokuzinzisa ukunciphisa ukungcola kwe-GHG ngokwentuthuko yezwe ebekwe eqhulwin Njengabasayine isivumelwano se-UNFCCC, iNingizimu Afrika ilindeleke ukuthi yethule le mibiko ebuyekeziwe njalo nje","South Africa has made a commitment to contribute fairly to the global efforts to stabilise GHG emissions within the country s developmental prioritie As a signatory to the UNFCCC, South Africa is expected to submit these updated reports regularly",0.88457966
+"[ 0.17907818 -0.22928734 -0.15724869 ...  0.5584328   0.5620696
+  0.05703708]","[ 0.00951073  0.00141655  0.00217699 ...  0.00171396  0.01069864
+ -0.0007041 ]",Umnikelo kaZwelonke (i-NDC),Nationally Determined Contribution (NDC),0.8281964
+"[ 0.24769928 -0.11547381  0.16054496 ...  1.4356397   1.4022006
+  1.9269952 ]",[0.0063953  0.00803018 0.0028985  ... 0.03196072 0.0155629  0.06228972],IKhabhinethi ivume i-NDC ebuyekeziwe yokunciphisa ukuguquka kwesimo sezulu iNingizimu Afrika ebizibekele yona yangowezi-2030 ukuze izokwethulwa kwi-UNFCC INingizimu Afrika ibuyekeze isilinganiso ezibekele sona sangowezi-2025 sasuka kuma-398 saya kuma-510 kanye nowezi-2030 sasuka kuma-350 saya kuma-420 wama-Metric tons Carbon Dioxide equivalent (Mt Co2-eq).,Cabinet approved South Africa s revised NDC climate change mitigation target range for 2030 for submission to the UNFCC South Africa has revised its target range for 2025 to 398 to 510 and for 2030 to 350,0.8690319
+"[ 0.7586575  -0.01533116  0.18896653 ...  1.5560251   1.2933843
+  2.968048  ]",[0.0055726  0.00329632 0.00499628 ... 0.01601267 0.04126636 0.06574415],"Ngaphansi kwesivumelwano i-Paris Agreement wonke amaqembu alindeleke ukuthi afake ama-NDC njalo eminyakeni emihlan INingizimu Afrika yafaka i-NDC yayo yokuqala ku-UNFCCC ngoMfumfu wezi-2015, yazinikela ukugcina ukungcola kwe-GHG esilinganisweni esisuka kuma-398 kuya kuma-614 Mt CO2-eq ngonyaka wezi-2025 nangowezi-2030.","Under the Paris Agreement all parties are required to deposit NDCs every five year South Africa deposited its first NDC with the UNFCCC in October 2015, committing to keep national GHG emissions within a range from 398 to 614 Mt CO2-eq for 2025 and 2030.",0.92442787
+"[ 2.6530185  -0.08249813  0.3204768  ...  0.90961254  1.688731
+  1.5959073 ]","[ 0.06358715 -0.00255471  0.00970972 ...  0.0290478   0.04003695
+  0.03869945]",Isivumelwano i-Paris Agreement siphinde sihlose ukunciphisa amazinga okushisa omhlaba ukuthi aye ngaphansi kwama-degrees Celcius amabili nokuzama ukufinyelela kuma-degrees Celciu,The Paris Agreement also seeks to lower the global temperatures to well below two degrees Celsius and pursue efforts to degrees Celsiu,0.90284556
+[0.4800941  0.05791571 0.15103468 ... 1.026138   0.72513795 1.3076814 ],[0.01258194 0.00105547 0.00347085 ... 0.01897728 0.04517291 0.02423463],"Wonke amaqembu ebelindeleke ukubuyekeza izilinganiso azibekele zona zangowezi-2015 ngowezi-2020 ukuqinisekisa ukuthi zihambelana nesayensi yamanj Isilinganiso esibekiwe esibuyekeziwe sibheka imibiko yakamuva yeThimba Likahulumeni Elibhekele Ukuguquka Kwesimo Sezulu, futhi siqondaniswe nabo bonke ababambiqhaza ababenegalelo emizamweni yezw","All parties were expected to update their 2015 targets in 2020 to ensure they are aligned to the latest scienc The revised target range takes into account the latest reports of the Intergovernmental Panel on Climate Change, and is aligned with all the stakeholders that contribute towards the country s effort",0.894173
+"[ 0.45341703  0.01447059 -0.01277027 ...  0.0577549  -0.00882603
+  0.29589078]","[ 0.0371142  -0.00074501 -0.00080939 ... -0.00445885  0.01018453
+  0.00774708]",Imithethosivivinywa 1.,BILLS 1.,0.7795367
+"[ 1.1095109   0.12612425 -0.0522229  ...  0.7256703   1.0641752
+  0.62525135]","[3.0207485e-02 1.7021751e-03 3.5144250e-05 ... 2.4431586e-02 1.8232979e-02
+ 3.8902421e-02]",Ukuchitshiyelwa koMthethosivivinywa Wokungcola Kolwandle wangowezi-2021 (Ukunqanda Imikhumbi Ekungcoliseni Ulwandle),"Marine Pollution (Prevention of Pollution from Ships) Amendment Bill of 2021 Cabinet approved the Marine Pollution (Prevention of Pollution from Ships) Amendment Bill of 2021 for submission to Parliamen The Amendment Bill seeks to amend the Marine Pollution (Prevention of Pollution from Ships) Act, 1986 (Act 2 of 1986) and align it to the revised International Convention for the Prevention of Pollution from Ships (MARPOL).",0.7671126
+"[ 1.056689    0.23049228 -0.09200145 ...  0.8566646   1.144886
+  1.6178359 ]",[0.03412636 0.00651191 0.00086448 ... 0.02684194 0.03086517 0.02643289],"IKhabhinethi ikuvumile Ukuchitshiyelwa koMthethosivivinywa Wokungcola Kolwandle wangowezi-2021 (Ukunqanda Imikhumbi Ekungcoliseni Ulwandle) ukuze umphakathi uphawule ngaw Ukuchitshiyelwa koMthethosivivinywa kuhlose ukuchibiyela uMthetho Wokungcoliswa Kolwandle (Ukunqanda Imikhumbi Ekungcoliseni Ulwandle), wangowe-1986 (Umthetho wesi-2 wangowe-1986) uqondaniswe neSivumelwano esibuyekeziwe Samazwe ngamazwe Sokunqanda Ukungcoliswa Kolwandle Yimikhumbi (i-MARPOL).","South Africa is a signatory to MARPOL, the main international convention covering prevention of pollution of the marine environment by ships from operational or accidental cause The Amendment Bill will contribute towards the preservation of the marine environment by eliminating pollution of the sea by ships dispensing oil and harmful substance",0.76823574
+"[ 0.89578     0.03602797 -0.1315561  ...  0.75867873  0.7104044
+  1.3866436 ]","[ 2.8495511e-02 -1.5201075e-04 -6.2289859e-05 ...  2.5187571e-02
+  5.1368475e-02  2.0402053e-02]","INingizimu Afrika isayinile ku-MARPOL, isivumelwano esikhulu samazwe ngamazwe esivimbela ukungcoliswa kolwandle yimikhumbi ngenxa yomsebenzi noma izingoz",It allows for the alignment of policies that will influence the country s climate change respons It also provides for the transitional arrangement for the country to move towards a lower carbon and climate-resilient econom,0.65347683
+"[ 1.0552429   0.10414595 -0.13286558 ...  0.90153795  1.1133281
+  1.1690133 ]",[0.02801025 0.00607455 0.00105122 ... 0.04861914 0.02935239 0.02250458],Ukuchitshiyelwa koMthethosivivinywa kuzosiza ekulondolozweni kwemvelo yezasolwandle ngokuqeda ukungcoliswa kolwandle yimikhumbi echitha uwoyela kanye nezinye izinto eziyingoz,"The revised amendments provide more clarity in a number of clauses of the Bill, which seeks to reduce regulatory regime on businesses; tighten anti-money laundering gaps; strengthen the disclosure requirements and enhance the shareholder powers in a compan",0.67581487
+[1.1945233  0.06510685 5.743287   ... 1.3767977  1.0635638  0.53715724],"[ 0.04970882 -0.00029336  0.10121542 ...  0.03664757  0.02601025
+  0.01798407]",Wethula ukuthi imikhumbi kumele isebenzise uphethiloli oqukethe i-sulphur engeqi kuma-% noma isebenzise izindlela zokuhlanza uphethiloli ezigunyaziwe,"It also proposes that ships should use fuel with no more than 0,50% sulphur content or use approved fuel treatment systems",0.8659567
+"[ 0.42574963 -0.07943584 -0.18551572 ...  0.283333    0.09792695
+  1.4719402 ]","[ 0.01240785 -0.0074564  -0.0002342  ...  0.01123441 -0.00343533
+  0.03558119]",Ukuchitshiyelwa koMthethosivivinywa Wezinkampani wangowezi-2021,Companies Amendment Bill of 2021,0.7933463
+"[ 0.56992716  0.09310924 -0.26799628 ...  0.8848854   0.23728338
+  2.2232006 ]","[ 0.0202243  -0.00475421 -0.00043654 ...  0.04545636  0.01143529
+  0.06613516]","IKhabhinethi igunyaze ukushicilelwa Kokuchitshiyelwa koMthethosivivinywa Wezinkampani wangowezi-2021 ukuze umphakathi uphawule ngaw UMthethosivivinywa uchibiyela uMthetho Wezinkampani, wangowezi-2008 (Umthetho wama-71 wangowezi-2008).","Cabinet approved the publication of the Companies Amendment Bill of 2021 for public commen The Bill amends the Companies Act, 2008 (Act 71 of 2008).",0.8819728
+"[ 1.166788    0.06757266 -0.2702653  ...  1.1198962   0.86069757
+  0.6788629 ]","[ 0.02234176 -0.00292825 -0.00042057 ...  0.03213311  0.00801092
+  0.01346103]",IKhabhinethi igunyaze uMthethosivivinywa okhona ukuthi kubonisanwe ngawo nomphakathi ngoNcwaba wangowezi-2018 futhi umphumela walokho waholela ekuhleleni kabusha kwezichibiyel,Cabinet approved the current Bill for public consultation in August 2018 and the outcome thereof led to the redrafting of the amendment,0.8290004
+"[ 0.843593    0.300422   -0.03049785 ...  1.1297711   0.9173457
+  0.8490575 ]","[ 0.02134511  0.00659555 -0.00043828 ...  0.00728334  0.02580484
+  0.0065772 ]","Izichibiyelo ezibuyekeziwe zicacisa ngezigatshana eziningana zoMthethosivivinywa, ezihlose ukunciphisa ukulawulwa kumabhizinisi; ziqinise igebe ekulweni nokuhlanjwa kwemali; ziqinise ukudalulwa kanye nokukhulisa amandla abanikazi bezabelo enkampanin",The Bill seeks to provide a legal instrument towards the implementation of the National Climate Change Response Polic,0.6553292
+"[ 0.86972725 -0.14327604 -0.14016332 ...  0.73383206  0.13925152
+  0.25167134]","[ 0.02631021 -0.00389915  0.00047185 ...  0.01301063  0.00732261
+ -0.00071833]",UMthethosivivinywa Kazwelonke Wokuguquka Kwesimo Sezulu,National Climate Change Bill,0.85755724
+"[ 0.8861676   0.06528477 -0.24208985 ...  0.95197046  0.5012472
+  1.043903  ]","[ 0.02974592 -0.00330729 -0.00066136 ...  0.01776988  0.02136588
+  0.03056144]",IKhabhinethi igunyaze ukwethulwa koMthethosivivinywa Kazwelonke Wokuguquka Kwesimo Sezulu ePhalamend UMthethosivivinywa uhlose ukuhlinzeka isikhali somthetho ekuqaliseni ukusebenza koMthethonqubo Kazwelonke Obhekele Ukuguquka Kwesimo Sezul,Cabinet approved the submission of the National Climate Change Bill to Parliamen,0.7182184
+"[ 0.94044626 -0.04553715 -0.18308392 ...  1.1579458   0.87136626
+  1.2641407 ]","[ 0.0107257  -0.00043303 -0.00045032 ...  0.00883927  0.01344334
+  0.00868359]",Uvumela ukuqondaniswa kwemithethonqubo ezoba nomthelela ekubhekaneni kwezwe nokuguquka kwesimo sezul Uphinde uhlinzeke ngezinhlelo zoguquko zezwe ukuthi liye phambili emnothweni onekhabhoni ephansi nomelene nesimo sezul,The Bill has already gone through an extensive public consultation process involving relevant stakeholder,0.6130172
+"[ 0.49968213  0.01655564 -0.09158801 ...  0.7645982   0.5968095
+  0.69916236]","[ 0.03336871 -0.00450029 -0.00337803 ... -0.00920606  0.01423008
+  0.02951902]",UMthethosivivinywa usuvele udlulile esigabeni sokubonisana ngawo nomphakathi obandakanya ababambiqhaza abafanelekil,APPOINTMENTSAll appointments are subject to the verification of qualifications and the relevant clearance,0.72939074
+"[ 0.42876792  0.04195226 -0.08863752 ...  0.5626348   0.2900514
+  1.0214325 ]","[ 0.00348226 -0.00379556 -0.00061687 ...  0.01497319  0.01119706
+  0.06269512]",AbaqashiweBonke abaqashiwe kumele kuqinisekiswe iziqu zabo futhi bahlolwe maqondana nezimo zokulandela umthetho,Cabinet approved the extension of the HSRM for the next 10 year,0.52636784
+"[ 0.7151658  -0.27162677 -0.16125058 ...  0.43097052  1.445189
+  1.6657686 ]","[-4.2966026e-04 -8.8184699e-04  6.2380641e-05 ... -4.5372504e-03
+  4.8108745e-02  3.6715925e-02]",U-Mnu Smunda Mokoena njengoSihlalo waBalawuli Bezamandla Kuzwelonke eNingizimu Afrik 2.,Mr Smunda Mokoena as Chairperson of the National Energy Regulator of South Afric 2.,0.898541
+"[ 0.91504526  0.05904297 -0.29044762 ...  0.36437765  1.1956278
+  0.81066626]","[ 0.00912767 -0.00060047  0.00099552 ...  0.02685496  0.04372447
+  0.02960404]",U-Dkt Margaret Mkhosi-Motsaathebe njengoMphathi Omkhulu we-National Radioactive Waste Disposal Institut Imibuzo:Nks Phumla Williams,420 Metric tons of Carbon Dioxide equivalent (Mt Co2-eq).,0.6263454
+"[ 0.9785364  -0.17363192 -0.07300061 ...  0.24744153  0.39382368
+  1.3971689 ]","[ 0.00799136 -0.00169247 -0.00033866 ...  0.00714567  0.01109021
+  0.00353751]",USomlomo weKhabhinethi Umakhalekhukhwini: 083 501 0139,export markets on hydrogen technologie,0.5209414
