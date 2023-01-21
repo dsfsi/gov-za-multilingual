@@ -39,3 +39,8 @@ jobs:
                     sudo apt-get install build-essential
                     sudo apt-get install cmake
                     sudo apt-get install zip
+
+            -   name:   Perform the sentence alignment
+                run:    |
+                    cd ./src/sentence_alignment/LASER
+                    python3 main.py
