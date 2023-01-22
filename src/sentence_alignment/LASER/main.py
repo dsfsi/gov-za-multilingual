@@ -166,7 +166,7 @@ if __name__ == "__main__":
     #   Create embeddings & align files
     for (key, value) in language_mappings.items():
         if key != 'en' and value != '':
-            SRC_LANG = "nso"
+            SRC_LANG = "xh"
             TRG_LANG = "en"
             data_frame = create_embeddings(SRC_LANG, TRG_LANG, language_mappings, speeches_data)
             
