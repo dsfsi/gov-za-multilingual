@@ -51,7 +51,4 @@ jobs:
 
             -   name:   Commit and push the changes into the repository (master branch) if there are any
                 if: steps.changes.outputs.changed == 1
-                run:    |
-                    git add .
-                    git commit -m "📦(SA): Added new aligned files"
-                    git push origin master
+                run:    echo "Changes detected"
