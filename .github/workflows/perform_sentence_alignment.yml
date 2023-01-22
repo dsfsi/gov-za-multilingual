@@ -47,6 +47,8 @@ jobs:
 
             -   name:   Commit and push the changes into the repository (master branch) if there are any
                 run:    |
+                    git config --local user.email "action@github.com"
+                    git config --local user.name "GitHub Action"
                     git add .
                     git commit -m "📦(SA): Added new aligned files"
                     git push origin master
