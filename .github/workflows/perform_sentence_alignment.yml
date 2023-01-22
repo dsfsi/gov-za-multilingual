@@ -45,10 +45,12 @@ jobs:
                     cd ./src/sentence_alignment/LASER
                     python3 main.py
 
+            -   name:   Add safe directory
+                run:    git config --global --add safe.directory '*'
+
             -   name:   check for repo changes
                 id:     changes
                 uses:   UnicornGlobal/has-changes-action@v1.0.11
-                run:    git config --global --add safe.directory '*'
 
             -   name:   Commit and push the changes into the repository (master branch) if there are any
                 if: steps.changes.outputs.changed == 1
