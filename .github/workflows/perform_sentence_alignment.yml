@@ -48,3 +48,5 @@ jobs:
             -   name:   Commit and push the changes into the repository (master branch) if there are any
                 run:    |
                     git add .
+                    git commit -m "📦(SA): Added new aligned files"
+                    git push origin master
