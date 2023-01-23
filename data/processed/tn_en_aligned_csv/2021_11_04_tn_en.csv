@@ -1,0 +1,228 @@
+tn,en,src_text,trg_text,Cosine_Score
+"[ 0.48886654 -0.54650277 -0.6879751  ... -0.82461756  0.43882957
+  1.1551161 ]","[ 0.00507376 -0.00012318 -0.00168673 ... -0.00381895  0.00523793
+  0.00884857]",Merero ya ga Jaana1.,Appointments 1.,0.72550184
+"[ 1.8020453  -0.73519003 -0.0537373  ... -0.22134496  0.12167035
+  2.2293313 ]","[ 0.07056022 -0.00241785 -0.00283601 ...  0.02250353  0.02634591
+  0.00144549]",Ditlhopho tsa Dipusoselegae (LGE) tsa 2021,2021 Local Government Elections (LGE),0.817956
+"[ 1.1116048  -0.45952895  0.30203795 ...  0.27137005  1.2128252
+  3.6062796 ]","[ 0.05767925 -0.00224886  0.00074393 ...  0.00344421  0.03023065
+  0.06627661]","Kabinete e lebogile batho botlhe ba ba nnileng le seabe mo ditlhophong tsa dipusoselegae tsa 2021 ka Mosupologo, 1 Ngwanaitseele 2021.","Cabinet thanked all eligible voters who cast their vote in the 2021 LGE on Monday, 1 November 2021.",0.8611899
+"[ 0.7386911  -0.52294564 -0.30401334 ...  0.9799281   1.3656609
+  0.89593935]",[0.00500817 0.00216753 0.01081938 ... 0.0068531  0.02773049 0.0231122 ],Ditlhopho tse di ne di supa keteko ya dingwaga tse 21 tsa go tlhongwa ga tsamaiso ya dipusoselegae ya temokerasi mo Aforika Borw,These elections marked the 21st anniversary of the establishment of a democratic local government system in South Afric,0.84034413
+"[ 1.2058448  -0.4252211  -0.15369996 ...  1.2217433   1.293475
+  1.0548693 ]","[ 0.02636713 -0.00016683  0.00152298 ...  0.02413436  0.04203473
+  0.02115637]","Re akgola itshokelano, seriti le bopelotelelo jo batlhophi ba neng ba bo supa mo Letsatsing la Ditlhopho lotlh Tsela e e se nang dilabe e makoko a sepolotiki a neng a gaisanela ditlhopho tsa dipusoselegae le go tlhagelela ga bontlhopheng ba ba wa, segolo basadi, ke bopaki jwa gore temokerasi ya rona e manotlhotlho e bile e dira sentl","We applaud the tolerance, dignity and patience with which the voters conducted themselves throughout Election Da The smooth way in which political parties contested the LGE and the emergence of young candidates, especially women, is testament to our vibrant and functioning democrac",0.88094383
+"[ 1.3236661   0.08451125 -0.21992412 ...  1.7859827   1.441368
+  1.1923333 ]","[ 0.03383379 -0.00027081  0.00093452 ...  0.03477972  0.02175578
+  0.03420294]","Kabinete e akgotse Khomi ene e e Ikemetseng ya Ditlhopho ya Aforika Borwa, makoko otlhe a sepolotiki, maloko a set haba le ditheo tsa tsenyotirisong ya molao mo nageng ka maiteko a bona a a kopanetsweng go netefatsa gore go nna le ditlhopho tse di renang kagis Kabinete e akgola gape le bobegadikgang ka seabe sa bona se se botlhokwa go tlamela batlhophi ka tshedimosetso e e maleba go ba thusa mo go diragatseng tshwanelo ya bona ya temokerasi go tlhopha baeteledipele ba ba ba batlang ba pusoselega","Cabinet commended the Electoral Commission of South Africa, all political parties, members of society and the law-enforcement agencies in the country for their collective efforts to ensure the peaceful election Cabinet also commended the media for their important role in providing voters with relevant information to assist them in exercising their democratic right to choose their preferred local government leader",0.89761
+"[ 0.8461781  -0.11967371 -0.27788648 ...  0.6020457   1.3246603
+  1.68446   ]","[ 0.02380981 -0.00114656  0.00123277 ...  0.01340894  0.0327252
+  0.01601226]",Kabinete e ne ya gakolola maAforika Borwa otlhe go matlafatsa temokerasi ya rona ka go nna le seabe mo mekgatlong le mo ditheong tse di netefatsang gore ba ba tlhophilweng ba rwala maikarabel E ikuetse go batlhankedi ba ba sa tswang go tlhophiwa go ikobela maikano a bona le go direla batho botlhe ka tekatekano ntle le go gobelel 2.,"Cabinet reminded all South Africans to strengthen our democracy by actively participating in forums and institutions which hold those elected to accoun It called on newly elected officials to keep true to their electoral pledges, and to serve all people equally and fairl",0.8791766
+"[ 0.10690601  0.3122458  -0.35727128 ... -0.4484229  -0.02078586
+ -0.8003315 ]","[ 1.9116983e-02 -6.1689089e-03  8.9388841e-06 ... -2.2611357e-03
+  1.3113925e-02 -6.0813427e-03]",Letsholo la Meento,Uptake of vaccines,0.7741651
+"[ 1.4048097   0.26595837 -0.10717116 ...  0.6141667   2.3449101
+  1.9759972 ]",[0.03497693 0.01553688 0.0121792  ... 0.00982932 0.03947628 0.03123901],Kabinete e akgotse maAforika Borwa a a tsereng tshweetso ya go itshireletsa mmogo le go sireletsa ba ba phelang le bona ka go entela leroborobo la Bolwetse jwa Mogare wa Corona (COVID-19).,Cabinet applauded South Africans who have chosen to protect themselves and their loved ones by vaccinating against the Coronavirus Disease (COVID-19) pandemi Our country has already administered over 22 million vaccine dose,0.81569684
+"[ 0.05530737  0.46995813  0.33934966 ... -0.35258162  0.33775416
+  0.26909208]","[ 0.006488   -0.00033852  0.05489822 ...  0.02041113  0.0142416
+  0.01755066]",Naga ya rona e setse e tlhabile meento e le dimilione tse 22.,"They will add billions of rand of annual production to South Africa s gross domestic produc Two of the investments had been pledged at the previous South Africa Investment Conference, and the firms have now commenced with production, creating a significant number of new job",0.5393196
+"[ 1.0610846  -0.16284792  1.8008723  ...  1.3335304   1.7897122
+  2.2411067 ]","[ 0.02148366 -0.00082031  0.07958339 ...  0.016026    0.022372
+  0.03841303]",Batho ba le bararo go tswa go ba batlhano ba dingwaga tse di kwa godimo ga 50 mo nageng ya rona ba setse ba entilw Re tlhoka go fitlhelela batho botlhe mo setlhopheng sa batho ba dingwaga tseno fa ngwaga o khutla gore re kgone go fokotsa bogale jwa lekhubu la bone le le solofetswen,Three out of every five people aged over 50 years in our country are now vaccinate We need to get to five out of five of such vaccinated age group by the end of the year to kill the power of the anticipated fourth wav,0.8483169
+[1.2604803  0.17935719 0.5204135  ... 0.81954145 1.6310046  1.694073  ],"[ 0.03468315 -0.00136279  0.01277932 ...  0.01335545  0.03620308
+  0.02825174]",Letsholo le le latelang la Vooma Vaccination Weekend mo mafelong a beke go tloga ka la bo 12 go fitlha ka la bo 14 Ngwanaitseele ke t hono ya gore batho ba ba sa entiwang ba nne le seabe mo ntweng ya set haba sa rona ya go lwantsha COVID-19 ka go entiwa mahala kwa go le lengwe la mafelo a go entiwang kwa go ona go ralala le nag,The upcoming Vooma Vaccination Weekend from 12 to 14 November 2021 is an opportunity for unvaccinated people to join our nation s fight against COVID-19 by taking the free vaccines at any of the vaccination sites across the countr,0.8789431
+"[ 1.1999199   0.54428154 -0.0046293  ...  1.0099703   1.4057178
+  2.6500592 ]","[ 0.0230072  -0.00022638  0.00928354 ...  0.03423792  0.02498587
+  0.0514221 ]","Kabinete e gakolotse batho go netefatsa gore ba tlhabiwa moento wa bobedi wa Pfizer gore ba sireletsege ka botlal Meento e thusa go thibela go gatelelwa ke bolwetse, go amogelwa kwa bookelong le go ka tlhokafala ka ntlha ya COVID-19.","Cabinet reminded people to ensure that they take a second dose of the Pfizer vaccine to be fully protecte Vaccines help prevent serious illness, hospitalisation or death from COVID-19.",0.886376
+"[ 0.8729916  -0.6773715  -0.0766447  ... -0.20968701 -0.06485502
+ -0.20347361]","[ 0.00733842  0.00035684 -0.0007631  ... -0.00269579  0.00484391
+  0.00118707]",Motlakase,Energy,0.82660836
+"[ 0.6060797  -0.16553888 -0.10110743 ...  2.0347943   1.1468676
+  2.134114  ]","[ 0.01061589 -0.00022031 -0.00025253 ...  0.03868175  0.03278051
+  0.04650798]",Kabinete e tlhaloganya dikgoreletso le ketsaetsego e e bakiwang ke tlamelo e e sa tlhomamang ya motlakase e e itemogelwang ke maAforika Borwa mo matsatsing a go sa le gal Lefapha la Dikgwebo tsa Set haba le dirisana mmogo le Boto le boeteledipele ba Eskom go netefatsa gore re fokotsa sebaka sa kgaogo ya motlakase ka letsatsi le paka e tsereganyo e e tla tlhokagalang ka yon,Cabinet acknowledges the disruptions and inconvenience of intermittent load-shedding experienced by South Africans in recent day The Department of Public Enterprises is working closely with the Board of Eskom and management to ensure that we limit the daily duration of load-shedding and the period for which this intervention will be require,0.8680573
+"[ 0.86885804 -0.06151742 -0.32830384 ...  1.322982    1.2566544
+  1.5075016 ]","[ 0.01771944 -0.00136201  0.00627066 ...  0.01993513  0.02602107
+  0.02529253]",Lefapha la Matlotlo a Set haba le dirisana le Eskom go e neela ditetlelelo tse di maleba go kgona go reka dikarolwana tse di tlhokegang go baakanya le go boloka mafaratlhatlh Go na le kgatelopele kwa Eskom mo dithulaganyong tsa go thapa badiri ba ba nonofileng,National Treasury is working with Eskom to grant it the appropriate exemptions to acquire the spare parts needed for repairs and maintenanc Eskom is also making progress in re-employing skilled personnel,0.8385339
+"[ 0.03575621 -0.6312493  -0.34923688 ... -0.25033724  0.10141551
+ -0.04227811]","[-0.00159935 -0.00288862 -0.00171023 ...  0.00171205  0.00740486
+ -0.00081022]",go akaretsa balaodi ba dipolante,including plant managers,0.7968998
+"[ 0.53944695  0.31014735 -0.5667326  ...  0.55875504  0.49025762
+  0.27379423]","[-0.00093597 -0.00303114 -0.00021154 ...  0.01246646  0.0119422
+ -0.00067669]",go tlhusa setheo se sa motlakase go dira sentle kwa ditei eneng tse di farologaneng tsa motlakase le go ralala ditiro tse di farologaneng tsa kgwebo,to help the power utility make headway at individual power stations and across various operations of the busines,0.77055794
+"[ 1.1434406   0.022145   -0.05662939 ...  1.3821074   0.78733146
+  2.248413  ]","[ 0.00642625 -0.00136368  0.00739771 ...  0.02361471  0.01404347
+  0.04173908]","Mo pakagareng eno, puso e sweditse go tsenya tirisong dikgato di le mmalwanyana go rarabolola dikgwetlho tsa motlakase mo nageng mme re dira ka natla go tsenya tirisong ka bonako jo bo kgonegang mothamo o mo wa wa go fetlha motlakas","Over the medium term, government is implementing a number of interventions to resolve our energy challenges and we are making every effort to bring new power generation capacity online in the shortest possible tim",0.84234154
+[0.6332098  0.26314732 0.53008187 ... 0.7008879  1.0965606  2.009076  ],"[ 0.00526771 -0.0019362   0.01119141 ...  0.01097933  0.03427255
+  0.02129065]",Dikgato tseno di akaretsa:go tlhatlosa mothamo o ditlamo di ka tlhagisang motlakase wa tsona ntle le laesense go ya go dimekawate (MW) tse 100;go begiwa ga ditlamo di le 11 tse di fentseng mo Letsholong la Dithendara tsa Ditlamo tse di Ikemetseng tsa Tlhagiso ya Motlakase o o Nt hwafaditsweng; leKgato ya Botlhano ya dithendara tse di neng di dirile dikopo mo letsholong la dithendara tsa ditlamo tse di ikemetseng tsa tlhagiso ya motlakase o o nt hwafaditsweng ka go reka 2 600 MW ya motlakase o o fetlhiwang ka phefo le letsats,The interventions include: lifting the threshold for companies to produce their own electricity without a licence to 100 megawatts (MW); the announcement of 11 successful bidders for the Risk Mitigation Independent Power Producer Procurement Programme; and Bid Window Five of the renewable energy programme to procure 2 600 MW of new generation capacity from wind and solar photovoltaic project,0.86743164
+[0.8268189  0.03620481 0.22981498 ... 1.4067549  1.4063724  1.6593152 ],"[ 0.01350655 -0.00045898  0.00572582 ...  0.02666525  0.03207419
+  0.03808186]","Le fa Kabinete e itse gore dikgwetlho tsa ga jaana tsa motlakase di baka ketsaetsego e bile di kgatlhanong le kgolo ya ikonomi, e na le bonnete jwa gore dikgato tse di bonalang tse puso e di tsayang go bopa se wa le go matlafatsa mafaratlhatlha a motlakase, di tla tokafatsa mothamo wa naga wa motlakas 4.","While Cabinet is aware that the current energy challenges are frustrating and counterproductive to economic growth, it is confident that the practical actions government is taking to restructure and strengthen our electricity system will eventually improve the country s energy capacit",0.8656403
+"[-0.25503433 -0.57438666 -0.04637497 ... -0.5201116  -0.8975527
+ -0.153937  ]","[-0.00502288  0.00204702  0.00744267 ... -0.0039793   0.00277685
+ -0.00173999]",Peeletso,Investment,0.7606993
+[0.67331797 0.36102286 0.8919307  ... 0.6463352  1.3962789  1.1544933 ],[0.02021685 0.00043748 0.03440293 ... 0.02057414 0.03404467 0.0291558 ],"Aforika Borwa o tswelela go dira sentle jaaka lefelo le babeeletsi ba le tlhophang, le go ngoka dingwe tsa dikgwebo tse di kwa godimo mo lefatsheng go atolosetsa ditiro tsa tsona mo nageng","South Africa continues to perform as an investment destination of choice, attracting some of the world s top businesses to expand their operations in the countr",0.8825807
+"[ 2.4693322  -0.1835703   0.60355854 ...  0.8004649   1.2148782
+  1.0942295 ]","[ 0.01754343 -0.00213444  0.00936959 ...  0.01359329  0.01371524
+  0.0286384 ]","Toyota South Africa e thankgolotse polante ya yona ya R2,6 bilione kwa Durban kwa KwaZulu-Nata Polante e e tla tlhagisa dikoloi tsa ntlha tsa motlakase go rekisiwa mo Aforika Borw Se ke karolo ya leano le legolo la ditsholofetso tsa intaseteri ya dirori go oketsa maemo a yona a peelets","Toyota South Africa has launched its R2,6 billion production plant in Durban in KwaZuluNata The plant will manufacture the first generation of commercial-scale hybrid electric vehicles in South Afric This is part of the Auto industry masterplan commitments by the company to increase its levels of investmen",0.89659226
+"[ 0.9235233   0.15769412 -0.10101099 ...  1.3054883   1.6476728
+  1.5154995 ]","[ 0.02227769 -0.00241336  0.00522959 ...  0.01563238  0.02499583
+  0.02920798]","Go thankgololwa ga setlamo seno sa Toyota go diragala ka nako e le nngwe le pego ka setlamo sa bodit haba sa Sweden sa go phuthela le go tlhagisa dijo sa Tetra Pak, e e reng e tla beeletsa R500 milione go tokafatsa mothamo wa tlhagiso ya sona kwa femeng ya didiriswa tsa diphuthelwana kwa Durba","The launch dovetails with the announcement by Swedish multinational food packaging and processing company, Tetra Pak, to invest R500 million to upgrade its production capacity of its packaging material factory in Durba",0.849758
+[0.73547983 0.2002522  0.3688853  ... 0.9705032  1.0490023  1.699007  ],"[ 0.02482831 -0.00046163  0.00152083 ...  0.03344191  0.02522564
+  0.02241748]","Aspen Pharmacare e butse lekala la yona le le wa la go idibatsa balwetse kwa bookelong le le tlhagisang molemo wa Diprivan mono jaaka karolo ya peeletso ya R3,2 bilione mo go tlholeng mafelo a tlhagiso ya bophepa a maemo a a kwa godimo, le go fetolela lefelo la yona kwa Gqeberha kwa Kapa Botlhaba go nna le le gatetseng pele go gaisa mo kontinenteng ya Aforik Mo malobeng melemo ya go idibatsa balwetse kwa bookelong e ne e rekiwa go tswa kwa dinageng tsa kwa ntle mme e dirisiwa mo ditirong tse di farologaneng kwa bookelong mmogo le mo ditirong tsa go dira dikaro mo maokelong a Aforika Borwa, e bile e dirisiwa gape le mo go alafeng balwetse ba COVID-19 ba ba leng mo met hining e e ba thusang go hema mo diwateng tsa balwetse ba ba bobolang mo ba ka ikelang badimon","Aspen Pharmacare opened its new anaesthetic line producing Diprivan locally as part of the R3,2-billion investment in creating world-class sterile production facilities, and turning the site in Gqeberha in the Eastern Cape into the most advanced pharmaceutical precinct on the African continen The anaesthetic was previously imported and is used in a range of standard medical procedures and operations in South African hospitals, and also used to treat COVID-19 patients on ventilators in intensivecare ward",0.87995195
+[1.5845009  0.26561558 0.00928421 ... 0.9518656  1.9192129  1.7233912 ],"[ 3.3655535e-02 -3.7048241e-05 -2.0198138e-04 ...  3.2446556e-02
+  4.2791504e-02  5.1336002e-02]","Kabinete e amogetse gape le dipeeletso tsa go sa le gale tsa setlamo sa dirori, Isuzu Motors South Africa, mo ikonoming ya Aforika Borw Isuzu Motors South Africa e thankgolotse lefelo la tlhagiso kwa Struandale kwa Gqeberh Isuzu e beeletsa Rbilione mo lenaneong la serori sa bona se se wa mo Aforika Borwa go se rekisetsa mebaraka ya Aforika Borwa le ya Kgaolo ya Dinaga tsa Borwa ba Aforik","Cabinet also welcomed the recent investment by vehicle maker, Isuzu Motors, into the economy of the countr Isuzu Motors South Africa launched the production facility at Struandale in Gqeberh Isuzu is investing Rbillion into its next generation bakkie programme in South Africa for the South African and Sub-Saharan Africa market",0.89658165
+[1.2221084  0.10627495 1.0155685  ... 1.0311171  1.1255741  1.5231884 ],"[ 0.01398852 -0.00042131  0.03096105 ...  0.00996718  0.03006541
+  0.02774549]","Polante e ya Isuzu e tla tlhola ditiro di le 1 000 ka tlhamalalo kwa lefelong la yona la go aga dirori kwa Gqeberha, kwa mabenkeleng a yona otlhe a a rekisang dirori tsa yona ka mo nageng le kwa dinageng tsa kwa ntle, le ditiro di ka nna 25 000 mo ditlamong di le makgolokgolo go ralala naga tse di tlamelang polanta eno ka didirisiwa le ditirel","The Isuzu plant will create 1 000 direct jobs at its operations in Gqeberha, and across its national and international dealer network, and about 25 000 jobs at hundreds of suppliers across the countr",0.8698524
+[2.7332766  0.4305067  0.09704627 ... 0.68205893 1.8124897  3.2805762 ],[0.06050422 0.00083    0.0041958  ... 0.0146209  0.05631123 0.04800126],Dipeeletso tsotlhe tse di tla tsweletsa lenaneo la go tlhongwa mo lefelong le le rileng le le begilweng mo Leanong la Tlhabololo le Tsosoloso ya Ikonomi le le thankgolotsweng ke Motlotlegi Moporesitente Cyril Ramaphosa ka Diphalane 2020.,All these three investments will advance the localisation programme announced in the Economic Reconstruction and Recovery Plan launched by His Excellency President Cyril Ramaphosa in October 2020.,0.867386
+[0.5267661  0.36602557 0.4976701  ... 1.1518735  0.8394101  1.2802016 ],[0.01392361 0.00300392 0.00580305 ... 0.00742872 0.01811357 0.02829301],"Di tlile go tlisa dibilione tsa diranta tsa tlhagiso ngwaga le ngwaga mo ditlhagisweng tsa ka fa nageng ya Aforika Borw Dipeeletso tse pedi tsa tsona di ne di solofeditswe kwa Khonferenseng ya Peeletso ya Aforika Borwa e e fetileng, mme difeme tseo ga jaana di simolotse ka tlhagiso, le go tlhola palo e e bonalang ya ditiro",The MTBPS is a call to action for all sectors of society to pull together to drive the economy and advance job creatio Cabinet is confident that the MTBPS will again demonstrate government s commitment to building a sustainable economy with input from all sectors of societ,0.72301835
+"[ 0.6871642  -0.22561896 -0.18190545 ... -0.11532459  1.0185281
+  2.1277554 ]","[-0.00103648 -0.0055299  -0.00154042 ...  0.01576614  0.01954173
+  0.0043439 ]",Dikopo tsa Sekema sa Boset haba sa Thuso ya Matlole go Baithuti (NSFAS) tsa 2022,2022 National Student Financial Aid Scheme (NSFAS) applications,0.8374429
+"[ 0.65779066 -0.36136875 -0.2632016  ...  1.0160785   1.5312623
+  3.1250029 ]","[ 0.01262319 -0.00108396  0.00287111 ...  0.01119342  0.04544949
+  0.05953027]",Kabinete e gakolotse barutwana le ba wa ba ba sa tseneng sekolo ba ba tswang mo malapeng a a tlhokang le a setlhopha se se dirang go romela dikopo tsa bona tsa thuso ya matlole tsa ngwaga wa dithuto wa 2022.,"Cabinet reminded learners and out-of-school youth from poor and working-class backgrounds to submit their applications for funding for the 2022 academic yea Applications for NSFAS funding will close on Friday, 7 January 2022.",0.8097261
+"[ 0.861131   -0.45935628  0.14977483 ...  0.48456064  0.7023312
+  3.487621  ]","[ 0.00747361  0.00151996 -0.00041435 ...  0.01217668  0.0189511
+  0.0778148 ]","Dikopo tsa thuso ya matlole tsa NSFAS di tla tswalelwa ka Labotlhano, 7 Ferikgong 2022.","Finance Minister Enoch Godongwana will deliver the MTBPS in Parliament on Thursday, 11 November 2021.",0.6996034
+"[ 1.004128   -0.26386413 -0.3690802  ...  0.5000781   1.3229054
+  0.81816137]","[ 0.00795523 -0.00321222  0.00091857 ...  0.016994    0.04117958
+  0.04569841]","Dikopo di buletswe gape le baithuti ba ba setseng ba kwadisitswe kwa ditheong, mme ba sena matlole e bile ba siametse thuso ya matlole ya NSFA","The applications process is also open to students who are already enrolled at institutions, but are without funding and qualify for NSFAS financial fundin",0.8587905
+"[ 0.826599   -0.22857712 -0.30493006 ...  0.6035377   1.0751722
+  0.75390565]",[0.00781003 0.0016156  0.00212905 ... 0.01173852 0.04142293 0.00608411],"Go bona tshedimosetso ka botlalo tebang le go dira kopo ya matlole, letsetsa 08000 67327 kgotsa o etele wwnsfaorg","For more information on how to apply for funding, call 08000 67327 or visit wwnsfaor",0.8977862
+"[ 1.1054367   3.0354855   0.28297007 ... -0.12347781  0.59570587
+  0.33773965]",[0.0222151  0.04468631 0.02398326 ... 0.01056389 0.02443393 0.00814211],Tirisodikgoka mo Bathong ba Bong jo bo Rileng le Polao ya Basadi (GBVF),Gender-based violence and femicide (GBVF),0.87155473
+[1.9434677  2.8901637  0.4958787  ... 0.97667235 1.2049859  1.6959801 ],"[ 0.03988334  0.05368163 -0.00020207 ...  0.03555601  0.03369871
+  0.04108282]","Kabinete e amogetse katlholelo ya sebaka se se menaganeng gararo sa go tshela botshelo jotlhe kwa kgolegelong e e neetsweng mmeteledi le mmolai, Mfanasibili Cornelius Mnisi, wa dingwaga di le 29, e e rebotsweng ke Karolo ya Kgotlatshekelokgolo ya Mpumalanga kwa Mbombela go sa le gal Katlholo e e gagamaditsweng eno e supa gore tsamaiso ya bosiamisi jwa bosenyi ga e kitla e itshokela ditiro tsa GBVF gotlhelel",Cabinet welcomed the triple life sentence handed down to rapist and murderer Mfanasibili Cornelius Mnisi (29) by the Mpumalanga Division of the High Court in Mbombela recentl This harsh sentence demonstrates the zero-tolerance approach against GBVF by the criminal justice syste,0.85540736
+"[ 1.051638    1.6295199  -0.45177943 ...  1.3470939   0.70713437
+  1.6108167 ]","[ 0.01703827  0.0103907  -0.00011122 ...  0.02278078  0.03287543
+  0.03091025]","Ka go dirisana mmogo le sepodisi le ditheo tse dingwe tsa tsenyotirisong ya molao, re ka dira gore mebila le mafelo a rona a babaleseg Re tshwanetse go nna re tsibogile le go bega ditiragalo tsotlhe tse di amanang le GBVF kwa sepodising kgotsa go leletsa Tikwatikwe ya Taolo ya GBVF mo go: 0800 428 428 kgotsa Mogala wa Thuso wa Thibelo ya Tirisodikgoka ya Bong: 0800 150 150/*120*7867#.","By working together with the police and other law-enforcement agencies, we can make our streets and communities safer for al We should all be vigilant and report all GBVFrelated incidents to the police or call the National GBVF Command Centre: 0800 428 428 or Stop Gender Violence Helpline: 0800 150 150/*120*7867#.",0.9179956
+[0.58102465 0.22726049 0.22040518 ... 0.40904573 0.7540914  0.12657218],[0.01623057 0.01734255 0.00197985 ... 0.01553401 0.01957153 0.00361769],Puso e tla nna le seabe mo Letsholong la Matsatsing a le 16 la go Ema Kgatlhanong le Tirisodikgoka mo Basading le mo Baneng,Government will participate in the 16 Days of Activism of No Violence Against Women and Children,0.85851645
+[0.54891086 0.12139864 0.6575107  ... 0.08096424 0.36494815 2.8700352 ],"[ 0.01426918  0.00251669  0.01237507 ... -0.00180823  0.00059482
+  0.05055716]",go tloga ka la bo 25 Ngwanaitseele (Letsatsi la Bodit haba la go Ema Kgatlhanong le Tirisodikgoka mo Basading le mo Baneng) go fitlha ka la bo 10 Sedimonthole (Letsatsi la Bodit haba la Ditshwanelo tsa Botho),from 25 November (International Day of No Violence against Women) to 10 December (International Human Rights Day),0.8538348
+"[ 1.494758   -0.30776712 -0.69906133 ...  0.04014043  1.3259022
+  1.6019977 ]","[ 0.01644828  0.00184978 -0.00025135 ...  0.01856331  0.03153726
+  0.02714993]",go tsweletsa tsiboso ka ga leroborobo la GBVF mo nagen 7.,to heighten awareness of the scourge of GBVF in the countr,0.71116185
+"[ 0.48398858  1.8438239  -0.51925725 ... -0.2114936   0.68372816
+  0.30563492]","[ 0.01394217  0.04568861 -0.00108828 ...  0.00974746  0.01982507
+  0.02108353]",Phimolakeledi ya Batswasetlhabelo ba Dipolao tsa Motsi wa Tlhaolele,Justice for victims of apartheid-era murders,0.75841415
+"[ 2.9387074   2.2641988  -0.32129917 ...  1.0347008   1.7842922
+  1.083437  ]","[ 5.1352870e-02  3.5315271e-02  1.1976266e-03 ... -1.6418629e-05
+  2.7608493e-02  2.2936216e-02]","Kabinete e amogetse pego ya go sa le gale ka Tona ya Bosiamisi le Ditirelo tsa Kgopololo, Ronald Lamola, ka ga setlhopha se se kgethegileng sa batlhotlhomisi le bat hot hisi ba puso ba ba tla samaganang fela le dikgetse tse di sa felelang gope tsa Khomi ene ya Boammaaruri le Poelan",Cabinet welcomed the recent announcement by Justice and Correctional Services Minister Ronald Lamola of a special team of investigators and state prosecutors that will deal exclusively with Truth and Reconciliation Commission cold case,0.88239294
+[ 0.8874382  2.4501002 -0.2634948 ...  1.1136261  1.5974468  1.5230306],"[ 0.01853234  0.04312272 -0.00035293 ...  0.03529346  0.03598558
+  0.01810824]",Setlhopha se se kgethegileng se se tla neelwa tiro ya go sekaseka dipolao tse di kwa ntle ga bosiamisi tse di dirilweng ke sepodisi sa tshireletso sa tlhaolel Ditsereganyo tse di tla itlhaganedisa go ribela kutlobotlhoko ya ba malapa a batswasetlhabelo ba dipolao tsa motsi wa tlhaolel 8.,The special team will be tasked with looking into extrajudicial murders committed by apartheid security polic Such interventions will fast-track the process of finding closure for the families of the victims of apartheid-era murder,0.83419776
+"[ 0.5408954  -0.60485035 -0.3904845  ...  0.8504774   1.2477137
+  0.6273637 ]","[ 0.00935354 -0.00084703 -0.00027501 ...  0.03837189  0.01820244
+  0.01272065]",Maemo a sepolotiki kwa Pusong ya Eswatini,Political situation in the Kingdom of Eswatini,0.75861055
+"[ 0.43547815  0.19236849 -0.6511198  ...  0.07345726  0.56796473
+  1.1135546 ]","[ 0.00690187  0.00026874 -0.00047916 ...  0.00398246  0.00705925
+  0.00600474]",Kabinete e nopotse le go amogela dikgato tsa go ritibatsa maemo tse di tserweng ke Motlotlegi Moporesitente Ramaphosa,Cabinet noted and welcomed the intervention of His Excellency,0.67390275
+"[ 0.29101536 -0.28097895 -0.48694205 ...  1.5423601   0.9655106
+  1.3042977 ]","[ 4.4388878e-03 -1.6651080e-03 -3.9839582e-05 ...  1.6613783e-02
+  9.9237096e-03  6.0051461e-03]","mo maemong a gagwe jaaka Monnasetilo wa Dinaga tsa Mokgatlho wa Tlhabololo ya Borwa jwa Aforika (SADC) mo lephateng la Dipolotiki, Sesole le Tirisanommogo mo Mererong ya Pabalesego","Development Community (SADC) Organ on Politics, Defence and Security Cooperation",0.8444096
+"[ 1.3196584  -0.72726935 -0.6425447  ... -0.04617649  1.2989947
+  0.9439671 ]","[ 0.01743439 -0.00284821 -0.0001107  ...  0.04277367  0.02005548
+  0.01913431]",ka go ritibatsa maemo a sepolotiki kwa Eswatin,in the political situation in the Kingdom of Eswatin,0.77379125
+[0.9276284  0.27484542 0.32721755 ... 1.7540866  1.26718    3.7785096 ],"[ 0.0029078  -0.0004049   0.02132772 ...  0.03408219  0.02134422
+  0.09000827]","Kopano ya ga Moporesitente Ramaphosa le Kgosi Mswati III ka Labobedi, 2 Ngwanaitseele 2021 e latela leeto kwa Pusong eo ka Baromiwa ba ba Kgethegileng ka 21 le 22 Diphalane 2021.","President Ramaphosa s meeting with His Majesty King Mswati III on Tuesday, 2 November 2021 follows a visit to the Kingdom by Special Envoys on 21 and 22 October 2021.",0.8643184
+"[ 0.44322112 -0.4319032  -0.3502553  ...  0.2977959   0.9148448
+  0.3533197 ]","[-0.00092503  0.00139011  0.00062821 ...  0.01068362  0.00977905
+  0.00275728]",Moporesitente o ne,The President had,0.66528636
+"[ 0.65669423 -0.14529787 -0.13674812 ...  1.4337646   1.3035805
+  1.9761875 ]","[ 1.8620918e-02 -2.0342933e-03 -9.7192009e-05 ...  2.5715921e-02
+  4.7446549e-02  1.7570304e-02]","jaaka Monnasetilo wa Karolo ya Troika ya SADC e e akaretsang Namibia (e e tla tsenang), Aforika Borwa (monnasetilo) le Botswana (e e tswang) - a kaela Baromiwa ba ba Kgethegileng go buisana le Puso ya Eswatini ka maemo a tshireletso le a sepolotiki kwa Pusong e","in his capacity as Chairperson of the SADC Organ Troika comprising Namibia (incoming), South Africa (chair) and Botswana (outgoing)",0.8152454
+"[ 0.86000043  0.27723122 -0.30239248 ...  1.7361827   1.407996
+  1.2087452 ]","[ 0.01912825  0.00194897 -0.0001976  ...  0.0483037   0.03549618
+  0.02076542]","Kabinete e amogetse tumalano ya gore Puso ya Eswatini e tla samagana le tiro ya go tlhoma foramo ya dipuisano le baagi ba yon Kabinete e ikuela go bannaleseabe botlhe ba Maswati go dirisana mmogo go khutlisa tirisodikgoka le kgotlang, mme ba tsweletse kagiso le tolamo mo Pusong e","Cabinet welcomed the agreement that the Kingdom of Eswatini will embark on a process towards the establishment of a national dialogue foru Cabinet calls on all stakeholders amongst emaSwati to work together to end violence and conflict, and maintain peace and calm in the Kingdo",0.857741
+"[ 0.57444143 -0.2190511  -0.5835397  ... -0.35291925 -0.37201416
+  0.69990814]","[ 0.00043098  0.0058385   0.00134642 ...  0.00269926 -0.0029742
+  0.01413857]",Molaotlhomo 1.,Upcoming event 1.,0.64833546
+"[ 0.58450264  2.6430347  -0.28168032 ... -0.12500638 -0.04913746
+  2.1668546 ]",[0.01218307 0.06203747 0.00168296 ... 0.01048193 0.0021102  0.04396382],Molaotlhomo wa Tlhabololo ya Molao wa Bosenyi (Ditsamaiso tsa Forensiki) wa 2021,Criminal Law (Forensic Procedures) Amendment Bill of 2021,0.7943171
+"[ 1.856147    2.8073742  -0.38177538 ...  1.2476944   1.109978
+  1.883097  ]","[ 0.03693047  0.05269789 -0.00020193 ...  0.02879904  0.02437154
+  0.04138225]",Kabinete e amogetse go romelwa ga Molaotlhomo wa Tlhabololo ya Molao wa Bosenyi (Ditsamaiso tsa Forensiki) wa 2021 kwa Palamenteng go sekasekiw Ditokafatso tse di tshitshinngwang di tlamela ka mekgwa ya go gatelela go tsewa ga disampole tsa bukhale tsa DNA (disampole tsa disele tse di mo teng ga marama a motho) mo bathong ba ba atlhotsweng ka fa tlase ga ditlolomolao tsa Thulaganyo 8.,Cabinet approved the submission of the Criminal Law (Forensic Procedures) Amendment Bill of 2021 to Parliament for processin The proposed amendments provide for the mechanism to enforce the taking of DNA buccal samples (samples from cells on the inside of the person s cheek) from people convicted under Schedule 8 offence,0.88384175
+"[ 1.0157732   3.3820648  -0.24532068 ...  1.2811867   1.2548202
+  1.8739058 ]","[ 2.4342759e-02  6.0424775e-02 -3.8368969e-05 ...  2.1440754e-02
+  3.2429561e-02  3.4047276e-02]","Ditlolomolao tsa Thulaganyo 8 di akaretsa ditlolomolao tsa thobalano, kgothoso, go gweba ka batho le polao e e seng ya maikaelel Disampole tsa bukhale tse di tserweng di tla thusa mo ditshekisong tsa isago tsa batlolamolao ba ba boelelan","Schedule 8 offences include sexual offences, robbery, human trafficking and culpable homicid The collected buccal samples will facilitate future prosecutions for reoffender",0.88339096
+"[ 0.85997933  3.948045   -0.1796481  ...  1.2349815   0.55853844
+  0.78473043]","[ 0.01895486  0.06499167 -0.000335   ...  0.01744079  0.01647212
+  0.00901706]",Molaotlhomo o o tla kgontsha go tlhongwa ga lenaneo la DNA la forensiki go matlafatsa ntwa kgatlhanong le bosenyi ka go tlamela sepodisi ka bopaki ba go batlisisa le go rarabolola bosenyi jo bo masis,The Bill will also enable the establishment of a comprehensive forensic DNA database to strengthen the fight against crime by capacitating the police with evidence to investigate and solve serious crime,0.8814635
+"[ 0.13056846 -0.5515295  -0.4928585  ... -0.6278341  -0.5743569
+  1.5655416 ]","[ 0.01305614 -0.0010185  -0.0005784  ...  0.00690345 -0.00400442
+  0.02188536]",Ditiragalo tse di Tlang1.,Issues in the environment 1.,0.6499177
+"[ 0.35977328  0.8723791  -0.16111553 ...  0.24453653  0.14619449
+  0.4311155 ]","[ 0.00788852  0.00027181 -0.00090943 ...  0.02042115 -0.00292039
+  0.00963986]",Pegelo ya Pakagare ya Pholisi ya Tekanyetsokabo (MTBPS),Medium Term Budget Policy Statement (MTBPS),0.76112485
+"[ 0.85513103 -0.37998632  0.22528034 ...  0.39082626  1.3999753
+  3.63981   ]","[ 0.02519007 -0.00044579  0.01543831 ...  0.01357553  0.0272735
+  0.02169864]","Tona ya Matlole, Enoch Godongwana, o tla neela MTBPS ka Labone, 11 Ngwanaitseele 2021.","Ms Lalela Mswane (24), on being crowned Miss South Africa 2021 on 16 October in Cape Tow Her triumph is an affirmation that success can be achieved through dedication and hard wor",0.6786421
+"[ 1.0148766   0.29042545 -0.24373461 ...  0.43723023  0.9858294
+  0.9839065 ]","[ 0.02471085  0.04135552 -0.00024642 ...  0.03236135  0.03244458
+  0.01547953]",Pegelo e e tla tlhalosa diphetolo mo tekanyetsokabong ya Boset haba go netefatsa gore go nna le tsepamo mo matloleng a set hab,The statement will detail adjustments to the national budget to ensure our nation s fiscal sustainabilit,0.72904456
+"[1.3686172e+00 1.4248559e-01 1.8032546e-03 ... 1.2420202e+00 7.9199189e-01
+ 2.0984752e+00]",[0.0420348  0.00910027 0.00095703 ... 0.00908238 0.04329078 0.05476594],MTBPS e tlhagisa maiteko a naga go busetsa morago dikgwetlho mo ikonoming tse di bakilweng ke seabe sa COVID-19 le go samagana le merero ya setheo ya pakatelel,The MTBPS sets out the country s initiatives to reverse the challenges in the economy as a result of the impact of COVID-19 and address longer term structural issue,0.86511636
+"[ 0.87731355 -0.10027809  0.15616567 ...  1.2995507   1.4760854
+  1.5885704 ]","[ 8.3016772e-03  2.7163401e-03 -7.2511517e-05 ...  1.9725407e-02
+ -9.5177284e-03  2.4325341e-02]",MTBPS ke boikuelo go makala otlhe a baagi go tsaya dikgato go dirisana mmogo go kgweetsa ikonomi le go tlhola ditir Kabinete e na le bonnete jwa gore MTBPS e tla supa gape boineelo jwa puso go aga ikonomi e e tswelelang ka seabe sa makala otlhe a baag,Ms Carmen Joy Abrahams as DDG: Expanded Public Works Programme at the DPW,0.6885258
+"[ 0.44229478 -0.48676085 -0.38501906 ... -0.22253017 -0.1771718
+  0.81385034]","[ 6.8874372e-04  1.9211448e-03 -2.0589155e-06 ...  1.1742928e-03
+  9.9252735e-04  3.0431538e-04]",Melaetsa1.,Message,0.59502286
+"[ 1.1355397  -0.4165188  -1.5786219  ...  0.06425782  1.3156643
+  0.10736206]","[ 0.01264063 -0.00142847 -0.00104524 ...  0.02221902  0.02733459
+  0.01880156]",Go Akgola Kabinete e akgola le go eleletsa masego:,Congratulations Cabinet extended its congratulations and well-wishes to:,0.71166396
+"[ 1.5473831  -0.23018976  0.07079813 ...  1.201234    1.6821839
+  1.9447708 ]","[ 0.00577423 -0.0001262  -0.00014365 ...  0.04302587  0.00543196
+  0.03731145]","Mme Lalela Mswane, wa dingwaga di le 24, ka go tlhongwa go nna Mmabontlenyana wa Naga ya Aforika Borwa wa gwaga wa 2021 ka la bo 16 Diphalane kwa Cape Tow Phenyo ya gagwe ke sesupo sa gore katlego e ka fitlhelelwa ka boineelo le go dira ka natl","Mr Robert Nkuna, whose contract as Director-General (DG) at the Department of Planning, Monitoring and Evaluation has been extended for five year",0.6928952
+"[ 0.57452327 -0.17275636 -0.1076007  ... -0.52724195  0.06644035
+  0.82285506]","[-0.00182752 -0.00149743  0.00157246 ...  0.01479987  0.00549291
+  0.001254  ]",Go Thapiwa 1.,Cabinet Spokesperson,0.42643586
+"[ 0.6874869   0.6024296  -0.33680475 ...  2.0096445   1.0675918
+  2.4210207 ]","[ 3.7313460e-03  4.2457720e-03 -9.6042124e-05 ...  5.5350312e-03
+  3.2724451e-02  3.6691190e-03]","Rre Robert Nkuna, yo konteraka ya gagwe jaaka Mokaedikakaretso (DG) kwa Lefapha la Tiromaano,Tekolo le Tshekatsheko ya Tiro e atolositsweng ka dingwaga tse tlhan 2.","Mr Robert Mooketsa Ramasodi as DG at the Department of Agriculture, Land Reform and Rural Developmen",0.7766366
+"[ 0.5738185  -0.01620187  0.24992956 ...  1.7444625   1.0421387
+  1.8592755 ]","[ 3.4433071e-02 -1.2459120e-03  1.5503125e-05 ...  2.9559704e-02
+  4.0859353e-02  2.3562290e-02]","Rre Robert Mooketsa Ramasodi jaaka DG kwa Lefapha la Temothuo, Pusetsodinaga le Tlhabololo ya Metsemaga 3.","Ms Mohlago Flora Mokgohloa as Deputy DG (DDG): Biodiversity and Conservation at the Department of Forestry, Fisheries and the Environmen 4.",0.79502237
+"[ 0.78699774  0.05695967 -0.23537748 ...  1.1925231   1.9573241
+  1.642152  ]","[ 0.00695444 -0.00060072  0.00231883 ...  0.04210282  0.00223614
+ -0.005919  ]","Mme Mohlago Flora Mokgohloa jaaka Motlatsamokaedikakaretso (DDG): mo lephateng la Tshomarelo le Tiriso ya Dimela le Ditshedi tse di Farologaneng go Tlhagisa Melemo mo Lefapheng la Dikgwa, Bodirelatlhapi le Tikolog 4.",Infrastructure South Africa at the Department of Public Works and Infrastructure (DPWI).,0.7217119
+[ 0.8545422  0.3615486 -0.3577408 ...  1.5635167  0.6652986  1.4887661],"[ 0.00540707 -0.00155536  0.00019987 ...  0.02032026 -0.00891907
+  0.02666895]",Mme Rirhandzu Sharon Mashava jaaka DDG: mo lephateng la go Loga Maano a go Rulaganya Dipalangwa go nna Seoposengwe mo Lefapheng la Dipalangw 5.,Ms Rirhandzu Sharon Mashava as DDG: Integrated Transport Planning at the Department of Transpor,0.7857294
+"[ 0.72375005 -0.09625458 -0.8273478  ...  0.87052995  0.45642352
+  1.064485  ]","[ 0.05056955  0.00383808  0.00094698 ... -0.00409549  0.00645069
+ -0.00390822]",Mme Mameetse Primrose Masemola jaaka DDG: mo lephateng la Thulaganyo ya Peeletso ya Mafaratlhatlha,Ms Mameetse Primrose Masemola as DDG: Infrastructure Investment Planning,0.7526101
+"[ 0.5039447   0.2762393  -0.461919   ...  0.89255226  0.47924888
+  0.548458  ]","[ 0.00453648 -0.00066602 -0.00021716 ...  0.05362283  0.02013826
+  0.02409626]",Mafaratlhatlha a Aforika Borwa kwa Lefapheng la Ditiro tsa Puso le Mafaratlhatlha a Set haba (DPWI).,directed the Special Envoys to engage with the Kingdom of Eswatini on security and political developments in the Kingdo,0.68418115
+"[ 0.643617    0.9615866  -0.35512817 ...  1.1106467   0.9683437
+  1.2518805 ]","[ 0.04151286  0.00039561 -0.00033741 ...  0.00756501  0.04735944
+  0.01990735]",Mme Carmen Joy Abrahams jaaka DDG: mo lephateng la Lenaneo le le Atolositsweng la Ditiro tsa Se haba kwa DPW Kabinete e dumeletse go thapiwa ga ditokololo tsa Boto go latela gore makwalo a bona a dithuto le ditlankana dingwe tse di tlhokagalang di tlhatlhobiwe,Board of directors of the Public Investment Corporation: (i) Dr David Masondo (Chairperson); (ii) Mr Frans Baleni; (iii) Ms Ntombifuthi Mtoba; (iv) Ms Tryphosa Ramano; (v) Prof Bonke Dumisa; (vi) Ms Esther Barbara Watson; (vii) Ms Beverly Bouwer; (viii) Mr Mongwena Mugwena Maluleke; (ix) Mr Walter Hlaise; (x) Mr Lufuno Mulaudzi; (xi) Mr Abel Sithole; (xii) Mr Brian Mavuka; and,0.67921746
+"[ 0.907236   -0.15347494 -0.64829636 ... -0.13643369  0.6030202
+  1.0152929 ]","[ 0.05329658  0.00360343 -0.00012762 ... -0.00277971  0.05091801
+  0.02920281]",Boto ya bakaedi ya Koporasi ya Dipeeletso ya Boset haba: (i),Mr Suleman Badat; (xii) Ms Mbali Barbara Ndlovu; and(xiii) Adv Simosenkosi Chaman,0.6412386
+"[ 0.91014576  0.01673928 -0.534906   ... -0.5990566   0.6085555
+  0.8425712 ]","[ 0.06378602  0.00644175 -0.00022772 ...  0.00185702  0.02022705
+  0.01656256]",Ngaka David Masondo (Monnasetilo);(ii),Enquiries:Ms Phumla Williams,0.62897384
+"[ 0.6123086  -0.7332028  -0.37967765 ... -0.19686429  0.4804787
+  0.6696584 ]","[ 0.00295887 -0.00319571 -0.00043476 ...  0.00607724  0.00032424
+  0.00596514]",Rre Frans Baleni;(iii),(xiii),0.56271076
+"[ 0.2521742  -0.59470403 -0.24017791 ... -0.9136692   0.69451445
+  0.6554721 ]","[-0.0016326  -0.00321719 -0.00105423 ...  0.00606296 -0.01007252
+  0.03999395]",Mme Ntombifuthi Mtoba;(iv),Mobile: 083 501 0139,0.45193323
+"[ 0.9400773  -0.33315012 -0.6009725  ... -0.60984516  0.7197519
+  0.51482195]","[ 0.03831147  0.00101513 -0.00016238 ...  0.00334207  0.04730134
+  0.01250705]",Mme Tryphosa Ramano;(v),Cabinet has opted to comply with the court judgement that ruled on the reinstatement of the members of the Board of directors of Umgeni Wate (i) Ms Ziphozethu Mathenjwa (Chairperson); (ii) Prof Thandwa Mthembu; (iii) Mr Siboniso Shabalala; (iv) Mr Mduduzi Eric Zakwe; (v) Ms Chamane Nompumelelo Beata; (vi) Mr Visvin Reddy; (vii) Mr William Mapena; (viii) Mr Teboho Nkhahle; (ix) Ms Linda Ngcobo; (x) Ms Bongekile Zulu; (xi),0.5574846
+"[ 0.4312101  -0.8477513  -0.4586745  ... -0.71202147  0.44976845
+  0.63474375]","[ 0.04269576 -0.00091856 -0.00034634 ...  0.00401036  0.04415612
+  0.03588527]",Moporofesara Bonke Dumisa;(vi),Cabinet endorsed the appointment of the Board members subject to the verification of their qualifications and relevant clearanc 7.,0.4157948
+"[ 0.5574363  -0.70917106 -0.59070086 ... -0.8589603   0.435502
+  0.75499046]","[ 0.02260375  0.00236272 -0.00040204 ...  0.01068778  0.03327793
+  0.01632623]",Mme Esther Barbara Watson;(vii),President Ramaphosa,0.5359051
+"[ 2.1580045  -0.68450546 -0.20422786 ... -0.7644272   0.529808
+  0.8920446 ]","[ 0.02775656 -0.00143432  0.00012594 ...  0.00703385  0.01973662
+  0.03976729]",Mme Beverly Bouwer;(viii),Ms Makano Mosid 8.,0.51434326
+"[ 1.7645662  -0.5396586  -0.18058544 ... -0.33174205  0.6739451
+  1.4584082 ]","[ 1.2086812e-02 -6.0771714e-04 -8.5682179e-05 ...  9.0167709e-03
+  2.8860399e-02  1.1481068e-02]",Rre Mongwena Mugwena Maluleke;(ix),in his capacity as Chairperson of the Southern African,0.48159462
+"[ 1.0233887  -0.27942273 -0.37529925 ... -0.237062    0.4174103
+  0.875373  ]","[ 0.02133454  0.0001241  -0.00072686 ... -0.00285243  0.00438509
+ -0.00051245]",Rre Walter Hlaise;(x),Bill,0.49102557

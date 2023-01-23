@@ -1,0 +1,98 @@
+ss,en,src_text,trg_text,Cosine_Score
+"[ 0.48610428 -0.30259043  0.15564856 ...  0.12326007  0.27771762
+  0.7533973 ]","[-1.3246281e-04  1.8291835e-03 -2.0094491e-05 ...  2.9652149e-03
+  2.0951580e-03  5.2276319e-03]",Tindzaba Talelive1.,Message1.,0.70678693
+"[ 1.6431437  -0.00429266  0.13780151 ...  0.75225675  0.8290902
+  1.8380716 ]",[0.02739005 0.00894161 0.00930332 ... 0.01494294 0.02922275 0.0385797 ],Takamuva mayelana neLigciwane leSifo seKhorona (i-COVID-19),Update on the Coronavirus Disease (COVID-19) Cabinet commended all people in South Africa who chose to vaccinate and observe all COVID-19 protocols that resulted in the country averting rising numbers of new cases during the fifth wave of the pandemi,0.6482283
+"[ 0.99187046 -0.02358147  0.09144539 ...  0.8418269   0.82000536
+  1.5972697 ]","[ 0.02016421 -0.00198726  0.00410762 ...  0.03119902  0.04438934
+  0.02619558]",Ikhabhinethi income bonkhe bantfu baseNingizimu Afrika labakhetsa kugoma kanye nekutfobela tonkhe tindlelanchubo te-COVID-19 lokwente kutsi lelive likhone kuvikela kukhula kwemanani lamasha ekwesuleleka ngesikhatsi sekucubuka kwesihlanu kwalolubhubhan,"Vaccination remains the scientifically proven defence against COVID-19 and Cabinet encourages all unvaccinated people to vaccinate without delay and vaccinated people to get their booster shots at their nearest vaccination sites, for fre 2.",0.7825446
+"[ 1.2056241   0.11384582 -0.02693587 ...  1.0988036   1.3625104
+  1.0912757 ]","[ 2.2611193e-02  1.0272694e-04 -9.0827058e-07 ...  4.0056389e-02
+  1.9831138e-02  1.2372107e-02]","Nanoma kunjalo, asikafaneli kukhibika ngoba phela i-COVID-19 isesekhona emkhatsini wetf Nanoma-nje lelive lisandza kuvala kugcokwa kwetifonyo ngalokuphocelelekile etindzaweni temmango, bantfu labanetifo letibomahlalakhona kanye nalabo labagulako bakhutsatwa kutsi bachubeke nekugcoka tifony Sifanele futsi sichubeke nekugeza noma-ke sigeze tandla tetfu ngesibulalamagciwane, siphindze futsi sitfobele umtsetfo wekukhweshelana nekungenisa umoy","However, we must not be complacent as COVID-19 is still in our mids Although the country recently scrapped the compulsory wearing of masks in public, people with comorbidities and those who are ill are encouraged to continue wearing a mas We must also continue to wash or sanitise our hands, and observe social distancing and proper ventilatio",0.87579226
+"[ 2.8676441e-01 -4.3971170e-02  2.6033384e-01 ... -1.0853002e-01
+  3.3077177e-01 -1.3278419e-05]","[ 0.00487119 -0.0019163   0.00389769 ...  0.00831475  0.00229427
+  0.00491372]",Kugoma kuyachubeka nekuba yindlela yekutivikela,Biannual performance progress reports,0.51550126
+"[ 0.6048499   0.13287829 -0.00726031 ...  0.7070684   1.2371678
+  1.3668545 ]",[0.03874352 0.00846695 0.00127666 ... 0.03385862 0.01064321 0.03112375],ku-COVID-19 lecinisekiswe ngekwesayensi futsi Ikhabhinethi ikhutsata bonkhe bantfu labangakagonywa kutsi bangacitsi sikhatsi bagome bese kutsi bantfu labagonyiwe bahambe bayotfola ticinisamgomo tabo etindzaweni tekugoma letidvute nab 2.,"Cabinet advised people who experience symptoms of fever, general flu-like signs, followed by a blister-like rash to report to their nearest healthcare facility for early detection and treatmen 3.",0.7846392
+"[ 0.7994502  -0.1231648  -0.29351604 ...  0.25414914  1.3098537
+ -0.09861758]","[ 0.0171614  -0.00053915  0.00010326 ...  0.0180194   0.04666176
+  0.01855   ]",Incubulunjwane yetingobiyane,Black Industrialist and Exporters Conference (BIEC) An inaugural BIEC,0.63227284
+"[ 0.76261514 -0.04740371 -0.11443656 ...  0.564355    0.47450894
+ -0.09634671]","[ 0.0092683   0.00812562 -0.00017455 ...  0.01664207  0.02166408
+  0.0079617 ]",Ikhabhinethi yatisiwe ngetakamuva mayelana nekubhebhetseka kwesifo,Monkeypox Cabinet was updated on the latest developments in the spread of Monkeypox disease in the country following the recent confirmation of a second case in the countr The affected persons are isolating at home and contact tracing is being conducted to detect others who may have been expose,0.63085616
+[0.9365978  0.11111587 0.10075326 ... 0.3698422  0.8743951  1.357534  ],[0.00156818 0.00155795 0.00519282 ... 0.0188431  0.0216206  0.00658191],Incubulunjwane yetingobiyane kulelive ngemuva kwekucinisekiswa kwesehlakalo sesibili kuleliv Labantfu labatsintsekako basemakhaya abo bakhweshisiwe kulabanye futsi kwamanje kulandzelelwa labo lekungenteka kutsi besulelekil,"East London tavern tragedy The devastating tragedy at the Enyobeni Tavern in East London in the Eastern Cape on Sunday, 26 June 2022 that claimed the lives of 21 teenagers, has shattered our entire countr It is hard to imagine the anguish of families who lost their children in such a tragic manne",0.7420072
+[0.6749615  0.18842149 0.0232739  ... 0.4667196  0.3579652  1.4254738 ],"[ 0.01209569 -0.00245554 -0.00036298 ...  0.01285206  0.00743364
+  0.03886281]",Litiko Letemphilo kanye neSikhungo Savelonkhe Setifo Letitsatselwanako basebentisana neNhlangano Yetemphilo Yemhlaba wonkhe kuhlola bungoti bekwesuleleka endzaweni ngekuhambisana neMitsetfomgomo Yetemphilo Yemave Emhlab,The Department of Health and the National Institute for Communicable Diseases are collaborating with the World Health Organisation to assess the risk for local transmission in line with the International Health Regulation,0.89021164
+[0.6578142  0.0892917  0.11983844 ... 0.91530293 1.2014221  0.7994085 ],[0.012549   0.00613261 0.00574966 ... 0.02279888 0.02923946 0.03154746],"Ligciwane lencubulunjwane yetingobiyane alibhebhetseki kalula futsi ngalokuvamile livela kuphela ngemuva kwekusondzelana lokufana nekucabuzana, kugonana noma kutsintsa tincenye temtimba letinaleligciwane lencubulunjwane yetingobiyan Bantfu labete timphawu tencubulunjwane yetingobiyane abakwati kusabalalisa leligciwane kulabany","The monkeypox virus is not easily spread and usually only occurs after close contact such as kissing, cuddling or touching parts of the body with monkeypox lesion People without monkeypox symptoms cannot spread the virus to other",0.9038485
+"[ 0.78361183 -0.03454883  0.03169608 ...  1.4147016   0.56827515
+  1.8044192 ]","[ 0.01236237  0.01008818 -0.00018838 ...  0.02568373  0.04209938
+  0.03984594]","Ikhabhinethi yeluleke bantfu labanetimphawu temfiva (umkhuhlane), timphawu temkhuhlane lowetayelekile, lolandzela libhamuta sengatsi ucubukile kutsi babikele tikhungo tetemphilo letidvutane kute kutsi lesifo sitfolakale kusenesikhatsi nekutsi sisheshe selashw 3.",Cabinet welcomed areas of progress on the determined targets for the period under revie Cabinet also noted areas that required interventions so as to address delays which were negatively impacted by the COVID-19 pandemi,0.72844416
+"[ 0.5809753  -0.23517458 -0.42180914 ...  0.27050614  0.26779407
+  0.21266997]","[ 3.5887253e-02 -7.1571529e-05 -5.1634910e-04 ... -1.5340685e-03
+ -2.6081238e-04 -1.2195059e-03]",Inhlekelele yaseMonti,will,0.52935076
+"[ 0.5575436  -0.09199372  0.2279175  ...  1.0204521   0.9758459
+  0.6009795 ]",[0.03714773 0.00420571 0.00869477 ... 0.00548815 0.05101173 0.06309865],"Inhlekelele leyenteke eThaveni Enyobeni eMonti eMpumalanga Kapa ngeLisontfo, mhla tinge-26 ngeNhlaba 2022 leyendlule nemiphefumulo yelusha lenge-21, iphazamise live lakitsi lonkh Kumatima kucabanga lusizi lwemindeni leshonelwe bantfwana ngendlela lebuhlungu kangak","CongratulationsCabinet extended its congratulations and well-wishes to: the Springboks, for a thrilling last-minute victory over Wales during the first of three test matches at the Loftus Versveld Stadium in Pretoria on Saturday, 2 July 2022.",0.72107726
+"[ 0.5385971  -0.07181039 -0.3041576  ...  0.96090597  1.0628947
+  1.3013865 ]","[-0.00138403 -0.00194545 -0.00052192 ...  0.02301736  0.03401291
+  0.03888579]",Ikhabhinethi ivakalise kudzabuka kwayo emindenini lelahlekelwe tihlobo tayo futsi ibonge wonkhe umuntfu ngekusekela kwabo imindeni leshonelwe ngalesikhatsi lesintim,Cabinet expressed its condolences to the families who lost their loved ones and thanked everyone for their humanitarian support to the grieving families during this difficult tim,0.8862777
+[0.5983505  1.3916767  0.07274663 ... 1.2996626  0.99635255 1.6933652 ],"[ 0.01622814 -0.00032182  0.00703481 ...  0.05435335  0.03123035
+  0.05067805]",Kuyintfo lekhatsatana kakhulu kutsi bantfwana labancane labaneminyaka le-13 budzala bavunyelwe kungena endzaweni baphindze futsi banatse tjwal Sicela imimango kutsi idlale indzima yayo ekugcineni bantfwabetfu baphephile ngaso sonkhe sikhats,It is concerning that children as young as 13 were allowed to enter the venue and consume alcoho We call on communities to play their part in keeping our children safe at all time,0.86598516
+"[ 1.033743    1.5954705  -0.13661897 ...  0.5591947   0.6711995
+  0.7894694 ]","[ 0.03753445  0.05235242  0.00448661 ... -0.00263304  0.02180271
+  0.02734481]","Bantfwana labaneminyaka lengaphasi kwe-18 abakavunyelwa kungena emathaveni, emashibhini, emaphabhu nasetitolo tetjwal Batsengisi betjwala labatfolakala bephula noma yimiphi yalemitsetfo kumele babekwe emacala baphindze futsi bemukwe netincwadzi tabo tekusebent","Children under the age of 18 are not allowed to enter taverns, shebeens, pubs and bottle store Liquor traders who are found to be contravening any of these laws must be criminally charged and have their operating licences revoke",0.903777
+"[ 1.1548766  -0.27064487 -0.24355336 ...  0.6793276   0.74762523
+  0.74906474]","[ 0.02715763  0.00062697 -0.00016614 ...  0.02372436  0.01910142
+  0.01527966]",Imiphumela Yengcungcutsela yeLicembu Lemave Lasikhombisa (i-G7),Outcomes from the Group of Seven (G7) Leaders,0.88473916
+"[ 1.9934919  -0.07405136 -0.10590503 ...  0.9307776   2.0607522
+  2.1224267 ]","[ 0.02493926 -0.00199187  0.00502226 ... -0.00052091  0.02254388
+  0.04746098]","Mengameli Cyril Ramaphosa wahlanganyela kuNgcungcutsela yeBaholi be-G7 lebeyibanjelwe eBavaria, eJalimane ngeMsombuluko, mhla tinge-27 ngeNhlaba 2022.","Summit which took place in Bavaria, Germany on Monday, 27 June 2022.",0.79222035
+"[ 1.3244573  -0.00501078 -0.10556572 ...  0.03116214  0.54508346
+ -0.41727915]","[ 0.00016261 -0.00014814 -0.00084042 ...  0.0055071   0.00677077
+  0.00309349]",Mengameli,The President,0.6118714
+"[ 0.6724327   0.05587453 -0.41610405 ...  0.34204713  0.5117818
+  0.6981845 ]","[ 0.0223053  -0.00105418 -0.0004536  ...  0.01443376  0.0220222
+  0.02262868]",lowahlanganyela etingcocweni tekusebenta lapho khona,"who participated in working sessions where climate, energy, health, global food security and gender equality issues were discussed",0.6831536
+"[ 0.7793513   0.5876818  -0.08258743 ...  0.2510534   1.0903232
+  1.0662436 ]","[ 1.9590421e-02  4.8453165e-03 -8.6051958e-05 ...  2.8978638e-02
+  2.5805192e-02  2.6288521e-02]","bekudzingidvwa tesimo selitulu, emandla agezi, temphilo, kutfolakala kwekudla emhlabeni wonkhe kanye netindzaba tekulingana ngekwebulili","The MTSF 2019-2024 is the implementation plan and monitoring framework for achieving the National Development Plan: Vision 2030 priorities for the sixth administration of governmen The reports focused on the seven priorities of government, namely (1) Economic transformation and job creation; (2) Education, skills and health; (3) Consolidating the social wage through reliable and quality basic services; (4) Spatial integration, human settlements and local government; (5) Social cohesion and safe communities; (6) A capable, ethical and developmental state; and (7) A better Africa and world, and related interventions of the sixth administratio",0.64734554
+"[ 2.87746    -0.05002922 -0.12718104 ...  0.44521224  1.8480474
+  0.53242576]","[ 0.07308429 -0.00161727 -0.00025997 ...  0.02655043  0.02637379
+  0.00362134]","bekamenye ngumngenisi (sokhaya), Shansela Olaf Schol","was invited by the host, Chancellor Olaf Schol",0.8233311
+"[ 0.61386484 -0.1502303  -0.2787696  ...  0.92211896  1.5023528
+  1.8349558 ]","[ 0.01986897  0.00025879 -0.00043079 ...  0.01832136  0.01840256
+  0.03193767]","I-G7 iyinkhundla yetepolitiki lefaka ekhatsi iCanada, iFrance, iGermany, i-Italy, iJapan, ne-United Kingdom kanye ne-United State","The G7 is an intergovernmental political forum consisting of Canada, France, Germany, Italy, Japan, the United Kingdom and the United State Cabinet Decisions1.",0.8692666
+"[ 0.21347494 -0.2757018  -0.28318393 ...  0.5008867   0.13547903
+  0.41086227]","[ 0.00980163 -0.0033715  -0.00078007 ...  0.00912488 -0.0017333
+  0.03020796]",Tincumo TeKhabhinethi1.,Issues in the Environment1.,0.5895966
+"[ 1.9745629  -0.1649164  -0.26604584 ...  0.74327457  1.0163738
+  0.8495251 ]","[ 0.04477991  0.00261238 -0.00090034 ...  0.02894742  0.04031981
+  0.01028019]",Luhlaka Lwemitsetfotimiso Yemkhakha Wetemtsetfo (Luhlaka Lwe-LSC),Adv Rory Voller as the Commissioner for the Companies and Intellectual Property Commissio Enquiries:Ms Phumla Williams,0.6143192
+"[ 0.9150711   0.02861563 -0.29696152 ...  1.2198437   1.2191072
+  0.6378926 ]",[0.04057622 0.03101031 0.00315002 ... 0.029213   0.03380684 0.05897827],Ikhabhinethi ikuvumile kushicilelwa kweLuhlaka Lwe-LSC kute kutsi sive siphawule ngal Tinjongo talemitsetfotimiso kuchuba tingucuko temkhakha wetemtsetfo kute kutsi kube nekumelelwa ngekuya kwetinhlobonhlobo tebantfu baleliv Lemitsetfotimiso itawuphindze futsi icinisekise kwakhiwa kwemtimba lotawukhicita batfulitinsita betemtsetfo labaceceshwe ngalokufanele nalabawatiko umsebenti wab,"Draft Legal Sector Code (Draft LSC) Cabinet approved the publication of the Draft LSC for public commen The objectives of these codes are to facilitate the transformation of the legal sector to achieve representation as per the country s demographic The code will also ensure the development of the body that will produce well-trained and competent providers of legal service The development of the Draft LSC was overseen by the Legal Practice Council, a statutory body established in terms of Section 4 of the Legal Practice Act, 2014 (Act 28 of 2014) and guided by the Broad-Based Black Economic Empowerment Act (B-BBEE), 2013 (Act 46 of 2013).",0.79713845
+"[ 1.1432934   0.01094481 -0.22936152 ...  0.9804351   1.2588356
+  1.6058838 ]",[0.0306046  0.03362141 0.0010531  ... 0.03039943 0.03140243 0.0520177 ],"Kwakhiwa kwaloLuhlaka Lwe-LSC bekwenganyelwe nguMkhandlu Webasebenti Betemtsetfo, umtimba wetemtsetfo lowasungulwa ngekwemibandzela yeSigaba se-4 seMtsetfo Wekusebenta Kwetemtsetfo, 2014 (Umtsetfo we-28 wanga-2014) futsi bowukhonjwindlela nguMtsetfo Wekuhlomisa Ngemandla Emnotfo Umkhakha Lobanti Webantfu Labamnyama (i-B-BBEE), 2013 (Umtsetfo 46 wanga-2013).","The B-BBEE Act of 2013 provides for the Minister of Trade, Industry and Competition to issue codes of good practice on black economic empowerment in the specific sector Members of the legal profession currently do not have a sector code to guide them in addressing the imbalances and inequalities in the legal professio The Draft LSC will be published in the Government Gazette for 60 days to allow for public comment 2.",0.74029744
+"[ 0.430811   -0.07241786 -0.3497462  ...  1.091609    0.13542615
+  0.6144198 ]","[ 9.8582525e-03 -2.4478775e-03 -6.8005997e-05 ...  3.0716062e-02
+  3.1785589e-02  2.4770446e-02]","Umtsetfo we-B-BBEE wanga-2013 unika Indvuna yeTekuhwebelana, Timboni Nemncintiswano kutsi ikhiphe imitsetfotimiso yekusebenta ngalokufanele","The conference follows the launch earlier this year of the Black Industrialists Export Network by government, which supports black industrialists to break into new markets, and access export finance and marketing avenue",0.68952054
+"[ 0.59154403  0.09921622 -0.26656628 ...  0.662686    0.5664911
+  0.36460876]",[0.01451696 0.00486864 0.00179439 ... 0.01539335 0.01350853 0.05432197],kutekuhlonyiswa kwalabamnyama ngemnotfo emikhakheni-ngco letsit Emalunga etebungcweti betemtsetfo kwamanje ete umtsetfosimiso wemkhakha lobakhombindlela ekulungiseni kungalingani nekungasimami lokukhona kutebungcweti betemtsetf,inisters will hold media briefings in the coming weeks to unpack their respective reports and elaborate on areas where performance needs to be strengthene Upcoming Event1.,0.6780437
+"[ 1.1699078  -0.21739668 -0.23786518 ...  1.1711231   1.5679642
+  1.7626808 ]","[ 0.0111375  -0.00437541  0.01422034 ...  0.01102222  0.02225081
+  0.08702827]",Luhlaka Lwe-LSC lutawushicilelwa kuGazethi yahulumende emalanga lange-60 kute kutsi sive sitfole sikhatsi sekuphawul 2.,Cabinet approved the biannual performance progress reports for the period covering October 2021 to March 2022.,0.6457679
+[0.53747004 0.0319104  0.37488636 ... 0.3018623  0.5072818  1.2753055 ],"[ 0.04578173 -0.00038966 -0.00023567 ...  0.00426861  0.01863731
+  0.04063919]",Imibiko yenchubekelembili yekusebenta leyetfulwa kabili ngemnyaka,Summit President Cyril Ramaphosa participated in the G7 Leaders,0.6076317
+"[ 0.3515487  -0.17232901  0.16402686 ...  0.37970224  0.5693066
+  3.0888817 ]","[ 0.01056292 -0.00071445  0.0030415  ...  0.02803274  0.02673642
+  0.05703865]",Ikhabhinethi iyivumile imibiko yenchubekelembili yekusebenta leyetfulwa kabili yangeMphala 2021 kuya kuNdlovulenkhulu 2022.,"be held at the Sandton International Convention Centre in Johannesburg on Wednesday, 20 July 2022.",0.6725679
+"[ 0.91921425 -0.05758229  0.19574182 ...  0.98340124  0.98120046
+  1.9759444 ]","[ 0.02277094 -0.000602    0.00199534 ...  0.02170355  0.02136721
+  0.05289252]",Lemibiko yenta incenye yeLuhlakamsebenti Lwelisubuciko Lwethemu Lesemkhatsini (lwe-MTSF) 2019-2024.,The reports form part of the Medium Term Strategic Framework (MTSF) 2019-2024.,0.8726095
+"[ 0.42021838 -0.09673147 -0.10187989 ...  0.8051396   1.1265515
+  2.3195958 ]","[ 0.02772051 -0.00252033  0.0199889  ... -0.00070612  0.04586076
+  0.06003183]",Le-MTSF 2019-2024 luhlelo lwekuphumelelisa kanye neluhlakamsebenti lwekulandzelela lwekuzuza Luhlelo Lwekutfutfukisa Lwavelonkhe: Bomabekwembili beMbononchanti 2030 belulawulo lwahulumende lwesitfuph,"Banyana Banyana, for their 2-1 victory in their opening Women s Africa Cup of Nations match against Nigeria, hosted by Morocco, on Monday, 4 July 2022.",0.7282902
+"[ 0.43401057  0.0537939  -0.03543428 ...  0.873454    0.8364827
+  0.99752384]","[ 0.02996588 -0.00024436 -0.00213007 ...  0.03455903  0.03909829
+  0.03147081]","Lemibiko igcile kubomabekwembili bahulumende labasikhombisa, lekungulaba (1) Kugucula temnotfo nekwakha imisebenti; (2) Temfundvo, emakhono netemphilo; (3) Kuhlanganiswa kwemholombasha wetenhlalo ngekusebentisa tinsita letetsembekile naletisezingeni lelingulonalona; (4) Kuhlanganiswa kwendzawo, kuhlaliswa kwebantfu nahulumende wasekhaya; (5) Lubumbano lwetenhlalo nemimango lephephile; (6) umbuso lokhonako, lonesimilo nalotfutfukisako; kanye (7) ne-Afrika lencono kanye nemhlaba, kanye netingenelelo letiphatselene naloko telulawulo lwesitfuph",AppointmentsAll appointments are subject to the verification of qualifications and the relevant clearance Dr Nyameko Barney Pityana as the Chairperson of the National Lotteries Commissio 2.,0.6701236
+[0.9124076  0.00792063 0.01674746 ... 0.9667474  1.575106   2.136021  ],"[ 0.00701544 -0.00437688 -0.00014415 ...  0.01022032 -0.00713816
+  0.03588371]","Ikhabhinethi itemukele tindzawo letisadzinga inchubekelembili kulemigomo lencunyiwe yesikhatsi lesibuyeketwak Ikhabhinethi iphindze yabona tindzawo letidzinga lungenelelo kute kutsi kulungiswe kubambeleleka, leto letatfola umtselela lomubi impela wekubakhona kwelubhubhane i-COVID-19.",Cabinet Spokesperson Mobile: 083 501 0139,0.4832334

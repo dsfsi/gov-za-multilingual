@@ -1,0 +1,83 @@
+ts,en,src_text,trg_text,Cosine_Score
+[1.6763991  0.12740473 0.0556858  ... 0.5079613  0.9093767  1.5815498 ],[0.02542355 0.002548   0.00240313 ... 0.02587716 0.02355605 0.05619227],Leswintshwa hi Khoronavhayirasi (COVID-19),Update on Coronavirus (COVID-19),0.8843125
+"[ 1.1626737   0.26645422 -0.08351962 ...  0.84726226  1.6744585
+  0.99857944]",[0.02043296 0.00983905 0.00211197 ... 0.00938876 0.03454762 0.02230399],"Eka nhlengeletano ya yona ya le moyeni leyi nga khomiwa hi Ravunharhu, 10 Khotavuxika 2020, Khabinete yi nyikiwile xiviko lexi nga na vuxokoxoko byintshwa kusuka eka Huvo yo Lerisa ya Khoronavhayirasi ya Rixaka (NCCC).","At its virtual meeting held on Wednesday, 10 June 2020, Cabinet received an updated report from the National Coronavirus Command Council (NCCC).",0.8913433
+"[ 1.5786321   0.26293498 -0.15816198 ...  0.75116545  1.0642713
+  1.3407943 ]","[ 0.02253684 -0.00049858 -0.00014008 ...  0.03114394  0.0133967
+  0.02352388]",NCCC yi longoloxile swibumabumelo swo hlaya mayelana na Levhele ya Vulemukisi ya 3 leyi fambelanisiweke na nxungeto leyi antswisiweke ya eka ya ku pfaleriwa ka rixakSwibumabumelo leswi swi sukela eka leswi tisiweke hi tisekitara to hambanahambana na miburisano hi Ntlawa wa Ntirho wa Nhlanganelo na Vuhlori wa Rixak,The NCCC tabled a number of recommendations pertaining to the enhanced risk adjusted Alert Level 3 of the national lockdow The recommendations are based on submissions made by various sectors and deliberations by the National Joint Operational and Intelligence Structur,0.853732
+"[ 1.14791     0.03999225 -0.14868836 ...  0.5329013   0.9837222
+  1.7822943 ]","[ 3.2959349e-02  4.2364822e-04 -3.6754973e-06 ...  4.7357311e-03
+  3.8546473e-02  4.7105882e-02]","Hambiswiritano, Khabinete yi bohile ku hundzisela emahlweni ku pfumeleriwa ka swibumabumelo kufikela loko ku kumekile xiviko xa rihanyu xo hetiseka xo huma eka Komiti yo Tsundzuxa ya Holobye wa Rihanyu eka COVID-19.","However, Cabinet decided to defer approval of the recommendations pending a full health assessment report from the Ministerial Health Advisory Committee on COVID-19.",0.88071615
+"[ 0.6670975  -0.35324803  0.12911631 ...  0.6764659   0.54046637
+  2.3263497 ]","[ 0.00845968  0.00697995 -0.00041226 ...  0.01813725  0.01889924
+  0.04275167]",NCCC yi languteriwile ku kuma andlalo wo hetiseka emasungulweni ya vhiki leri tak,The NCCC is expected to receive the full presentation by early next wee,0.8168715
+"[ 0.71953213 -0.12041076 -0.09391861 ...  0.8190936   1.1118089
+  1.471737  ]","[ 0.02889071 -0.00022822  0.002387   ...  0.03595396  0.03576081
+  0.02008016]",Khabinete yi tlhela yi kombela na ku khutaza maAfrika-Dzonga hinkwavo ku landzelela hi ku titwela magoza lama nga vekiwa ku lwisana na ku hangalaka ka COVID-19.,Cabinet once again appeal to and urge all South Africans to adhere and voluntarily comply with measures put in place to combat the spread of COVID-19.,0.8635172
+"[ 0.7212341   0.1381364  -0.17440651 ...  1.0729415   1.0760813
+  0.9061558 ]",[0.01206534 0.00120253 0.00094975 ... 0.03375217 0.03354894 0.04444651],"Magoza lama ma katsa ku hlamba swandla nkarhi na nkarhi, ku siya mpfhuka wo ringanela exikarhi ka vanhu na ku ambala swipfalaxikandza loko kuri endhawini ya mani na mani","The measures include regular washing of hands, social distancing and wearing of masks when in publi 2.",0.8500467
+"[ 1.1707217  -0.33513346 -0.42933083 ...  0.6097967   0.81830704
+ -0.23396792]","[ 0.03670752 -0.0028627   0.00064264 ...  0.01751236  0.00989436
+  0.00292291]",Khampani ya Oyilimbisi ya Rixaka,National Petroleum Company,0.83336127
+[1.1809088  0.18694852 0.40185228 ... 0.77384543 1.4493845  0.89170265],"[ 0.02489653 -0.00182338  0.00131201 ...  0.02520003  0.04190641
+  0.017407  ]","Khabinete yi hlamuseriwile hi ntirho lowu yaka emahlweni wo ringeta ku hunguta mpimo wa marhavi ya oyilimbisi (oyili na gasi) hinkwawo ya khamphani ya eneji leyi hambanisiweke leyi nga ehansi ka vun wini bya mfumo, Nkwama wa Eneji wa le Xikarh","Cabinet was briefed on the ongoing work to rationalize all petroleum (oil and gas) subsidiaries of the state owned diversified energy company, Central Energy Fun",0.8549724
+[1.6770815  0.3493693  0.31994945 ... 0.9821354  1.1111848  0.95629346],"[ 0.04418067  0.00788699 -0.00023865 ...  0.01134703  0.01831432
+  0.01421845]","Ku hungutiwa ka mpimo swi ta hetelela swi endlile leswaku marhavi manharhu (PetroSA, Strategic Fuel Fund na iGas) lama katsiweke ku va Khamphani ya Oyilimbisi ya Rixaka yin'w Leswi swi humelerisa xitiviso lexi nyikiweke hi Phuresidente Cyril Ramaphosa eka Mbulavulo wa yena wa Xiviko xa Rixaka hi 13 Nyenyanyana 2020, ku nyika xikongomelo hi vuntshwa na ku hunguta mpimo wa mabindzu lama nga ehansi ka vun wini bya mfumo yo hlaya ku seketela ku kula na ku hluvukis","The rationalization will result in three subsidiaries (PetroSA, Strategic Fuel Fund and iGas) merged into one single National Petroleum Compan This gives effect to the announcement made by President Cyril Ramaphosa in his State of the Nation Address on 13 February 2020, to repurpose and rationalize a number of state-owned enterprises to support growth and developmen",0.8852819
+"[ 1.2288338   0.5619734  -0.19973569 ...  0.66218287  1.567687
+  0.657617  ]","[ 0.03086655  0.01747404  0.00051064 ... -0.00390669  0.02470141
+  0.03807634]",Khabinete yi pfumelerile ku thoriwa loku ringanyetiweke ka khamphani yo vumba hi vuntshwa ya xiphurofexinali leyi tokotaka hi ku hlanganisa ku lavisisa modlolo wo tirha kahle swinene wa Khampani ya Oyilimbisi ya Rixaka,Cabinet approved the proposed appointment of a professional restructuring company that specializes in mergers to investigate the most viable model of this single National Petroleum Compan 3.,0.81815517
+[0.89413387 1.1904317  0.02423276 ... 1.229789   0.54785496 1.0141103 ],"[ 0.01301249 -0.00205306  0.00704658 ...  0.0266531   0.00758804
+  0.02749656]",Rimba ra Pholisi ya Madzolonga yo ya hi Rimbewu (GBV) eka Sisiteme ya Dyondzo na Ndzetelo wa le Ndzhaku ka Xikolo,Gender-Based Violence (GBV) Policy Framework in Post-School Education and Training System,0.8629502
+[1.3257041  0.51353824 0.4931666  ... 1.038319   0.8741823  1.4187142 ],[0.01488605 0.00383483 0.00367633 ... 0.01988677 0.02396017 0.026879  ],Khabinete yi pfumelerile Rimba ra Pholisi ya GBV eka Sisiteme ya Dyondzo na Ndzetelo wa le Ndzhaku ka Xikol Rimba lera Pholisi ri lava ku angula eka nhlayo leyi tlakukeke ya timhangu to fambelana na GBV eka mihlangano ya dyondzo ya le henhl,Cabinet approved the GBV Policy Framework in Post-School Education and Training Syste The policy framework seeks to respond to the increased number of GBV-related cases at institutions of higher learnin,0.860992
+"[ 1.2436529   1.0905211  -0.10676462 ...  0.57875204  1.4515235
+  1.0610611 ]","[ 0.02243712  0.00951012 -0.00032598 ...  0.02398575  0.02574247
+  0.02622226]","Rimba lera Pholisi ri nyika ndzetelo hi mitlawa, tindlela na tiphurosese leti mihlangano ya dyondzo ya le henhla yi bohekaka ku ti simeka ku sivela timhangu ta GBV etikhamphasini ta von Ku tatisa eka ku nyika mitlawa yo angamela, ri tlhela ri boha leswaku mihlangano yaleyo ku tumbuluxa vulemukisi eka tipholisi ta yona ta GBV","The policy framework provides guidance on structures, mechanisms and processes that institutions of higher learning must put in place to prevent incidents of GBV in their campuse In addition to providing oversight structures, it also compels such institutions to create awareness on their GBV policie 4.",0.87415326
+"[ 1.7979186   0.54878247 -0.24265648 ...  0.75689936  0.77734077
+  0.31997848]","[ 0.05165519 -0.00332489 -0.0003284  ...  0.012593    0.01186142
+  0.00888537]",Xiviko xa Ndzavisiso wa Nkoteko eka Muziyamu wa Nhlangano wa ku Ala Mpfumelo na ku Lwela Ntshunxeko (RLMM),Feasibility Study Report on the Resistance and Liberation Movement Museum (RLMM),0.8817047
+"[ 1.7453814   0.73325276 -0.30369404 ...  1.7975372   1.645094
+  0.88851815]",[0.03626851 0.00233177 0.0004556  ... 0.05911761 0.03982032 0.02580352],Khabinete yi pfumelerile Xiviko xa Ndzavisiso wa Nkoteko eka ku tumbuluxiwa ka RLM Muziyamu lowu wu ta hoxa xandla eka ku hlayisa matimu ya ku ala na nyimpi ya ku lwela ntshunxeko eAfrika-Dzong,Cabinet approved the Feasibility Study Report on the establishment of the RLM The museum will contribute towards conserving the history of the resistance and liberation struggle in South Afric,0.90302587
+"[ 1.6345798   0.60819566 -0.10474867 ...  1.0320647   1.2376741
+  0.645544  ]","[ 0.05379711 -0.0003342  -0.00021374 ...  0.03175668  0.04767815
+  0.02382246]","Ndzavisiso lowu, lowu Khabinete yi nga wu pfumelela hi 2015, wu laviwile endzeni ka mbangu wa Phurojeke ya Ndlela ya Ndzhaka ya ku Ala na ku Lwela Ntshunxeko (RLHR).","The study, which Cabinet approved in 2015, was commissioned within the context of the Resistance and Liberation Heritage Route (RLHR) Projec The RLHR contributes towards the development and transformation of the South African heritage landscap",0.81356174
+"[ 1.1143825  -0.02799622 -0.24243464 ...  0.516279    1.6330869
+  0.79261583]","[ 0.03041349  0.00158906 -0.0002412  ...  0.03358614  0.04861591
+  0.03412479]",RLHR yi hoxa xandla eka nhluvukiso na ku cinca vuandlalo bya ndzhaka ya Afrika-Dzong,"Cabinet approved the implementation of the National Khoi and San Heritage Route, which is a national legacy projec The route will identify, highlight, conserve and promote the heritage of the Khoi, Nama, Griekwa, Khorana and Sa This project contributes towards the acknowledgement of the previously neglected and marginalized South African histor",0.7020613
+"[ 0.8193655   0.8215828  -0.14829914 ...  2.2120347   1.4251746
+  1.3132851 ]","[ 2.0904861e-02  1.4897758e-03 -3.4700966e-05 ...  4.1844297e-02
+  3.6362670e-02  3.1241646e-02]","Loko wu herile, muziyamu lowu wu ta hlayisa ntlhandlamano wa swiphemu swa ndzhaka (swo khomeka na swo ka swi nga khomeki) na ku nyika ndzungulo wo fana, nkhumbulo na mitokoto leswi fambelanaka na nyimpi ya ku lwela ntshunxeko eAfrika-Dzonga","Once completed, the museum will conserve a series of heritage elements (tangible and intangible) and provide common narrative, memory and experiences relating to the liberation struggle in South Africa",0.9028392
+"[ 1.3953158  -0.23164932 -0.31600732 ...  0.78968483  1.4745805
+  0.5750281 ]","[ 0.0373501  -0.00039161  0.00124024 ...  0.01602575  0.02877161
+  0.00463772]",Ndlela ya Ndzhaka ya Khoi na San ya Rixaka,National Khoi and San Heritage Route,0.8370502
+"[ 1.02585     0.14811836 -0.205978   ...  1.4213057   1.6967784
+  1.8029411 ]","[ 0.04009616  0.00293591 -0.00018421 ...  0.03624703  0.06063885
+  0.007404  ]","Khabinete yi pfumelerile ku simekiwa ka Ndlela ya Ndzhaka ya Khoi na San ya Rixaka, leyi ku nga phurojeke ya ndzhaka ya rixak Ndlela yi ta kuma, yi kombisa, ku hlayisa na ku tlakusa ndzhaka ya Khoi, Nama, Griekwa, Khorana na Sa Phurojeke leyi yi hoxa xandla eka ku amukela matimu ya Afrika-Dzonga lama a ma nga tekeriwi enhlokweni nkarhi lowu nga hundz",Such a scheme will protect the vulnerable depositors and ensure minimal disruptions to the financial system and broader economy when such institutions enter into financial distres APPOINTMENTMs Sekgothadi Kabelo as Non-Executive Director of the Ports Regulator of South Africa BoarEnquiries: Ms Phumla Williams,0.76301146
+"[ 1.1201906   0.09605027 -0.38032457 ...  0.79977643  1.4873964
+  1.2018759 ]",[0.03665777 0.00184587 0.00356787 ... 0.01133503 0.0509847  0.02328813],"Yi tlhela yi humelerisa Nawu wa Vurhangeri bya Ndhavuko na Khoi-San, 2019 (Nawu wa 3 wa 2019), lowu veka nawu wa ku tekeriwa enhlokweni ka varhangeri va Khoi na San va ndhavuko","It also gives effect to the Traditional and Khoi-San Leadership Act, 2019 (Act 3 of 2019), which legislate for the recognition of the Khoi and San traditional leaders",0.9065502
+"[ 0.9030058  -0.2804365  -0.17669274 ...  0.3206382   0.01043346
+  2.342187  ]","[ 0.00597703  0.00343788 -0.00051417 ...  0.01117337  0.02439654
+  0.01913114]",Tidizayini ta swingwece swo tlangela hi ku tsundzuka swa 2021 na 2022,Designs of 2021 and 2022 commemorative coins,0.8492899
+"[ 1.0120982  -0.09752908 -0.2073104  ...  1.0117681   2.166574
+  0.53362596]","[ 0.00396803  0.002914   -0.00028778 ...  0.01997139  0.04944687
+  0.03243997]",Khabinete yi pfumelerile tidizayini ta swingwece leswi nga eku tirheni swo tlangela hi ku tsundzuka swa 2021 na 2022 leswi swi humesiwaka hi Bangikulu ya Afrika-Dzonga (SARB) na Khamphani ya Swingwece ya Afrika-Dzong,Cabinet approved the designs of the 2021 and 2022 commemorative circulation coins which are issued by the South African Reserve Bank (SARB) and the South African Mint Compan,0.8776855
+"[ 1.0210257  -0.08212771  0.23907554 ...  1.2252553   1.6390407
+  1.4688461 ]","[ 0.01725311 -0.00207566  0.01793128 ...  0.01317478  0.02933818
+  0.0280796 ]","Xingwece lexi nga eku tirheni xo tlangela hi ku tsundzuka xa R5 na xingwece xa vahlengeleti lexi tintiweke hi nsuku, xa silivhere leyi pfanganisiweke xa R5 xi ta humesiwa hi 2021 ku tlangela Lembexidzana ra SAR Ntlhandlamano wa Swingwece swa Xidesimali wa Vumune wa Afrika-Dzonga, lowu nga ta humesiwa hi 2022 wu ta katsa xingwece xa 10 ra tisente, 20 wa tisente, 50 wa tisente, R1, R2 na R5.","coin will be issued in 2021 to celebrate the Centenary of the SAR The fourth Decimal Coin Series of South Africa, which will be issued in 2022 will consist of 10 cent, 20 cent, 50 cent, R1, R2 and R5 coi",0.88069564
+"[ 0.56013817 -0.12059022 -0.25073755 ... -0.02773428  0.0055519
+  0.3365006 ]","[ 0.03864396 -0.0012033  -0.00057512 ...  0.00059445  0.00286358
+  0.01372522]",Milawumbisi1.,BILLS1.,0.768176
+"[ 0.5380481  -0.16765216 -0.45628306 ...  0.22570185 -0.07143062
+  1.2359931 ]","[ 1.54183535e-02 -4.08702902e-03  4.41545817e-05 ...  1.88936312e-02
+  8.90583545e-03  2.83545926e-02]",Nawumbisi wa ku Cinciwa ka Milawu ya Sekitara ya swa Timali wa 2020,Financial Sector Laws Amendment Bill of 2020,0.82378244
+"[ 0.99824387  0.12718585 -0.3354532  ...  0.95740193  1.0304694
+  1.2234591 ]","[ 0.03108113  0.00212694 -0.00021625 ...  0.01416541  0.04466826
+  0.04071252]","Khabinete yi pfumelerile ku yisiwa ka Nawumbisi wa ku Cinciwa ka Milawu ya Sekitara ya swa Timali wa 2020 ePalamend Nawumbisi lowu wu ringanyeta ku veka SARB tanihi Vulawuri bya Xiboho, naswona wu antswisa switirho swo lawula swa SARB swo humelerisa xilerisoximfumo xa yona xo tiyisisa ntshamiseko wa sisiteme ya swa timal","Cabinet approved the submission of the Financial Sector Laws Amendment Bill of 2020 to Parliamen The Bill proposes to designate the SARB as the Resolution Authority, and enhances the SARB s regulatory tools for discharging its statutory mandate of ensuring stability of the financial syste",0.87747294
+"[ 0.8166789   0.10199928 -0.1683231  ...  0.816216    1.7096318
+  1.3197833 ]","[ 0.01453576 -0.00215165  0.00602223 ...  0.02509385  0.03825437
+  0.03606954]","Nawumbisi lowu wu ringanyeta rimba rintshwa ku lulamisa mihlangano ya swa timali, ngopfungopfu tibangi, loko ti nghena eka nkarhi wa ntshikelelo wa swa timal Wu tlhela wu tisa xikimi xa ndzindzakhombo xo dipozita xo angarhela xo sungula xa Afrika-Dzonga lexi xi nga ta tiyisisa leswaku vadipoziti va hakeriwa tihakelo loko bangi yi hlulek","The Bill proposes a new framework to resolve financial institutions, primarily banks, when they enter a period of financial distres It also introduces South Africa s first comprehensive deposit insurance scheme that will ensure that depositors are paid their funds when a bank fail",0.8769039
+"[ 0.9169668   0.04201025 -0.17266499 ...  0.5777399   1.4856325
+  0.9474749 ]","[ 4.9037334e-02 -6.7880331e-04  2.5839853e-04 ...  1.8405540e-02
+  5.2021600e-02 -7.5040957e-06]",Xikimi xo tani xi ta sirhelela vadipoziti lava nga sirhelelekangiki na ku tiyisisa leswaku ku kavanyeta ko ka ku nga tikangi eka sisiteme ya swa timali na ikhonomi yo anama loko mihlangano yaleyo yi nghena eka ntshikelelo ya swa timalKu ThoriwaMnn Sekgothadi Kabelo tanihi Mulawuri loyi a nga riki Xiphemu xa Vurhangerinkulu wa Bodo ya Vulawuri bya Tindhawu to Nghena Etikweni ya Afrika-Dzonga:Swivutiso: Mnn Phumla Williams,"The R5 commemorative circulation coin and the R5 sterling-silver, gold plated collectors",0.6491724
+"[ 0.7232716  -0.31316546 -0.08702331 ...  0.02818674  0.05905242
+  1.6410452 ]","[ 0.00104001 -0.00205139  0.0063608  ...  0.02688568  0.01023108
+  0.04815705]",Muvulavuleri wa KhabineteSelifoni: 083 501 0139,"Statement on the Virtual Cabinet Meeting held on Wednesday, 10 June 20201.",0.5542893

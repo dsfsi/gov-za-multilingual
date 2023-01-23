@@ -1,0 +1,119 @@
+ss,en,src_text,trg_text,Cosine_Score
+"[ 0.4277967  -0.21874031 -0.40597832 ...  0.49040362  0.18327816
+  0.13189128]","[ 0.00503822 -0.00281834 -0.00068318 ... -0.00442957  0.00066921
+  0.00642761]",LEKGOTLA LEKHABHINETHI,Phase 2 Plan,0.64691013
+"[ 2.0514333   0.4874564  -0.0872235  ...  0.9137879   0.73442715
+  1.6068404 ]","[ 0.07401714  0.000811   -0.00038265 ...  0.02237568  0.03590756
+  0.06138356]","Mengameli Cyril Ramaphosa ubite Lekgotla leKhabhinethi ngaLesine, mhla tinge-27 Bhimbidvwane 2022.","President Cyril Ramaphosa convened the Cabinet Lekgotla on Thursday, 27 January 2022.",0.81357837
+"[ 0.8695833  -0.13791274 -0.21964937 ...  1.0161468   1.4892324
+  1.4628093 ]","[ 0.00143415 -0.00032689  0.00118575 ...  0.0282415   0.03424306
+  0.03765174]","Bewuhanjelwe baholi labamelele yonkhe imikhakha yahulumend Bebafaka ekhatsi Tindvuna, Emasekelatindvuna, Baphatsitifundza, Bacondzisijikelele kanye nebaholi beNhlangano yaseNingizimu Afrika Yahulumende Wasekhay","It was attended by the leadership structures representing all spheres of governmen They included Ministers, Deputy Ministers, Premiers, Directors-General and leadership of the South African Local Government Associatio",0.87675726
+"[ 0.62059957 -0.14241056 -0.10117185 ...  0.6181223   0.29652992
+  0.8115061 ]","[ 0.02685095 -0.00015406  0.00187031 ...  0.01138844  0.01715097
+  0.02290567]",Mengameli umeme baholi bahulumende njengencenye yekuhlanganisa nekwenta kuphendvula kwahulumende kuhambisane,"The President invited the government leaders as part of integrating and aligning government s responses to challenges facing the country, particularly to focus urgently on addressing the triple challenges of poverty, unemployment and inequalit He called on the leaders to effect fundamental reforms to revive economic growth and create much-needed employment at a far higher rat",0.69516283
+[0.569135   0.0651479  0.06974775 ... 1.3439626  0.70927453 1.1426101 ],"[ 0.00920746 -0.00015254  0.01059146 ...  0.03656062  0.0214652
+  0.00985737]","netinsayeya lelive lelibukene nato, ikakhulu kusombulula tinsayeya letimkhakhamitsatfu tebuphuya, kweswelakala kwemisebenti nekungalingan Ucela labaholi kutsi bente tingucuko letibalulekile kuvusa kukhula kwemnotfo kanye nekwakha ngesivinini lesikhulu ematfuba emisebenti ledzingeka kakhul","Efforts to reduce unemployment and poverty will include a blend of increased private sector employment, publicly funded employment and expanded social protection for unemployed peopl",0.75046885
+"[ 0.28702685  0.3657395  -0.30007443 ...  1.2565267   0.7616284
+  0.31003913]","[ 2.21032985e-02 -5.70390948e-05 -7.45533544e-06 ...  4.93416488e-02
+  3.74871343e-02  1.10074645e-02]",Mengameli ugcizelele bunkhaba nekubaluleka kweMbononchanti wa-2030 weLuhlelo Lwekutfutfukisa Lwavelonkhe kanye neLuhlelo Lwavelonkhe Lwekutfutfukisa neLuhlelo Lwekwakha Kabusha Nekubuyisa Umnotfo kusheshisa imitamo yekwenta kancono timo tebantfu baseNingizimu Afrik,The President underscored the centrality of Vision 2030 of the National Development Plan and the Economic Reconstruction and Recovery Plan to accelerate efforts to improve the conditions of South African,0.8866094
+"[ 0.6821877  -0.04836431 -0.16589423 ...  0.16979182  1.1383567
+  0.6911957 ]","[ 2.6167018e-02  1.9960478e-03 -2.4039236e-05 ...  1.9132359e-02
+  3.4603171e-02  1.2655160e-02]","Kwengeta kulesimo setemnotfo nekuhlela kabusha tinhlaka, i-Lekgotla yeKhabhinethi iphindze futsi yakhuluma ngekutfutfukiswa kwetakhiwonchanti, kuciniseka kwemandla agezi, kwentiwa kutfutfukiswa kwetimboni kufanele simo saleli, kuhlelwa kwabusha kwemhlaba netekulima, kanye nekuhlelwa kabusha kwetinkampani tahulumend","In addition to the state of the economy and structural reforms, the Cabinet Lekgotla also discussed infrastructure development, energy security, localisation and industrialisation, land reforms and agriculture, and reform of state-owned enterprise",0.8731564
+[0.950624   0.51373386 0.13459921 ... 0.38010976 0.53125703 0.7437558 ],"[ 1.9571709e-02 -6.4681415e-05  4.0949374e-03 ...  8.7237423e-03
+  3.2398347e-02  3.9255220e-02]","Imitamo yekunciphisa kweswelakala kwemisebenti nebuphuya kutawufaka ekhatsi inhlanganisela yemisebenti yemkhakha lotimele, imisebenti leyesekelwa nguhulumende","The project forms part of government s commitment to bridge the digital divide, especially in rural communities, and advance the digital econom The participation of the private sector will also address the transformation of the sector by involving all relevant role players in the electronic network secto",0.7149488
+"[ 0.27477708 -0.20455545 -0.11751764 ...  0.4566227   0.17006557
+  0.28593227]","[ 0.00015658 -0.00280765 -0.00018848 ...  0.01440116 -0.0060758
+ -0.00231897]",ngetimali kanye nekwelulwa kwetibonelelo tahulumende tekusita,discussed local government service delivery,0.7531731
+"[ 0.39919636  0.02655915 -1.110643   ...  0.25297838  0.46919936
+  0.3958332 ]","[ 0.03215406 -0.0057173  -0.00189529 ... -0.00540051  0.01438218
+  0.02907142]","bantfu labangakacashwa,",APPOINTMENTS All appointments are subject to the verification of qualifications and the relevant clearance,0.53947985
+"[ 0.44305104  2.387813   -0.17050408 ...  0.99492437  0.37876317
+  0.47739562]",[0.02935538 0.06942078 0.00240212 ... 0.02016561 0.00292627 0.0068872 ],"Kulomhlangano kuphindze kwadzingidvwa tinsayeya kanye nenchubekelembili ekulweni nebugebengu nenkhohlakalo, kanye nemitamo yekwenta kancono tekuphepha nekuvikeleka kwesiv Kuphindze futsi kwadzingidvwa tinsita letetfulwa nguhulumende wasekhaya","The meeting also deliberated on challenges and progress in the fight against crime and corruption, and efforts to enhance public safety and securit It also",0.84937143
+"[ 0.7671182  -0.2136453  -0.21736106 ...  0.8504501   0.7281581
+  0.43578678]","[ 0.0156526  -0.00091758 -0.00155121 ...  0.00643196  0.01971926
+  0.00341004]","kufaka ekhatsi kuphakelwa kwagezi, emanti kanye nekuhanjiswa kwendle","including the provision of electricity, water and sanitation",0.79968506
+"[ 1.2276102  -0.03014502  0.11513583 ...  0.41198078  0.7687102
+  0.04055784]","[ 0.01213397  0.00035944  0.02080602 ... -0.0088013   0.01122944
+  0.01123658]",njengencenye lebalulekile yekwakha emakhono aHulumend,as an important part of building the capacity of the Stat,0.7682769
+"[ 0.6740801   0.6753252  -0.08770928 ...  1.5170205   1.6273206
+  2.1574605 ]",[0.04340329 0.0016084  0.006836   ... 0.04355981 0.02413144 0.0560483 ],"Tingcoco te-Lekgotla leKhabhinethi kutawumiselwa kuto loko hulumende lafanele kutsi acale ngako kukwenta kulomnyaka lesikuwo lokutawuncunywa nguMengameli Ramaphosa naketfula Inkhulumo YaMengameli Yebunjalo Belive ngaLesine, mhla ti-10 Indlovana 2022.","The Cabinet Lekgotla deliberations are to inform government s priorities for the year ahead which President Ramaphosa will set out during the State of the Nation Address on Thursday, 10 February 2022.",0.830498
+"[ 0.21347494 -0.2757018  -0.28318393 ...  0.5008867   0.13547903
+  0.41086227]","[ 0.00408866 -0.00296827 -0.00060771 ...  0.00854466 -0.00353386
+  0.01201626]",TINCUMO TEKHABHINETHI1.,CABINET DECISIONS1.,0.8361259
+"[ 0.76878875 -0.262083   -0.20523182 ...  0.21684553  0.6084115
+  0.02643786]","[ 0.0052087  -0.00499299 -0.00044223 ... -0.00060286  0.00424783
+ -0.00293202]",Luhlelo Lwesigaba Lesibili le-SA Connect,SA Connect,0.6692516
+[0.571532   0.03246387 0.3018452  ... 0.6963002  0.9709731  2.3708508 ],"[ 0.02342173 -0.00411109 -0.00037717 ...  0.03764365  0.02127237
+  0.05442834]",Ikhabhinethi ikuvumile kucala kwesigaba sesibili semklamo we-SA Connec Loluhlelo lutawenta Inchubomgomo ye-Inthanethi lesheshako yalelive isebente lekuyintfo leyavunywa yiKhabhinethi nga-2013.,Cabinet approved the roll-out of the second phase of the SA Connect projec The plan gives effect to the country s Broadband Policy which was adopted by Cabinet in 2013.,0.8443996
+"[ 0.1729644  -0.13295192 -0.14441188 ...  0.6201661   1.0455756
+  0.7363634 ]","[-0.00066788 -0.00266227  0.00198712 ...  0.01652125  0.00990622
+  0.03233122]",Sigaba Sekucala sisebente njengemklamo wekuvisela wekunika tikhungo tahulumende letibalulekile letinge-970 tinsita te-inthanethi lesheshako te-10 Megabits (i-Mbps).,Phase 1 served as a pilot phase to provide 10 Megabits (Mbps) broadband services to about 970 critical government facilitie,0.8430429
+"[ 1.2557697   0.06615604 -0.08960298 ...  0.9846986   1.1842861
+  0.97237295]",[0.01596378 0.01075063 0.00383485 ... 0.02027891 0.01016944 0.0178317 ],"Lesigaba sesibili lesivunyiwe sitawetfulwa ngekusebentisa tikhungo tahulumende (Ejensi yeTebucwepheshe beteLwatiso lweMbuso [i-SITA]); i-Broadband Infraco ne-Sentech) kanye nemboni ye-inthanethi lesheshak Kuletinyanga letinge-36 letitako, lomklamo utawuchumanisa letikhungo tahulumende letisele, imimango kanye nemakhaya lasel","The approved second phase will be rolled out using state-owned entities (State Information Technology Agency [SITA]); Broadband Infraco and Sentech) and the industr Over the next 36 months, the project will connect the remaining government facilities, communities and household",0.89457345
+"[ 1.3956367  -0.00531752 -0.01486068 ...  1.1450024   1.0511703
+  1.1390896 ]",[0.00292258 0.00661711 0.08023147 ... 0.03989665 0.02664789 0.03364801],"Lomklamo uyincenye yekutinikela kwahulumende kuvala ligebe letedijithali, ikakhulu emimangweni yasemaphandleni, kanye nekuchubela embili temnotfo wetedijithal Kuhlanganyela kwemkhakha lotimele nako kutawulungisa lokuhlelwa kabusha kwalomkhakha ngekufaka ekhatsi bonkhe bandlalindzima labafanele kulomkhakha wekuchumana ngetebucwephesh .",The SA Connect project targets to achieve 80% broadband access in communities and government facilities over the next three years with a minimum speed capacity of 10Mbps per second and 100 Mbps for the high-demand facilitie,0.7126416
+"[ 0.3639096  -0.09632881  4.9683394  ...  1.485644    0.7501953
+  1.4400566 ]",[0.04152969 0.00197304 0.00035845 ... 0.00797544 0.01562396 0.03659597],Lomklamo we-SA Connect uhlose kutsi i-inthanethi lesheshako ifinyelele imimango netikhungo tahulumende nge-80% kuleminyaka lemitsatfu letako ngesivinini selizingancane lesingu-10Mbps ngelisekhondi kanye ne-100 Mbps yetikhungo letidzinga kakhulu i-inthaneth,Ms Regomoditswe Dorcas Mavimbela as DDG: Content Processing and Dissemination at the GCI 5.,0.6507051
+"[ 0.23176458 -0.03935307 -0.22000085 ...  0.6141535   0.55378586
+  0.7689224 ]",[0.02316954 0.00070742 0.00307598 ... 0.03001601 0.02884939 0.04968666],KUBEKWA ETIKHUNDLENI Kutawuhlolwa ticu tabo bonkhe lababekwe etikhundleni kubuye futsi kucinisekiswe kufaneleka kwabo mayelana netekuphepha,Mr Luvuyo Keyise as an interim CEO of SITA (Reappointed).Board members of SITA SOC:1.,0.568915
+"[ 0.9614067  -0.0457051  -0.22472315 ...  0.56959736  0.9913765
+  0.4361402 ]","[ 3.5480503e-02  9.0808084e-04 -1.3472308e-05 ...  2.1517977e-02
+  2.3910545e-02  1.6224905e-03]","M Nomthandazo Lichie Moyo njengeLisekela Lemcondzisi Jikelele (i-DDG): Kutfutfukiswa Kwetindzawo Tasemaphandleni kuLitiko Letekulima, Kuhlelwa kabusha Kwemhlaba Nekutfutfukiswa Kwetindzawo Tasemaphandleni (i-DALRRD).","Ms Nomthandazo Lichie Moyo as Deputy Director-General (DDG): Rural Development at the Department of Agriculture, Land Reform and Rural Development (DALRRD).",0.8234502
+"[ 1.3471833   0.01636883 -0.3462517  ...  0.46897638  1.0141066
+  0.6992548 ]","[ 3.2793339e-02 -2.3054559e-05 -1.3287543e-04 ...  2.3487978e-02
+  3.5220232e-02  2.2282885e-02]",Mn Clinton Rossouw Heimann njenga-DDG: Umtsetfo Wekuhlela Indzawo Nekulawula Kusetjentiswa Kwemhlaba e-DALRRD,Mr Clinton Rossouw Heimann as DDG: Spatial Planning and Land Use Management at the DALRRD,0.9075402
+"[ 0.68994135  0.16845313 -0.11416019 ...  0.98174834  0.8799565
+  1.3326331 ]","[ 0.01183738  0.00193215 -0.00024377 ...  0.00881949  0.02011548
+  0.02060653]",Mn Michael Currin njenga-DD Kuchumanisa Budlelwane Bangekhatsi Kuhulumende neKulawula Labatsintsekako kuTekuchumana Tahulumende Nekwatisa (e-GCIS).,Mr Michael Currin as DDG: Intergovernmental Coordination and Stakeholder Management at the Government Communication and Information System (GCIS).,0.8378965
+"[ 0.8331778   0.16217698 -0.17177115 ...  1.2673628   0.802084
+  0.8550068 ]","[ 9.6438983e-03  1.2301935e-03 -5.5844637e-05 ...  2.8070785e-02
+  1.7150221e-02  6.1885770e-02]",M Regomoditswe Dorcas Mavimbela njenga-DDG: Kucubungula neKusabalalisa Lwatiso e-GCI 5.,Ms Nomonde Mnukwa as DDG: Corporate Services at the GCI 6.,0.7297892
+"[ 0.62419647  0.229276   -0.2535139  ...  1.1886262   1.1943415
+  1.5191001 ]","[ 0.02369172 -0.00044303 -0.00023393 ...  0.02405564  0.01508106
+  0.01996509]",Mk Nomonde Mnukwa njenga-DDG: Temisebenti Yekwesekela e-GCI 6.,Mr Nhlanhla Edgar Sishi as DDG: Budget Office in National Treasury,0.7854352
+"[ 3.2189403e-02  6.5622362e-04 -8.1537992e-02 ...  1.1239418e+00
+  6.3977522e-01  1.0809710e+00]","[ 0.01752415  0.02866036 -0.00136389 ...  0.01120415  0.03486939
+  0.02690073]",Mn Nhlanhla Edgar Sishi njenga-DDG: Lihhovisi Letelwabiwomali kuMgcinimafa Wavelonkhe,Dr Litha Magingxa as Chief Executive Officer (CEO) and President of the Agricultural Research Counci,0.77242404
+"[ 1.2573222   1.128462   -0.32579413 ...  0.5611528   0.8628603
+  1.1636305 ]","[ 0.02752727 -0.00092722  0.00091326 ...  0.01988964 -0.00227086
+  0.0427949 ]",Dk Litha Magingxa njengeMphatsihhovisi Lomkhulu (i-CEO) kanye naMengameli weMkhandlu Welucwaningo Lwetekulim,Ms Rofhiwa Irene Singo as Chief Financial Officer at the Department of Justice and Constitutional Developmen 9.,0.7903695
+"[ 1.5119967   0.01741986 -0.24859826 ...  0.76421607  0.685532
+  1.1670828 ]",[0.05087521 0.00403297 0.00119399 ... 0.03932261 0.0456014  0.00625591],Ikhabhinethi ikuvumile nekubekwa esikhundleni kuka-Dkt Litha Magingxa nguMkhandlu,Mr Willie Vukela (Department of Public Service and Administration representative).Enquiries: Ms Phumla Williams,0.6733822
+"[ 1.4606558   0.04364325 -0.260594   ...  1.0544516   1.0752037
+  1.7756178 ]","[ 1.6431123e-02  9.5153792e-04 -6.0466649e-05 ...  4.5475107e-02
+  5.0167823e-03  1.9654995e-02]",M Rofhiwa Irene Singo njengeMphatsi Lomkhulu Wetetimali kuLitiko Letebulungiswa Nekutfutfukiswa Kwemtsetfosisekel 9.,Ms Jeanette Morwane (Department of Communications and Digital Technologies representative);10.,0.71551895
+"[ 1.0247749  -0.12611979  0.44914335 ...  1.3313879   1.4601617
+  2.1631696 ]","[ 2.1795982e-02 -1.2166819e-03 -1.4230270e-05 ... -4.2984323e-03
+  2.4567576e-02  2.8462103e-02]",Mn Luvuyo Keyise njenga-CEO we-SITA wesikhashana (Uyaphindvwa kukhetfwa).Emalunga ebhodi ye-SITA SOC:1.,Ms Laura Mseme (National Treasury representative); and11.,0.6564189
+"[ 0.7387582  -0.13403602 -0.22374216 ...  0.44326055  0.7849617
+  0.881727  ]","[ 1.2746161e-02 -1.0334773e-03 -5.6964174e-05 ... -2.6567691e-04
+  3.1451140e-02  2.1163063e-02]",M Makano Mosidi (Sihlalo);2.,Ms Makano Mosidi (Chairperson);2.,0.8277403
+"[ 2.1048436  -0.03178614 -0.05837871 ...  0.7503953   0.55374515
+  1.3416241 ]","[ 0.04426036 -0.00038289 -0.00117754 ...  0.00213531  0.01766458
+  0.02344847]",Dk Stella Bvuma (Sekelasihlalo);3.,Dr Stella Bvuma (Deputy Chairperson);3.,0.8175867
+"[ 1.0129728  -0.3064109   0.06395222 ...  0.45691538  1.2755291
+  1.4856673 ]","[ 4.5679502e-02 -1.1599490e-03 -2.6161155e-05 ...  3.4503985e-02
+  4.5655832e-02  4.2115394e-02]",M Shery-Lee Moonsamy;4.,Ms Shery-Lee Moonsamy;4.,0.88542104
+"[ 1.7333713  -0.3067621  -0.04275585 ...  0.52651125  0.7807876
+  0.65465224]","[ 3.3546533e-02 -1.8891080e-04 -1.1751827e-05 ...  2.7860021e-03
+  1.7317601e-02  1.6857360e-02]",M Nolitha Pieterson;5.,Ms Nolitha Pieterson;5.,0.89252895
+"[ 1.5679296  -0.51673853 -0.06103807 ... -0.04800781  0.96214926
+  1.2919487 ]","[ 0.03217301 -0.00152889  0.00085766 ... -0.00483849  0.02990271
+  0.02906612]",M Zimbini Hill;6.,Ms Zimbini Hill;6.,0.84662807
+"[ 0.50538236 -0.2895256  -0.00699013 ...  0.294914    0.7049791
+  1.3968048 ]","[ 0.05638844 -0.0020992  -0.00019665 ...  0.00876323  0.03015117
+  0.03745563]",M Olwethu Ketsekile;7.,Ms Olwethu Ketsekile;7.,0.62578744
+[0.89336425 0.01472309 0.05713584 ... 0.5055303  0.5339781  1.2612935 ],"[ 0.04362859  0.0031686  -0.00022934 ...  0.01411337  0.05340664
+  0.03188581]",Dk Tshilidzi Ratshitanga;8.,Dr Tshilidzi Ratshitanga;8.,0.8299829
+"[ 1.5405788  -0.10010272  0.03802234 ...  0.5143852   1.0061295
+  1.6587055 ]","[ 0.07486903  0.00072506 -0.00160367 ...  0.00977955  0.0475544
+  0.03525022]",Dk Rendani Ramabulana;9.,Dr Rendani Ramabulana;9.,0.76488185
+"[ 0.7032853  -0.08443256  0.0026182  ...  0.99144614  0.59681857
+  1.4362291 ]","[ 0.00701544 -0.00437688 -0.00014415 ...  0.01022032 -0.00713816
+  0.03588371]",M Jeanette Morwane (ummeleli weLitiko Letekuchumana Nebucwepheshe Betedijithali);10.,Cabinet Spokesperson Mobile: 083 501 0139,0.5968938
+"[ 0.9780584  -0.08867468 -0.1762803  ...  0.7184433   0.5859605
+  1.6358153 ]","[ 0.0519358  -0.0003842  -0.00065532 ...  0.00947465  0.02425121
+ -0.0054572 ]",M Laura Mseme (ummeleli weMgcinimafa Wavelonkhe); kanye11.,CABINET LEKGOTLA,0.6029333
+"[ 1.2124681  -0.44267836 -0.09516439 ...  0.97918147  0.6677685
+  0.24763532]","[-1.2208387e-03  2.2083693e-03 -2.3482384e-05 ...  5.2641644e-03
+  3.5100207e-03  2.8954457e-02]",neMn William Vukela,Cabinet concurred with Council appointment8.,0.4250685

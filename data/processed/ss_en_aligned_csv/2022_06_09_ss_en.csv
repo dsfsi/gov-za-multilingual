@@ -1,0 +1,221 @@
+ss,en,src_text,trg_text,Cosine_Score
+"[ 0.62983555 -0.05092452 -0.02384186 ...  0.17800166  0.40111145
+  1.0820384 ]","[-1.3246041e-04  1.8291839e-03 -2.0094540e-05 ...  2.9652196e-03
+  2.0951522e-03  5.2276361e-03]",Tindzaba letibalulekile telive1.,Message1.,0.7833302
+"[ 0.15573013 -0.349975    0.4736264  ...  0.05059559  0.24243425
+  0.09951783]","[ 0.00778594 -0.0007077   0.00053992 ...  0.00284386  0.00279296
+  0.00283432]",Temnotfo,Economy,0.9486178
+"[ 0.3092298  -0.14647758  4.5139284  ...  0.68649584  0.7468753
+  3.1315565 ]","[ 0.02138615 -0.00066679  0.08986804 ...  0.02222481  0.02980519
+  0.0881729 ]","Ikhabhinethi iyakwamukela lokungenelela lokuhle lokusandza kwenteka lokuhlose kuvuselela kukhula kwemnotf Ngekwetinombolo letisandza kukhishwa letikhishwe beteLubalobalo TaseNingizimu Afrika, kuswelakala kwematfuba emsebenti kunciphe kusuka kumaphesenti la-3kulekota yesine yemnyaka we-2021 kwaya kumaphesenti la-3kukota yekucala yemnyaka we-2022.","Cabinet has welcomed the recent positive developments in the country s interventions aimed at stimulating economic growt According to the recent unemployment figures from Statistics South Africa, unemployment decreased from 3per cent in the fourth quarter of 2021 to 3per cent in the first quarter of 2022.",0.9222745
+[1.0685242  0.13748382 0.6382752  ... 0.62283033 0.9449341  0.7577468 ],"[ 0.01850027  0.00357079  0.07298747 ...  0.00969446  0.0031778
+ -0.00353225]","Lokukhula kwemazinga ematfuba ekungacashwa kunciphe kwalandzelana emakota lamabil Umkhakha wetematfuba emsebenti lozuze kakhulu ngilowetinsita temmango netenhlalakahle, tekukhucita netekuhwebelan","The expanded unemployment rate has declined for a second quarter in a ro The biggest job gains were in community and social services, manufacturing and trad",0.8252539
+[0.7268467  0.21857236 0.58539593 ... 0.7650017  0.8776866  2.1613305 ],"[ 0.01710463 -0.00265308  0.03668595 ...  0.02197983  0.01025631
+  0.02539258]",Linani lemikhicito yasekhaya likhule nge- kukota yekucala yemnyaka we-2022 lokutsatsa bukhulu bemnotfo wakitsi kuwuyise esikhatsini sangembi kwekucala kwalobhubhan,The gross domestic product in the first quarter of 2022 grew by,0.72457635
+"[ 0.4807229   0.42760798 -0.107961   ...  0.34396613  0.8777563
+  1.0947338 ]","[ 0.02378126 -0.0002072   0.05475863 ...  0.03004153  0.04440656
+  0.00812829]","Ngalesikhatsi salekota, umkhakha wetekukhicita ngiwo lowasebenta kahle lowaba nekukhula kumikhicito yetephethilomu neyemakhemikhali, yetekudla neyetinatfo, neyemamethali neyetemishin","which takes the size of our economy to pre-pandemic level Over the quarter, the manufacturing sector was the economy s key performer with an increase in the production of petroleum and chemicals, food and beverages, and metals and machiner",0.81765187
+"[ 0.6971304   0.16758107 -0.03538723 ...  0.45518336  0.97720414
+  0.8573933 ]","[ 0.02180083 -0.00149683 -0.00043733 ...  0.01886317  0.00826327
+  0.009247  ]",Lokuzuza loku lokungakendluleli kukhomba kutsi umnotfo wakitsi usatawuhlala usebenta ngemandla nekutsi kungenelela lokufana neLuhlelo Lekwakha Kabusha Nelekuvuselela Umnotfo lutfola emandl Ikhabhinethi yenta lubito kuwonkhewonkhe kutsi kusekelwe emabhizinisi asekhaya netimboni ngekutsenga imikhicito netinsita talapha ekhay,These moderate gains show that our economy remains robust and that interventions such as the Economic Reconstruction and Recovery Plan are gaining momentu Cabinet calls on everyone to support local businesses and industries by buying local products and service,0.9002547
+"[ 0.45442832 -0.06981355 -0.00587626 ...  0.82577926  1.4613714
+  1.5074376 ]","[ 0.00888147 -0.00269977 -0.00050193 ...  0.02660366  0.04312323
+  0.01877312]",Ikhabhinethi iyasamukela futsi lesincumo se-ejensi yekulinganisa emazinga i-S&P Global sekubuyeketa simo seNingizimu Afrika sekukweleta,Cabinet also welcomed the decision by the rating agency S&P Global to revise South Africa's credit rating outlook,0.83144605
+[0.74198824 0.1668954  0.08957598 ... 0.45837614 1.1289501  1.1982998 ],"[ 0.03048041 -0.00334966  0.0005892  ...  0.01930729  0.02983944
+  0.03654599]",kusuka kulesinekusimama kuya kulesihle kakhul Le-ejensi yekulinganisa emazinga futsi icinisekisile kutsi lesimo semazinga ekukweleta esikhatsi lesidze semali yasekhaya neyemave angaphandle sihlala siku-BB minus naku-BB ngekulandzelana kwaw,from stable to positiv Rating agency also affirmed the long-term foreign and local currency debt ratings at BB minus and BB respectivel,0.8594731
+"[ 0.06033711 -0.39703307 -0.11048049 ... -0.07386623 -0.33282942
+  0.478055  ]","[ 0.00668259 -0.00304642 -0.00204783 ... -0.00464316 -0.00610534
+  0.00280948]",Tindleko tekuphila,Cost of living,0.902482
+"[ 0.9010687  -0.01239786  0.10910994 ...  0.9446261   0.93477476
+  1.1295465 ]",[0.02545343 0.0128979  0.00553856 ... 0.01752177 0.02596714 0.03440845],"Bhubhane Weligciwane Lekhorona (i-COVID-19) kanye nalokungcubutana lokuchubekako kwemave emhlaba kube nemtselela lomubi kutindleko tekuphila emhlabeni wonkh Bantfu baseNingizimu Afrika nabo bakhatsatekile ngalokwenyuka kwetindleko temafutsa etigitjelwa, tekudla netetintfo letimcok","The Coronavirus Disease (COVID-19) pandemic and the ongoing global conflict have had a severe impact on the cost of living worldwid South Africans too are frustrated by rising prices of fuel, food and essential",0.89493203
+"[ 0.17680274 -0.27091104 -0.31075242 ...  1.0706935   0.86095613
+  0.32973155]","[ 0.01773819 -0.00058414 -0.00010534 ...  0.03722328  0.03490014
+  0.01506586]","Kufuneka sonkhe sibambisane, sisitane futsi sivikele tinsita takitsi kulesikhatsi lesimatim Hulumende wenta konkhe lokusemandleni kunika lusito kuwo wonkhe umuntfu, kakhulu kulabo labaphuyil","We all need to pull together, help each other and save our resources in this difficult tim Government is doing everything in its power to provide relief for everyone, especially the poo",0.84683454
+"[ 0.8592997  -0.10515997  0.27882206 ...  0.7647699   0.98873323
+  0.9578744 ]","[ 0.03107679 -0.00098559  0.00647342 ...  0.00318792  0.02012787
+  0.03225278]","Libhangengodla lakitsi LaseNingizimu Afrika lelisebenta kahle, lelinemandla nalelitimele liyancedza kuvikela ummango kulokucekelwa phansi kwekwehla kwemandla emali ngekuwagcina angekhatsi kwebubanti lobuncane lobuhlosiwe; lobungaphasi kakhulu kulabo lobentekako ngalesikhatsi kulamanye emav","Our well-functioning, strong and independent South African Reserve Bank is helping to shield society from the ravages of inflation by keeping it within a narrow target range; well below what many other countries are currently experiencin",0.86700153
+"[ 1.2595392  -0.01359821 -0.09353936 ...  0.76791096  0.7576562
+  0.8639651 ]","[ 0.05125615 -0.00014645 -0.00045572 ...  0.02129852  0.03003675
+  0.00320792]",Ikhabhinethi iyasamukela sincumo Semgcinimfa Wavelonkhe sekungeta sikhatsi lesibekiwe sekunciphisa Intsela Yephethilomu Jikelele (i-GFL).,Cabinet welcomed the decision by National Treasury to grant an extension of the reduction in the General Fuel Levy (GFL).,0.83665377
+"[ 1.3991532  -0.20479013  0.6317749  ...  0.92489105  1.3884056
+  3.744174  ]","[ 0.02554516 -0.00201953  0.01615076 ...  0.02600134  0.03295687
+  0.07741516]","Le-GFL yancishiswa nge-R ilitha enyangeni yaMabasa neyeNkhwekhweti, futsi itawuchubeka yelulwe kusuka mhla lu-1 Inhlaba kuya kumhla ti-6 Kholwane 2022.","The GFL was cut by R a litre for April and May, and will be further extended from 1 June to 6 July 2022.",0.8611805
+"[ 0.76997936 -0.0502644  -0.03831528 ...  0.54210526  1.302209
+  1.2824193 ]","[ 0.00868454 -0.00153575  0.0051687  ... -0.00143754  0.02816545
+  0.02644545]","Ikhabhinethi futsi isamukele sincumo Sekhomishini Yetekucudzelana sekuhlala icaphele kakhulu tindleko tetintfo letitsatfwa njengekudla lokumcoka, kakhulu sibonelelo sekutsi emabhizinisi kufuneka anikete bufakazi lobuvakalako bekwenyusa tindlek 3.","Cabinet also welcomed the decision of the Competition Commission to closely monitor prices of essential food items, particularly the provision that businesses should justify their price increases",0.8202446
+"[ 0.47916073 -0.10680652 -0.06886081 ...  1.1024953   1.2756268
+  0.6198977 ]","[-0.00549526  0.00379254  0.00285634 ...  0.02767981  0.02145511
+  0.0109286 ]",Umhlangano Wetemabhizinisi emkhatsini kweJapan neNingizimu Afrika,Japan-South Africa Business Forum,0.78437066
+"[ 0.63617873  0.12606205 -0.17549269 ...  1.1291239   1.2495176
+  0.66766274]",[0.00735703 0.00135665 0.00010102 ... 0.02526832 0.02739879 0.00780416],"Ikhabhinethi iyamukele lemiphumela yakamuva Yemhlangano Wetemabhizinisi emkhatsini kweJapan neNingizimu Afrika, lovumelene ngeluhlelo lwemsebenti lolunemandla lolufaka kusebentisana ekukhuliseni umnotfo ngekusebentisa emandla lahlantekile, buchwepheshe betimoto tagezi kanye neyehayidrojini lehlantekil","Cabinet welcomed the outcomes of the recent Japan-South Africa Business Forum, which agreed to an ambitious work programme that includes collaboration on green industrialisation, electric vehicle technologies and green hydroge",0.8778397
+"[ 0.38652173 -0.3086787  -0.24514239 ...  0.23613642  0.3560891
+  0.7468888 ]","[ 0.00794717 -0.00292504  0.0009561  ... -0.00298898  0.00533257
+  0.01066942]",Lomhlangano futsi uvumelene kutsi kube,The forum also agreed to a virtual,0.67250454
+"[ 0.11866698 -0.4572737   0.06734516 ... -0.1553352  -0.0132174
+  0.01557565]","[ 0.00733842  0.00035684 -0.0007631  ... -0.00269579  0.00484391
+  0.00118707]",nembukiso,Energy,0.78177893
+"[ 0.7538177  -0.12047216  0.13296923 ...  0.9698944   1.190759
+  0.45807803]","[ 0.00589433 -0.00045786 -0.00012349 ...  0.06160802  0.01915145
+  0.01551533]","we-inthanethi lotawuveta ematfuba eNingizmu Afrika kumabhizinisi lamanyenti aseJapan, kutfutfukiswa kwemakhono kulemboni yetetigitjelwa yalapha ekhaya, kumikhakha leyehlukene yetematfuba ekukhicita kanye nekutsi kube nekuniketana ngemakhon","to highlight South African opportunities to more Japanese businesses, skills development in the local auto industry, work streams on manufacturing opportunities and the exchange of technical experience",0.8664005
+"[ 1.0134044  -0.1860734   0.31375483 ...  0.9331462   1.7105637
+  0.75399166]","[ 0.01001388 -0.00064414  0.00065145 ...  0.02382084  0.02932802
+  0.04377371]","I-Japan ingulabanye bebalingani betfu labamcoka kakhulu kutekutsengiselana futsi ihamba embili ekutjaleni timali kumikhakha leminengi yaseNingizimu Afrika, lehlukahlukene lesukela kuyetetigitjelwa iye kutemishini yasetimayini lehamba embili, nalesuka kumabhizinisi etekulima kuya kuwetetinsita tetimal","Japan is one of our most important trade partners and a leading investor in a number of South African sectors, ranging from automobiles to advanced mining machinery, and from agribusiness to financial service",0.88059765
+"[ 0.74125826 -0.01144581  0.16676031 ...  0.98586607  0.6328368
+  1.2799226 ]",[0.01638846 0.00116446 0.00852535 ... 0.05211652 0.02835922 0.03709159],"Ikhabhinethi iphindze yamukela lokusungulwa kweNethiwekhi Yalabamnyama Yekutsengisela Emave Angaphandle lokucalwe Litiko Letekutsengiselana, Letimboni Nelekucudzelana (i-DTIC), kute kuhlanganiswe timboni tebantfu labamnyama lekungunyalo titsengisela emave emhlaba imphahla leyentiwe lapha ekhay Lenethiwekhi itawenta kutsi kube nekwabelana ngelwatiso, ngesipiliyoni kanye nengendlela yekwati kwenta tintfo, futsi yenta loku ikususela kulemphumelelo yaLoluhlelo Lwetimboni Tebantfu Labamnyama","Cabinet also welcomed the establishment of the Black Exporters Network by the Department of Trade, Industry and Competition (the dtic), to bring together black-owned firms which are currently exporting locally made goods to other parts of the worl The network will enable the sharing of information, experience and know-how, and it builds on the successes of the Black industrialist Programm 4.",0.8692651
+"[ 0.29139867 -0.37783524 -0.04087286 ...  0.04773244  0.2424718
+ -0.07281625]","[ 6.4642555e-03 -1.8752392e-04  2.7473937e-04 ... -2.1268430e-03
+ -2.3245756e-03  3.2759301e-05]",Temandla,Floods,0.68792605
+"[ 0.6466673  -0.06017931  0.18157199 ...  1.14655     0.9467043
+  1.6421959 ]","[ 3.6536664e-02 -1.7279490e-05 -2.0840095e-04 ...  2.5237685e-02
+  3.0678932e-02  3.9648738e-02]",Indlela yetfu yesikhatsi lesidze yekuvikela neyekutfola emandla itfole kusekelwa lokukhulu kulandzela lokuniketwa kwe-Unit 4 Esiteshini Setemandla Ikusile Empumalang Lokuniketwa kwaleyunithi kungulenye inchophamlandvo yemitamo ye-Eskom yekusimamisa luhlelo lwetemandla futsi kutawengeta emamegawatsi (MW) la-8000 kulegridi yagezi wavelonkh,Our long-term energy security has been given a massive boost following the commercial handover of Unit 4 at the Kusile Power Station in Mpumalang This handover marks another milestone in Eskom s efforts to stabilise the power system and will add 800 megawatts (MW) to the power gri,0.8572858
+"[ 2.653798   -0.07501876  1.6082503  ...  0.4501338   1.215049
+  1.2389715 ]",[0.04738461 0.00032172 0.02280981 ... 0.0021562  0.05427351 0.02642011],Ikhabhinethi iyabonga kutsi kwakhiwa kwemayunithi ekukhicita gezi lamane kulasitfupha sekuphotfuliwe kulomklamo waleSiteshi Semandla iKusil,Cabinet noted that the construction of four out of the six generation units had been completed at the Kusile Power Station projec,0.85760665
+"[ 0.8923037  -0.08204762 -0.13752782 ...  1.221159    1.2323589
+  1.4239777 ]","[-0.00059282 -0.00224937  0.00470962 ...  0.01459356  0.03597451
+  0.02501816]","Ikhabhinethi iyakwamukela lokungetwa kwalamanye emandla ekukhicita lamasha kulegridi, lokubangwe ngilesincumo sekuvumela bakhiciti labatimele kutsi bakhicite gez Hulumende usandza kusayina sivumelwano sekutsenga emandla la-150MW kumkhiciti losebentisa tindlela letehlukahlukene tekukhicita gezi, i-Scatec AS 5.","Cabinet welcomed the addition of new generation capacity to the grid, which was made possible by the decision to allow independent power producers to produce electricit Government recently signed an agreement to buy 150 MW of capacity from a renewable power producer, Scatec ASA",0.88303816
+"[ 0.6245048  -0.22669998 -0.19990075 ...  0.84889185  1.6090188
+  0.3684184 ]","[ 0.01005649 -0.00065285 -0.00213877 ...  0.03204647  0.0268102
+  0.00776611]",Umkhandlu Wekululeka Ngekunika Emandla Langetiwe Etemnotfo Ebantfwini Labamnyama,Broad-Based Black Economic Empowerment (B-BBEE) Advisory Council,0.6983197
+"[ 2.302496   -0.07207452 -0.34940907 ...  1.0034212   1.2214686
+  0.8565609 ]","[ 0.05461759 -0.00027099 -0.00034272 ...  0.03434983  0.03588589
+  0.01347332]",Ikhabhinethi iyakwamukela lokukhetfwa KweMkhandlu Lomusha Wekululeka We-B-BBEE nguMengameli Cyril Ramaphos,Cabinet welcomed the appointment by President Cyril Ramaphosa of the country s new B-BBEE Advisory Counci,0.8570652
+"[ 9.4497836e-01 -6.3050917e-04 -4.2273879e-01 ...  1.3266990e+00
+  6.1212331e-01  9.0270430e-01]","[ 0.01742542 -0.00032507  0.00024802 ...  0.01463761  0.0219005
+  0.02521678]","Lomkhandlu wakhiwe licembu lebantfu labavela kumabhizinisi lahlukahlukene, kutinyonyana, kutinhlangano temmango letitimele nakumkhakha wetifundziswa, lotawusebenta kweluleka hulumende mayelana nekugucula simo semnotf","The council comprises a diverse group of people from business, trade unions, community-based organisations and academia, who will be responsible for guiding government on the transformation of the econom",0.8735386
+"[ 0.5237598   0.3291884  -0.10136591 ...  1.1930655   2.0877233
+  0.29191372]","[3.0342257e-03 9.6566981e-04 8.7374487e-05 ... 1.7708305e-02 3.5823368e-02
+ 2.3971938e-03]","Nanoma kube nemsebenti lomkhulu lowentiwe ekubuyiseleni emuva kudvukiswa kutemnotfo kwelubandlululo, mkhulu umsebenti lekusafuneka wentiwe kute kukhuliswe kuphatsa kwebantfu labamnyama, kwengeta kutfutfukiswa kwemakhono nekukhulisa litfuba lenchubo yekutsenga nekutsengiselana kute kunikwe bomake labamnyama nelusha ematfuba","While there has been remarkable progress in reversing apartheid s distortions on the economy, more work still needs to be done in increasing black management control, upscaling skills development and broadening procurement to give opportunities to black women and the youth",0.88729525
+"[ 0.7155424  -0.47706714 -0.14898315 ... -0.24329247  0.2488283
+  0.05772368]","[ 0.00087922 -0.00293596 -0.00018836 ... -0.0008372   0.00261741
+  0.00048557]",Tikhukhula,The arrests,0.712546
+"[ 0.9939898  -0.22609833 -0.16690814 ...  0.93901134  0.85428804
+  0.56375116]","[ 0.01143531  0.00047882 -0.00057716 ...  0.0209676   0.01195733
+  0.00146031]",Imitamo lechubekako yahulumende yekunika lusito etifundzeni letitsintsekile mayelana neletikhukhula yenta mtselela lomcok,"Ongoing government relief efforts in the provinces affected by the recent devastating floods are making a significant impac Government has prioritised the provision of food, water and shelter for displaced people and the repair of damaged infrastructur Extensive work is underway to restore basic services such as water, electricity, sanitation and waste remova",0.7077636
+"[ 0.98087746 -0.10822561 -0.06453326 ...  1.0299774   1.6412866
+  0.6660917 ]","[ 0.03008017 -0.00090954  0.00055845 ...  0.03202281  0.03018338
+  0.02558191]","Hulumende ucalise embili kuniketa kudla, emanti nendzawo yekuhlala ebantfwini labasusiwe etindzaweni tabo kanye nekulungiswa kwesakhiwonchanti lesimoshakel Umsebenti lomkhulu wekubuyisela tinsita letisisekelo letifana nemanti, nagezi, netekutfutfwa kwendle netibi uyachubek","health and community care, food and nutrition support like soup kitchens, promotion of literacy, greening and climate change mitigation programmes as well as",0.7839287
+"[ 0.48372906 -0.24554308  0.03663918 ...  0.49724534  0.8586666
+  0.03602383]","[ 0.01662469 -0.00173908  0.00546842 ...  0.01778573  0.01575198
+  0.01344345]",Kusetjentiswe tigidzi letilinganiselwa ku-R187 kuLuhlelo Lwekutfutfukisa Tindzawo Temikhukhu loluhlose kutfutfukisa lizinga lemphilo yebantfu labahlala etindzaweni temikhukh,"About R189, 217 million is being used for the Upgrading of the Informal Settlements Programme aimed at improving the quality of life of informal settlement dweller",0.7732246
+"[ 0.58617693 -0.3120942  -0.14513792 ...  1.174226    0.18149187
+  0.63683397]","[ 0.0127497   0.0016056  -0.00010145 ...  0.02526551  0.00793322
+  0.01489835]",Kunetigidzi leti-R736 letingetiwe letiniketwe ngekusebentisa Sibonelelo Sekutfutfukisa SeLitiko Lekuhlaliswa Kwebantfu kute tisite ekwakheni tindzawo tekuhlala letisimeme naletihlanganisa wonkhe umuntf,"An additional R733, 086 million has been allocated through the Human Settlements Development Grant to assist in the creation of sustainable and integrated human settlement",0.7820804
+"[ 0.62076455 -0.12549308 -0.09155316 ...  1.3076427   1.0946018
+  1.3282437 ]",[0.01777993 0.00272412 0.00586115 ... 0.02118476 0.0206471  0.01349842],"Ikhabhinethi iyalwamukela lolusito loluvela kuHulumende waseQatar lolufana nekudla, timphahla, emajeneretha, kokuhlanta emanti, emaventhiletha, emathende kanye nemits Lomnikelo utawusita kwesikhashana bantfu labangetulu kwe-4 000 labahlaliswe etikhungweni tekunakekela ummang Ikhabhinethi futsi iyalamukela lusito lwebuntfu loluvela ku-United Arab Emirates (i-UAE) lolufana nekudla nemanti kute kusitakale bantfu labantsintsekile kuletikhukhula letisandza kwentek 7.","Cabinet welcomed the humanitarian aid from the State of Qatar in the form of foodstuff, clothing, generators, water purifiers, ventilators, tents and medical supplie The donation will benefit over 4 000 citizens temporarily housed in community care centre Cabinet also welcomed the humanitarian aid from the United Arab Emirates (UAE) in the form of foodstuff and water to assist victims of the recent floods",0.90601534
+"[ 0.3703836   0.4788718  -0.19211231 ...  0.27377728 -0.17198686
+ -0.08227316]","[ 0.00837138 -0.0001883   0.00346016 ...  0.00609273  0.00722318
+ -0.00135945]",Kusungulwa Kwesikhwama Sekutfutfukisa Temisebenti,and youth support initiative,0.75770104
+[0.22686629 0.86758727 0.04598079 ... 1.5720425  0.9568237  0.5440849 ],[0.00990081 0.00032324 0.01455645 ... 0.04567759 0.01704577 0.01734414],Ikhabhinethi iyakwamukela kusungulwa Kwesikhwama Sekutfutfukisa Temisebenti lesicalwe Yinhlangano Yekutfutfukisa Timboni (i-IDC) ngekubambisana nelihhovisi laMengameli ne-DTI Lokwesekelwa kutawuvula ematfuba emisebenti ebantfwini labasha labangafika ku-50 000 kumisebenti lebalulekile leyenteka kumimango yendzaw,Launch of Social Development Fund Cabinet welcomed the launch of the Social Employment Fund by the Industrial Development Corporation (IDC) in partnership with the Presidency and the dti The support will provide bridging employment opportunities for up to 50 000 young persons in socially-useful work being done in local communitie,0.8602844
+"[ 0.66344327  0.01417356 -0.18322913 ...  0.6770328   1.354677
+  0.8931996 ]",[0.02100112 0.00266736 0.00566452 ... 0.03817469 0.01989707 0.01380761],"Lokwesekelwa kutawufaka temphilo netekunakekelwa kwemmango, kudla kanye nekusekelwa ngetindlela tekuniketa kudla lokunemphilo letifana nemakhishi emasobho, ngekugcugcutela kufundza nekubhala, ngekulandzela tinhlelo tekungenelela letimayelana nekugucugucuka kwesimo selitulu netekuphila ngendlela lengabulali indalo kanye nangekuta netindlela tekusekelwa kwelush Lesikhwama sitawusekela imimango le-26 kanye netinhlangano letitimele letingenti inzuzo","Some of the disruptions include the supply of energy and rail services due to vandalised rail track They impose additional transport costs on commuters due to disrupted commuter transpor Vandalised and unsecured electricity cables pose a safety risks to communities, especially childre",0.7548845
+"[ 1.1240603   3.7070916   0.10308807 ...  0.4916391   0.91206664
+ -0.57379323]","[ 0.02503362  0.10519361 -0.00013808 ...  0.01165187  0.02056775
+ -0.00120098]",Bugebengu nenkhohlakalo,Crime and corruption,0.9248808
+"[ 0.60403836  1.6462414  -0.14662617 ...  1.1757381   0.9482531
+  1.7864598 ]",[0.02085822 0.01553846 0.01553888 ... 0.04114833 0.01419414 0.03887873],"Ikhabhinethi iyakwamukela lokuboshwa kwebantfu labahlukahlukene mayelana nekukhohlisa nekukhwabanisa imali kanye nangekwenta inkhohlakal Loku kufaka ekhatsi basebenti baphambilini labebasetikhundleni letisetulu nalabo bebasebentela tinkhapani tahulumende, labanye babo babukene nemacala ekuphula Umtsetfo Wekuphatfwa Kwetimali Tahulumende, wemnyaka we-1999 (Umtsetfo we-1 wemnyaka we-1999).","Cabinet welcomed the arrest of several individuals in connection with fraud, money laundering and corruptio These include former high ranking state and parastatal employees, some of whom face charges relating to the contravention of the Public Finance Management Act, 1999 (Act 1 of 1999).",0.8834715
+"[ 0.2762543   0.13428646 -0.25328797 ... -0.1353452   0.17176783
+ -0.00333013]","[ 0.00522937 -0.0004055   0.00503353 ...  0.00355145  0.00444866
+  0.00365628]",Lokuboshwa loku,The support will include,0.6214287
+"[ 0.69677496 -0.12458511 -0.24749488 ...  1.1354791   0.5017854
+  0.7170783 ]","[ 0.0176389   0.00259172 -0.00015226 ...  0.01603796  0.03554568
+  0.02237441]",lokufaka ekhatsi sisebenti SeLitiko Letasekhaya kuSikhungo Sekwamukela Tifikanemtfwalo,which include that of a Home Affairs official at the Desmond Tutu Refugee Reception Centre in Pretoria who allegedly accepted a bribe from a foreign national,0.701066
+"[ 0.7772877   0.79023075 -0.36090922 ...  0.25874022  0.5611177
+  0.88838506]","[-0.00051821  0.00216268  0.00435863 ...  0.0335329   0.02740272
+  0.02488798]",i-Desmond Tutu ePretoria lesisolwa ngekugwazelwa ngumuntfu lomchamuki,"Cabinet assured South Africans that our health authorities are on high alert to monitor and prevent Monkeypox disease, following its outbreak in several non-endemic countrie Although no positive case has so far been detected or reported in South Africa, health authorities in the country continue to monitor the situation very closel",0.63412404
+"[ 1.4018489   0.10605995 -0.23466592 ...  1.280256    1.119387
+  0.49829814]","[ 1.3999197e-02 -4.0313014e-04 -3.6140638e-05 ...  4.3239497e-02
+  6.3144541e-03  1.8242666e-02]",kuletsa bufakazi bekutsi akekho umuntfu longetulu kwemtsetfo nekutsi kute indzawo yebasebenti labangakatsembeki kumkhakha wahulumend,bear testimony to the fact that no one is above the law and that there is no space for dishonest employees in the public secto,0.853376
+"[ 0.45635453  1.8263236  -0.19257632 ...  0.5316265   1.321002
+  0.556975  ]","[ 0.02543589  0.05828805 -0.00016146 ...  0.02845876  0.029038
+  0.0169825 ]","Ikhabhinethi iyawamukela futsi umsebenti lochubekako wekuletfwa eNingizimu Afrika letelamani temajaha takaGupta, Rajesh na-Atu Loku kulandzela kuboshwa kwabo lokusandza kwenteka eDubai endzaweni yase-UAE emva kwekutsi Inhlangano Yemhlaba Yemaphoyisa Etebugebengu (i-Interpol) ikhiphe sicwayis Letelamani leti tiyafunwa eNingizimu Afrika mayelana netinsolo tekubandzakanyeka kulokubamba umbuso ngabhongwane, lokufaka ekhatsi kukhohlisa nekushushumbisa imal Kuyachubeka kucocisana emkhatsini kwema-ejensi etemtsetfo ase-UAE newaseNingizimu Afrika kute baletfwe kuleliv Kuboshwa kwabo kukhomba kutibophelela kwahulumende ekulweni nebugebengu nenkhohlakalo ngaphandle kwekutsatsa luhlangotsi nangekungesab","Cabinet also welcomed the progress being made on the extradition of the Gupta brothers, Rajesh and Atul, back to South Afric This follows their recent arrest at Dubai in the UAE after the International Criminal Police Organisation (Interpol) had issued red notice The brothers are wanted in South Africa in connection with their alleged role in state capture, including fraud and money launderin Discussions between law-enforcement agencies in the UAE and South Africa on their extradition are underwa Their arrest demonstrates government s determination to fight crime and corruption without fear or favou",0.89603317
+"[ 0.5002282   1.9262863  -0.00563507 ...  0.6651768   0.693821
+  1.0963489 ]",[0.0237982  0.01963162 0.00327578 ... 0.01542302 0.03762538 0.03790711],Lokuboshwa kwabo kukhombisa kutsi tinhlelo netinchubo tisebenta kahle kakhulu ekwenteni labo labagangako baphendvule kuletigameko tabo tebugebengu lobesabekako nekucinisekisa kutsi kute umuntfu longetulu kwemtsetf,These arrests demonstrate that processes and mechanisms are working effectively to hold perpetrators accountable for their heinous actions and ensure that no one is above the la,0.86883736
+[0.8229501  0.6143909  0.35318306 ... 1.0438259  0.9500186  1.7664564 ],[0.03422856 0.0074344  0.00072461 ... 0.03180891 0.01852993 0.05684388],Ikhabhinethi iyayigceka lemitamo lesebaleni yekucekela phasi umnotfo nelive lakitsi kulandzela lokulinyatwa kwekhebuli kuYunithi 1 ye-Eskom Esiteshini iMatla eMpumalang Lesi bekusigameko sesine setinsolo tekucekela phasi titeshi takitsi tagezi emva kwekutsi kube naletinye tigameko letifana naleti etiteshini letintsatfu kulamaviki lamatsatfu lengcil,Cabinet condemned the blatant attempt to undermine our economy and country following the malicious damage to a cable at Unit 1 of Eskom's Matla Power Station in Mpumalang This was the fourth incident of suspected sabotage at a power station after similar incidents were reported at three other power stations in the past few week,0.86399853
+"[ 0.913605    2.7936044  -0.07955687 ...  0.3162408   0.36884543
+  1.310329  ]","[1.6837504e-02 7.4919425e-02 9.6210759e-05 ... 2.6411036e-02 1.2607183e-02
+ 3.5811014e-02]",Letibalobalo takamuva tebugebengu tikhomba kutsi kufuneka sente kancono njengemmango kute sicinisekise kutsi imimmango yetfu iphephil Loku kusikhumbuta kutsi kunciphisa bugebengu kungumsebenti wemmango wonkhe nekutsi sonkhe,The recent crime statistics are a reflection that we must do more as a society to make our communities safe This reality reminds us that reducing crime is a societal responsibility and that all of us,0.861429
+"[ 0.6403442   0.32611474 -0.23429503 ...  0.74455935  1.2383902
+  0.5717213 ]","[ 0.01200533  0.01480776 -0.00122687 ...  0.023629    0.00769638
+  0.02795404]","lokufaka ekhatsi emaphoyisa, baholi betepolitiki, imimmango, imindeni, bosomabhizinisi, basebenti kanye netinhlangano temmango","including the police, political leaders, communities, families, business people, workers and civil society",0.9135989
+"[-0.24158835 -0.91262203  0.24966142 ... -0.08148052  0.56510186
+  0.31271654]",[0.02716412 0.08652949 0.01337483 ... 0.00238738 0.00353598 0.00751425],kufuneka sidlale indzima yetf,should play our part in fighting crim,0.53437555
+[0.6539281  2.3525324  0.45059755 ... 0.61271256 0.89317334 1.8129575 ],[0.01723312 0.05813941 0.01362928 ... 0.00570986 0.03425214 0.02087006],"Ikhabhinethi inekutetsemba lokukhulu kutsi imali leyengetwe Yindvuna Yetemaphoyisa yacondziswa kutiteshi temaphoyisa letinemazinga lasetulu ekubulala, ekudlengula kanye nalamanye emacala lanebudlova itawusita kugucula simo bese kuba nemimmango lephephil 9.","Cabinet is confident that the additional funds that have been prioritised by the Ministry of Police for the police stations with a high number of murders, rapes and other violent crime will help turn the tide and create safer communities for all",0.84972465
+[1.104373   0.01649228 0.001763   ... 0.5920793  0.47125968 1.0427357 ],"[ 2.5506796e-02 -2.1944370e-03 -8.6343563e-05 ...  1.1683712e-02
+  5.7555991e-03  2.8980311e-02]",Takamuva nge-COVID-19,Update on COVID-19,0.8544042
+"[ 0.7711758   0.09869483 -0.19696996 ...  0.77608794  0.9622377
+  1.0860806 ]",[0.02127462 0.00212638 0.00047574 ... 0.01342175 0.02702142 0.00316381],"Ikhabhinethi ikhumbuta wonkhe umuntfu kutsi i-COVID-19 iyakapheli futsi bungoti bekutseleleka kabusha butawenyuka ngesikhatsi sasebusik Kufuneka sichubeke kulandzela tonkhe tindlela tekutivikela netekuvikela labanye bantf Loku kufaka ekhatsi kuhlala sigeza tandla noma sisebentisa sibulalimagciwane, kufaka sifonyo uma sisendzaweni levalekile, sihlale ngekuchelelana, sivule emafasitelo kute kungene umoya nekutsi sigom","Cabinet reminded everyone that COVID-19 has not been eradicated and the risks of new infections will increase during the winter seaso We must continue to take all the necessary precautions to safeguard ourselves and other peopl They include washing or sanitising hands regularly, wearing a mask when indoors, keeping a safe social distance, opening windows for ventilation and vaccinatin",0.90267104
+"[ 0.09386486 -0.4059224  -0.31295103 ...  0.5442225   0.1969007
+  1.0875624 ]","[ 6.8875812e-03 -2.5572134e-03 -7.5802978e-05 ...  9.6423859e-03
+  7.7401651e-03  4.3994769e-02]",Umhlangano weLubumbano Lwemave Ase-Afrika1,African Union (AU) Summit1,0.82070905
+"[ 1.1253753  -0.15227248  0.32298067 ...  1.3052113   2.5807621
+  2.0806136 ]",[0.01889972 0.03341405 0.01230079 ... 0.03401792 0.06962003 0.04310594],"Ikhabhinethi iyasamukela lesimemetelo, titsembiso nekutibophelela letitsetfwe Emhlanganweni We-AU Longakavami Wetekuvukela Umbuso Newetingucuko Letingekho KuMtsetfosisekelo e-Afrika lobewubanjelwe eMalabo, eRiphabhlikhi Yase-Equitorial Guinea, NgeMgcibelo, ti-28 Inkhwekhweti 2022.","Cabinet welcomed the declaration, pledges and commitments adopted at the AU s Extraordinary Summit on Terrorism and Unconstitutional Changes in Africa held in Malabo, Republic of Equatorial Guinea, on Saturday, 28 May 202",0.87006104
+"[ 0.5139139   0.9118125  -0.08672557 ...  0.4011778   1.0090753
+  0.99060696]","[ 5.7229325e-03  2.6402656e-02 -6.1675761e-05 ...  2.3346994e-02
+  2.4082359e-02  3.2643054e-02]","Baholi bemave ase-Afrika benta luhlolo kulobungoti lobuhlala bukhona, babuke tindlela tekuphendvula takamuva netekutibophelela kute kukhuliswe kuvikeleka lokuhlangene kwetive letimalunga nebuphekula kanye nekuvukela umbus","African leaders assessed the persistent threats, evaluated current response mechanisms and committed to strengthening the collective security of member states facing terrorism and violent extremis",0.84937394
+"[ 4.0788105e-01 -4.8265007e-04 -9.6816696e-02 ...  3.5364795e-01
+  1.9087251e-01  1.1463400e+00]","[ 0.00731394  0.0031625  -0.00032141 ...  0.00026925  0.0017976
+  0.02689575]",Sifo se-Monkeypox1,Monkeypox disease1,0.89657724
+[0.5544299  0.06394744 0.04188788 ... 0.7286913  1.1173517  0.88684297],"[ 0.01768464  0.01044213 -0.00019431 ...  0.03104496  0.00264368
+  0.03164157]","Ikhabhinethi icinisekise bantfu baseNingizimu Afrika kutsi baphatsi bakitsi betemphilo bahlala bacaphele kute babukisise futsi bavikele lesifo se-Monkeypox, kulandzela lokucubuka kwaso emaveni lengakavami kuba nalesif","Cabinet directed that the dtic should lead the consultations within a limited period, and solicit inputs from the public and relevant sectors on effective measures that government can implement to stop the vandalising of critical economic infrastructure Thereafter, Cabinet will pronounce on the approved measure",0.72985244
+"[ 0.21719006 -0.03795684  0.04552131 ...  0.33752975  0.6059943
+  0.9576308 ]",[0.01323783 0.03330219 0.00014526 ... 0.0499005  0.026096   0.0170914 ],"Nanoma kusete timphawu talesifo kute kube kunyalo noma letibikiwe eNingizimu Afrika, baphatsi betemphilo bayachubeka kugadza lesim","the UN Member States to collaborate in the use of modern, advanced technologies and concepts in UN-led field mission The symposium will be used as an information-sharing and brainstorming platform for UN member states involved in peacekeeping initiatives on the usage of the latest technologies in",0.6316942
+"[ 0.3397652  -0.18948531 -0.35856915 ...  0.5933987   0.2003286
+  0.44287997]","[ 0.00477536 -0.00268354 -0.0005673  ...  0.00377061 -0.00196931
+  0.00861324]",Sincumo Sekhabhinethi1.,Cabinet Decision1.,0.85288954
+"[ 1.0876856   0.33435127 -0.27987424 ...  0.338273    0.99832356
+  0.3383566 ]",[0.05295338 0.00149528 0.0005284  ... 0.01773349 0.0456984  0.01319974],Kutfola imiva yemmango mayelana netindlela tekubukana nekutsengiselana ngalokungekho emtsetfweni ngemfucuta leyinsimbi,Public consultation on measures to deal with illegal trading on scrap metal,0.78767514
+"[ 1.1765783   0.6660393  -0.17114323 ...  1.386545    0.6591407
+  0.81664246]","[ 0.04315508  0.0162756  -0.00029288 ...  0.04981435  0.00421782
+  0.03040302]",Ikhabhinethi ivumile kutsi kube nekucocisana nemmango mayelana netiphakamiso letitsetfwe tekucedza kutsengiselana ngemfucuta ngalokungekho emtsetfweni nangeletinye tintfo letentiwe ngensimb Kwebiwa kwemfucuta yensimbi nekwekhebuli yekhopha lokwenteka kusakhiwonchanti sahulumende kuvimbela kusebenta kahle kwemnotfo ngoba kuphoca kutsi kwenyuke tindlek,Cabinet approved that public consultations be undertaken on proposals to restrict the trade of illegally obtained scrap and processed metal The theft of scrap metal and copper cable from public infrastructure hinders the performance of the economy by imposing enormous cost,0.862504
+"[ 0.75492364 -0.04001155 -0.02130092 ...  1.0576544   0.8091226
+  0.79294324]","[ 4.1710786e-03 -1.7426418e-03 -8.3663639e-05 ...  3.1156790e-02
+  3.8681056e-02  3.7344076e-02]","Letinye tintfo letiphatamisako tifaka kuphakelwa kwemandla kanye nekwetinsita tetitimela ngenca yekucekela phasi kwemizila yetitimel Kubanga kutsi kuphoceleke kwenyusa tindleko tetigitjelwa ngenca yekuphatimeseka kwetigitjelwa temmang Kucekela phasi imphahla kanye nemakhebuli agezi langakavikeleki kubanga nebungoti emmangweni, kakhulu ebantfwanen",The event is used to promote artisan skills as a viable career choice as well as to open up potential partnerships with the industr It is also used to assess the levels of our apprenticeships and artisan development in addition to advocating for the uptake of artisan careers as careers of the first choice by our student,0.7317459
+"[ 0.58872634  0.18939096 -0.09437551 ...  0.7928861   1.1554458
+  0.71126497]","[ 0.03936584 -0.0005159  -0.0010218  ...  0.0479823   0.07397662
+  0.01664082]","Ikhabhinethi inikete i-DTIC umyalo wekutsi ihole loluhlelo lwekucocisana ngesikhatsi lesincane lesibekiwe, kute itfole imibono yemmango neyalabange balingani labakulomkhaka mayelana netindlela letikahle hulumende langatisebentisa kucedza kucekelwa phansi kwemphahla yesakhiwonchanti lesibucay Emva kwaloko, iKhabhinethi itawumemetela tindlela letivumile letitawulandzelw",Condolences Cabinet joined President Ramaphosa in extending condolences to the Royal Family and nation of the amaMpondo Kingdom following the passing of His Majesty King Zanozuko Tyelovuyo Sigcau (Ah Zanozuko!).,0.7087289
+"[ 0.23267297 -0.36472958 -0.05805032 ...  0.0063216   0.03393386
+  0.6264457 ]","[-0.00130068  0.00138589 -0.000487   ... -0.00196136 -0.00190788
+  0.02203241]",Imicimbi Letako 1.,Upcoming events1.,0.69780046
+"[ 0.3317472  -0.19896197 -0.4029797  ...  0.29749957  0.7614218
+  0.2176534 ]","[ 0.00968231 -0.00241173 -0.0001678  ...  0.01067897  0.01479232
+  0.02934412]",Umhlangano Welubambiswano Yelubumbano Lwemave Emhlaba (i-UN) Lomayelana Nebuchwepheshe Bekugcina Kuthula (i-PTPS),United Nations (UN) Partnership for Technology in Peacekeeping International Symposium (PTPS),0.78982896
+[0.7994163  0.86918646 0.23182963 ... 1.0049574  1.0177627  2.7527328 ],[0.01814139 0.02918503 0.01618987 ... 0.02324315 0.02435149 0.08604325],"INingizimu Afrika itawamukela tivakashi letitawubamba i-PTPS yesi-6 letawube ibanjelwe KuMkhandlu Weluphenyo Lwetesayensi Neletetimbono losePitoli kusuka ngaLesibili, mhla ti-21 kuya ngaLesihlanu, mhla ti-24 Inhlaba 2022.","South Africa will host the 6th PTPS at the Council for Scientific and Industrial Research in Pretoria from Tuesday, 21 to Friday, 24 June 2022.",0.8887312
+"[ 0.23812154 -0.5143273  -0.13941847 ...  0.4426774   0.5877773
+  0.59639895]","[ 0.00211327 -0.00164138 -0.00013605 ...  0.00680564 -0.00249218
+  0.01669444]",Kulindzeleke kutsi lomcimbi uhanjelwe malunga la-300 lavela emaveni la-50 lamalung,It is expected to be attended by 300 delegates from 50 member state,0.81323975
+"[ 0.3490403   0.10433205 -0.30230722 ...  1.3932555   0.67621255
+  0.9610678 ]","[ 5.7201578e-05 -5.0663314e-04  7.1917078e-04 ...  1.6951662e-02
+  1.2261794e-02  3.2361452e-02]","Lomhlangano uhlanganisa onkhe emaphoyisa asemasotjeni lanesifiso, emaphoyisa kanye netinhlangano temmango letivela Emaveni Lamalunga e-UN kute asebentisane mayelana nekusetjentiswa kwebuchwepheshe besimanje, nalobusezingeni nangendlela yemcondvo imisebenti leholwa yi-UN yenteka ngay Lomhlangano utawusetjentiswa njengendlela yekwabelana ngelwatiso nanjengenkhundla yekuhlanganisa imicondvo yemave lamalunga e-UN lasebenta ngetindlela tekuletsa kuthula uma kusetjentiswa buchwepheshe besimanje kumisebenti yayo yekuletsa kuthula","clearancMr Jacob Ganny Mbele as Director-General (DG) at the Department of Mineral Resources and Energ Ms Pumeza Nwabisa Nodada as Deputy DG: Forestry Management at the Department of Forestry, Fisheries and the EnvironmenMs Susan Mafanedza Masapu as Chief State Law Advisor in the Department of Justice and Constitutional Developmen Ms Doris Tshepe as Commissioner in the Competition Commissio Dr Alex Mahapa as full-time Special Advisor to the Acting Minister of Public Service and Administratio Adv Rams Ramashia as part-time Special Advisor to the Acting Minister of Public Service and Administratio",0.67905337
+"[ 1.3090323  -0.24454461  0.9224259  ...  1.1832017   1.7978079
+  1.0800438 ]","[ 0.02573299 -0.00044563 -0.00115665 ...  0.00414871  0.03910411
+  0.02253015]",Umcudzelwano Wesine Wavelonkhe Wemakhono Emhlaba Lobanjwa Njalo Eminyakeni Lemibili (i-WSZA),4th WorldSkills South Africa (WSZA) Biennial National Competition,0.7766922
+"[ 2.0046306  -0.1316506   0.42952314 ...  1.1594015   1.1065534
+  2.8861673 ]","[ 0.06160339 -0.00300627  0.01294175 ...  0.02511225  0.04054472
+  0.07226956]",I-WSZA yesine lebanjwa njalo eminyakeni lemibili itawubanjwa E-Nkosi Luthuli International Convention Centre Kwazuku Natali kusuka mhla ti-7 kuya kumhla ti-10 Inhlaba 2022 ngaphasi kwalesihloko:,The 4th WSZA Biennial National Competition is being held at the Inkosi Albert Luthuli International Convention Centre in KwaZulu-Natal from 7 to 10 June 2022 under the theme:,0.87738943
+"[ 0.42825657 -0.23304738 -0.1047275  ...  0.7492755   0.66400003
+  0.8588946 ]","[ 0.00126467 -0.00321019 -0.00017821 ...  0.00081076  0.03045743
+  0.0227547 ]",Kukhulisa Kukhicitwa Kwetingcweti Temakhono Temnyakakhulu we-21 .,Ratcheting up the Production of 21st Century Artisans .,0.84155107
+"[ 1.1972586   0.06073681 -0.22865315 ...  0.99505085  1.4689908
+  1.1393055 ]","[ 0.03270875 -0.00464393 -0.00310322 ... -0.00584853  0.01070124
+  0.02652257]",Lomcimbi usebenta kugcugcutela emakhono etingcweti njengemakhono longakhetsa kuwenta kanye nekuvula kusebentisana lokungahle kube khona kulembon Lomcimbi uphindze usentjentiselwe kuhlola emazinga eluhlelo lekufundzela umsebenti ngekusebenta nelekutfutfukisa tingcweti temakhono kute kugcugcutelwe kutsi umsebenti webungcweti bemakhono utsatfwe njengemisebenti lecala embili kutitjuden,AppointmentsAll appointments are subject to the verification of qualifications and the relevant,0.5881315
+"[ 0.13069466 -0.1816195  -0.25120977 ...  0.21676114 -0.03123972
+  0.46829885]","[-0.00036052 -0.00209602  0.00053322 ...  0.00096938  0.00766774
+  0.01163447]",Umlayeto1.,peacekeeping mission 2.,0.55527914
+"[ 1.8347545   1.1426654  -0.33803692 ...  1.4791403   2.5384288
+  0.36992112]","[ 0.00329851 -0.00284011 -0.00078677 ...  0.01607522  0.03243843
+ -0.00025569]",Emavi ekudvudvutaIkhabhinethi ihlanganyela naMengameli Ramaphosa kundlulisa kudvudvuta Kumndeni Wasebukhosini nase siveni Sebukhosi beMampondo ngekukhotsama KweNgwenyama Zanozuko Tyelovuyo Sigcau (Ah Zanozuko!).,The Fund will support 26 community and not-for-profit enterprises,0.5994562
+"[ 0.32788536  0.07942167 -0.08554396 ...  0.40853027  0.25533405
+  1.2600847 ]","[ 0.01146111  0.00440045 -0.00047014 ...  0.01730385 -0.00289425
+  0.02412434]",LabacashiweBonkhe labacashiwe kufuneka bayohlolisiswa ticu tabo futsi batfole kuvumeleka lokufanelekile,"The symposium brings together all interested military, police, and civilians from",0.6027099
+"[ 0.6824554  -0.04407154 -0.26608804 ...  0.7941704   0.64821446
+  0.1383652 ]","[ 0.05860056  0.00318978 -0.00018367 ... -0.00114054  0.01617714
+  0.01419962]",Mn Jacob Ganny Mbele njeMcondzisi Jikelele (DG) WeLitiko Letetimbiwa Netemandla,Enquiries: Ms Phumla Williams,0.6631702
+"[ 0.9151464   0.2444817  -0.19543794 ...  1.1444865   1.5956492
+  1.281573  ]","[ 0.00701545 -0.00437689 -0.00014415 ...  0.01022032 -0.00713817
+  0.03588371]","Nk Pumeza Nwabisa Nodada njengeliSekela Lemcondzisi Jikelele: Tekuphatfwa Kwetemahlatsi kuLitiko Letemahlatsi, Tekudvweba NeleteSimondzaw 3.",Cabinet Spokesperson Mobile: 083 501 0139,0.5564513
+"[ 1.5201036   0.13727905 -0.27352056 ...  1.0829061   0.90056694
+  1.4714024 ]","[ 0.00980162 -0.0033715  -0.00078007 ...  0.00912488 -0.00173329
+  0.03020796]",Nk Susan Mafanedza Masapu njengeMluleki Lomkhulu Wahulumende Kutemtsetfo kuLitiko Letebulungiswa Nekutfutfukiswa KweMtsetfosisekel 4.,Issues in the Environment1.,0.41429865
+"[ 1.2059441  -0.13495089 -0.1685632  ...  0.8211377   0.2762832
+  1.3894256 ]","[ 0.0037302   0.00100838 -0.00068782 ...  0.00195566  0.00386749
+  0.00278359]",M Doris Tshepe njengaKhomishane kuKhomishini Yetekucudzelan 5.,roadshow,0.50873584

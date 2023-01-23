@@ -1,0 +1,377 @@
+ss,en,src_text,trg_text,Cosine_Score
+"[ 0.5810889  -0.04796795 -0.13451295 ...  0.20045218  0.31966612
+  1.044727  ]","[ 2.0932467e-03 -2.0482062e-04  4.8137150e-05 ...  1.0729725e-03
+  1.5222376e-03  7.8740409e-03]",Tindzaba Letibalulekile Talelive1.,MESSAGES1.,0.80057883
+[1.6156043  0.2160767  0.01097711 ... 0.6234837  0.9524692  1.8292083 ],"[ 0.03419523 -0.00022764  0.00482805 ...  0.00854204  0.02645731
+  0.00622743]",Kukhishwa kwemijovo yekugoma Sifo Seligciwane Lekhorona (i-COVID-19),Coronavirus Disease (COVID-19) vaccine roll-out,0.880434
+"[ 1.2061113  -0.02201647  0.8801054  ...  0.58941334  0.48901185
+  1.8167695 ]","[ 0.03326981 -0.00204197  0.01534126 ...  0.01207816  0.02492911
+  0.0202382 ]","Ikhabhinethi itfola kukhutsateka ngesizatfu sekutsi bantfu baseNingizimu Afrika labatigidzi bakhetse kugomela i-COVID-19, futsi kute kube ngumanje seyitigidzi letinge-17 imijovo leseyisetjentisiw","Cabinet is encouraged by the millions of people in South Africa who have chosen to vaccinate against COVID-19, with over 17 million vaccine doses administered to dat",0.8717
+"[ 0.5365038   0.10741882 -0.30866972 ...  1.5648472   0.9525319
+  0.5132196 ]","[ 0.0253017  -0.00025325 -0.00051708 ...  0.02391277  0.0356581
+  0.00180323]","Ikhabhinethi ibonge emacembu etenkholo, kanye nemikhakha yetemidlalo netebuciko, kutsi bachube imikhankhaso yekukhutsata kutsi bantfu bagom","Cabinet thanked the religious formations, as well as the sports and arts fraternity, for embarking on vaccination campaigns to encourage the uptake of vaccine",0.87052023
+"[ 0.34923518 -0.04461149  0.14772683 ...  1.126094    0.8000425
+  1.2824253 ]","[ 0.02156699 -0.00180173 -0.00329724 ...  0.02940495  0.01531835
+  0.01002077]","Uma ngabe bantfu labanyenti bagoma, ngulapho khona-ke lelive litawushesha kucekisa imikhawulo yaleSigaba Sekucaphelisa Lesilungisiwe Sesibili","The more people get vaccinated, the sooner the country will relax the current Adjusted Alert Level 2 restriction This will inevitably result in the full opening of the economy to be able to grow and create much-needed job",0.7214472
+"[ 0.44406247 -0.10840008 -0.14658281 ...  1.1646984   0.03481069
+  0.39169648]","[ 3.2094605e-02  3.5637832e-04 -9.2048875e-05 ...  3.1419117e-02
+  2.1159789e-02  2.5768125e-02]",lesikhona kwamanj Loku kutawugcina kwente kutsi kuvulwe umnotfo ngalokuphelele kute kutsi ukwati kukhula kanye nekwakha imisebenti ledzingeka kakhul,"Among other provisions, the Bill establishes structures in the public sector and at community level that will work together to mitigate veldfire risks, and promote effective compliance and law enforcemen",0.6808504
+"[ 0.8577494  -0.10572803 -0.1006924  ...  0.6770965   0.983847
+  0.8795725 ]","[ 0.02697696  0.02519503  0.00084916 ... -0.00099434  0.03683807
+  0.04883519]","Ikhabhinethi igcizelela simemo sekutsi kute kutsi kunciphe kwesuleleka lokusha, sifanele kutsi sonkhe sichubeke nekugcoka tifonyo uma sisetindzaweni temmango,","Cabinet called on public officials to remain resolute in stamping out corruptio By simply taking the lead in reporting all corruption-related activities taking place in government institutions, we can ensure a better tomorrow and leave a lasting legacy for future generations",0.72359025
+[0.711316   0.44329855 4.659905   ... 1.6339599  0.8801721  0.7627552 ],[0.01509583 0.01834575 0.10658231 ... 0.04694848 0.02878435 0.00981026],"kugeza tandla ngemanti nensipho noma-ke ngesibulalamagciwane lesine-alkhoholi lenge-70%, kanye nekukhweshelana ngemgamu lophephile kuyachubeka nekucinisa indlela lelive lelinciphisa ngayo kwesuleleka","wearing a mask in public, washing hands with soap and water or using a 70% alcohol-based sanitiser, and maintaining a safe social distance continues to reinforce the country s approach in reducing new infections",0.88288194
+"[ 0.99599683 -0.05294961  0.6261326  ...  0.4113266   1.0191296
+  2.9381151 ]","[ 0.02587495 -0.00639938  0.03787225 ... -0.00414299  0.00935656
+  0.06588867]",Umkhankhaso Wemphelansontfo We-Vooma Vaccination Weekend Wekugoma lotawucala mhla lu-1 kuya kumhla ti-2 Imphala 2021.,Vooma Vaccination Weekend campaign from 1 to 2 October 2021,0.8557247
+"[ 0.8364742  -0.1691243   0.369945   ...  0.45973283  1.2893633
+  3.3370492 ]","[ 0.03827666 -0.00065338  0.02890072 ...  0.01857441  0.04117009
+  0.08779324]","Ikhabhinethi icela bantfu baseNingizimu Afrika nebantfu labahlala eNingizimu Afrika kutsi balisebentise lelitfuba leMkhankhanso Wemphelansontfo We-Vooma Vaccination Weekend Wekugoma lotawube uchubeka kulo lonkhe lelive kusukela ngaLesihlanu, mhla lu-1 nangeMgcibelo, mhla ti-2 Imphala 2021.","Cabinet urges unvaccinated South Africans and people living in South Africa to take advantage of the Vooma Vaccination Weekend which will take place around the country on Friday, 1 and Saturday, 2 October 2022.",0.89901936
+[1.0149441  0.04230457 0.09598944 ... 0.33372384 0.59546995 0.4627447 ],"[ 0.02508532 -0.00054959  0.019428   ...  0.01610679  0.04193255
+  0.03828767]",LoMkhankhaso Wemphelansontfo We-Vooma Vaccination Weekend Wekugoma ngumkhankhanso lofaka ekhatsi,"The Vooma Vaccination Campaign Weekend is an inclusive national campaign supported by all social partners, including faith-based formations, traditional leaders, organised labour and busines The target for this weekend is to vaccinate at least half a million peopl",0.6949506
+"[ 0.47601613 -0.15199089  1.3394853  ...  0.49924737  0.9926272
+  0.9870162 ]","[ 0.02332063 -0.00119933  0.00539976 ...  0.06080493  0.04274797
+  0.02745161]","konkhe lokwesekelwa ngubo bonkhe balingani betenhlalo, kufaka ekhatsi emacembu etenkholo, baholi bendzabuko, labahlelekile kanye nemabhizinis Inhloso yalemphelansotfo kutsi kugonywe lokungenani bantfu labasigamu sesigidz","You don t need to have health insurance or medical aid to receive the vaccin Leadership of government, business, labour and community formations will actively mobilise communities in all parts of the country to roll up their sleeves for the protection that comes with being vaccinate",0.7374102
+[0.77353793 0.04517718 0.08991164 ... 0.76223886 1.1139054  0.21709357],"[ 0.0184712  -0.00071456  0.00403926 ...  0.02559159  0.01415327
+  0.00036984]","Leli litfuba labo bonkhe bantfu labadzala kutsi bagonywe mahhala futsi ngaphandle kwekuhlela phambilini sikhatsi sekugoma etindzaweni tahulumende, tangasese kanye netindzawo tekugoma letimane-nje tivulw","This is an opportunity for all adults to be vaccinated free of charge and without appointments at public, private and pop-up vaccination site",0.8706972
+"[ 0.52585024  0.06617976 -0.16099012 ...  1.7503916   1.0148417
+  1.4595547 ]","[ 0.01784283 -0.00015725 -0.00047674 ...  0.03876243  0.03173156
+  0.01400311]","Awudzingi kutsi ube nemshwalensi wetemphilo noma lusito lwetekwelashwa kute kutsi utfole kugonyw Baholi bahulumende, emabhizinisi kanye netinhlangano temmango batawuhlanganisa imimango kuto tonkhe tincenye talelive itimisele mayelana nekuvikela lokuta nekugom","Uncontrolled veldfires are responsible for environmental degradation, loss of jobs, displacement of communities, and general destruction of infrastructure, livestock, habitat and biodiversit",0.72605467
+[0.58772177 0.19608329 0.16354048 ... 0.11394222 0.77761877 2.805792  ],[0.02822951 0.00079857 0.00086004 ... 0.04452043 0.02786145 0.04141681],Lomkhankhaso Wemphelansontfo Wekugoma We-Vooma Vaccination Weekend ungasisita kutsi sincobe leligciwane leselisipokele sikhatsi lesingetulu kwemnyak,Vooma Vaccination Weekend can help us achieve victory over the virus that has haunted us for more than a yea No-one should miss out on this opportunit Let s all Stay Safe,0.73524976
+"[ 0.11741085 -0.37025052 -0.28470922 ...  0.04076025  0.5909797
+  0.93716466]","[-0.00262008  0.00370138  0.00011581 ...  0.00274868  0.00413707
+  0.01468899]",Kute lofanele kutsi endlulwe ngulelitfub Sonkhe Asihlale Siphephile,"reduce new infections, we all have to continue",0.57909644
+"[ 0.79714257 -0.02889433 -0.26021403 ...  1.0587959   1.7393516
+  0.2985046 ]","[ 0.00214478 -0.00176021 -0.00013588 ...  0.0187961   0.03190403
+  0.00975979]",Luvakasho Lwelihhovisi LwaMengameli Lwekuya Ebhulohweni LaseMsikaba,Presidential Visit to Msikaba Bridge,0.84829384
+"[ 1.5766857   0.02590374 -0.01257068 ...  0.808608    2.0925136
+  2.0637977 ]","[4.61300723e-02 4.35556576e-05 1.32601755e-02 ... 4.12080996e-02
+ 4.51770797e-02 7.90941194e-02]","Mengameli Cyril Ramaphosa uhambe wayohlola kwakhiwa kwesakhiwonchanti seLibhuloho eMsikaba eLusikisiki eMphumalanga Kapa ngaLesine, mhla tinge-23 Inyoni 2021.","President Cyril Ramaphosa went to assess the development of infrastructure at the Msikaba Bridge at Lusikisiki in the Eastern Cape on Thursday, 23 September 2021.",0.85039115
+"[ 0.9189534  -0.01082961  0.15837461 ...  1.0959259   1.0917504
+  0.9233573 ]",[0.01366464 0.00107829 0.00259751 ... 0.03256333 0.04144084 0.00737288],"Lomklamo wesakhiwonchanti lesibita tigidzigidzi leti-R wenta incenye yemklamo wemgwaco u-N2 lose-Wild Coas Ngaphandle kwekutsi kwekwenta kutsi bantfu bahambe kalula ngekutsi lichumanise imimango yasemaphandleni netikhungo tasemadolobheni kulo lonkhe lelive, lelibhuloho litawuphindze futsi livuse lutjalomali nekukhul","This R1,65 billion infrastructure project forms part of the N2 Wild Coast Road projec Apart from facilitating the convenient movement of people by connecting rural communities to urban centres around the country, the bridge will also stimulate investment and growt",0.8877581
+[0.5465599  0.02190968 0.00957122 ... 1.1162832  1.0638951  0.9062913 ],"[ 0.02988398 -0.00061974  0.00027245 ...  0.00720841  0.02489456
+  0.02921143]","Lomgwaco i-N2 lose-Wild Coast ungulomunye weMiklamo Lehlanganisiwe Yelisubuciko yahulumende kukhutsata kukhula kwemnotfo ezingeni lahulumende wavelonkhe, wesifundza newasekhay","The N2 Wild Coast road network is one of government s key Strategic Integrated Projects to catalyse economic growth at a national, provincial and local leve",0.87009287
+"[ 1.0257652  -0.06374618  0.39397836 ...  0.22282723  0.7178403
+  1.5221833 ]",[0.04073361 0.00363078 0.00561453 ... 0.00075565 0.0335279  0.01780532],"Ikhabhinethi iyitfokotele inchubekelembili yalomkhankhaso wayo welutjalomali, lochubeka nekuba yinsika yeLisu Lekuvusa Nekwakha Kabusha Umnotfo (i-ERRP), lolunemiklamo letako lenge-88 lebita ngetulu kwetigidzigidzi tetigidzigidzi leti-R","Cabinet was pleased with the progress in its infrastructure investment drive, which remains a central pillar of the Economic Reconstruction and Recovery Plan (ERRP), with 88 projects worth more than Rtrillion in the pipelin",0.85973847
+"[ 0.6552336  -0.09206542 -0.1385276  ...  0.7890758   0.5270391
+  0.65270406]","[ 0.02471759 -0.00024593 -0.00056233 ...  0.02632742  0.01597612
+  0.01948594]","Budlelwane bemave emhlaba, luhwebelwano netekuvakasha","International relations, trade and tourism",0.9135298
+"[ 0.42666993 -0.09415399  0.01561627 ...  0.7667341   1.1719625
+  0.8372398 ]","[ 0.01221385 -0.00069304 -0.00030127 ...  0.003156    0.02959328
+  0.03080616]",Ikhabhinethi isemukele sincumo seJalimane sekukhipha iNingizimu Afrika eluhlwini lwayo lwetindzawo letingoti lenkhulu kutsi tingavakashelwa kanye nemasu eMelika ekwemukela tivakashi letigome ngalokuphelel,Cabinet welcomed the decision by Germany to remove South Africa from its list of high-risk travel areas and plans by the United States of America to admit fully vaccinated travelers into the countr,0.8752947
+[0.8428803  0.02061724 0.1119392  ... 1.0594684  1.0810757  1.2331513 ],[0.01236157 0.02251282 0.02594948 ... 0.0317075  0.029286   0.02523243],"Nanoma kunjalo, Ikhabhinethi ivakalise kujabha ngesincumo se-United Kingdom (i-UK) sekugcina iNingizimu Afrika eluhlwini lwayo lwemave layingoti kutsi angavakashelw Kute sisekelo lesicinile sekugcina iNingizimu Afrika eluhlwini uma kubukwa inchubekelembili yetfu leseyentiwe mayelana nekulwa nelubhubhane lwe-COVID-19 nekwehla ngemandla kwelizinga lekwesuleleka kanye neluhlelo lwetfu lwekugoma lolukhul",Cabinet however expressed disappointment at the United Kingdom s (UK) decision to keep South Africa on its travel red list of countrie There is no reasonable basis for keeping South Africa on the list given our progress in combating the COVID-19 pandemic and rapidly declining infection rate and our intensive vaccination programm,0.8980629
+"[ 0.36024985 -0.04909581 -0.17428902 ...  1.3299683   1.3278614
+  0.7979909 ]","[ 0.02510763 -0.00165754 -0.00027874 ...  0.04730734  0.03441598
+  0.02545118]","Ikhabhinethi iphindze futsi yatiswa ngeLitiko Letebudlelwane Bemave Emhlaba Nekubambisana mayelana nenchubekelembili leseyentiwe yekukhipha iNingizimu Afrika kuloluhlu lwemave layingot Ikhabhinethi inelitsemba kakhulu lekutsi hulumende wase-UK itawusibuyeketa lesincumo sayo lesingasihle, lesingeke sitsintse kabi imboni yetekuvakasha kuphela kepha nemabhizinisi alamave omabili, imindeni kanye naleminye imikhakha yemnotfo","Cabinet was also briefed by the Department of International Relations and Cooperation on progress made to have South Africa removed from the red lis Cabinet is optimistic that the UK Government will revisit its unfavourable decision, which is not only affecting the tourism industry but businesses from both countries, families and other sectors of the economy",0.9058572
+"[ 0.36319247 -0.3969164   0.14554575 ...  0.10070699 -0.1401502
+ -0.00105933]","[ 0.01547124 -0.00111307  0.01659804 ... -0.00047608 -0.00086569
+  0.00027932]",Kuvuswa Kwemnotfo,Economic recovery,0.9202074
+"[ 2.1054626  -0.0159329   0.04013194 ...  0.85144824  1.7497226
+  0.4198118 ]",[0.05691879 0.00531836 0.00560515 ... 0.02177384 0.0423337  0.0049312 ],"Ikhabhinethi ikwemukele kwetfulwa kwePhothali Yekubhalisa Kulahlekelwa Kwemabhizinisi kutsi kubhalise emabhizinisi latsintfwe buyaluyalu lobube khona emkhatsini wamhla ti-9 namhla ti-19 Kholwane 2021 KwaZulu-Natal, eGauteng nakuletinye tindzawo letitsintsekil","Cabinet welcomed the launch of the Business Loss Registration Portal to register businesses affected by the unrest that took place between 9 and 19 July 2021 in KwaZulu-Natal, Gauteng and other affected area",0.8996583
+"[ 0.42854178  1.0711921  -0.05471397 ...  0.5939331   0.57061857
+  0.92203593]","[ 0.0108041  -0.00070202  0.00092325 ... -0.00160654  0.01170252
+  0.0117248 ]",Lephothali yekubhalisa igcogca imininingwane yemabhizinisi latsintsekile kute kutsi kuchunyaniswe kancono tinyatselo yekuhhamuleka kanye nekuniketa lwati ngetingenelelo tesikhatsi lesitak Isebenta njengengoni yinye yahulumende yekungena yekutsi emabhizinisi akhombise umgamu wekulahlekelwa kwaw,The registration portal collects data from affected businesses to better coordinate relief measures and to inform future intervention It serves as a single governmental entry point for businesses to indicate the extent of their losse,0.8615768
+[ 0.971002  -0.1402926  0.16509   ...  0.8786266  0.8516856  2.8877761],"[1.9338822e-02 2.8992936e-05 1.1102024e-02 ... 9.7149238e-03 2.3526119e-02
+ 6.7636102e-02]","Ikhabhinethi icele bonkhe bosomabhizinisi labatsintsekile kutsi babhalise kulephothali ku:wwrelief4scz Noma-ke, bangashayela ku: 080 006 00850 mayelana nelusito emkhatsini wensimbi ye-08:00 ekuseni kuya kuye-17:00 emkhatsini welivik","Cabinet called on all affected business owners to register on the portal at wwrelief4scz Alternatively, they may call 080 006 00850 for assistance between 08:00 and 17:00 on weekday",0.89922994
+"[ 0.9011136  -0.14664812  0.06554507 ...  0.70990205  1.3958728
+  1.4462188 ]","[ 0.01026066 -0.00073924  0.00030885 ...  0.03074594  0.02668214
+  0.03119058]","Ngekusebentisa Litiko Letekutfutfukiswa Kwemabhizinisi Lamancane, sekutfolwe samba seticelo letinge-192 temabhizinisi kusuka kubanikati bemabhizinisi lamancane kuya kulasemkhatsini labatsintfwa ngulobuyaluyal Ikhabhinethi iyatfokota kutsi samba setigidzi letinge-R5sesivunyiwe kutsi sinikwe labosomabhizinis 6.","Through the Department of Small Business Development, a total of 192 applications from small to medium business owners that were affected by the unrest had been receive Cabinet is pleased that a total of R54,2 million has been approved to be allocated to these business owner 6.",0.8724808
+"[ 0.18307139 -0.26794213 -0.16591989 ...  0.73668194  1.7318312
+  1.1879289 ]","[ 0.00418638 -0.00206878 -0.00037274 ...  0.0110542   0.03322785
+  0.0165678 ]",Kucala Kusebenta Kwenkampani Yetindizamshini YaseNingizimu Afrika i-South African Airways (i-SAA),Resumption of South African Airways (SAA) flights,0.84476167
+"[ 0.67240024 -0.06874685 -0.13792615 ...  1.0912564   2.2801683
+  1.4174057 ]","[ 0.01774866 -0.00090785 -0.0001774  ...  0.02411114  0.052805
+  0.03212487]","Ikhabhinethi ikwemukele kucala kusebenta kwetindizamshini taka-SAA, letihamba tindlela letimbalwa emkhatsini weJozi naseKap Lesitfutsi savelonkhe naso sitawundiza siye emadolobheni lamakhulu ase-Afrika njenge-Accra (eGhana), eKinshasa (eDemocratic Republic of the Congo), eHarare (eZimbabwe), eLusaka (eZambia) kanye naseMaputo (eMozambique), kanye naletinye tindlela letinyenti titawengetwa lapho timo temakethe ticala kuba ncon","Cabinet welcomed the recent resumption of flights by the SAA, which operates a few routes between Johannesburg and Cape Tow The national carrier will also fly to African capitals such as Accra (Ghana), Kinshasa (Democratic Republic of the Congo), Harare (Zimbabwe), Lusaka (Zambia) and Maputo (Mozambique), and more destinations will be added to the routes as market conditions improv",0.905079
+"[ 0.27764964 -0.2939841  -0.09198758 ...  0.88708866  1.2611046
+  2.3234324 ]","[ 0.0182464  -0.00048223 -0.00022342 ...  0.03554134  0.03495776
+  0.04892204]","Ikhabhinethi icele bonkhe bantfu baseNingizimu Afrika kutsi besekele i-SAA lehlelwe kabusha, lekhombisa kucala kwesikhatsi lesisha kutekundiza taseNingizimu Afrik 7.","Cabinet called on all South Africans to support the restructured SAA, which marks the beginning of a new era in South African aviatio 7.",0.8943179
+"[ 1.0098388   0.00973236 -0.2056249  ...  0.91010386  1.1993849
+  0.3992652 ]",[0.00951794 0.00740748 0.00386767 ... 0.02169525 0.02897886 0.00811019],"Luphiko Lwemihambo Yekulawulwa Kwemmango, Isitfunti kanye Nelusito Lwetekucondzisa Tigwegwe (i-PA-EID-TAU)","Public Administration Ethics, Integrity and Disciplinary Technical Assistance Unit (PA-EID-TAU)",0.8262232
+"[ 0.6547044  -0.13660358 -0.15870535 ...  0.56644607  0.6755728
+  0.6222022 ]","[ 0.01585374  0.01016193 -0.00040158 ...  0.03549494  0.02017247
+  0.0085076 ]","Ikhabhinethi ikwemukele kwetfulwa kwe-PA-EID-TAU,","Cabinet welcomed the launch of the PA-EID-TAU, which will strengthen government s efforts in the fight against corruption in the Public Servic",0.7234787
+"[ 1.3719724   0.47590292 -0.14192812 ...  0.7682484   0.9533195
+  0.11012523]","[ 0.01693413  0.00545643  0.0027392  ... -0.00105756  0.01950488
+  0.01678872]",lokutawucinisa imitamo yahulumende ekulweni nenkhohlakalo Emisebentini Yahulumend,National Policy on the Prevention and Management of Learner Pregnancy in Schools,0.676955
+"[ 0.7517956   0.8646538  -0.15840004 ...  0.97476494  0.6578222
+  0.51906306]",[0.02031296 0.00748402 0.00160333 ... 0.04653393 0.02329651 0.02295441],"I-PA-EID-TAU itawengamela kuphunyeleliswa kwenkhambo yetemisebenti yahulumende kanye netinchubomgomo tekulwa nenkhohlakalo njengekwenta ibhizinisi neMbuso, kwenta leminye imisebenti leholelanako, kulawula tekucondziswa tigwegwe kanye nekuphunyeleliswa kwekuhlatiywa kwetindlela tekuphil","The PA-EID-TAU will oversee the implementation of public service ethics and anti-corruption policies such as conducting business with the State, performance of other remunerative work, discipline management and implementation of lifestyle audit",0.89454925
+"[ 1.0094358   0.17946638 -0.19936492 ...  0.6409797   1.1764362
+  0.12135722]","[ 0.04968618  0.00062014 -0.00045659 ...  0.0115886   0.02606083
+  0.00081801]",Ikhabhinethi imeme tonkhe tikhulu kutsi tichubeke nekutimisela ekulweni nenkhohlakal,The symposium will engage with a range of stakeholders to revitalise the infrastructure pipelin,0.68737406
+"[ 0.86248654  0.9140592  -0.02114738 ...  0.87606156  1.2825288
+  1.7294385 ]","[ 2.1141168e-02  1.3014558e-02 -7.2852956e-05 ...  3.5988312e-02
+  2.9002706e-02  7.8833885e-03]","Ngekuhamba embili ekubukeni yonkhe imisebenti lephatselene nenkhohlakalo etikhungweni tahulumende, singacinisekisa likusasa lelincono siphindze futsi sishiye umshiyalifa wetitukulwane letitak 8.","This is a firm warning to all perpetrators of GBVF that they will be arrested and face the full might of the la By working together with the police and law-enforcement agencies, we can make our streets and communities safer for al",0.7101789
+"[ 2.1206455  -0.3191589  -0.17691925 ...  0.8431253   0.5935738
+  0.2720503 ]","[ 0.07056022 -0.00241785 -0.00283601 ...  0.02250353  0.02634591
+  0.00144549]",Lukhetfo Lwahulumende Wasekhaya Lwanga-2021 (i-LGE),2021 Local Government Elections (LGE),0.8774806
+"[ 0.70590603 -0.13916996  0.13404338 ...  0.8027888   1.1512483
+  1.1494608 ]","[ 0.01923353 -0.00051755  0.01552614 ...  0.03126673  0.03359838
+  0.02226466]",Ikhabhinethi ikhutsata labo labacala kuvota labatigidzi leti-lababhalise ngemphelansontfo yekubhalisa mhla ti-18 namhla ti-19 Inyon Lena bekuyindlela yebantfu labasha yekutsi bafuna kudlala indzima yabo kutsandvo yetfu yelinyenti ngekutsi bakhetse baholi basekhay,"Cabinet commends the 1,7 million first-time voters who registered during the voter registration weekend of 18 and 19 Septembe This was young people s way of saying they want to play their part in our democracy by electing local leadershi",0.8549279
+"[ 0.7990711  -0.06268828  3.1349347  ...  0.7999991   0.8904419
+  1.2842386 ]","[ 0.02916773 -0.00018551  0.08386908 ...  0.02535751  0.01898846
+  0.02423574]","Njengoba bantfu labasha benta incenye lenkhulu yelinani lebantfu bakitsi, lomdlandla webantfu labasha wekuba yincenye yetinchubo tetfu tekuvota kuyintfo lesiyemukelako nalesiyihloniphak","As young people constitute the majority of our population, the enthusiasm of young people to be part of our electoral processes is something we welcome and respec",0.9031387
+"[ 0.80191827 -0.11354209  0.02204959 ...  0.6738379   0.90775543
+  1.2411003 ]","[ 2.1820795e-02 -2.6566929e-03 -2.0971833e-05 ...  1.1300047e-02
+  3.4296880e-03  3.6193442e-02]",I-LGE yanga-2021 lehlelelwe kuba mhla lu-1 Lweti 2021 inika bantfu baseNingizimu Afrika litfuba lekusebentisa lilungelo labo lemtsetfosisekelo kutsi bakhetse labo labatabamelel,The 2021 LGE scheduled to take place on 1 November 2021 provides,0.73822236
+"[ 0.9596417  -0.3436996   0.07152144 ...  0.68694836  1.5089289
+  3.1419663 ]","[ 0.03566105 -0.00196355  0.01627043 ...  0.04441197  0.03516037
+  0.0751238 ]",Bavoti labangeke bakhone kuvota ngeLilanga Lekuvota kanye nalabo labangeke bakhone kuhamba baye etiteshini tekuvota ngenca yekungaphili emtimbeni noma labanekukhubateka bangaVota Ngalokukhetsekile emalangeni lamabili lendvulela Lilanga Lekuvot Ticelo tekuvota lokukhetsekile kuvule mhla tinge-20 Inyoni 2021 futsi kutawuvalwa mhla ti-4 Imphala 2021 ngensimbi ye-17:00 entsambam 9.,Voters who are not able to cast their votes on Election Day and those who are not able to travel to voting stations due to physical infirmity or disability can vote by Special Vote on the two days preceding Election Da Applications for special votes opened on 20 September 2021 and will close on 4 October 2021 at 17:00.,0.9186051
+[0.9474245  1.1987329  0.37003985 ... 0.09876152 0.75968397 0.3235265 ],[0.02221511 0.0446863  0.02398325 ... 0.01056389 0.02443393 0.00814211],Budlova lobucondziswe kubulili lobutsite nekubulawa kwebesifazane (i-GBVF),Gender-based violence and femicide (GBVF),0.88275135
+[0.6487272  0.7952004  0.09639835 ... 1.6753594  1.5669274  1.3148526 ],[0.02911517 0.03168291 0.03011638 ... 0.03807138 0.04750993 0.04501897],"Ikhabhinethi isemukele sigwebo sadzilikajele lesiphindvwe kabili lesinikwe Mn Sbusiso Nkosi (36) lesikhishwe Luphiko Lwenkantolo Lephakeme yaseMpumalanga ngeMsombuluko, mhla ti-13 Inyoni 2021, sekudlwengula nekubulala M Nomcebo Simelane (23) mhla ti-5 Inyoni 2020.","Cabinet welcomed the double life sentence handed down to Mr Sbusiso Nkosi (36) by the Mpumalanga Division of the High Court on Monday, 13 September 2021, for the rape and murder of Ms Nomcebo Simelane (23) on 5 September 2020.",0.8446738
+"[ 1.0968144   2.5305395  -0.21791326 ...  0.7910404   1.5347549
+  0.9635073 ]",[0.00973422 0.04781223 0.00135361 ... 0.02339401 0.0178051  0.05824351],"Inkantolo igwebe lomdlwenguli nembulali dzilikajele lababili kanye neminyaka lemitsatfu leyengetiwe yekweba, lokutawuhambisana kanyakany",The court sentenced the rapist and murderer to two life imprisonment terms and an additional three years,0.8565635
+"[ 0.9318035   0.32928333 -0.13922721 ...  0.9591433   0.91857
+  0.44657785]","[ 0.01678585  0.00470107 -0.00025511 ...  0.01741323  0.02667222
+  0.05235581]","Loku kusicapheliso lesicinile sabo bonkhe babhebhetseli be-GBVF sekutsi batawuboshwa baphindze futsi babukane nemtsetfo ngalokuphelel Ngekusebentisana nemaphoyisa kanye nema-ejensi ekucinisekisa kutfotjelwa kwemtsetfo, singenta titaladi nemimango yetfu kuphephe kuwonkhe wonkh",The SIDSSA infrastructure pipeline aims to contribute to industrialisation and job creation as envisaged in the ERRP and the Re-imagined Industrial Strateg The interventions identified aim to boost demand and ensure effective coordination of all infrastructure player It is envisaged that these interventions will also contribute to building a resilient economy by accelerating infrastructure deliver The SIDSSA 2021 is held under the theme:,0.7250345
+"[ 0.6909984   0.4420575  -0.03278493 ...  1.0963238   1.0790043
+  1.5890552 ]","[ 8.9637833e-03  9.1446480e-03 -7.5409880e-05 ...  5.0546270e-02
+  2.8168766e-02  3.0274702e-02]",Bika tonkhe tehlakalo letiphatselene ne-GBVF emaphoyiseni noma ushayele Sikhungo Sekulawulwa Kwete-GBVF: 0800 428 428 noma Lucingo Lwe-STOP Gender Violence ku: 0800 428 428/* *120*7867#10.,Report all GBVF-related incidents to the police or call the National GBVF Command Centre: 0800 428 428 or STOP Gender Violence Helpline: 0800 150 150 / *120*7867#9.,0.9168592
+"[ 0.28819862 -0.3242923  -0.09145319 ... -0.12589222  0.24585113
+  1.1286726 ]","[ 0.0132179  -0.00038452  0.00214401 ...  0.0015473   0.01971474
+  0.00621884]",Kubhaliswa kwemishado yesintfu1,Registration of customary marriages,0.7876313
+"[ 1.2605253   1.3774917  -0.26458588 ...  1.0196588   1.6193676
+  1.76697   ]","[ 0.01558264 -0.00186478 -0.00018538 ...  0.03200666  0.03747899
+  0.04434356]","Ikhabhinethi ikucaphele kutsi Inkantolo Lephakeme, sincumo seLuphiko lweKwaZulu-Natal eludzabeni lolufaka ekhatsi ummangali, M Phumza Ethel Mankayi kanye nebamangalelwa, Indvuna yeLitiko Letasekhaya, M Ntombizakhe Portia Miya kanye neNkhosi yeNkantolo Lephakeme yaseNingizimu Afrik Lesehlulelo sicinisekisa emalungelo ebantfu labashadile ngaphansi kweMtsetfo Wemishado Wekwemukelwa Kwemishado Yesintfu, 1998 (Umtsetfo-120 wanga-1998)","Cabinet noted the High Court, KwaZulu-Natal Division judgment in the matter involving the applicant, Ms Phumza Ethel Mankayi and the respondents, the Minister of Home Affairs, Ms Ntombizakhe Portia Miya and the Master of the High Court of South Afric The judgment affirms the rights of people married under the Recognition of Customary Marriages Act, 1998 (Act 120 of 1998).",0.90597755
+"[ 1.5610062  -0.15534933 -0.14642338 ...  0.5510966   0.8678089
+  2.5711641 ]","[ 0.01332236 -0.00135325  0.01602554 ...  0.00658911  0.03493312
+  0.06974054]",Ikhabhinethi imema labashadile kutsi babhalise imishado yabo yesintfu eTiko Letasekhaya kungakapheli tinyanga letintsatfu bashadil Indvuna yeLitiko Letasekhaya seyelule sikhatsi sekubhalisa saya kumhla tinge-30 Inhlaba 2024.,Cabinet calls on couples to register their customary marriages at Home Affairs within three months of their marriag The Minister of Home Affairs has extended the registration period to 30 June 2024.,0.86862147
+"[ 0.58917314  0.16505857 -0.27028313 ...  0.8328596   1.121864
+  1.28169   ]","[ 0.03535929 -0.00064819  0.0003059  ...  0.02178948  0.0273391
+  0.04293849]","Loku kwentelwa kufaka ekhatsi labo imishado yabo lengazange ibhaliswe kungakapheli tinyanga letintsatf Mayelana nekubhalisa, bantfu badzinga kutsi bete nebufakazi betingcoco temalobolo noma incwadzi yekukhokhwa kwemalobolo ne-afidavithi yebantfu labashadako kanye nabofakazi babo, lekhombisa kutsi bashadile noma bakubungata","that were not registered within three month To register, people need to bring proof of lobola negotiations or a letter and an affidavit from people getting married and their witnesses, indicating that a marriage was entered into or celebrate",0.8677149
+"[ 0.59469414 -0.19977653  0.5174369  ...  0.16882259  0.58269936
+  2.7759628 ]","[ 0.01265351 -0.00464006  0.0042492  ...  0.01778685  0.01011024
+  0.06875124]","Kute kube ngulamuhla, kubhaliswe imishado yesintfu le-99 491 kuphela kuLitiko Letasekhaya kusukela lomtsetfo wacala kusebenta ngeLweti 2000.","To date, only 99 491 customary marriages have been registered at Home Affairs since the law came into effect in November 2000.",0.9098163
+"[ 0.21347494 -0.2757018  -0.28318393 ...  0.5008867   0.13547903
+  0.41086227]","[ 0.00408866 -0.00296827 -0.00060771 ...  0.00854465 -0.00353386
+  0.01201626]",Tincumo TeKhabhinethi1.,Cabinet decisions1.,0.836126
+"[ 0.9920354  -0.4156638  -0.17403427 ...  0.8939361   1.8073995
+  1.1414814 ]",[0.01214252 0.00039575 0.00215167 ... 0.00488385 0.03761126 0.03423099],Inkhomfa Yelutjalomali YaseNingizimu Afrika (i-SAIC),South Africa Investment Conference (SAIC),0.8740888
+"[ 0.4569691  -0.1493721  -0.30697563 ...  0.38219213  0.97571653
+  1.0233439 ]","[ 0.02658169 -0.00181012  0.00334431 ...  0.02929412  0.0286627
+  0.07140024]",Ikhabhinethi ikuvumile kuhlelwa kwe-SAIC lelandzelako letawubanjwa,Cabinet approved the scheduling of the next SAIC to take place in March 2022.,0.7315388
+"[ 0.24018456 -0.38736647 -0.3507115  ... -0.09559845  0.09996869
+  1.0774521 ]","[-0.00394913 -0.00207007  0.00301877 ...  0.0068598  -0.00438509
+  0.02902236]",ngeNdlovulenkhulu 2022.,Transport Month 2021,0.6584753
+"[ 1.1806077  -0.2462793  -0.04309372 ...  1.0865077   1.2901005
+  2.2643607 ]","[ 0.02493349 -0.00052924  0.01061489 ...  0.01610972  0.01845977
+  0.05259804]",Lenkhomfa isemnyakeni wayo wesitsatfu futsi ihlose kuheha lutjalomali lolutigidzigidzi tetigidzigidzi leti-Reminyakeni lesihlan Lomkhankhaso welutjalomali uyachubeka nekwakhela kuma-SAIC lamabili labe yimphumelel Imininingwane yalenkhomfa nelusuku kutawumenyetelwa ekuhambeni kwesikhats 2.,"The conference is on its third year and aims to attract R1,2 trillion investments over five year The investment drive continues to build on the two previous successful SAIC The details of the conference and date will be announced at a later stage",0.8484435
+"[ 0.51675576 -0.26829243 -0.01056578 ...  0.45975193 -0.03434519
+  0.3979645 ]","[ 0.00645753 -0.00052258 -0.00137093 ...  0.00451256  0.00479029
+  0.00434275]",Luhlelo Lwekutfutsa Tekusakata Tiye Ekusakateni Ngekwedijithali (i-BMD),Broadcasting Digital Migration (BDM) programme,0.85773325
+"[ 1.720569   -0.18819489  0.7424138  ...  0.78701377  1.3857272
+  1.3207126 ]",[0.01735724 0.00062945 0.03250276 ... 0.02957459 0.03704786 0.04570678],Ikhabhinethi yadvunyiswa ngeluhlelo lwe-BDM lwaleliv Sekwentiwe inchubekelembili lenkhulu ekutfutseni letinye tincenye talelive kusuka etinkhundleni te-analogi kuya kutedijithal,Cabinet was apprised on the country s BDM programm Substantial progress has been made in migrating some parts of the country from analogue to digital platform,0.8472742
+"[ 1.3354182  -0.05724895 -0.11549789 ...  0.54952455  0.90764797
+  2.449589  ]","[ 0.0184753  -0.00260509  0.00717583 ...  0.01594352  0.03095124
+  0.06575666]","Ikhabhinethi ilivumile lisu lekuphunyeleliswa kwekucishwa kwe-analogi lokubuyeketiwe, lokuhlelelwe kucedzela letindzawo letisele ngeNdlovulenkhulu 2022.","Cabinet approved the revised integrated analogue switch-off implementation plan, which is a schedule to complete the remaining areas by March 2022.",0.8102327
+[1.7859005  0.03986263 0.4819233  ... 0.5753446  1.4927937  1.3437916 ],"[ 0.02837463 -0.00132313  0.00194639 ...  0.01447833  0.02071344
+  0.05653481]","INingizimu Afrika ingulelinye lemave lamanyenti emhlabeni latinikele kusheshisa lomklamo wekutfutsela kutedijithali, lokutawuholela ekucisheni i-analogi ngalokuphelele","South Africa is one of many countries in the world that have committed to expedite the digital migration project, which will lead to a complete analogue switch-off in 2023.",0.8452375
+"[ 0.21478805 -0.1841799  -0.13648196 ...  0.03774587  0.29153427
+  0.34152925]",[0.0122332  0.0086018  0.01254719 ... 0.01894865 0.01719895 0.03436699],nga-2023.,"The postponement from October 2021 to October 2022, follows the first one in 2020 as a result of the pandemi",0.55639124
+"[ 1.8028954  -0.05198253 -0.00738467 ...  1.0105013   1.6099827
+  1.8330153 ]","[ 0.02308207  0.00589753 -0.00032758 ... -0.00347321  0.03978608
+  0.02705654]",Ikhabhinethi iyivumile indlela yekusebentisana lesetjentiswe ekusheshiseni kuphetfwa kwekutfutfwa kwalo lonkhe lelive lisuke enkhundleni ye-analogi liye kutedijithal 3.,Cabinet endorsed the collaborative approach adopted towards fast-tracking the finalisation of the migration of the whole country from analogue to digital platforms,0.83463573
+[0.7712496  0.03100456 0.04602284 ... 0.52647835 0.64218533 0.7132124 ],"[ 0.01406482 -0.00063634 -0.00053446 ...  0.01356061  0.00358904
+  0.03317172]",Inchubomgomo Yavelonkhe lemayelana Nekuvikelwa Nekulawula Kukhulelwa Kwebafundzi Etikolweni,"Quality infrastructure for development, recovery and inclusive growth .",0.6806209
+"[ 1.8784257   0.33357012 -0.11516438 ...  0.6352048   0.6096462
+  1.8442034 ]","[1.7382683e-02 8.4829181e-03 3.2085227e-05 ... 4.4279635e-02 2.5022378e-02
+ 6.2041994e-02]",Ikhabhinethi iyivumile Inchubomgomo Yavelonkhe lemayelana Nekuvikelwa Nekulawula Kukhulelwa Kwebafundzi Etikolwen Lenchubomgomo iphendvula Sehlulelo seNkantolo sanga-2012 lesasimelene neLitiko Letemfundvo Lesisekelo,Cabinet approved the National Policy on the Prevention and Management of Learner Pregnancy in School The policy responds to the 2012 Court Judgement that ruled against the Department of Basic Education on certain clauses that called for learners to take leave of absence from school for up to two years post-deliver,0.8281163
+"[ 2.576058   -0.09375476 -0.3156138  ...  0.48845333  1.4079088
+  1.3465022 ]","[ 0.02727533 -0.00278405 -0.00040398 ...  0.0303373   0.0173446
+  0.03047584]",mayelana nemabintana latsite labenta kutsi bafundzi bashiye sikolwa iminyaka lemibili ngemuva kwekubelek,Cabinet approved the publication of the National Council on GBVF Bill of 2021 in the Government Gazette for public commen,0.6516682
+"[ 0.6007184   0.16635753 -0.0233802  ...  0.9764695   0.72265595
+  0.6786254 ]","[ 0.02499354  0.00459103 -0.00013184 ...  0.03481356  0.01376022
+  0.0127783 ]","Lenchubomgomo yenta kutsi kube nesimondzawo lesivumako lesesekela bafundzi futsi lesivikela kubandlululwa kwebafundzi labakhulelw Iphindze futsi yenta kutsi kufinyelele lwatiso lolukhulu lwekuvikela kukhulelwa; kwelulekwa kanye netinkhombandlela tekunakekelwa, kanye nekuhlelwa kwetinhlaka tekuchumanisa nenchubomgomo yekulawul","The policy provides for an enabling environment to support learners and prevent discrimination against pregnant learner It also provides for access to comprehensive pregnancy prevention information; counselling and care guidelines, as well as the setting up of policy management and coordinating structure",0.88817394
+"[ 0.6534965  -0.09417064 -0.19936535 ...  0.17599426  0.48231223
+  1.3126905 ]","[ 0.02773604 -0.00155451  0.00043267 ...  0.00802807  0.00815068
+  0.03979258]",Lenchubomgomo sekuboniswene ngayo kakhulu nebadlalindzima labafanele futsi ihambisana nayo yonkhe imitsetf 4.,The policy has gone through extensive consultation with all relevant stakeholders and is aligned with all relevant law 4.,0.7951048
+"[ 0.53041154 -0.11481595 -0.34295067 ...  0.5479479   0.7742852
+  0.76030195]","[-0.00063759 -0.00138812 -0.0003232  ...  0.01008981  0.01077534
+  0.00629449]","Kungena kuSivumelwane eNhlanganweni Yetemfundvo, Tesayensi kanye Nemasiko YaMhlabuhlangene (i-UNESCO) yanga-2003 yeKugadza Lifa Lemasiko Lelingabambeki (i-ICH)","Accession to the 2003 United Nations Educational, Scientific and Cultural Organization (UNESCO) Convention for the Safeguarding of Intangible Cultural Heritage (ICH)",0.878981
+"[ 0.42510277 -0.09182314 -0.19988605 ...  0.69881606  1.095805
+  1.3063674 ]",[0.00375069 0.00348266 0.00012532 ... 0.02000645 0.01923645 0.02196774],Ikhabhinethi ikuvumile kungena kweNingizimu Afrika kuSivumelwane ye-UNESCO sekugadza i-IC,Cabinet approved South Africa s accession to the 2003 UNESCO Convention for the Safeguarding of IC,0.8310187
+"[ 0.39344433 -0.22045036 -0.2909121  ...  0.7515255   0.7198791
+  1.1305587 ]","[ 0.0091471  -0.00361458  0.00077966 ...  0.01155131  0.012833
+  0.01660657]","Lesivumelwane senta kutsi kugadvwe, kuvikelwe futsi kukhutsatwe i-ICH ngemalunga emave lafanel","The convention provides for the safeguarding, preservation and promotion of ICH by the respective member state",0.7878223
+"[ 0.5205263  -0.03006699 -0.16806763 ...  0.74633366  1.4223644
+  0.62893724]","[ 0.00263785 -0.000823   -0.00084453 ...  0.03464362 -0.0018568
+  0.02358784]","I-ICH ifaka ekhatsi emkhatsini walokunye tindzawo temmango temasiko, lwati, tintfo kanye nemihlobiso emimangwen","The ICH includes amongst others community cultural spaces, knowledge, objects and artefacts in communitie",0.8288481
+"[ 0.512415    0.05417429 -0.33458343 ...  0.9469938   0.8719729
+  1.6319587 ]",[0.02528409 0.02775262 0.00029401 ... 0.01970456 0.04217484 0.05781265],"Lesivumelwane sibophelela emave langemalunga kutsi akhombe, achaze aphindze futsi akhe tinyatselo letifanele tekuwavikel Siphindze futsi sikhutsate emave kutsi asebentise tinyatselo temtsetfo, kulawulwa kwetebucwepheshe netetimali kugadza nekukhutsata i-IC Lokungena kutawetfulwa ePhalamende kute kutsi kusayinwe","The convention obliges member states to identify, define and devise appropriate measures for their preservatio It also encourages countries to adopt legal, technical administrative and financial measures to safeguard and promote IC The accession will be tabled to Parliament for ratification",0.87659645
+"[ 0.9896371   0.3919238  -0.20651096 ...  0.63221073  0.7249982
+ -0.04590362]",[0.03003942 0.01309316 0.00017647 ... 0.01226254 0.02825318 0.01774252],Sivumelwane se-UN lesimelene neNkhohlakalo (i-UNCAC),UN Convention against Corruption (UNCAC),0.87814486
+"[ 0.46066403 -0.15475725 -0.28698766 ...  0.6086397   1.3092092
+  2.368641  ]","[ 0.00786027 -0.00424672 -0.00049524 ...  0.01452767  0.04250089
+  0.06988547]",Ikhabhinethi ikuvumile kushicilelwa kweMbiko Welubuyeketo lomayelana nekuphunyeleliswa kwaleSivumelwan INingizimu Afrika yasayina i-UNCAC nga-2004.,Cabinet approved the publication of South Africa s Review Report on the implementation of the Conventio South Africa ratified the UNCAC in 2004.,0.8719859
+"[ 0.59462637 -0.3793777   0.54121065 ...  0.24622485  0.7049964
+  1.0616169 ]","[ 0.00375729 -0.00194849  0.00389742 ... -0.00130972  0.00749995
+  0.0247254 ]",Emave langemalunga abuyeketwa balingani mayelana nekuphunyeleliswa kwalesivumelwan,Member states are peer reviewed on the implementation of the conventio,0.76655865
+"[ 0.57858473  1.9274002  -0.15515238 ...  1.0563232   0.72632843
+  1.2620366 ]",[0.01938136 0.05978354 0.00178192 ... 0.00248907 0.02394702 0.03056596],"INingizimu Afrika yabuyeketwa kwekucala nga-2012 mayelana nekuphunyeleliswa kwetingenelelo tetebugebengu nekucinisekiswa kutfotjelwa kwemtsetfo, kanye nekulandzelwa kwelubanjiswano lwetekubambisana lwavelonkh Umbiko welubuyeketo lwanga-2019/20 wamanje ugcile etinyatselweni tekuvikela nekutfola imphahla lebeyinyamalel","South Africa was first reviewed in 2012 on the implementation of the criminalisation and law-enforcement interventions, and also on its international cooperation adherenc The current 2019/20 review report focused on preventative and asset recovery measure",0.8928471
+"[ 0.5555109  -0.14897124 -0.08240193 ...  0.18282197  0.95641416
+  0.73713243]","[ 0.01537186 -0.0010457   0.00586717 ...  0.01084704  0.01317479
+  0.05161169]","Lenchubo yelubuyeketo ikhutsata lubanjiswano lolwakhako lolwentiwa, emkhatsini walokunye, kuniketa tinhlelo tekwesekela ngekwebucwepheshe kumave langemalung","The review mechanism promotes constructive collaboration by, amongst others, providing technical assistance programmes to the member state 6.",0.80730677
+"[ 0.5670286  -0.195508    0.09269471 ...  0.48155358  0.723733
+  0.8711516 ]",[0.01392455 0.00231225 0.00283555 ... 0.01680517 0.00723547 0.019139  ],Kuhlehliswa kwekutsi iNingizimu Afrika kutsi ingenise Umcimbi Lohambisana neLilanga Lemhlaba Letaselwandle (i-WMDPE),Postponement for South Africa to host the World Maritime Day Parallel Event (WMDPE),0.8219141
+"[ 0.8540511  -0.00527342  0.07704297 ...  0.8861542   1.242707
+  2.1579058 ]","[ 0.01720871 -0.00053841 -0.0008407  ...  0.01873889  0.04533618
+  0.06362331]",Inhlangano Yemave Emhlaba Yetaselwandle iphindze futsi yanika iNingizimu Afrika kutsi ihlehlise kungenisa i-WMDPE ngesizatfu se-COVID-19.,The International Maritime Organisation has once again granted South Africa permission to postpone the hosting of the WMDPE owing to COVID-19.,0.88778126
+"[ 1.0429642  -0.03680136  0.03725408 ...  0.3995293   0.91332203
+  1.3826605 ]","[ 0.02328912 -0.00197678 -0.000348   ...  0.01440757  0.00676293
+  0.04215   ]","Lokuhlehliswa kususwe enyangeni yeMphala 2021 kwayiswa enyangeni yeMphala 2022, lilandzela lekucala langa-2020 ngesizatfu salolubhubhan",Cabinet approved the submission of the National Veld and Forest Fire Amendment Bill of 2021 to Parliamen This Bill was first submitted to Parliament in 2017 and was sent back for further consultation with the publi,0.7309046
+"[ 1.0406389   0.10507093 -0.06067378 ... -0.12931217 -0.09315038
+  0.41830856]","[ 0.03711418 -0.00074501 -0.00080939 ... -0.00445885  0.01018452
+  0.00774709]",Imitsetfosivivinyo 1.,Bills 1.,0.7705407
+"[ 0.8265161   0.8175027  -0.15561277 ...  1.3611252   1.001179
+  0.4654215 ]",[0.01418205 0.01715722 0.00031483 ... 0.02376691 0.02281098 0.04415119],Umtsetfosivivinyo wanga-2021 weMkhandlu Wavelonkhe mayelana ne-GBV neKubulawa Kwebantfu Besifazane (i-GBVF),National Council on GBV and Femicide (GBVF) Bill of 2021,0.8607701
+"[ 1.041837   -0.02878531 -0.13773392 ...  1.2070746   1.1951869
+  1.1182735 ]","[ 0.03378378  0.00014009 -0.00187867 ...  0.02207868  0.02304205
+  0.02428468]",Ikhabhinethi ikuvumile kushicilelwa kweMtsetfosivivinyo wanga-2021 weMkhandlu Wavelonkhe we-GBVF kuGazethi yaHulumende kute kutsi ummango uphawule ngaw,Major General David Chilembe as Deputy Commissioner of Operations at the BM Cabinet concurred with the appointment of the Board members subject to the verification of the qualifications and relevant clearance,0.7496078
+"[ 1.0109303  -0.19930734 -0.2893394  ...  1.2227824   0.9114756
+  2.6979868 ]","[ 0.01663465 -0.00372837 -0.00051867 ...  0.04644074  0.01596907
+  0.06846468]",LoMtsetfo uphendvula ticondziso teLisubuciko Lavelonkhe (i-NSP) mayelana ne-GBVF lowavunywa yiKhabhinethi ngeNdlovulenkhulu 2020.,The Bill responds to the strategic directive from the National Strategic Plan (NSP) on GBVF that was approved by Cabinet in March 2020.,0.8556428
+"[ 0.87680477  0.24119443 -0.24848668 ...  0.59341073  1.2710484
+  0.9018923 ]","[ 0.01420347  0.00038121 -0.0003259  ...  0.03508577  0.04147797
+  0.02621171]",LoMtsetfosivivinyo uhlongota kusungula umkhandlu lotimele lomelele kutsi wengamele i-NSP ku-GBVF,The Bill proposes the establishment of a representative independent council to oversee the NSP on GBVF,0.8510652
+"[ 0.9807981   0.04691193 -0.04401504 ...  0.4864237   0.7059042
+  0.35727757]","[ 0.01336807 -0.00296626  0.00069966 ...  0.00579083  0.01149882
+  0.0499438 ]",Umtsetfosivivinyo wanga-2021 Wekuchibela Temadlelo Avelonkhe Nemililo Yemahlatsi (i-NVFFA),National Veld and Forest Fire Amendment (NVFFA) Bill of 2021,0.8155114
+"[ 0.8954508   0.30909607 -0.16594139 ...  0.63270825  1.0187832
+  1.3781726 ]","[ 9.8074190e-03 -1.1289531e-03 -2.9581097e-05 ...  2.9439395e-02
+  4.6698645e-02  3.9837092e-02]",Ikhabhinethi ikuvumile kwetfulwa ePhalamende kweMtsetfosivivinyo wanga-2021 weKuchibela Temadlelo Avelonkhe Nemililo Yemahlats LoMtsetfosivivinyo wangeniswa kwekucala ePhalamende nga-2017 waphindze futsi wabuyiselwa emuva kute kutsi kuchutjekwe kuboniswane ngawo nemmang,"Ms Verity Price, a professional speaker and facilitator, for winning the 2021 Toastmasters World Champion of Public Speakin She is the sixth woman to win the World Championship in the last 80 years of the competition and the first winner from AfricThe Springbok Sevens team, for winning the fourth HSBC World Rugby Sevens Series when they completed the North American double by winning the second of two HSBC Canada Sevens tournaments in Edmon",0.7835079
+"[ 0.67709035  0.38842234 -0.14293894 ...  1.3611759   0.6695882
+  1.2303803 ]",[0.01171731 0.00069106 0.00600352 ... 0.04218018 0.01854269 0.01733478],"Emkhatsini yaleminye imigomo, loMtsetfosivivinyo usungula tinhlaka emkhakheni wahulumende nasezingeni lemmango letitawusebentisana tinciphise bungoti bekusha kwemadlelo, uphindze ukhutsate kuhambisana nemtsetfo nekuwutfobela lokusebentak","The transport sector is an important socio-economic element in South Afric This year the campaign will focus on positioning transport as a key enabler in the country s economic recovery; create an awareness and educate on the safety in all transport modes, and also showcase the improvements made in the transport syste",0.717245
+"[ 0.8794475  -0.02669595 -0.03552065 ...  0.5792838   1.7854053
+  0.64824116]","[ 0.05112436 -0.00048323  0.00130397 ...  0.03367621  0.0670427
+  0.01664983]","Imililo yemadlelo lengalawulwa ibangela kuguguleka kwendzawo, kulahleka kwemisebenti, kuhlakateka kwemimango, kanye nekumosheka kwesakhiwonchanti lesetayelekile, imfuyo, tilwane nekwehlukahlukana kwetilwane netitjal","four golds, a silver and two bronze Team SA s medallists in Tokyo were Ntando Mahlangu (two golds), Pieter du Preez (gold), Anrune Weyers (gold), Louzanne Coetzee (silver and bronze) and Sheryl James (bronze).",0.72063375
+"[ 0.20449561 -0.4604667  -0.20374364 ...  0.39884898  0.16701812
+  0.95349663]","[-0.00130068  0.00138589 -0.000487   ... -0.00196136 -0.00190788
+  0.02203241]",Imikhosi Letako1.,UPCOMING EVENTS1.,0.6907717
+"[ 0.22321427 -0.32813305 -0.20638506 ...  0.71185213  1.464253
+  0.8748768 ]","[-0.00149392 -0.00143581 -0.00049958 ...  0.02480478  0.0429065
+  0.03284431]",Ingcungcutsela Yetekutfutfukiswa Kwesakhiwonchanti Lesisimeme ENingizimu Afrika (i-SIDSSA),Sustainable Infrastructure Development Symposium South Africa (SIDSSA),0.89343715
+"[ 0.41499004 -0.3527838   0.13952065 ...  1.1668484   0.86117715
+  3.045616  ]","[ 0.00743759 -0.00058008  0.02072912 ...  0.0214549   0.0175764
+  0.08454943]","Hulumende utawungenisa i-SIDSSA 2021 ngaLesitsatfu, mhla ti-6 nangaLesine, mhla ti-7 Imphala 2021.","Government will be hosting the SIDSSA 2021 on Wednesday, 6 and Thursday, 7 October 2021.",0.9164498
+"[ 0.843678   -0.17392313  0.08587483 ...  0.66389626  0.6868808
+  0.36196747]",[0.01705471 0.01529767 0.00655028 ... 0.03396621 0.02457003 0.01631329],Lengcungcutsela itawube ingenelwe badlalindzima labanyenti kwenta kancono sakhiwonchant,The Department of Transport will share the month s activities with the public and more information is available on wwtransporgoz,0.6480668
+"[ 0.51647097 -0.02860172 -0.1412366  ...  1.026409    1.021373
+  1.6322237 ]","[ 4.2074807e-02 -9.9649455e-04 -7.4509859e-05 ...  4.5424094e-03
+  3.7856113e-02  1.8029772e-02]",Lesakhiwonchanti se-SIDSSA sihlose kufaka ligalelo ekutfutfukiseni timboni nasekwakheni imisebenti njengobe kucatjangiwe ku-ERRP kanye neLisubuciko Letetimboni Lelicatjangwe Kabush Tingenelelo letitfoliwe tihlose kufaka emandla ekufunwa kakhulu kanye nekucinisekisa luchumaniso lolusebentako lwabo bonkhe badlalindzima besakhiwonchant Kulindzeleke kutsi letingenelelo titawufaka ligalelo ekwakheni umnotfo locinile ngekutsi kusheshiswe kwakhiwa kwesakhiwonchant I-SIDSSA 2021 itawubanjwa ngaphansi kwengcikitsi letsi:,"Condolences Cabinet expressed condolences to the family and friends of: Prof Hlengiwe Buhle Mkhize (69), Deputy Minister in The Presidency for Women, Youth and Persons with Disabilitie Throughout her life she distinguished herself as a tireless and passionate anti-apartheid and human rights activist, and campaigner for an end to gender inequalitMr Karabo Gungubele (32), the son of Minister in The Presidency, Mr Mondli Gungubel Ms Zanele kaMagwaza-Msibi (59), National Freedom Party leader and former Deputy Minister of Science and Technology, who devoted herself to making numerous extraordinary contributions to our democracy and societMr Jolidee Matongo (46), City of Johannesburg Executive Mayor,",0.73084855
+"[ 0.59946364 -0.1249796  -0.1595366  ...  0.31313547  0.17907777
+  0.9110894 ]","[ 0.00041733  0.0041239  -0.00029484 ...  0.02785207  0.02251645
+  0.02419182]","Sakhiwonchanti lesisezingeni lelifanele sekutfutfukisa, kuvusa kanye nekukhula lokufaka konkhe ekhatsi .",who was dedicated to improving conditions and creating opportunities for all the people of Johannesburg and stakeholders in the metropolitan econom,0.64752877
+"[ 0.2849826  -0.2466877  -0.09480354 ...  0.36225298 -0.33363235
+  1.0904887 ]","[-0.00393639 -0.00370962 -0.00302806 ... -0.0044093  -0.00694692
+  0.0168343 ]",Inyanga Yetekutfutsa yanga-2021,083 501 0139,0.5263685
+[0.7737454  0.44430554 0.23217878 ... 1.3911502  1.3901393  2.2683194 ],"[ 0.01936361 -0.00076865  0.0090196  ...  0.02970862  0.01306574
+  0.05772281]",Imphala ihlelelwe kuletsa kugcila lokukhulu etindzabeni tetitfutsi taleliv Lona ngumnyaka we-16 lelive lihlonipha Inyanga Yetekutfuts Ikhabhinethi iyivumile ingcikitsi yalomnyaka:,October is dedicated to bringing a sharp focus to transport issues in the countr This is the 16th year that the country observes Transport Mont Cabinet approved this year s theme:,0.8417089
+"[ 0.01940967 -0.3682234  -0.13677675 ...  0.11731641  0.0467574
+  0.2512096 ]","[ 1.9456113e-02 -1.5480610e-03 -5.9987789e-05 ... -4.0903606e-04
+  7.0459121e-03  1.5454889e-02]","Sisonkhe, asilungise titfutsi .","Together, let s fix transport .",0.54766726
+"[ 0.57774097 -0.2161708  -0.12125351 ...  0.1205522   0.3766438
+  0.16228242]","[ 0.03068645  0.00076503 -0.00046594 ...  0.01699145  0.02212965
+  0.00154952]",Sicubulo salomkhankhaso,The campaign s slogan is,0.70380306
+"[ 0.9115777  -0.2700614  -0.30811867 ...  0.47690886  0.65323573
+  1.4174879 ]","[ 0.04199541 -0.00026772 -0.00053092 ...  0.01694627  0.01281773
+  0.05641087]",Brika Bova: Sigibele ligagasi lelicondze kutitfutsi letincono takusasa .,Brika Bova: Riding the wave to a better transport system for tomorrow .,0.7857333
+"[ 0.6705678  -0.0426937  -0.1202708  ...  0.9166827   0.59198
+  0.58577967]","[ 0.02470723 -0.0021619   0.00572648 ...  0.02059821  0.04659862
+  0.0424831 ]","Umkhakha wetitfutsi uyintfo lebaluleke kakhulu kutemnotfo netenhlal Umkhankhaso walonyaka utawugcila ekwenteni titfutsi tibe yinjini yekwenta tintfo tenteke ekubuyisweni kwemnotfo; kucaphelisa nekufundzisa ngetekuphepha kuto tonkhe tinhlobo tetitfutsi, uphindze futsi ukhombise buncono lobentiwe kutetitfuts",Cabinet extended its congratulations and well-wishes to: South Africa s Paralympic team for flying the South African flag high by winning seven medals in total,0.6381941
+[0.772616   0.254521   0.29923147 ... 0.96266794 0.85232407 0.6329639 ],"[ 0.02582233  0.00359894 -0.0003296  ...  0.03950636  0.03743104
+  0.01412604]",Litiko Letetitfutsi litawabelana imisebenti yalenyanga nemmango futsi lwatiso lolunyenti luyatfola ku-wwtransporgoz,Deputy Director General: Rail Transport Department of Transport Mr Ngwako Wilson Makaepea Enquiries:Ms Phumla Williams,0.6580111
+"[ 0.10308694 -0.21541055 -0.17757569 ...  0.01747533 -0.09565043
+  0.42769402]","[ 0.00131374 -0.00141663 -0.00015947 ... -0.00232111  0.01373385
+  0.01127642]",Imilayeto1.,Sishi6.,0.6153251
+"[ 0.3145179  -0.17627233  0.17629112 ...  0.87263423  1.5744864
+  1.707841  ]","[-0.00204347 -0.00244854 -0.00117152 ...  0.01636715  0.01403857
+  0.01544241]",KuhalalisaIkhabhinethi yendlulisela kuhalalisa netilokotfo tayo letinhle ku: Licembu laseNingizimu Afrika le-Paralympic ngekuphakamisela umjeka waseNingizimu Afrika etulu ngekuwina tindondo letisiphohlongo setitonkhe,Board of directors of the South African Biodiversity Institute:,0.6900501
+"[ 1.4070568   0.00808893 -0.07869349 ...  1.2089739   2.5609326
+  0.8519306 ]","[-9.8254590e-04 -5.5991299e-05 -4.1296816e-04 ...  4.5078661e-02
+  3.4590036e-02  1.8511984e-02]","letine teligolide, yinye lelisiliva bese tiba timbili telitfusi lelibov Bosondondo beLicembu laseNingizimu Afrika eTokyo kube nguNtando Mahlangu (emagolide lamabili), Pieter du Preez (ligolide), Anrune Weyers (ligolide), Louzanne Coetzee (lisiliva nelitfusi lelibovu) kanye na-Sheryl James (litfusi lelibovu).",Deputy Director General: Marine Transport Department of Transport Mr Mthunzi Edmund d Madiya7.,0.6948064
+"[ 0.48638958 -0.33289054 -0.22911428 ...  1.1005859   1.9678696
+  1.7094419 ]","[ 1.36294365e-02 -8.78602805e-05 -9.55073163e-04 ... -2.21932749e-03
+  2.31373347e-02  7.53848022e-03]","M Verity Price, sikhulumi lesiyingcweti kanye nemchubi, ngekuwina Indzebe Yemhlaba ye-Toastmasters World Champion of Public Speakin Lona ngumake wesitfupha wekuwina iNdzebe Yemhlaba kuleminyaka lenge-80 leyendlulile yalomncintiswano futsi unguwekucala kuwina lovela e-AfrikLicembu le-Springbok Sevens, ngekuwina i-HSBC yesine ye-World Rugby Sevens Series ngesikhatsi bacedza kuwina lokuphindzekile kwe-North America kumincintiswano lemibili ye-HSBC Canada Sevens e-Edmon",Dr Nakampe Michael Masiapato as Commissioner of the Border Management Authority (BMA),0.61745095
+[0.55726874 0.1720778  0.7239324  ... 0.5109474  1.4874463  0.75476867],"[ 0.04239306 -0.00132333 -0.00100372 ...  0.03808921  0.0049578
+  0.01381069]","Kudvudvuta Ikhabhinethi ivakalise emavi ekulilela nekudvudvuta imindeni nebangani ba: Solwati Hlengiwe Buhle Mkhize (69), Lisekelandvuna eHhovisi Lamengameli laBomake, Lusha Nebantfu Labanekukhubatek Emphilweni yakhe yonkhe utikhombise kuba sishikashiki lesingapheli mandla nalesinenshisekelo sekulwa nelubandlululo nesishikashiki lesilwela emalungelo ebantfu, nemkhankhasi wekucedza kungalingani ngekwebulilMn Karabo Gungubele (32), indvodzana yeNdvuna eHhovisi Lamengameli, Mn Mondli Gungubel M Zanele kaMagwaza-Msibi (59), umholi we-National Freedom Party neLisekelandvuna leSayensi neBucwepheshe, lowatinikela ekufakeni emagalelo lamanyenti langetulu kwalatayelekile entsandvweni yetfu yelinyenti nemmangMn Jolidee Matongo (46), Umphatsidolobha Lomkhulu weLidolobhakati laseJozi,",Dr Reginald Sethole Legoabe Director General: Department of Higher Education and Training Dr,0.60676837
+"[ 0.89548516 -0.07430649 -0.31958506 ...  0.93172455  1.6587029
+  0.640678  ]","[ 6.56305701e-02  1.06530955e-04 -8.10368219e-05 ... -2.55893421e-04
+  3.28823105e-02  2.71092411e-02]",lobekatinikele ekwenteni kancono timo kanye nekwakha ematfuba abo bonkhe bantfu baseJozi nebadlalindzima emnotfweni welidolobhakat,Chief Livhuwani Lyborn Matsila;(viii),0.6305676
+"[ 0.48085842  0.06778648 -0.2589364  ...  1.1385803   0.8358371
+  0.9836571 ]","[ 3.3261343e-03 -1.4879893e-05 -9.6997427e-04 ...  3.0558165e-02
+  1.2534222e-02  2.2961715e-02]",Kubekwa EtikhundleniIkhabhinethi ikuvumile kubekwa esikhundleni kwaKhomishina kanye neLisekelakhomishina we-Ejensi Lephetse Imincele; 1.,APPOINTMENTSCabinet has endorsed the appointment of the Commissioner and Deputy Commissioner of the Boarder Management Agency;1.,0.83905935
+"[ 1.1303321  -0.07967757 -0.18032025 ...  0.73435193  1.0342935
+  0.61989254]","[ 0.05260497 -0.00029463  0.00102686 ...  0.01181765  0.03205191
+  0.03293359]",Dk Nakampe Michael Masiapato njengaKhomishina weSikhungo Lesiphetse Temincele (i-BMA),Ms Zukisa Millicent Ramasia;(vi),0.7096199
+"[ 1.1352025   0.12913382 -0.21460652 ...  1.1839037   0.6699574
+  1.0840642 ]","[ 0.01522476 -0.00089772  0.00152476 ...  0.02395465  0.00587726
+  0.00742091]",Jenene Jikelele David Chilembe njengeLisekelakhomishina e-BM Ikhabhinethi ikuvumile kubekwa esikhundleni kwemalunga eBhodi ngekuya kwekucinisekiswa kweticu tetemfundvo nekuhlolelwa tekuphepha,South Africans with the opportunity to exercise their constitutional right to elect their public representative,0.6415002
+"[ 0.25026312 -0.43390197 -0.26660654 ...  0.8597478   0.5723413
+  0.7740332 ]","[-0.00221389 -0.00177262 -0.00095175 ...  0.01487454  0.01198405
+  0.01191236]",Ibhodi yebacondzisi beMapaki Avelonkhe aseNingizimu Afrika:(i),Board of directors of the South African National Parks:(i),0.90996337
+"[ 2.0025344   0.04719007 -0.12768897 ...  0.21203086  0.38323802
+  0.9478374 ]",[0.08707921 0.00042327 0.00030955 ... 0.00640367 0.03214092 0.02522429],Mk Pamela Bulelwa Yako;(ii),Ms Pamela Bulelwa Yako;(ii),0.79946744
+"[ 1.6375375  -0.03871783 -0.17023121 ...  0.2525396   1.4606438
+  1.2862892 ]","[ 8.0864772e-02 -6.8045032e-05  4.2531543e-04 ... -3.3383772e-03
+  7.1429156e-02  1.5280223e-02]",M Gertrude Bulelwa Koyana;(iii),Ms Gertrude Bulelwa Koyana;(iii),0.8801986
+"[ 0.70526934 -0.22091334 -0.1590382  ... -0.16686253  0.15221857
+  0.5782216 ]","[ 0.03230455  0.00637523 -0.00012117 ...  0.00633581  0.00563225
+  0.00305381]",M Nandi Nyameka Mayathula-Khoza;(iv),Ms Yolan Friedmann;(v),0.6742195
+"[ 1.5725042  -0.23836382 -0.18933466 ...  0.5268277  -0.00173685
+  0.66306454]","[ 3.0756857e-02 -1.3490961e-03 -9.0635403e-05 ...  1.2944733e-02
+  1.2026659e-02  1.9433042e-02]",M Yolan Friedmann;(v),Ms Joanne Yawitch; (ii),0.803175
+"[ 0.8091114  -0.36157635 -0.18920973 ...  0.36015975  0.60478395
+  1.0536793 ]","[ 0.02738365 -0.00092752 -0.00015318 ...  0.01827241  0.04592852
+  0.03716103]",M Zukisa Millicent Ramasia;(vi),Mr Lourence Bernad Mogakane;(ix),0.77419364
+"[ 2.3460112  -0.1638237  -0.24077651 ...  0.21719866  0.87204283
+  1.2613585 ]","[ 0.05237892  0.00079201 -0.00025313 ... -0.00012406  0.0361865
+  0.0178301 ]",Mn Jeoffrey Godfrey Mashele;(vii),Mr Jeoffrey Godfrey Mashele;(vii),0.90122795
+"[ 1.7555523  -0.03670561 -0.1906561  ...  0.97767824  0.88926095
+  1.3640059 ]","[ 0.07824219  0.00329737 -0.00096843 ...  0.00955761  0.01095548
+  0.0111731 ]",Inkhosi Livhuwani Lyborn Matsila;(viii),Dr Lesley Thulani Luthuli;(v),0.7834015
+"[ 1.2617521  -0.27412546 -0.18516983 ...  0.60537726  1.0623311
+  1.6192347 ]","[ 0.06074251 -0.00093339 -0.00126155 ...  0.02460957  0.03931971
+  0.00938374]",Mn Lourence Bernad Mogakane;(ix),Dr Pulane Elsie Molokwane;(iv),0.8180329
+"[ 1.1235847  -0.15364963 -0.14212523 ...  0.82470363  0.5837
+  0.8920919 ]","[ 0.0763056   0.00308959 -0.00013535 ...  0.01341961  0.04232689
+  0.02747876]",Mn Fulufhelo Edgar Neluchalani;(x),Mr Fulufhelo Edgar Neluchalani;(x),0.7806435
+"[ 1.0064213  -0.14759429 -0.1273653  ...  0.5955486   0.6755094
+  1.2818807 ]","[ 0.01080977  0.0002343  -0.00010281 ...  0.00930226  0.0139417
+  0.03461055]",Mn Ntsako Brian Ngobeni; kanye(xi),Mr Ntsako Brian Ngobeni; and(xi),0.86635745
+"[ 1.5362062  -0.22624113 -0.3586148  ...  0.62275946  1.9164989
+  0.6394005 ]","[ 4.5160726e-02  3.7559650e-03 -7.4314121e-05 ... -2.2548581e-03
+  5.6705870e-02  1.5526796e-02]",M Hulisani Helen Mushiane,Ms Hulisani Helen Mushiane,0.81589305
+"[ 0.40489918 -0.41303682 -0.28877485 ...  0.41858134  1.0446914
+  0.37475452]","[-0.00182752 -0.00149743  0.00157246 ...  0.01479987  0.00549291
+  0.001254  ]",Ibhodi yebacondzisi yeSikhungo Sekwehlukahlukana Kwetilwane Netitjalo yaseNingizimu Afrika:,Cabinet Spokesperson,0.62876517
+"[ 0.42676914 -0.30447966 -0.2029411  ...  0.5890656   0.40220058
+  1.3966156 ]","[ 0.04017244  0.00125548 -0.00020084 ...  0.00912526  0.01521995
+  0.01533644]",M Joanne Yawitch; (ii),Mr Paul Graeme Daphne;(vi),0.76619345
+"[ 2.2378998  -0.38355443 -0.19732201 ...  0.33598062  0.32860586
+  1.3316269 ]","[ 6.54302239e-02 -9.97557072e-04 -7.39623356e-05 ...  1.41781885e-02
+  2.18276326e-02  2.20927317e-02]",M Beryl Delores Ferguson;(iii),Ms Beryl Delores Ferguson;(iii),0.91478753
+"[ 1.0324417   0.00654189 -0.24008109 ...  0.7817825   0.32097366
+  1.0958196 ]","[ 0.02863166 -0.00053046 -0.00084056 ... -0.00305064  0.00892195
+  0.02798891]",Dk Pulane Elsie Molokwane;(iv),Dr Mmaphaka Ephraim Tau; and(viii),0.7508606
+"[ 2.227667   -0.07222982 -0.2372339  ...  0.29522604  1.4607705
+  0.62610584]","[ 0.01119397  0.00083377 -0.00103132 ... -0.00207279  0.00535372
+  0.02114946]",Dk Lesley Thulani Luthuli;(v),Prof Azwihangwisi Edward Nesamvuni;(vii),0.7996632
+"[ 1.3137549  -0.19893084 -0.20182511 ...  0.47468308  0.15683879
+  0.9855551 ]","[ 7.1988694e-02  6.6065011e-03 -9.1948132e-06 ...  1.0115105e-02
+  6.1134044e-02  1.8715676e-02]",Mn Paul Graeme Daphne;(vi),Ms Nandi Nyameka Mayathula-Khoza;(iv),0.7635434
+"[ 1.0462489  -0.05006749 -0.21079107 ...  0.62360364  1.1603782
+  0.8978345 ]","[-0.00043591  0.00428632 -0.0004632  ... -0.01179624  0.00842996
+  0.01410628]",Solwati Azwihangwisi Edward Nesamvuni;(vii),Nkosinathi,0.6011564
+"[ 1.4378431  -0.17835233 -0.15003577 ...  0.94343597  0.70195574
+  1.4153745 ]","[ 0.01839094  0.02430493 -0.00106553 ... -0.00435404  0.01735097
+  0.02744952]",Dk Mmaphaka Ephraim Tau; kanye(viii),"imprisonment for theft, which will run concurrentl",0.4933824
+"[ 2.2375765  -0.01610676 -0.2702486  ...  1.2928458   1.5693418
+  0.68517333]","[ 0.00632663  0.00505467 -0.00047216 ...  0.00941082  0.01826911
+  0.01340113]",naDk Reginald Sethole Legoabe,Cabinet reiterates the call that to,0.48893875
+"[ 0.59305465 -0.15555292 -0.04078961 ...  0.43113402  0.34322092
+ -0.02699412]","[ 0.00980162 -0.0033715  -0.00078007 ...  0.00912488 -0.00173329
+  0.03020796]",Umcondzisijikelele: Litiko Letemfundvo Lephakeme Nekucecesha,Issues in the environment1.,0.48107183
+"[ 0.58680815 -0.28193048 -0.19028427 ...  0.0514828   0.8041639
+  0.2914119 ]","[ 4.3035611e-03 -4.9268550e-05 -5.6170177e-04 ...  2.6530115e-04
+  3.3288756e-03 -1.8969752e-04]",Nkosinathi,Congratulations,0.56774914
+"[ 0.773731   -0.5549152  -0.01041854 ... -0.10088331  1.0606893
+  0.32219738]","[ 0.01601995  0.00253431 -0.00028783 ...  0.00537885  0.02276659
+  0.01275415]",Sishi6.,This is to cater for those whose marriages,0.30545598

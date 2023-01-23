@@ -1,0 +1,138 @@
+ts,en,src_text,trg_text,Cosine_Score
+"[ 0.5304226  -0.09240484 -0.5067165  ...  0.5986261   0.5282012
+  0.79211533]","[ 0.04629111 -0.00193979  0.00536488 ...  0.03096706  0.01185535
+  0.03526812]",Nhlengeletano leya Khabinete yo Hlawuleka ya le moyeni a yi khomiwile ku nga si sungula Lekgotla ra Khabinet,"Statement on the virtual Special Cabinet Meeting of Tuesday, 14 September 2021The virtual Special Cabinet Meeting was held before the commencement of the Cabinet Lekgotl",0.69019365
+"[ 0.7081513  -0.20296806 -0.27865016 ...  0.06638575  0.09666853
+  0.73869467]","[ 0.00408866 -0.00296827 -0.00060771 ...  0.00854466 -0.00353386
+  0.01201626]",Swiboho swa Khabinete1.,CABINET DECISIONS1.,0.7948719
+"[ 0.6098886   0.0539823  -0.11143828 ...  0.4746637   0.41530696
+  0.58414614]","[-0.00198909 -0.00150242 -0.00374726 ...  0.01311654  0.01403849
+  0.02882557]",Ku Engeteriwa ka Pulani ya Rixaka ra Hayidirojeni (HSRM),Extension of the Hydrogen Society Roadmap (HSRM),0.84161794
+"[ 0.6220985  -0.12950327 -0.02791592 ...  0.81390214  0.80995387
+  1.8153367 ]","[ 0.00348226 -0.00379556 -0.00061687 ...  0.01497319  0.01119706
+  0.06269512]",Khabinete yi pasise ku engeteriwa ka HSRM ku ringana 10 ra malembe lama tak,Cabinet approved the extension of the HSRM for the next 10 year,0.83113384
+"[ 0.6820024   1.2684127  -0.14367501 ...  1.0677043   0.8786592
+  1.5511047 ]","[ 0.01169046  0.02254639 -0.00017604 ...  0.02520902  0.0171426
+  0.03985069]",HSRM yi humelerisa Qhinga ra Hayidirojeni ya Afrika-Dzonga leri ri pasisiweke hi Khabinete hi 2007 ku lulamisela tiko ku va na ikhonomi ya hayidirojen HSRM yi aka ehenhla ka leswi swi fikeleriweke eka 10 ra malembe lama nga hundza ku lulamisela Afrika-Dzonga ku cinca kusuka eka ndzavisiso na nhluvukiso kuya eka vuendli na vubindzuris,The HSRM gives effect to the Hydrogen South Africa Strategy that was approved by Cabinet in 2007 to prepare the country for a hydrogen econom The HSRM builds on what has been achieved in the past 10 years to prepare South Africa to move from research and development to manufacturing and commercializatio,0.9148947
+"[3.1587151e-01 2.3585290e-01 6.8890210e-04 ... 1.1702210e+00 1.0022463e+00
+ 7.5473952e-01]","[-0.00043024 -0.00011435 -0.00021768 ...  0.02359032  0.03525933
+  0.02809241]",HSRM yi pfanganisa hi ndlela leyi humelelaka tithekinoloji ta hayidirojeni hinkwato eka tisekitara to hambanahambana ta ikhonomi na ku tlhela yi kondletela ku kula ka ikhonomi yo katsa hinkwav Yi veka Afrika-Dzonga tanihi ndhawu leyi kongomiweke leyi nga na vuswikoti bya ikhonomi ya hayidirojeni lebyi yisekaka emahlweni na ku tlhela yi ndlandlamukisa timakete to rhumela tinhundzu na vukorhokeri ematikweni mambe hi mayelana na tithekinoloji ta hayidirojen,The HSRM effectively integrates all hydrogen-related technologies in various sectors of the economy and also fosters an inclusive economic growt It positions South Africa as a destination with sustainable hydrogen economic capability and to also expand,0.8735988
+"[ 1.0155437   0.03991716 -0.01507161 ...  1.1278296   1.5370712
+  1.1451087 ]",[0.00929388 0.00427624 0.00305759 ... 0.02074056 0.02805511 0.02205473],"Vuendli bya laha tikweni bya swimakiwa swa hayidirojeni na swiphemutsongo byi ta hoxa xandla eka ku tumbuluxiwa ka mitirho na nhluvukiso wa swikili, na ku tlhela yi tiyisa ncinco wa ikhonomi lowu wu nga ta vuyerisa sekitara leyi a yi tsan'wiwile eka nkarhi lowu nga hundza ya rixaka, ngopfungopfu vavasati na vantshw","Local manufacturing of hydrogen products and components will contribute towards job creation and skills development, and also enhance economic transformation that will benefit the previously marginalised sector of society, particularly women and yout",0.89484197
+"[ 1.2110354  -0.04959003  0.04023637 ...  0.19930978  1.4373114
+  0.9062455 ]","[ 0.01616085 -0.00161216  0.00144206 ...  0.00596431  0.03084485
+  0.00634381]",HSRM yi tlhela yi nyika miphalalo leyi yi nga ta hoxa xandla eka ku hungutiwa ka ku humesiwa ka tigasi leti tswongaka rihiso exibakabakeni (GHG).,The HSRM also provides interventions that will contribute towards the reduction of greenhouse gas (GHG) emission,0.8727639
+[1.057669   0.10501922 0.375827   ... 1.0179693  1.0818205  1.1873853 ],"[ 0.01839002 -0.00026125  0.00237901 ...  0.03286703  0.04346514
+  0.03412109]","Exikarhi ka swin'wana yi ta tiyisa ku nyikiwa ka eneji leyi vuyelerisekaka eka giridikulu ya gezi naswona yi ringanyeta miphalalo eka sekitara ya Vutleketli bya Mitirho leyo Tika, leyi ku nga yin'wana ya swihoxaxandla eka ku humesiwa ka GH","It will amongst others enhance the provision of renewable energy to the main electricity grid and it proposes interventions in the Heavy-Duty Transport sector, which is one of the contributors in GHG emission",0.86679864
+"[ 0.73015165  0.20898317 -0.18544377 ...  0.72882736  1.2274396
+  0.9216503 ]","[ 0.01019048 -0.00045425 -0.000314   ...  0.02362015  0.03287164
+  0.03347885]","Pulani leyi yi kaneriwile swinene na vakhomaxiave lava faneleke hinkwavo, ku katsa na tindzawulo ta mfumo, swidyondzeki, sekitara leyi nga riki ya mfumo na tikhansele ta sayens Yi nyika rimba ra ntirhisano ku tiyisisa leswaku ku va na mpfangano wa tithekinoloji leti fambelanaka na hayidirojeni hinkwato na nhluvukiso wa swikili wa tik Dokhumente leyi yi ta endliwa yi fikeleleka hi ku tirhisa webusayiti ya Ndzawulo ya Sayense na Vutumbuluxi: wwdsgoza","The roadmap went through extensive consultation with all relevant stakeholders, including government departments, academia, private sector and science council It provides a coordination framework to ensure an integration of all hydrogen-related technologies and skills development for the countr The document will be made accessible through the Department of Science and Innovation website: wwdsgoza",0.90689135
+"[ 0.38450164 -0.08036056 -0.2501646  ...  0.21603502  0.73845464
+  0.33164158]","[-0.00212847 -0.00061215 -0.00141511 ... -0.00538395  0.02590135
+  0.00905939]",Ntwanano lowu Hundzuluxiweke hi mayelana na Nsirhelelo wo Khomeka wa Matheriyali wa Nyutliliya (CPPNM),Amended Convention on the Physical Protection of Nuclear Material (CPPNM),0.87468994
+[0.49610603 0.02643451 0.18371093 ... 1.4286712  1.3061917  1.8279018 ],"[ 0.00456713 -0.00388235 -0.00020489 ...  0.03052216  0.02650246
+  0.03214523]","Khabinete yi pasise ku rhumeriwa ka CPPNM leyi hundzuluxiweke ePalamende ku ya pasisiwa, hi ku landza Xiyenge xa 231(2) xa Vumbiwa ra Rhiphabuliki ya Afrika-Dzonga ya 1996, lexi vulaka leswaku:","Cabinet approved the submission of the amended CPPNM to Parliament for approval, in terms of Section 231(2) of the Constitution of the Republic of South Africa of 1996, which states that:",0.87767214
+"[ 0.79807293 -0.18947469 -0.2684614  ...  0.715446    1.473732
+  1.2900759 ]","[ 0.01434228 -0.00264175  0.00033239 ...  0.00786093  0.03369476
+  0.01934753]",Ntwanano wa matiko ya misava wu boha Rhiphabuliki ntsena endzhakukaloko wu pasisiwile hi xiboho eka havumbirhi bya Huvo ya Rixaka na Huvo ya Rixaka ya Swifundzakulu .,An international agreement binds the Republic only after it has been approved by resolution in both the National Assembly and the National Council of Provinces .,0.8351604
+"[ 0.7392328  -0.14336035 -0.22566994 ...  1.0358406   1.956331
+  3.001075  ]",[0.0049436  0.00161944 0.00523381 ... 0.04905405 0.03925018 0.08130166],"Mihundzuluxo leyi yi endliwile hi Ejensi ya Eneji ya Athomiki ya Matiko ya Misava (IAEA) ku tiyisa nsirhelelo wa mpimohansi wa misava hinkwayo wa switirhisiwa na matheriyali wa nyutliliya leswi tirhisiwa eka swikongomelo swa ku rhul Tanihi xirho xa IAEA, Afrika-Dzonga yi sayinile ntwanano lowu kutani endzhakukaswona yi wu amukela hi 2003.","The amendments made by the International Atomic Energy Agency (IAEA) strengthen the global minimum physical protection of facilities and nuclear material used for peaceful purpose As a member of the IAEA, South Africa had signed this convention and subsequently ratified it in 2003.",0.8888664
+"[ 0.60599583 -0.03350345 -0.2318146  ...  0.93319416  1.2675433
+  0.8286368 ]","[-0.00077359 -0.00529257 -0.00047586 ...  0.02849128  0.01656025
+  0.01538793]","Mihundzuluxo leya ntwanano lowu yi tiyisa nsirhelelo wa rixaka eka matiko lama nga swirho, ku katsa na swilaveko swa nsirhelelo wo khomeka wa switirhisiwa na matheriyali wa nyutliliy","The amendments to the convention strengthens the national security of the member states, including the physical protection requirements for nuclear facilities and materia",0.88172907
+"[ 0.76962     0.8842354  -0.03840007 ...  1.3837118   1.4496568
+  1.2559239 ]","[ 0.00308407  0.07234808 -0.00012693 ...  0.03520479  0.03084459
+  0.03140811]",Yi nyika nxaxamelo wa milandzu yo tanihi ku rhumeriwa ka tinhundzu na vukorhokeri ematikweni mambe na kusuka ematikweni mambe ku ri hava mpfumelelo lowu rhangaka wu kumek Yi tiyisa ntwanano exikarhi ka matiko lama nga swirho eka ku avelana vuxokoxoko hi mayelana na migingiriko leyi nga riki enawini hi mayelana na matheriyali wa nyutliliya3.,It provides a list of offences such as the import and export of nuclear material without prior authorisatio It enhances cooperation amongst member states in the sharing of information in respect of illegal activities on nuclear material,0.8535615
+"[ 0.84037536  0.911649   -0.02987805 ...  0.30743274  0.6775876
+  1.0133932 ]","[ 0.02468977  0.0361232  -0.0004223  ...  0.01067534  0.02180555
+  0.00757303]",Ku siviwa ka xianguri xa ndzavisiso wa nyutliliya xa SAFARI-1,Replacement of SAFARI-1 nuclear research reactor,0.8195298
+"[ 0.8229436   0.95592666 -0.07227104 ...  0.7063215   1.8527907
+  1.420981  ]","[ 0.0200542   0.03241505 -0.0003116  ...  0.0326078   0.0549758
+  0.02614421]",Khabinete yi pasise ku simekiwa ka phurojeke ya xianguri xa nyutliliya xa mitirhonyingi ku siva xianguri xa ndzavisiso xa nyutliliya xa SAFARI-1 xa nkarhi wa sweswi lexi nga ehansi ka vun'wini bya Khamphanikulu ya Eneji ya Nyutliliya ya Afrika-Dzonga (NECSA).,Cabinet approved the setting up of the multi-purpose nuclear reactor project to replace the current SAFARI-1 nuclear research reactor owned by the South African Nuclear Energy Corporation (NECSA).,0.888877
+"[ 0.8863989  -0.20367761 -0.16440271 ...  0.5297002   0.6751413
+  3.0320973 ]","[ 0.00771007 -0.00035499  0.00069829 ...  0.01034101  0.01879882
+  0.05699986]",Xianguri a xi ri eku tirheni kusuka hi 1965 naswona vunavi bya vutomi bya xona byi le kusuhi na ku fika emakumu hi 2032.,The reactor has been in operation from 1965 and its lifespan is due to end in 2032.,0.9037381
+[0.8372313  1.0917728  0.00282086 ... 1.5236334  1.3267431  1.0580207 ],[0.03093299 0.01914633 0.00648051 ... 0.0631706  0.04488423 0.00192426],"SAFARI-1 hi yin'wana ya vahumesi lava rhangelaka va mune va tirhadiyoayisothopi ta vutshunguri emisaveni leti tirhisiwaka ku tshungula timiliyoni ta vavabyi lembe na lembe Yi tlhela yi nyika tiko nseketelo eka ndzavisiso wa sayense, nhluvukiso na vutumbuluxi eka vudokodela, vurimi, phaleyotholoji na bayosayens","SAFARI-1 is one of the four leading producers of medical radioisotopes in the world used to treat millions of patients annuall It also provides the country with support in science research, development and innovation in medicine, agriculture, paleontology and bioscienc",0.9237727
+"[ 0.8562777  -0.1649009   0.04995047 ...  0.65861875  1.654905
+  1.5521921 ]",[0.02368061 0.00149347 0.00384702 ... 0.01554712 0.03179052 0.02305077],Ku siviwa loku ku ta tiyisisa leswaku Afrika-Dzonga yi tshama yi ri rin'wana ra matiko lama rhangelaka eka tindzima leti na ku vuyeriwa kusuka eka tithekinoloji letintshwa eka mbangu low Phurojeke leyi yi ta rhangeriwa hi tindzawulo leti fambelanaka to hlayanyana na NECS tanihi tlilayentenkulu,The replacement will ensure South Africa remains one of the leading countries in these fields and benefit from the new technologies in this environmen The project will be led by a number of related departments and NECSA as the main client,0.8779847
+"[ 0.01975724 -0.4925427   0.6504002  ...  0.4493119   0.5866069
+  1.0663614 ]","[ 0.01609882 -0.002003    0.00181394 ...  0.02213913  0.00882555
+  0.018598  ]",Xiviko xa Mpfuxeto xa Malembe Mambirhi Man'wana na Man'wana xa vu4 xa Afrika-Dzonga,South Africa s 4th Biennial Update Report,0.74648255
+"[ 0.6811682  -0.13563924  0.3347238  ...  0.7936884   0.66777825
+  1.489298  ]","[ 0.0225252  -0.00581104 -0.00055007 ...  0.04002883  0.01778831
+  0.03203291]",Khabinete yi pasise ku rhumeriwa ka Xiviko xa Mpfuxeto xa Malembe Mambirhi Man'wana na Man'wana xa vu4 xa tiko,Cabinet approved the submission of the country s 4th Biennial Update Report,0.7994424
+"[ 1.1419448  -0.02675942 -0.16812529 ...  0.42508358  0.7266343
+  0.74064314]","[ 2.2540938e-02 -4.9783168e-05 -1.8478655e-04 ...  2.9650837e-02
+  1.5041716e-02  3.0803457e-02]",lexi xi nyikaka vuxokoxoko byintshwa hi mayelana na matshalatshala ya tiko ku hunguta na ku tifambelanisa na ku cinca ka tlilayimete,which provides an update on the country s efforts to mitigate and adapt to climate change,0.847556
+[ 1.2107517 -0.1097028 -0.454439  ...  1.0339177  0.748527   0.5657176],"[ 0.01442286 -0.0003717  -0.00022298 ...  0.01639967  0.02621913
+  0.00980483]",eka Ntwanano wa Rimba ra Vun'we bya Tinxaka hi mayelana na ku Cinca ka Tlilayimete (UNFCCC).,to the United Nations Framework Convention on Climate Change (UNFCCC).,0.82233995
+[1.0081488  0.33122703 0.12684247 ... 1.2584385  1.2886847  1.329239  ],"[ 2.1373710e-02 -4.4042208e-06 -1.5475966e-04 ...  4.2490005e-02
+  4.7159940e-02  1.7127117e-02]",Xiviko lexi xi katsakanya tipholisi leti simekiweke xikan'we na magoza na swiendlo leswi tekiweke hi tiko ku hunguta ku humesiwa ka GH Nakambe yi nyika vuxokoxoko byintshwa hi mayelana na miphalalo yo cincela eka ikhonomi ya khaboni ya le hansi leyi leteriwaka hi Phepha ra Swibumabumelo swa Mfumo ra Pholisi ya Angulo wa ku Cinca ka Tlilayimete ya Rixak,The report outlines the policies implemented as well as the measures and actions undertaken by the country to reduce GHG emission It also provides an update on the transitioning interventions towards a lower carbon economy guided by the National Climate Change Response Policy White Pape,0.8812196
+"[ 0.89075524 -0.17223647 -0.11510949 ...  1.1118281   1.3693033
+  1.5517162 ]",[0.02598662 0.00211053 0.00151959 ... 0.02496774 0.04271522 0.05777807],"Afrika-Dzonga yi endlile vutiboheleri ku hoxa xandla hi ndlela yo tivikana eka matshalatshala ya misava hinkwayo ku tshamisekisa ku humesiwa ka GHG endzeni ka swirhangana swa nhluvukiso swa tik Tanihi musayini eka UNFCCC, Afrika-Dzonga yi languteriwa ku rhumela swiviko leswi pfuxetiweke nkarhi na nkarhi","South Africa has made a commitment to contribute fairly to the global efforts to stabilise GHG emissions within the country s developmental prioritie As a signatory to the UNFCCC, South Africa is expected to submit these updated reports regularly",0.87039495
+"[ 1.0476434   0.02394232 -0.16525361 ...  0.28163165  0.7429742
+  0.2512655 ]","[ 0.00951073  0.00141655  0.00217699 ...  0.00171396  0.01069864
+ -0.0007041 ]",Vuhoxaxandla lebyi Bohiweke hi Rixaka (NDC),Nationally Determined Contribution (NDC),0.7816746
+"[ 0.43168446 -0.0691799   0.01675681 ...  1.6022189   0.41556203
+  2.3152962 ]",[0.0063953  0.00803018 0.0028985  ... 0.03196072 0.0155629  0.06228972],Khabinete yi pasise vunavi lebyi pakanisiweke bya hunguto wa ku cinca ka tlilayimete bya NDC lebyi pfuxetiweke bya 2030 leswaku byi rhumeriwa eka UNFCC Afrika-Dzonga yi pfuxetile vunavi bya yona bya mipakaniso bya 2025 kufika eka 398 kufika eka 510 na le ka 2030 kufika eka 350,Cabinet approved South Africa s revised NDC climate change mitigation target range for 2030 for submission to the UNFCC South Africa has revised its target range for 2025 to 398 to 510 and for 2030 to 350,0.9017291
+"[ 0.66118747 -0.04396366  0.1808206  ...  0.51663023  1.3074279
+  1.485123  ]","[ 0.00912767 -0.00060047  0.00099552 ...  0.02685496  0.04372447
+  0.02960404]",420 Timetirikithani ta ndzingano wa Moyakhubu (Mt Co2-eq).,420 Metric tons of Carbon Dioxide equivalent (Mt Co2-eq).,0.8449209
+"[ 0.9084661  -0.16783409  0.104251   ...  1.2844541   1.5226212
+  2.7368639 ]",[0.0055726  0.00329632 0.00499628 ... 0.01601267 0.04126636 0.06574415],"Ehansi ka Ntwanano wa Paris mavandla hinkwawo ya laveka ku rhumela tiNDC ntlhanu wa malembe man'wana na man'wan Afrika-Dzonga yi rhumele NDC ya yona yo sungula eka UNFCCC hi Nhlangula 2015, yi tiboha ku veka ku humesiwa ka GHG ka rixaka endzeni ka vunavi kusuka 398 kufika eka 614 Mt CO2-eq ta 2025 na 2030.","Under the Paris Agreement all parties are required to deposit NDCs every five year South Africa deposited its first NDC with the UNFCCC in October 2015, committing to keep national GHG emissions within a range from 398 to 614 Mt CO2-eq for 2025 and 2030.",0.93101656
+"[ 1.394446   -0.06302449  0.9452254  ...  0.9259536   1.3259162
+  1.4703715 ]","[ 0.06358715 -0.00255471  0.00970972 ...  0.0290478   0.04003695
+  0.03869945]","Ntwanano wa Paris wu tlhela wu lava ku ehlisa mahiselo ya misava hinkwayo kufika ehansi ka tidigiri Celsius timbirhi na ku landzelela matshalatshala kufika eka 1,5 wa tidigiri ta Celsiu",The Paris Agreement also seeks to lower the global temperatures to well below two degrees Celsius and pursue efforts to degrees Celsiu,0.8406699
+"[ 1.2066121   0.014918   -0.04577364 ...  0.6618996   0.9794514
+  1.1779445 ]",[0.01258194 0.00105547 0.00347085 ... 0.01897728 0.04517291 0.02423463],"Mavandla hinkwawo ya languteriwa ku pfuxeta mipakaniso ya wona ya 2015 hi 2020 ku tiyisisa leswaku ya fambelana na sayense leya ha ku vaka kon Vunavi bya mipakaniso lebyi pfuxetiweke byi tekela enhlokweni swiviko leswa ha ku vaka kona swa Phanele ya le Xikarhi ka Mifumo hi mayelana na ku Cinca ka Tlilayimete, naswona byi fambelanisiwile na vakhomaxiave hinkwavo lava va hoxaka xandla eka matshalatshala ya tik","All parties were expected to update their 2015 targets in 2020 to ensure they are aligned to the latest scienc The revised target range takes into account the latest reports of the Intergovernmental Panel on Climate Change, and is aligned with all the stakeholders that contribute towards the country s effort",0.8890274
+"[ 0.3938597  -0.22361721 -0.14515896 ... -0.0160715  -0.08624364
+  0.37764308]","[ 0.0371142  -0.00074501 -0.00080939 ... -0.00445885  0.01018453
+  0.00774708]",Milawumbisi 1.,BILLS 1.,0.787112
+"[ 0.9003776   0.16251396 -0.2159896  ...  0.6660603   0.66216147
+  2.0655556 ]","[3.0207485e-02 1.7021751e-03 3.5144250e-05 ... 2.4431586e-02 1.8232979e-02
+ 3.8902421e-02]",Nawumbisi wa Hundzuluxo wa Nthyakiso wa Lwandle (Nsivelo wa Nthyakiso kusuka eka Swikepe) wa 2021,"Marine Pollution (Prevention of Pollution from Ships) Amendment Bill of 2021 Cabinet approved the Marine Pollution (Prevention of Pollution from Ships) Amendment Bill of 2021 for submission to Parliamen The Amendment Bill seeks to amend the Marine Pollution (Prevention of Pollution from Ships) Act, 1986 (Act 2 of 1986) and align it to the revised International Convention for the Prevention of Pollution from Ships (MARPOL).",0.75907457
+"[ 1.1857297   0.36987585 -0.22469223 ...  0.9340141   1.1239054
+  1.6387595 ]","[ 0.0202243  -0.00475421 -0.00043654 ...  0.04545636  0.01143529
+  0.06613516]","Khabinete yi pasise Nawumbisi wa Hundzuluxo wa Nthyakiso wa Lwandle (Nsivelo wa Nthyakiso kusuka eka Swikepe) wa 2021 leswaku vaaki va nyika mavonel Nawumbisi lowa Hundzuluxo wu lava ku hundzuluxa Nawu wa Nthyakiso wa Lwandle (Nsivelo wa Nthyakiso kusuka eka Swikepe), 1986 (Nawu wa 2 wa 1986) na ku wu fambelanisa na Ntwanano wa Matiko ya Misava eka Nsivelo wa Nthyakiso kusuka eka Swikepe (MARPOL) lowu pfuxetiwek","Cabinet approved the publication of the Companies Amendment Bill of 2021 for public commen The Bill amends the Companies Act, 2008 (Act 71 of 2008).",0.7729276
+"[ 1.3063607   0.16651088 -0.23661028 ...  0.7344623   1.3227134
+  1.1089334 ]",[0.03412636 0.00651191 0.00086448 ... 0.02684194 0.03086517 0.02643289],"Afrika-Dzonga i musayini eka MARPOL, ntwananokulu wa matiko ya misava lowu angarhelaka nsivelo wa nthyakiso wa mbangu wa lwandle hi swikepe kusuka eka swivangelo swo tirha kumbe swa xiwel","South Africa is a signatory to MARPOL, the main international convention covering prevention of pollution of the marine environment by ships from operational or accidental cause The Amendment Bill will contribute towards the preservation of the marine environment by eliminating pollution of the sea by ships dispensing oil and harmful substance",0.8427371
+"[ 1.4040946  -0.00214032 -0.11401594 ...  1.1532716   1.6788671
+  0.784423  ]","[ 2.8495511e-02 -1.5201075e-04 -6.2289859e-05 ...  2.5187571e-02
+  5.1368475e-02  2.0402053e-02]",Nawumbisi lowa Hundzuluxo wu ta hoxa xandla eka nhlayiso wa mbangu wa lwandle hi ku herisa nthyakiso wa lwandle hi swikepe leswi pfutaka tioyili na michumu leyi vavisak,It allows for the alignment of policies that will influence the country s climate change respons It also provides for the transitional arrangement for the country to move towards a lower carbon and climate-resilient econom,0.70609903
+"[ 1.7475432  -0.05399204  4.4904513  ...  1.5446771   1.699413
+  0.8208621 ]","[ 0.04970882 -0.00029336  0.10121542 ...  0.03664757  0.02601025
+  0.01798407]","Wu tlhela wu ringanyeta leswaku swikepe swi fanele ku tirhisa mafurha lama nga na ku nga tluli 0,50% ta michumu leyi nga na sulphur kumbe swi tirhisa tisisiteme to basisa mafurha leti pfumeleriweke","It also proposes that ships should use fuel with no more than 0,50% sulphur content or use approved fuel treatment systems",0.8900399
+"[ 0.13684991 -0.30190924 -0.37539354 ...  0.28221503 -0.21405208
+  1.4465376 ]","[ 0.01240785 -0.0074564  -0.0002342  ...  0.01123441 -0.00343533
+  0.03558119]",Nawumbisi wa Hundzuluxo wa Tikhamphani wa 2021,Companies Amendment Bill of 2021,0.8065006
+"[ 0.5588733   0.06348522 -0.43243667 ...  1.1441414   0.2943317
+  2.0426111 ]","[ 0.02234176 -0.00292825 -0.00042057 ...  0.03213311  0.00801092
+  0.01346103]","Khabinete yi pasise nkandziyiso wa Nawumbisi wa Hundzuluxo wa Tikhamphani wa 2021 leswaku vaaki va nyika mavonel Nawumbisi lowu wu hundzuluxa Nawu wa Tikhamphani, 2008 (Nawu wa 71 wa 2008).",Cabinet approved the current Bill for public consultation in August 2018 and the outcome thereof led to the redrafting of the amendment,0.71752393
+"[ 1.3594568   0.04382743 -0.35421988 ...  1.1774267   0.869803
+  0.9373626 ]",[0.02801025 0.00607455 0.00105122 ... 0.04861914 0.02935239 0.02250458],Khabinete yi pasise Nawumbisi wa nkarhi wa sweswi leswaku vaaki va nyika mavonelo hi Mhawuri 2018 naswona mbuyelo wa kona wu vange ku pfapfarhutiwa hi vuntshwa ka mihundzuluxo ley,"The revised amendments provide more clarity in a number of clauses of the Bill, which seeks to reduce regulatory regime on businesses; tighten anti-money laundering gaps; strengthen the disclosure requirements and enhance the shareholder powers in a compan",0.7042955
+"[ 0.5816682   0.16392864 -0.22374098 ...  1.2781609   0.9065584
+  0.9422417 ]","[ 0.02134511  0.00659555 -0.00043828 ...  0.00728334  0.02580484
+  0.0065772 ]","Mihundzuluxo leyi pfuxetiweke yi veka erivaleni swinawanatsongo swo hlayanyana swa Nawumbisi lowu, lowu wu lava ku hunguta maendlelo yo lawula hi mayelana na mabindzu; wu tiyisa mavangwa yo lwisana na ku tumbeta swihlovo swa mali; ku tiyisa swilaveko swa mpaluxo na ku tiyisa matimba ya vakhomaxiave eka khamphan",The Bill seeks to provide a legal instrument towards the implementation of the National Climate Change Response Polic,0.66243017
+"[ 1.2291373   0.01221589 -0.37350646 ...  0.531586    0.5696668
+ -0.04049568]","[ 0.02631021 -0.00389915  0.00047185 ...  0.01301063  0.00732261
+ -0.00071833]",Nawumbisi wa ku Cinca ka Tlilayimete ya Rixaka,National Climate Change Bill,0.75165844
+"[ 1.9472673  -0.05938906 -0.39629844 ...  0.7287724   1.442792
+  0.1362812 ]","[ 0.02301044  0.00050443 -0.00074519 ...  0.01314014  0.0371211
+  0.01057801]",Khabinete yi pasise ku rhumeriwa ka Nawumbisi wa ku Cinca ka Tlilayimete wa Rixaka ePalamend,Dr Margaret Mkhosi-Motsaathebe as Chief Executive Officer of the National Radioactive Waste Disposal Institut Enquiries:Ms Phumla Williams,0.73263454
+"[ 1.4754667   0.3540042  -0.31254292 ...  0.8842874   1.277199
+  0.78257513]","[ 0.02974592 -0.00330729 -0.00066136 ...  0.01776988  0.02136588
+  0.03056144]",Nawumbisi wu nyika xitirho xa xinawu eka nsimeko wa Pholisi ya Angulo wa ku Cinca ka Tlilayimete ya Rixak,Cabinet approved the submission of the National Climate Change Bill to Parliamen,0.66112804
+[1.4343636  0.21205157 0.00227104 ... 0.92676324 1.5965377  1.071401  ],"[-4.2966026e-04 -8.8184699e-04  6.2380641e-05 ... -4.5372504e-03
+  4.8108745e-02  3.6715925e-02]",Wu pfumelela ku fambelanisiwa ka tipholisi leti ti nga ta hlohlotela angulo wa ku cinca ka tlilayimete wa tik Wu tlhela wu lulamisela malulamiselo yo cinca ya tiko ku cincela eka ikhonomi ya khaboni ya le hansi na ku va lama kondzelelaka tlilayimet,Mr Smunda Mokoena as Chairperson of the National Energy Regulator of South Afric 2.,0.6203115
+"[ 0.7760331   0.22284958 -0.26779622 ...  0.7622854   0.7286511
+  0.7481491 ]","[ 0.0107257  -0.00043303 -0.00045032 ...  0.00883927  0.01344334
+  0.00868359]",Nawumbisi lowu se wu hundzile eka phurosese yo nyika mavonelo ya vaaki hi ku angarhela leyi katsaka vakhomaxiave lava fanelek,The Bill has already gone through an extensive public consultation process involving relevant stakeholder,0.78470445
+"[ 1.2627945  -0.12134928  0.21677299 ...  0.7879951   0.95025975
+  0.3214014 ]","[ 0.03336871 -0.00450029 -0.00337803 ... -0.00920606  0.01423008
+  0.02951902]",Ku thoriwaKu thoriwa hinkwako ku fanele ku landzelela vutiyisisi bya mithwaso na mbhasiso lowu faneleke,APPOINTMENTSAll appointments are subject to the verification of qualifications and the relevant clearance,0.70101106
+"[ 0.5934968  -0.24006563 -0.23683012 ...  0.5941162   1.9016414
+  0.8836741 ]","[ 0.01918229 -0.00488378  0.0002112  ...  0.00795901 -0.00629274
+  0.0325876 ]",Ttn Smunda Mokoena tanihi Mutshamaxitulu wa Mulawuri wa Eneji ya Rixaka wa Afrika-Dzong 2.,Cabinet Spokesperson Cell: 083 501 0139,0.5437026
+"[ 1.049537    0.27734563 -0.41826084 ...  0.67166126  1.2384013
+  0.7677618 ]","[ 0.00799136 -0.00169247 -0.00033866 ...  0.00714567  0.01109021
+  0.00353751]",Dkd Margaret Mkhosi-Motsaathebe tanihi Muofisirinkulu wa Vurhangerinkulu wa Vandla ra Heriso wa Thyaka ra Rhadiyoekithivhi ra Rixak Swivutiso: Phumla Williams,export markets on hydrogen technologie,0.567906
