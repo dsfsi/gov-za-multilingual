@@ -1,0 +1,231 @@
+ts,en,src_text,trg_text,Cosine_Score
+"[ 0.7145753  -0.0761888  -0.01454279 ...  0.17530227  0.15698761
+  0.7586532 ]","[ 0.01305614 -0.0010185  -0.0005784  ...  0.00690345 -0.00400442
+  0.02188536]",Xiyimo xa Khabinete eka Timhakakulu1.,Issues in the environment 1.,0.7907537
+"[ 2.1312683  -0.27642137 -0.26235563 ...  0.42113543  0.6672695
+ -0.02737743]","[ 0.07056022 -0.00241785 -0.00283601 ...  0.02250353  0.02634591
+  0.00144549]",2021 Mihlawulo ya Mifumo ya Miganga (LGE),2021 Local Government Elections (LGE),0.9170368
+"[ 1.136543   -0.22007866 -0.04741527 ...  0.5161415   1.0994083
+  2.818176  ]","[ 0.05767925 -0.00224886  0.00074393 ...  0.00344421  0.03023065
+  0.06627661]","Khabinete yi khense vavhoti lava fikelelaka hinkwavo lava va hoxeleke tivhoti ta vona eka LGE ya 2021 hi Musumbhunuku, 1 Hukuri 2021.","Cabinet thanked all eligible voters who cast their vote in the 2021 LGE on Monday, 1 November 2021.",0.8953763
+"[ 0.5885872   0.07932463 -0.32797146 ...  0.88647366  1.2872051
+  0.64389265]",[0.00500817 0.00216753 0.01081938 ... 0.0068531  0.02773049 0.0231122 ],Mihlawulo leyi yi funghe anivhesari ya vu21 ya ku tumbuluxiwa ka sisiteme ya mfumo wa miganga eAfrika-Dzong,These elections marked the 21st anniversary of the establishment of a democratic local government system in South Afric,0.8282195
+"[ 1.3070744   0.04141193 -0.2967324  ...  1.199602    1.5855174
+  0.9737541 ]","[ 0.02636713 -0.00016683  0.00152298 ...  0.02413436  0.04203473
+  0.02115637]","Hi hoyozela nkondzelelo, xindzhuti na vulehisambilu leswi vavhoti va tikhomeke haswona eka Siku ra Nhlawulo hinkwar Ndlela yo pfumala swiphiqo leyi mavandla ya tipolitiki ya phikizaneke hayona eka LGE na ku tumbuluka ka vayimelakulangwa va vantshwa, ngopfungopfu vavasati, i vumbhoni eka xidemokirasi xa hina lexi nyukaka na ku va xo tirha kahl","We applaud the tolerance, dignity and patience with which the voters conducted themselves throughout Election Da The smooth way in which political parties contested the LGE and the emergence of young candidates, especially women, is testament to our vibrant and functioning democrac",0.8907488
+"[ 0.90586174 -0.03554966 -0.28520846 ...  1.2925307   1.0367475
+  0.8570403 ]","[ 0.03383379 -0.00027081  0.00093452 ...  0.03477972  0.02175578
+  0.03420294]","Khabinete yi hoyozele Khomixini ya Nhlawulo ya Afrika-Dzonga, mavandla ya tipolitiki hinkwawo, rixaka na tiejensi ta nsindziso wa nawu etikweni eka matshalatshala ya nhlanganelo ku tiyisisa leswaku ku va na mihlawulo yo rhul Khabinete yi tlhele yi hoyozela swihangalasamahungu eka xiave xa swona xa nkoka eka ku nyika vavhoti vuxokoxoko lebyi faneleke ku va pfuna ku tirhisa mfanelo ya vona ya xidemokirasi ku hlawula varhangeri va vona va mifumo ya miganga lava va va tsakelak","Cabinet commended the Electoral Commission of South Africa, all political parties, members of society and the law-enforcement agencies in the country for their collective efforts to ensure the peaceful election Cabinet also commended the media for their important role in providing voters with relevant information to assist them in exercising their democratic right to choose their preferred local government leader",0.90193135
+"[ 0.45314857 -0.18355443 -0.06081688 ...  0.48809168  1.0600061
+  0.99300677]","[ 0.02380981 -0.00114656  0.00123277 ...  0.01340894  0.0327252
+  0.01601226]","Khabinete yi tsundzuxe vanhu va Afrika-Dzonga hinkwavo ku tiyisa xidemokirasi xa hina hi ku teka xiave eka tiforamu na mihlangano leyi endlaka lava va hlawuriweke leswaku va tihlamulel Yi kombele tiofixiyali leta ha ku hlawuriwaka ku hlayisa vutiboheleri bya tona bya nhlawulo, na ku korhokela vanhu hinkwavo hi ku ringana na hi ndlela leyinene","Cabinet reminded all South Africans to strengthen our democracy by actively participating in forums and institutions which hold those elected to accoun It called on newly elected officials to keep true to their electoral pledges, and to serve all people equally and fairl",0.89759326
+"[ 0.57919997 -0.28770968 -0.05701172 ... -0.03848696  0.08173651
+ -0.31246832]","[-0.00502288  0.00204702  0.00744267 ... -0.0039793   0.00277685
+ -0.00173999]",Ku pfariwa ka swivandla swa mitirho,Investment,0.6677135
+"[ 1.1007026   0.06598485 -0.03839575 ...  0.82356894  1.6135569
+  1.7633132 ]",[0.03497693 0.01553688 0.0121792  ... 0.00982932 0.03947628 0.03123901],Khabinete yi hoyozele vanhu va Afrika-Dzonga lava va hlawuleke ku tisirhelela vona na varhandziwa va vona hi ku sawutisiwa ehenhla ka ntungukulu wa Vuvabyi bya Khoronavhayirasi (COVID-19).,Cabinet applauded South Africans who have chosen to protect themselves and their loved ones by vaccinating against the Coronavirus Disease (COVID-19) pandemi Our country has already administered over 22 million vaccine dose,0.83197767
+[0.5522204  0.10437465 0.3623481  ... 0.51817036 0.35101217 0.19459167],"[ 0.02227769 -0.00241336  0.00522959 ...  0.01563238  0.02499583
+  0.02920798]",Tiko ra ka hina se ri nyikile kutlula 22 wa timiliyoni ta mipimamurhi ya swisawutis,"The launch dovetails with the announcement by Swedish multinational food packaging and processing company, Tetra Pak, to invest R500 million to upgrade its production capacity of its packaging material factory in Durba",0.6052647
+"[ 1.0742953  -0.18456389  2.9905024  ...  1.1070235   0.8834945
+  1.9042997 ]","[ 0.02148366 -0.00082031  0.07958339 ...  0.016026    0.022372
+  0.03841303]",Vanharhu ehenhla ka vanhu va ntlhanu van'wana na van'wana lava nga na 50 wa malembe hi vukhale etikweni ra ka hina sweswi va sawutisiwil Hi dinga ku fika eka ntlhanu ehenhla ka ntlawa wa vukhale hi malembe wa lava sawutisiweke hi ku hela ka lembe ku heta matimba gandlati ra vumune leri languteriwek,Three out of every five people aged over 50 years in our country are now vaccinate We need to get to five out of five of such vaccinated age group by the end of the year to kill the power of the anticipated fourth wav,0.8679428
+[1.0908122  0.72967815 0.31652826 ... 0.59319335 1.0079513  1.2772067 ],"[ 0.03468315 -0.00136279  0.01277932 ...  0.01335545  0.03620308
+  0.02825174]",Vooma Vaccination Weekend leyi taka kusuka 12 kufika 14 Hukuri 2021 i xivandlanene xa vanhu lava nga sawutisiwangiki ku tikatsa eka nyimpi ya rixaka ra ka hina ehenhla ka COVID19 hi ku teka swisawutisi swa mahala eka yihi kumbe yihi ya tindhawu ta nsawutiso etikweni hinkwar,The upcoming Vooma Vaccination Weekend from 12 to 14 November 2021 is an opportunity for unvaccinated people to join our nation s fight against COVID-19 by taking the free vaccines at any of the vaccination sites across the countr,0.9031049
+[1.1735593  0.52124226 0.11659959 ... 0.7372848  0.86482453 2.3390844 ],"[ 0.0230072  -0.00022638  0.00928354 ...  0.03423792  0.02498587
+  0.0514221 ]","Khabinete yi tsundzuxe vanhu ku tiyisisa leswaku va teka mpimamurhi wa vumbirhi wa xisawutisi xa Pfizer leswaku va va va sirhelelekile hi ku hetisek Swisawutisi swi pfuna ku sivela vuvabyi byo tivikana, ku amukeriwa exibedhlele na rifu hikwalaho ka COVID-1","Cabinet reminded people to ensure that they take a second dose of the Pfizer vaccine to be fully protecte Vaccines help prevent serious illness, hospitalisation or death from COVID-19.",0.88156617
+"[ 0.10203405 -0.22392233  0.28009963 ... -0.23854831  0.14174812
+ -0.08641878]","[ 0.00733842  0.00035684 -0.0007631  ... -0.00269579  0.00484391
+  0.00118707]",Eneji,Energy,0.94643474
+"[ 0.43215853  0.05872738 -0.18389697 ...  2.0684366   0.68622094
+  1.408143  ]","[ 0.01061589 -0.00022031 -0.00025253 ...  0.03868175  0.03278051
+  0.04650798]",Khabinete yi amukele mikavanyeto na vukanganyisi bya ku fambetela ka gezi lebyi kotiwaka hi vanhu va Afrika-Dzonga eka masikunyana lama ha ku hundzak Ndzawulo ya Mabindzu ya Mfumo yi le ku tirhisaneni swinene na Bodo ya Eskom na vufambisi ku tiyisisa leswaku yi hunguta nkarhivunavi wa siku na siku wa ku fambetela ka gezi na nkarhi lowu mphalalo wu nga ta laveka hawon,Cabinet acknowledges the disruptions and inconvenience of intermittent load-shedding experienced by South Africans in recent day The Department of Public Enterprises is working closely with the Board of Eskom and management to ensure that we limit the daily duration of load-shedding and the period for which this intervention will be require,0.87344575
+"[ 0.8130098  -0.10511495  0.02391837 ...  0.9811969   1.2952042
+  0.7922807 ]","[ 0.01771944 -0.00136201  0.00627066 ...  0.01993513  0.02602107
+  0.02529253]",Vutamelankwama bya mfumo byi le ku tirhisaneni na Eskom ku yi nyika mipfumelelo leyi faneleke ya ku kuma swiphemu swo siva leswi dingiwaka eka vulunghisi na nhlayis Eskom yi tlhela yi va yi ri ku eku khatseni ka ndzima eka ku thola hi vuntshwa vatirhi lava nga na swikili,National Treasury is working with Eskom to grant it the appropriate exemptions to acquire the spare parts needed for repairs and maintenanc Eskom is also making progress in re-employing skilled personnel,0.8534707
+"[ 0.49426132 -0.10978191  0.0078811  ...  0.49869233  0.21971585
+ -0.201146  ]","[ 1.9116983e-02 -6.1689089e-03  8.9388841e-06 ... -2.2611357e-03
+  1.3113925e-02 -6.0813427e-03]",ku katsa na vulawuri bya tipulanti,Uptake of vaccines,0.67325735
+"[ 1.656573    0.4410518  -0.14016756 ...  0.2586024   1.1931952
+  0.4946851 ]","[-0.00093597 -0.00303114 -0.00021154 ...  0.01246646  0.0119422
+ -0.00067669]",ku pfuna ku endla vuhumesi bya gezi byi antswisa switichi swa gezi na le ka mitirho yo hambanahambana etikweni ya bindzu ler,to help the power utility make headway at individual power stations and across various operations of the busines,0.77323973
+"[ 0.6424671  -0.22036906  0.22653198 ...  0.6141137   0.4631655
+  1.6752411 ]","[ 0.00642625 -0.00136368  0.00739771 ...  0.02361471  0.01404347
+  0.04173908]","Eka theme ya le xikarhi, mfumo wu le ku tirhiseni ka miphalalo yo hlayanyana ku ololoxa mitlhontlho ya hina ya eneji, naswona hi le ku endleni ka matshalatshala man'wana na man wana ku tisa ntalo wa ku endliwa ka gezi lokuntshwa eka inthanete hi nkarhi lowu nga kotekaka wo koma swinen","Over the medium term, government is implementing a number of interventions to resolve our energy challenges and we are making every effort to bring new power generation capacity online in the shortest possible tim",0.8851043
+"[ 0.69538206 -0.15649599  0.40587175 ...  0.8164359   0.8911927
+  1.3672384 ]","[ 0.00526771 -0.0019362   0.01119141 ...  0.01097933  0.03427255
+  0.02129065]",Miphalalo leyi yi katsa:ku susa mpimohansi wa tikhamphani ku endla gezi ra tona vini ku ri hava layisense kufika eka 11 ra timegawati (MW);xitiviso xa 11 wa vabidi lava nga humelela eka Nongonoko wa Vahumesi va Gezi lava Tiyimelaka wa Hunguto wa Mixungeto; naFasitere ra Tibidi ra Ntlhanu ra nongonoko wa eneji leyi vuyelerisekaka ku xava 2 600 MW ya ntalo wa ku endliwa ka gezi lokuntshwa kusuka eka tiphurojeke to endla gezi hi moya na hi dyamb,The interventions include: lifting the threshold for companies to produce their own electricity without a licence to 100 megawatts (MW); the announcement of 11 successful bidders for the Risk Mitigation Independent Power Producer Procurement Programme; and Bid Window Five of the renewable energy programme to procure 2 600 MW of new generation capacity from wind and solar photovoltaic project,0.8951386
+"[ 0.6592519   0.00687971 -0.14425863 ...  1.0756117   1.0053122
+  1.5163617 ]","[ 0.01350655 -0.00045898  0.00572582 ...  0.02666525  0.03207419
+  0.03808186]","Loko Khabinete yi ri karhi yi swi tiva leswaku mitlhontlho ya eneji ya nkarhi wa sweswi yi heta matimba na ku kanganyisa vuhumesi eka ku kula ka ikhonomi, ya tshemba leswaku magoza yo tirhiseka lama mfumo wu nga eku ma tekeni ku vumba hi vuntshwa na ku tiyisa sisiteme ya hina ya gezi lama ekuheteleleni ya nga ta tiyisa ntalo wa hina wa eneji wa tiko","While Cabinet is aware that the current energy challenges are frustrating and counterproductive to economic growth, it is confident that the practical actions government is taking to restructure and strengthen our electricity system will eventually improve the country s energy capacit",0.89408255
+"[-0.43502876 -0.04377298  0.10512277 ... -0.4693621   0.43450072
+ -0.43995532]","[ 6.8874372e-04  1.9211448e-03 -2.0589155e-06 ...  1.1742928e-03
+  9.9252735e-04  3.0431538e-04]",Vuvekisi,Message,0.6483301
+[0.7404417  0.7983606  0.04645322 ... 0.29777357 1.4017587  0.53726834],[0.02021685 0.00043748 0.03440293 ... 0.02057414 0.03404467 0.0291558 ],"Afrika-Dzonga yi ya emahlweni ku tirha tanihi ndhawu leyi ku kongomiwaka eka yona ya vuvekisi leyi tsakeriwaka, leyi kokaka rinoko ra mabindzu ya le henhla ya misava ku ndlandlamukisa mitirho ya wona etikwen","South Africa continues to perform as an investment destination of choice, attracting some of the world s top businesses to expand their operations in the countr",0.8780376
+[1.4777722  0.02745541 0.22396837 ... 0.6562809  1.0726993  0.9701536 ],"[ 0.01754343 -0.00213444  0.00936959 ...  0.01359329  0.01371524
+  0.0286384 ]","Toyota ya Afrika-Dzonga yi simekile pulanti ya yona ya vuhumesi ya R2,6 wa tibiliyoni eDurban eKwaZulu-Nata Pulanti leyi yi ta endla rixaka lero sungula ra swipandzamananga swa gezi leswi pfanganisiweke swa xikalo xa bindzu eAfrika-Dzong Lexi i xiphemu xa vutiboheleri bya pulanikulu ya indasitiri ya mimovha hi khamphani ku engetela tilevhele ta yona vuvekis","Toyota South Africa has launched its R2,6 billion production plant in Durban in KwaZuluNata The plant will manufacture the first generation of commercial-scale hybrid electric vehicles in South Afric This is part of the Auto industry masterplan commitments by the company to increase its levels of investmen",0.91344094
+[0.8041241  0.01995633 0.29378104 ... 0.9806623  0.9953345  1.4861798 ],"[ 0.02482831 -0.00046163  0.00152083 ...  0.03344191  0.02522564
+  0.02241748]","Nsimeko lowu wu kotlana na xitiviso hi khamphani vupaki na vuphurosesi bya swakudya ya tinxakanyingi ya Sweden, Tetra Pak, ku vekisa R500 wa timiliyoni ku antswisa ntalo wa yona wa vuhumesi eka feme ya yona ya vupaki bya timatheriyali eDurba","Aspen Pharmacare opened its new anaesthetic line producing Diprivan locally as part of the R3,2-billion investment in creating world-class sterile production facilities, and turning the site in Gqeberha in the Eastern Cape into the most advanced pharmaceutical precinct on the African continen The anaesthetic was previously imported and is used in a range of standard medical procedures and operations in South African hospitals, and also used to treat COVID-19 patients on ventilators in intensivecare ward",0.76806676
+"[ 0.49284732 -0.06670676 -0.05554613 ...  0.5125339   1.2529756
+  0.6860611 ]","[ 3.3655535e-02 -3.7048241e-05 -2.0198138e-04 ...  3.2446556e-02
+  4.2791504e-02  5.1336002e-02]",Aspen Pharmacare yi pfule layini ya yona ya xititivataxirho yintshwa ya Diprivan laha tikweni tanihi xiphemu xa vuvekisi bya,"Cabinet also welcomed the recent investment by vehicle maker, Isuzu Motors, into the economy of the countr Isuzu Motors South Africa launched the production facility at Struandale in Gqeberh Isuzu is investing Rbillion into its next generation bakkie programme in South Africa for the South African and Sub-Saharan Africa market",0.7043164
+[0.6506262  0.1621426  0.10388883 ... 0.7172865  1.2321073  1.4445434 ],"[ 0.006488   -0.00033852  0.05489822 ...  0.02041113  0.0142416
+  0.01755066]","R3,2 bya tibiliyoni eka ku tumbuluxa switirhisiwa swa vuhumesi bya swixuvi swa tlilasi ya misava, na ku hundzuluxa ndhawu leyi eGqeberha eKapa-Vuhumadyambu yi va muti wa mirhi lowu antswisiweke swinene eka tikokulu ra Afrik Xititivataxirho lexi eka nkarhi lowu nga hundza a xi tundziwa kusuka ematikweni mambe naswona xi tirhisiwa eka mixakaxaka ya maendlelo ya mitirho ya vutshunguri leyi tirhisiwaka eswibedhlele swa le Afrika-Dzonga, na ku tlhela yi tirhisiwa ku tshungula vavabyi va COVID-19 lava nga eka michini yo pfuneta ku hefemula lava nga etiwadini ta phulaniphulan","They will add billions of rand of annual production to South Africa s gross domestic produc Two of the investments had been pledged at the previous South Africa Investment Conference, and the firms have now commenced with production, creating a significant number of new job",0.7761104
+"[ 1.000549    0.33192676 -0.17030908 ...  0.87508243  1.7799009
+  1.6797538 ]","[ 0.01398852 -0.00042131  0.03096105 ...  0.00996718  0.03006541
+  0.02774549]","Khabinete yi tlhele yi amukela vuvekisi lebya ha ku vaka kona hi muendli wa swipandzamananga, Isuzu Motors, eka ikhonomi ya tik Isuzu Motors ya Afrika-Dzonga yi simeke xitirhisiwa xa yona xa vuendli eStruandale eGqeberh Isuzu yi le ku vekiseni ka Rwa tibiliyoni eka nongonoko wa yona swibebe wa rixaka leri landzelaka eAfrika-Dzonga eka timakete ta le Afrika-Dzonga na ta le Dzongeni wa le Sahara wa Afrik","The Isuzu plant will create 1 000 direct jobs at its operations in Gqeberha, and across its national and international dealer network, and about 25 000 jobs at hundreds of suppliers across the countr",0.7532136
+[0.9590364  0.342709   1.0567783  ... 0.46431658 1.241615   0.94737595],[0.01392361 0.00300392 0.00580305 ... 0.00742872 0.01811357 0.02829301],"Pulanti leya Isuzu yi ta tumbuluxa 1 000 ra mitirho yo kongoma eka mitirho ya yona eGqeberha, na le ka netikwekaeya vaxavisi va le tikweni na va le matikweni ya misava, na kwalomu ka 25 000 ya mitirho eka madzana ya vaphakeri etikweni hinkwar",The MTBPS is a call to action for all sectors of society to pull together to drive the economy and advance job creatio Cabinet is confident that the MTBPS will again demonstrate government s commitment to building a sustainable economy with input from all sectors of societ,0.6912844
+"[ 1.9055835   0.42623353 -0.12024491 ...  0.550671    1.3382894
+  1.9894493 ]",[0.06050422 0.00083    0.0041958  ... 0.0146209  0.05631123 0.04800126],Vuvekisi lebyinharhu hinkwabyo byi ta antswisa nongonoko wa ku endla swa laha tikweni lowu tivisiweke eka Kungu ra ku Aka hi Vuntshwa na Nhlakarhelo ra Ikhonomi leri simekiweke hi Muchaviseki Phuresidente Cyril Ramaphosa hi Nhlangula 2020.,All these three investments will advance the localisation programme announced in the Economic Reconstruction and Recovery Plan launched by His Excellency President Cyril Ramaphosa in October 2020.,0.8581584
+[0.421112   0.2687706  0.13752009 ... 0.829371   0.95240927 0.67130405],[0.0420348  0.00910027 0.00095703 ... 0.00908238 0.04329078 0.05476594],"Byi ta engetela tibiliyoni ta tirhandi ta vuhumesi bya lembe na lembe eka swikumiwa swa tiko hinkwaswo swa Afrika-Dzong Byimbirhi bya vuvekisi lebyi byi tibohiwile eka Khomferense ya Vuvekisi ya Afrika-Dzonga ya nkarhi lowu nga hundza, naswona tifeme leti sweswi ti sungurile ntshovelo, ti ri karhi ti tumbuluxa nhlayo yo tivikana ya mitirho yintshwa",The MTBPS sets out the country s initiatives to reverse the challenges in the economy as a result of the impact of COVID-19 and address longer term structural issue,0.70245194
+"[ 0.58043736 -0.36269584 -0.19074312 ...  0.34298545  0.81865764
+  1.456559  ]","[-0.00103648 -0.0055299  -0.00154042 ...  0.01576614  0.01954173
+  0.0043439 ]",Swikombelo swa Xikimi xa Mpfuneto wa Timali ta Swichudeni xa Rixaka (NSFAS) swa 2022,2022 National Student Financial Aid Scheme (NSFAS) applications,0.88611466
+"[ 0.4292288  -0.13158959 -0.11398716 ...  0.6455404   1.1446481
+  2.2369494 ]","[ 0.01262319 -0.00108396  0.00287111 ...  0.01119342  0.04544949
+  0.05953027]",Khabinete yi tsundzuxe vadyondzi na vantshwa lava ha riki exikolweni kusuka eka mindyangu leyi nga swela na ya tlilasi ya vatirhi ku rhumela swikombelo swa mali ya lembexidyondzo ra 2022.,"Cabinet reminded learners and out-of-school youth from poor and working-class backgrounds to submit their applications for funding for the 2022 academic yea Applications for NSFAS funding will close on Friday, 7 January 2022.",0.8096765
+"[ 0.11190102 -0.25242394 -0.26349494 ...  0.0121549   0.46917704
+ -0.3326665 ]","[-0.00182752 -0.00149743  0.00157246 ...  0.01479987  0.00549291
+  0.001254  ]",Swikombelo swa mali ya,Cabinet Spokesperson,0.62065464
+"[ 0.2427205  -0.38535976  0.37206724 ...  0.71885276  0.83534944
+  2.4305203 ]","[ 0.00747361  0.00151996 -0.00041435 ...  0.01217668  0.0189511
+  0.0778148 ]","NSFAS swi ta pfala hi Ravuntlhanu, 7 Sunguti 2022.","Finance Minister Enoch Godongwana will deliver the MTBPS in Parliament on Thursday, 11 November 2021.",0.6868787
+"[ 0.5160042  -0.13489275 -0.08399971 ...  0.31184646  1.3280121
+  1.1286808 ]","[ 0.00795523 -0.00321222  0.00091857 ...  0.016994    0.04117958
+  0.04569841]","Phurosese ya swikombelo yi tlhele yi pfuleriwa swichudeni leswi se swi tsariseke eka mihlangano, kambe swi nga hava mali naswona swi fikelelaka ku kuma mali ya NSFA","The applications process is also open to students who are already enrolled at institutions, but are without funding and qualify for NSFAS financial fundin",0.86002874
+"[ 0.5554227  -0.11176303 -0.10787594 ...  0.6169493   0.95094955
+  0.683305  ]",[0.00781003 0.0016156  0.00212905 ... 0.01173852 0.04142293 0.00608411],"Ku kuma vuxokoxoko byo tala hi mayelana na hilaha ku endliwaka hakona xikombelo xa mali, bela riqingho eka 08000 67327 kumbe u endzela wwnsfaorg","For more information on how to apply for funding, call 08000 67327 or visit wwnsfaor",0.90969044
+[0.86645216 1.2308367  0.38715154 ... 0.19093286 0.65257275 0.46666735],[0.0222151  0.04468631 0.02398326 ... 0.01056389 0.02443393 0.00814211],Madzolonga yo ya hi rimbewu na ku dlayeteriwa ka vaxisati (GBVF),Gender-based violence and femicide (GBVF),0.8743374
+"[ 1.4433718   2.3462694  -0.21934858 ...  1.021112    1.0559986
+  1.350648  ]","[ 0.03988334  0.05368163 -0.00020207 ...  0.03555601  0.03369871
+  0.04108282]",Khabinete yi amukele xigwevo xa vutomi lexi nharhuhatiweke lexi xi nyikeke mupfinyi tlhelo mudlayi Mfanasibili Cornelius Mnisi (29) hi Xiavo xa Khoto ya le Henhla xa Mpumalanga eMbombela kungari khal Xigwevo lexa tihanyi xi kombisa endlelo ra nkankondzelelo ehenhla ka GBVF hi sisiteme ya vululami bya vugeveng,Cabinet welcomed the triple life sentence handed down to rapist and murderer Mfanasibili Cornelius Mnisi (29) by the Mpumalanga Division of the High Court in Mbombela recentl This harsh sentence demonstrates the zero-tolerance approach against GBVF by the criminal justice syste,0.87538564
+"[ 0.97131974  0.9950565  -0.05781916 ...  1.1441448   0.9993962
+  1.0994103 ]","[ 0.01703827  0.0103907  -0.00011122 ...  0.02278078  0.03287543
+  0.03091025]","Hi ku tirhisana na maphorisa na tiejensi ta nsindziso wa nawu, hi nga kota ku endla switarata swa ka hina na miganga swi hlayiseka swinene eka hinkwav Hinkwerhu hi fanele ku tshama hi vambe ngoma na ku mangala timhangu leti fambelanaka na GBVF hinkwato emaphoriseni kumbe hi bela riqingho eka Senthara ta Ndzeriso wa GBVF ya Rixaka: 0800 428 428 kumbe STOP Gender Violence Helpline: 0800 150 150 / *120*7867#","By working together with the police and other law-enforcement agencies, we can make our streets and communities safer for al We should all be vigilant and report all GBVFrelated incidents to the police or call the National GBVF Command Centre: 0800 428 428 or Stop Gender Violence Helpline: 0800 150 150/*120*7867#.",0.9314344
+"[ 0.57019335 -0.12956023  0.8236032  ...  0.79522055  0.8005046
+  0.6208352 ]",[0.01623057 0.01734255 0.00197985 ... 0.01553401 0.01957153 0.00361769],Mfumo wu ta teka xiave eka 16 wa Masiku ya Vugingirikeli bya Mpfumaleko wa Madzolonga ehenhla ka Vavasati na Vana,Government will participate in the 16 Days of Activism of No Violence Against Women and Children,0.8669888
+"[ 0.73252565 -0.14654651  0.58260345 ...  0.53710455  0.96918243
+  1.4636766 ]","[ 0.01426918  0.00251669  0.01237507 ... -0.00180823  0.00059482
+  0.05055716]",kusukela 25 Hukuri (Siku ra Matiko ya Misava ra Mpfumaleko wa Madzolonga ehenhla ka Vavasati) kufikela 10 N'wendzamhala,from 25 November (International Day of No Violence against Women) to 10 December (International Human Rights Day),0.81978554
+"[ 1.1753681  -0.09010297 -0.18611233 ...  0.6472891   0.81422216
+  0.52894163]","[ 0.01644828  0.00184978 -0.00025135 ...  0.01856331  0.03153726
+  0.02714993]",ku tlakusa vulemukisi bya mpingu wa GBVF etikweni,to heighten awareness of the scourge of GBVF in the countr,0.80515724
+"[ 1.024356    1.7264321  -0.23452187 ...  0.6933353   0.8430304
+  0.75187945]","[ 0.01394217  0.04568861 -0.00108828 ...  0.00974746  0.01982507
+  0.02108353]",Vululami bya vaxanisiwa va vudlayi bya nkarhi wa mfumo wa xihlawuhlawu,Justice for victims of apartheid-era murders,0.81841284
+"[ 2.0369508   1.7161769  -0.21488509 ...  0.7864126   0.77530354
+  1.5407994 ]","[ 5.1352870e-02  3.5315271e-02  1.1976266e-03 ... -1.6418629e-05
+  2.7608493e-02  2.2936216e-02]",Khabinete yi amukele xitiviso lexa ha ku vaka kona hi Holobye wa Vululami na Vukorhokeri bya Makhotso Ronald Lamola xa xipano xo hlawuleka xa valavisisi na vachuchisi va mfumo lexi xi nga ta tirhana ntsena na milandzu ya khale ya Khomixini ya Ntiyiso na Ndzivalelan,Cabinet welcomed the recent announcement by Justice and Correctional Services Minister Ronald Lamola of a special team of investigators and state prosecutors that will deal exclusively with Truth and Reconciliation Commission cold case,0.9020759
+"[ 0.89135575  1.5866898  -0.00931089 ...  1.0663443   1.2590486
+  1.1597134 ]","[ 0.01853234  0.04312272 -0.00035293 ...  0.03529346  0.03598558
+  0.01810824]",Xipano lexo hlawuleka xi ta nyikiwa xintirhwana xa ku langutisisa mitirho yo tatisa ehenhla ka vululami hi maphorisa ya nsirhelelo ya mfumo wa xihlawuhlaw Miphalalo yo tano yi ta hatlisisa phurosese ya ku gimeta eka mindyangu ya vaxanisiwa va vudlayi bya nkarhi wa mfumo wa xihlawuhlawu,The special team will be tasked with looking into extrajudicial murders committed by apartheid security polic Such interventions will fast-track the process of finding closure for the families of the victims of apartheid-era murder,0.85188484
+"[ 0.57437253 -0.32116523 -0.14057451 ...  1.1112016   1.2659546
+  0.21583556]","[ 0.00935354 -0.00084703 -0.00027501 ...  0.03837189  0.01820244
+  0.01272065]",Xiyimo xa tipolitiki xa Vukosi bya Eswatini,Political situation in the Kingdom of Eswatini,0.80099833
+"[ 0.17908779  0.99886465 -0.28457874 ...  0.42801082  0.46285412
+  0.55065346]","[ 0.00690187  0.00026874 -0.00047916 ...  0.00398246  0.00705925
+  0.00600474]",Khabinete yi lemuke na ku amukela mphalalo wa Muchaviseki Phuresidente Ramaphosa,Cabinet noted and welcomed the intervention of His Excellency,0.720531
+"[ 0.07226509 -0.16541903 -0.15563656 ...  1.3410535   0.32770666
+  0.4221339 ]","[ 4.4388878e-03 -1.6651080e-03 -3.9839582e-05 ...  1.6613783e-02
+  9.9237096e-03  6.0051461e-03]","eka xiyimo xa yena tanihi Mutshamaxitulu wa Xiyenge xa Muganga wa Nhluvukiso wa le Dzongeni wa Afrika (SADC) hi mayelana na Ntirhisano wa Tipolitiki, Vusirheleri na Nhlayiseko","Development Community (SADC) Organ on Politics, Defence and Security Cooperation",0.8290632
+"[ 0.81984806 -0.2756165  -0.23687671 ...  0.8867886   1.3650292
+  0.3640672 ]","[ 0.01743439 -0.00284821 -0.0001107  ...  0.04277367  0.02005548
+  0.01913431]",eka xiyimo xa tipolitiki xa Vukosi bya Eswatin,in the political situation in the Kingdom of Eswatin,0.8063334
+"[ 0.7373611   0.6001747  -0.1143076  ...  0.8612977   0.86361736
+  3.0238574 ]","[ 0.0029078  -0.0004049   0.02132772 ...  0.03408219  0.02134422
+  0.09000827]","Nhlengeletano ya Phuresidente Ramaphosa na Ndhavezitha Hosinkulu Mswati III hi Ravumbirhi, 2 Hukuri 2021 yi landzela rendzo ro ya eka Vukosi lebyi hi Vurhumiwa byo Hlawuleka hi siku ra 21 na 22 Nhlangula 2021.","President Ramaphosa s meeting with His Majesty King Mswati III on Tuesday, 2 November 2021 follows a visit to the Kingdom by Special Envoys on 21 and 22 October 2021.",0.862635
+"[ 0.00248248 -0.38626245 -0.11021008 ...  0.16472526  0.16894934
+  0.04543046]","[-0.00092503  0.00139011  0.00062821 ...  0.01068362  0.00977905
+  0.00275728]",Phuresidente,The President had,0.7606734
+"[ 0.7813719  -0.19088048 -0.03586512 ...  0.9713347   1.7545528
+  1.1988534 ]","[ 1.8620918e-02 -2.0342933e-03 -9.7192009e-05 ...  2.5715921e-02
+  4.7446549e-02  1.7570304e-02]","eka xiyimo xa yena tanihi Mutshamaxitulu wa Xiyenge xa Troika lexi vumbiwaka hi Namibia (leya ha ku nghenaka), Afrika-Dzonga (mutshamaxitulu) na Botswana (leyi humaka)","in his capacity as Chairperson of the SADC Organ Troika comprising Namibia (incoming), South Africa (chair) and Botswana (outgoing)",0.9022063
+"[ 0.5475502  -0.07062927 -0.016753   ...  1.5301305   0.587515
+  1.391188  ]","[ 0.00453648 -0.00066602 -0.00021716 ...  0.05362283  0.02013826
+  0.02409626]",u rhangele Vurhumiwa lebyo Hlawuleka ku vulavurisana na Vukosi bya Eswatini hi mayelana na leswa ha ku humelelaka swa nhlayiseko na tipolitiki eka Vukosi leby,directed the Special Envoys to engage with the Kingdom of Eswatini on security and political developments in the Kingdo,0.81058055
+"[ 0.9633663   0.2636111  -0.21551171 ...  1.3336979   1.3177482
+  1.023522  ]","[ 0.01912825  0.00194897 -0.0001976  ...  0.0483037   0.03549618
+  0.02076542]","Khabinete yi amukele ntwanano wa leswaku Vukosi bya Eswatini byi ta sungula phurosese ya ku tumbuluxiwa ka foramu ya n wangulano wa rixak Khabinete yi kombela vakhomaxiave hinkwavo exikarhi ka emaSwati ku tirhisana ku herisa madzolonga na ntlimbo, na ku hlayisa ku rhula na ku hola eka Vukosi leby","Cabinet welcomed the agreement that the Kingdom of Eswatini will embark on a process towards the establishment of a national dialogue foru Cabinet calls on all stakeholders amongst emaSwati to work together to end violence and conflict, and maintain peace and calm in the Kingdo",0.874101
+"[ 0.16170608 -0.27940145 -0.11740221 ... -0.09531134  0.02734924
+  0.18592271]","[ 0.00507376 -0.00012318 -0.00168673 ... -0.00381895  0.00523793
+  0.00884857]",Nawumbisi 1.,Appointments 1.,0.7786421
+"[ 0.7069342   3.251015   -0.37390617 ...  0.6684256   0.06904008
+  1.0667895 ]",[0.01218307 0.06203747 0.00168296 ... 0.01048193 0.0021102  0.04396382],Nawumbisi wa Hundzuluxo wa Nawu wa Vugevenga (Maendlelo ya Vulavisisi) wa 2021,Criminal Law (Forensic Procedures) Amendment Bill of 2021,0.82916886
+"[ 0.9996667   2.418082   -0.13892743 ...  1.0445477   1.2087873
+  1.1098646 ]","[ 0.03693047  0.05269789 -0.00020193 ...  0.02879904  0.02437154
+  0.04138225]",Khabinete yi pasise ku rhumeriwa ka Nawumbisi wa Hundzuluxo wa Nawu wa Vugevenga (Maendlelo ya Vulavisisi) wa 2021 ePalamende ku ya phurosesiw Mihundzuluxo leyi ringanyetiweke yi lulamisela ndlela ya ku sindzisa ku tekiwa ka tisampulu ta le rhameni ta DNA (tisampulu kusuka eka tisele ta le ndzeni ka rhama ra munhu) kusuka eka vanhu lava va voniweke nandzu ehansi ka milandzu ya Xedulu ya 2.,Cabinet approved the submission of the Criminal Law (Forensic Procedures) Amendment Bill of 2021 to Parliament for processin The proposed amendments provide for the mechanism to enforce the taking of DNA buccal samples (samples from cells on the inside of the person s cheek) from people convicted under Schedule 8 offence,0.86933833
+[0.7921982  2.447234   0.08276548 ... 0.45121756 1.2934115  1.3058763 ],"[ 2.4342759e-02  6.0424775e-02 -3.8368969e-05 ...  2.1440754e-02
+  3.2429561e-02  3.4047276e-02]","Milandzu ya Xedulu ya 8 yi katsa milandzu ya swa masangu, vukhamba, ku ngungumerisiwa ka vanhu na ku dlaya hi ku tiyimisel Tisampulu ta le rhameni leti hlengeletiwaka ti ta humelerisa vuchuchisi bya nkarhi lowu taka eka vaonhi vo tlhandlamet","Schedule 8 offences include sexual offences, robbery, human trafficking and culpable homicid The collected buccal samples will facilitate future prosecutions for reoffender",0.8611654
+"[ 0.7531171   2.5138016  -0.17024109 ...  0.922245    0.43284896
+  0.5705442 ]","[ 0.01895486  0.06499167 -0.000335   ...  0.01744079  0.01647212
+  0.00901706]",Nawumbisi lowu wu ta tlhela wu kotisa ku tumbuluxiwa ka databesi ya DNA ya vulavisisi byo angarhela ku tiyisa nyimpi ehenhla ka vugevenga hi ku nyika maphorisa vuswikoti hi vumbhoni bya ku lavisisa na ku ololoxa milandzu yo tivikan,The Bill will also enable the establishment of a comprehensive forensic DNA database to strengthen the fight against crime by capacitating the police with evidence to investigate and solve serious crime,0.8870498
+"[ 1.1812173e-01  7.5826845e-03 -1.0527719e-01 ...  9.8261540e-04
+ -6.5823257e-02  1.0437548e+00]","[ 0.00043098  0.0058385   0.00134642 ...  0.00269926 -0.0029742
+  0.01413857]",Xiendleko lexi taka1.,Upcoming event 1.,0.8389353
+[0.46725315 0.5209402  0.01972348 ... 0.7790878  0.50267935 1.6226288 ],"[ 0.00788852  0.00027181 -0.00090943 ...  0.02042115 -0.00292039
+  0.00963986]",Xitatimente xa Pholisi ya Mpimanyeto wa le Xikarhi ka Theme (MTBPS) xa 2017,Medium Term Budget Policy Statement (MTBPS),0.7475339
+"[ 0.6550102  -0.15872546 -0.06529081 ...  0.6601025   1.2429172
+  2.737804  ]","[ 0.02519007 -0.00044579  0.01543831 ...  0.01357553  0.0272735
+  0.02169864]","Holobye wa Timali Enoch Godongwana u ta andlala MTBPS ePalamende hi Ravumune, 11 Hukuri 2021.","Ms Lalela Mswane (24), on being crowned Miss South Africa 2021 on 16 October in Cape Tow Her triumph is an affirmation that success can be achieved through dedication and hard wor",0.7086618
+"[ 1.1596204   0.08042248 -0.1349704  ...  0.9832951   1.7171555
+  0.82049   ]","[ 0.02471085  0.04135552 -0.00024642 ...  0.03236135  0.03244458
+  0.01547953]",Xitatimente lexi xi ta koxometa mifambelaniso eka mpimanyeto wa rixaka ku tiyisisa leswaku ku va na vuyisekamahlweni bya nkwama bya rixak,The statement will detail adjustments to the national budget to ensure our nation s fiscal sustainabilit,0.7627125
+"[ 1.4740605  -0.00767599 -0.08121132 ...  0.77174926  1.0439302
+  1.8346194 ]","[ 3.7313460e-03  4.2457720e-03 -9.6042124e-05 ...  5.5350312e-03
+  3.2724451e-02  3.6691190e-03]",MTBPS leyi yi tumbuluxa mapfhumba ya tiko ku tlhelerisela endzhaku mitlhontlho leyi nga eka ikhonomi hikwalaho ka nkhumbo wa COVID-19 na ku tirhana na swiphiqo leswi nga na xivumbeko swa nkarhi wo leh,"Mr Robert Mooketsa Ramasodi as DG at the Department of Agriculture, Land Reform and Rural Developmen",0.66153735
+"[ 0.7774285  -0.0871934  -0.09095787 ...  0.6875051   0.8138245
+  1.5409693 ]","[ 8.3016772e-03  2.7163401e-03 -7.2511517e-05 ...  1.9725407e-02
+ -9.5177284e-03  2.4325341e-02]",MTBPS i xikombelo xa ku teka goza eka tisekitara hinkwato ta rixaka ku tirhisana ku lawula ikhonomi na ku antswisa ku tumbuluxiwa ka mitirh Khabinete ya tshemba leswaku MTBPS leyi yi ta tlhela yi kombisa vutiboheleri bya mfumo ku aka ikhonomi leyi yisekaka emahlweni hi vuhoxaxandla byo suka eka tisekitara hinkwato ta rixak,Ms Carmen Joy Abrahams as DDG: Expanded Public Works Programme at the DPW,0.7011689
+"[-0.01681829 -0.39070204 -0.12061238 ... -0.16367526 -0.05210353
+  0.2714164 ]","[ 0.02133454  0.0001241  -0.00072686 ... -0.00285243  0.00438509
+ -0.00051245]",Mahungu1.,Bill,0.57720226
+"[ 0.8862708   0.13182545 -0.80626535 ...  0.27475104  0.8350422
+  0.70245034]","[ 0.01264063 -0.00142847 -0.00104524 ...  0.02221902  0.02733459
+  0.01880156]",VuhoyozeriKhabinete yi hundzise vuhoyozeri bya yona na ku navelela leswinene eka:,Congratulations Cabinet extended its congratulations and well-wishes to:,0.7101965
+"[ 0.9619748  -0.16378833 -0.1676776  ...  0.6756763   0.70407766
+  1.1598123 ]","[ 0.00577423 -0.0001262  -0.00014365 ...  0.04302587  0.00543196
+  0.03731145]","Mnn Lalela Mswane (24), hikwalaho ko hlawuriwa tanihi N'wambhuri wa Afrika-Dzonga hi siku ra 16 Nhlangula eKap Vuhluri bya yena i ntiyisiso wa leswaku ku humelela ku nga fikeleriwa hikwalaho ka vutiyimiseri na ku tirha hi matimb","Mr Robert Nkuna, whose contract as Director-General (DG) at the Department of Planning, Monitoring and Evaluation has been extended for five year",0.7156502
+"[ 0.04375966 -0.33054864  0.20949802 ... -0.0886475  -0.00852693
+  0.15844409]","[ 0.00295887 -0.00319571 -0.00043476 ...  0.00607724  0.00032424
+  0.00596514]",Ku thoriwa1.,(xiii),0.47151887
+"[ 0.14894365  0.02362784 -0.30269498 ...  1.184779    0.46954384
+  1.7613387 ]","[ 3.4433071e-02 -1.2459120e-03  1.5503125e-05 ...  2.9559704e-02
+  4.0859353e-02  2.3562290e-02]","Ttn Robert Nkuna, loyi kontiraka ya yena tanihi Mulawuri-Jenerali (DG) eka Ndzawulo Nkunguhato, Vulanguteri na Nkambelo yi engeteriweke ku ringana ntlhanu wa malemb","Ms Mohlago Flora Mokgohloa as Deputy DG (DDG): Biodiversity and Conservation at the Department of Forestry, Fisheries and the Environmen 4.",0.7474061
+"[ 0.70849097 -0.04667499 -0.32450202 ...  1.0486981   0.5703033
+  1.5506346 ]","[ 0.00540707 -0.00155536  0.00019987 ...  0.02032026 -0.00891907
+  0.02666895]","Ttn Robert Mooketsa Ramasodi tanihi DG ka Ndzawulo ya Vurimi, Antswiso wa Misava na Nhluvukiso wa Matikoxikay 3.",Ms Rirhandzu Sharon Mashava as DDG: Integrated Transport Planning at the Department of Transpor,0.7731725
+"[ 0.6669964  -0.09244685 -0.10670031 ...  1.136464    1.4866515
+  0.77687895]","[ 0.05056955  0.00383808  0.00094698 ... -0.00409549  0.00645069
+ -0.00390822]","Mnn Mohlago Flora Mokgohloa tanihi Xandla xa DG (DDG): Bayodayivhesiti na Nhlayiso eka Ndzawulo ya Swihlahla, Tinhlampfi na Mbangu",Ms Mameetse Primrose Masemola as DDG: Infrastructure Investment Planning,0.7502563
+"[ 0.5727303   0.13670203 -0.22973305 ...  0.9289052   0.34494418
+  1.400319  ]","[ 0.05329658  0.00360343 -0.00012762 ... -0.00277971  0.05091801
+  0.02920281]",Mnn Rirhandzu Sharon Mashava tanihi DDG: Nkunguhato wa Vutleketli lebyi Pfanganisiweke eka Ndzawulo ya Vutleketl 5.,Mr Suleman Badat; (xii) Ms Mbali Barbara Ndlovu; and(xiii) Adv Simosenkosi Chaman,0.7222694
+"[ 1.0762061  -0.00706184 -0.2508537  ...  0.84381956  0.7530045
+  0.3821326 ]","[ 0.06378602  0.00644175 -0.00022772 ...  0.00185702  0.02022705
+  0.01656256]",Mnn Mameetse Primrose Masemola tanihi DDG: Nkunguhato wa Vuvekisi bya Switirhisiwa,Enquiries:Ms Phumla Williams,0.7338299
+"[-1.9852982e-03 -5.6586038e-02 -1.3203572e-01 ...  1.2210662e+00
+ -1.0343883e-03  7.3421605e-02]","[ 0.00695444 -0.00060072  0.00231883 ...  0.04210282  0.00223614
+ -0.005919  ]",Switirhisiwa swa Afrika-Dzonga eka Ndzawulo ya Mitirho ya Mfumo na Miako (DPWI).,Infrastructure South Africa at the Department of Public Works and Infrastructure (DPWI).,0.8394754
+"[ 0.7880072   1.5822911  -0.21605767 ...  1.4448979   1.0125856
+  0.8097792 ]","[ 0.04151286  0.00039561 -0.00033741 ...  0.00756501  0.04735944
+  0.01990735]",Mnn Carmen Joy Abrahams tanihi DDG: Nongonoko wa Mitirho ya Mfumo lowu Ndlandlamukisiweke eka DPW Khabinete yi seketele ku thoriwa ka swirho swa Bodo loko ku landzeleriwile vutiyisisi bya mithwaso na mbhasiso lowu faneleke,Board of directors of the Public Investment Corporation: (i) Dr David Masondo (Chairperson); (ii) Mr Frans Baleni; (iii) Ms Ntombifuthi Mtoba; (iv) Ms Tryphosa Ramano; (v) Prof Bonke Dumisa; (vi) Ms Esther Barbara Watson; (vii) Ms Beverly Bouwer; (viii) Mr Mongwena Mugwena Maluleke; (ix) Mr Walter Hlaise; (x) Mr Lufuno Mulaudzi; (xi) Mr Abel Sithole; (xii) Mr Brian Mavuka; and,0.72296476
+"[ 0.11057723  0.08285788 -0.31068504 ...  0.62692225  0.44896328
+  0.49317774]","[-0.00159935 -0.00288862 -0.00171023 ...  0.00171205  0.00740486
+ -0.00081022]",Bodo ya valawuri va Khoporexini ya Vuvekisi bya Mfumo:(i),including plant managers,0.5694997
+"[ 0.36246282 -0.04471449 -0.2864445  ...  0.44316638  0.71408284
+  1.348793  ]","[ 0.03831147  0.00101513 -0.00016238 ...  0.00334207  0.04730134
+  0.01250705]",Dkd David Masondo (Mutshamaxitulu);(ii),Cabinet has opted to comply with the court judgement that ruled on the reinstatement of the members of the Board of directors of Umgeni Wate (i) Ms Ziphozethu Mathenjwa (Chairperson); (ii) Prof Thandwa Mthembu; (iii) Mr Siboniso Shabalala; (iv) Mr Mduduzi Eric Zakwe; (v) Ms Chamane Nompumelelo Beata; (vi) Mr Visvin Reddy; (vii) Mr William Mapena; (viii) Mr Teboho Nkhahle; (ix) Ms Linda Ngcobo; (x) Ms Bongekile Zulu; (xi),0.6353131
+"[ 0.48400563 -0.26698798 -0.15898192 ...  0.5228187   0.30631185
+  1.2273258 ]","[-0.0016326  -0.00321719 -0.00105423 ...  0.00606296 -0.01007252
+  0.03999395]",Ttn Frans Baleni;(iii),Mobile: 083 501 0139,0.59096277
+"[ 0.9841468  -0.18542233 -0.10125127 ...  0.51081675  0.35411066
+  1.0786297 ]","[ 0.02775656 -0.00143432  0.00012594 ...  0.00703385  0.01973662
+  0.03976729]",Mnn Ntombifuthi Mtoba;(iv),Ms Makano Mosid 8.,0.63221014
+"[ 0.93611073 -0.09246302 -0.369323   ...  0.3011328   0.61469966
+  0.7708851 ]","[ 0.02260375  0.00236272 -0.00040204 ...  0.01068778  0.03327793
+  0.01632623]",Mnn Tryphosa Ramano;(v),President Ramaphosa,0.67426413
+"[ 0.8049593  -0.03043882 -0.28099254 ...  0.48574913  0.10928962
+  0.90213585]","[ 0.04269576 -0.00091856 -0.00034634 ...  0.00401036  0.04415612
+  0.03588527]",Phurof Bonke Dumisa;(vi),Cabinet endorsed the appointment of the Board members subject to the verification of their qualifications and relevant clearanc 7.,0.44392386
+"[ 0.6972567  -0.29495442 -0.15049218 ... -0.2276369   0.10977568
+  1.1711314 ]","[ 1.2086812e-02 -6.0771714e-04 -8.5682179e-05 ...  9.0167709e-03
+  2.8860399e-02  1.1481068e-02]",Mnn Esther Barbara Watson;(vii),in his capacity as Chairperson of the Southern African,0.47683293

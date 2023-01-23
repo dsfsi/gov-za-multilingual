@@ -191,6 +191,3 @@ if __name__ == "__main__":
             os.system(f'rm *.txt')                              #   Remove all text files in current directory
             os.system(f'rm *_emb')                              #   Remove all embeddings files in current directory
             os.system(f'rm ./content/sample_data/*.txt')        #   Remove all csv files in current directory
-
-
-

@@ -1,0 +1,450 @@
+ts,en,src_text,trg_text,Cosine_Score
+"[ 0.7145753  -0.0761888  -0.01454279 ...  0.17530227  0.15698761
+  0.7586532 ]","[ 0.00980162 -0.0033715  -0.00078007 ...  0.00912488 -0.00173329
+  0.03020796]",Xiyimo xa Khabinete eka Timhakakulu1.,Issues in the environment1.,0.7307677
+"[ 0.12110815 -0.3532691  -0.1065429  ...  0.13991308  0.26974863
+ -0.34521523]","[ 2.7578291e-03 -1.7031097e-04 -8.8855159e-06 ... -8.5693219e-04
+ -1.7560680e-03 -4.9124798e-04]",Nsirhelelo wa mati,Water security,0.90077907
+"[ 0.75610954 -0.13635223  0.39912492 ...  0.84029865  0.9304217
+  1.1216998 ]",[0.03047554 0.00014964 0.01129931 ... 0.0148166  0.03862053 0.00937005],"Khabinete yi khense vanhu va Afrika-Dzonga eka ku landzelela swipimelo swa mati leswi tirhisiweke eka swiphemu swo karhi swa Joni, Tshwane na Ekurhuleni ku tshamisekisa ntalo wa vuhlayiselamat Madamu na vuhlayiselamati swi tshama swi ri ehansi ka ntshikelelo hikwalaho ka mahiselo ya le henhla eGauteng, naswona ku laviwa loku tlakukeke ku sindzise Rand Water ku hunguta mphakelo wa mati eka timasipala hi mpimo lowukul Vulawuri bya mati byi phakela mati yo nwa yo tala eka kutlula 11 wa timiliyoni ta vanhu eGauteng, swiphemu swa Mpumalanga, Free State na N'walungu-Vupeladyamb","Cabinet thanked South Africans for adhering to water restrictions implemented in certain parts of Johannesburg, Tshwane and Ekurhuleni to stabilise the capacity of reservoir Dams and reservoirs remain under pressure due to high temperatures in Gauteng, and increasing demand forced Rand Water to reduce water supply to municipalities drasticall The water utility supplies bulk potable water to more than 11 million people in Gauteng, parts of Mpumalanga, the Free State and North Wes",0.892925
+"[ 1.0599676  -0.16044714  0.45531276 ...  1.0555699   0.96225107
+  0.98089236]","[ 0.0144918  -0.00112374  0.01580531 ...  0.03720099  0.02019874
+  0.03049167]",Swipimelo leswo ka swi nga papalateki swi na xikongomelo xa ku sirhelela mphakelo wa mati naswona swi ta tshama swi ri kona kufikelaloko xiyimo lexi xi antsw Khabinete yi kombele vaaki ku landzelela swipimelo swa mati na ku tlanga xiphemu xa vona hi ku tirhisa xipfuno lexo kala hi switsongotsongo,These unavoidable restrictions aim to secure water supply and will remain in place until the situation improve Cabinet called on the public to continue adhering to the water restrictions and play their part by using this scarce resource sparingly,0.9059651
+"[ 0.8608284  -0.06101651 -0.5250537  ...  0.53138787  0.24309334
+ -0.02139008]","[ 0.02937114 -0.00086743 -0.00131935 ...  0.01169653  0.00775233
+  0.00584742]",itereko xa Transnet,Transnet strike,0.7949106
+"[ 0.5691535  -0.23278964  0.0243036  ...  1.3736749   1.7284144
+  2.3200443 ]","[ 0.02197049 -0.00332013  0.00655918 ...  0.02303141  0.03047857
+  0.098446  ]","Khabinete yi amukele ntwanano wa muholo wa malembe manharhu lowu fikeleriweke exikarhi ka Transnet na United National Transport Union (UNTU), lowu nga ta tirha eka nkarhi wa 1 Dzivamisoko 2022 kufika 31 Nyenyanyana 2025.","Cabinet welcomed the three-year wage deal reached between Transnet and the United National Transport Union (UNTU), which is applicable for the period 1 April 2022 to 31 March 2025.",0.8897619
+"[ 0.76394695 -0.08499639 -0.27406266 ...  1.2265074   1.1387029
+  1.2832748 ]","[ 0.00653647 -0.00087972 -0.00019916 ...  0.03129611  0.02015079
+  0.02205913]","Khomixini ya Mbuyelelano, Vulamuri na Vuahluri yi lamurile eka ntwanano lowu, leswi swi fikiseke emakumu xitereko xa vatirhi hi swirho swa UNTU hi nkarhi wolow Khabinete yi tlhele yi amukela xiboho hi South African Transport and Allied Workers Union ku herisa xitereko lex","The Commission for Conciliation, Mediation and Arbitration mediated this deal, which ended the current industrial action by members of UNTU with immediate effec Cabinet also welcomed the decision by the South African Transport and Allied Workers Union to call off the strik",0.87170315
+[0.80519867 0.5863062  0.29096287 ... 1.1605649  1.2759199  1.0247506 ],"[ 0.0125291  -0.00177053  0.00067204 ...  0.04314315  0.01787039
+  0.0282627 ]","Khabinete yi amukele vutiboheleri hi Transnet ku kongomisa eka ku hetisiwa ka mitirho leya saleleke endzhaku loku humeleleke eka mihlaluko na le swiporweni hi nkarhi wa xitereko xa vatirhi, leswi swi khumbeke hi ndlela yo homboloka ikhonomi na tisekitara leti ti tshembelaka eka vukorhokeri bya yon","Cabinet welcomed the commitment by Transnet to focus on clearing backlogs that occurred across the port and rail system during the industrial action, which negatively impacted the economy and sectors that are dependent on its service",0.86052763
+"[ 1.3205101   0.01417751 -0.33785063 ...  0.5424427   0.8634107
+  1.5721923 ]","[ 0.01614201 -0.00141093 -0.00048461 ...  0.01727231  0.02788411
+  0.04486643]",Khabinete yi hundzise ku khensa ka yona eka nseketelo na ntirhisano lowu nyikiweke hi bindzu hi nkarhi wa xitereko lex,Cabinet expressed its gratitude to the support and cooperation given by business during the strik,0.8557533
+"[ 0.9369821  -0.2804922  -0.12545791 ...  0.70744914  0.8134456
+  0.9337836 ]","[ 1.8243607e-02 -2.5679261e-04 -7.0952105e-05 ...  3.3925872e-02
+  3.7628610e-02  3.2636870e-02]",Yi khutaza vuxaka lebyi yaka emahlweni exikarhi ka vufambisi na vatirhi va Transnet ku vuyerisa khamphani na ikhonomi ya tiko,It encourages a continuous relationship between Transnet management and labour for the benefit of the company and the economy of the country,0.8952292
+"[-0.05992929 -0.39550337 -0.03662811 ...  0.4498686   1.0005642
+  0.5197337 ]","[-0.00366134 -0.00078529  0.00867198 ...  0.00058287  0.01755215
+  0.00937484]",Vuxaka bya Afrika-Dzonga,South Africa,0.85340524
+"[ 0.2800318  -0.31886718 -0.01689621 ... -0.44685313  1.4238993
+  0.70772195]","[-0.00189567 -0.00101399 -0.00020762 ...  0.01302483  0.01444902
+  0.00242741]",Saudi Arabia,Saudi Arabia relations,0.80452275
+[1.9962016  0.81984663 0.03607652 ... 1.8567251  0.9129868  2.9981172 ],"[ 0.05316974 -0.0021177   0.02646334 ...  0.04396677  0.02752188
+  0.06282553]",Khabinete yi amukele Rendzo ro Tirha leri humeleleke kuya eKingdom of Saudi Arabia hi Phuresidente Cyril Ramaphosa hi masiku ya 15 na 16 Nhlangula 2022.,Cabinet welcomed the successful Working Visit to the Kingdom of Saudi Arabia by President Cyril Ramaphosa on 15 and 16 October 2022.,0.8977642
+"[ 0.28343424  0.13950321 -0.14806418 ...  1.0625137   1.0893854
+  0.6290999 ]","[ 1.7841954e-02  9.7867148e-04 -5.9446543e-06 ...  2.7289029e-02
+  3.7382707e-02  1.4742683e-02]","Hi nkarhi wa rendzo leri, matiko lamambirhi ma sayine 17 wa Timemorandamu ta Ntwanano (tiMoU) eka tindzima to hambanahambana to tanihi vurimi, indasitiri ya tinhlampfi, vucelamigodi, eneji leyi vuyelerisekaka, nsirhelelo, vutleketli na swimila na swiharhi swa le lwandle ku endla swakudy TiMoU tin'wana leti sayiniweke ti hi mayelana na ku tumbuluxiwa ka Khansele ya Mabindzu ya Nhlanganelo, ntirhisano eka ndzima ya tiindasitiri ta swa nyimpi na maxavelo ya tinhundzu na vukorhokeri, na hi mayelana na ntirhisano wa mivalango ya ntivoxivumbekomisav","During the visit, the two countries signed 17 Memoranda of Understanding (MoUs) in various fields such as agriculture, fisheries, mining, renewable energy, security, transport and aquacultur Other MoUs signed are on the establishment of a Joint Business Council, cooperation in the field of military industries and procurements, and on geological survey cooperatio",0.90687776
+"[ 0.22313747 -0.24155033 -0.10617152 ...  1.0086725   1.5374855
+  2.4560366 ]","[-0.00082697 -0.00208668 -0.00067767 ...  0.03591058  0.03564547
+  0.04101852]",Phuresidente u tirhise rendzo leri ku rhamba mabindzu ya le Saudi Arabia kuya eka khomferense ya vuvekisi ya vuntlhanu ya Afrika-Dzonga leyi yi nga ta khomiwa hi 2023.,The President used the visit to invite Saudi Arabia businesses to South Africa s fifth investment conference that will be held in 2023.,0.9214025
+[0.6205817 0.069938  0.1798473 ... 1.1762444 0.9947833 0.7723704],"[ 0.01209565 -0.00102554  0.01387018 ...  0.00099784  0.03764779
+  0.01352813]",Saudi Arabia i mutirhisani lonkulu wa vumbirhi wa Afrika-Dzonga eVuxa-Xikarhi naswona i xihlovo lexikulu kutlula hinkwaswo xa switundziwa kusuka eka xifundza lex Vuxaka bya matiko ya misava exikarhi ka matiko hamambirhi byi vangile xitandzhaku eka mabindzu na maendlekelo ya vuvekisi,Saudi Arabia is South Africa s second largest trading partner in the Middle East and the largest source of imports from the regio International relations between both countries have resulted in a positive effect on trade and investment trends,0.8836102
+"[-0.38004458 -0.03471108  0.06292158 ... -0.00500428  0.00813332
+ -0.5349321 ]","[ 0.00143612  0.00159494  0.00071873 ... -0.00307981  0.00490779
+ -0.00479718]",Vuvekisi bya switirhisiwakulu,Infrastructure investment,0.7969048
+"[ 1.8482339  -0.06553308 -0.28458887 ...  1.0071024   1.7584442
+  1.0998262 ]","[ 0.04314609  0.00057884 -0.00031454 ...  0.03274106  0.06559081
+  0.02168079]","Khabinete yi amukele ku endliwa ka pulanti ya vuhumesi bya tipulasitiki ya ximanguvalawa hi muendli wa matiko ya misava wo rhangela, ALPLA Group, eLanseria eGauten","Cabinet welcomed the commissioning of a state-of-the-art plastics production plant by leading international manufacturer, the ALPLA Group, at Lanseria in Gauten",0.8827677
+"[ 0.34428272  1.5198498  -0.09936135 ...  0.9209      0.40938973
+  1.0558494 ]","[ 1.6946016e-02 -4.5330907e-04 -9.9059806e-05 ...  2.4788385e-02
+  1.9826271e-02  2.0624958e-02]",Leyi yi engetela vutiboheleri bya Phuresidente Ramaphosa ku veka nhluvukiso wa switirhisiwakulu eka xiyimo tanihi,This augments President Ramaphosa s commitment to position infrastructure development as a means to stimulate the economy and increase employmen,0.74127334
+"[ 0.5328457  -0.24497618  0.08682994 ...  0.4869324   0.5353276
+  0.12792413]","[ 0.00442813 -0.00118555  0.01616898 ...  0.01082907  0.00136872
+  0.00690325]",ndlela ya ku hlohlotela ikhonomi na ku engetela mitirh,capacity to process locally grown produc,0.7077475
+[0.67226624 0.63131326 0.0162862  ... 0.9125437  1.0550154  1.8812293 ],"[ 9.7171385e-03  3.2595050e-04 -8.3936931e-05 ... -7.8971114e-04
+  3.2938667e-02  4.8090115e-02]","Vuvekisi lebyi nga na nkoka wa US$50 wa timiliyoni i vuhoxaxandlakulu eka kungukulu ra Lanseria Smart City leri ri nga ta lawula vuyisekamahlweni na ku vuyelerisa switirhisiwa xikan'we na ku tumbuluxa na ku yisa emahlweni 350 wa mitirh Leswi swi katsiweke hi nongoloko wa vudyondzisantirho wa 36 wa timakhetironiki na van'wavuthekiniki vo vuyelerisa eka mitirho ya ALPLA Group eAfrika ya le dzongeni hinkway Nongoloko lowa vudyondzisantirho wu ta sungula hi 2023, ku ri na vadyondzisiwantirho va le Afrika-Dzonga va 12 lavo sungula lava humaka emigangeni ya kwala tikweni","The investment worth US$50 million is a key contribution to the Lanseria Smart City masterplan that will drive sustainability and recycling as well as create and sustain 350 job Included is an apprenticeship programme for 36 mechatronics and recycling technicians for ALPLA Group operations across southern Afric The apprentice programme will commence in 2023, with the first 12 South African apprentices coming from local communities",0.9170386
+"[ 0.5631085   0.50924546 -0.28830698 ...  0.13439398  0.43733236
+ -0.2735027 ]","[ 0.01183901 -0.00143886 -0.00028502 ...  0.00280539  0.01437097
+ -0.00472549]",Vucelamigodi lebyi nga riki enawini,Illegal mining,0.8217274
+"[ 0.81328434  0.21499945 -0.03079495 ...  1.1110872   1.2472149
+  0.9407643 ]","[ 0.01569477 -0.00211128  0.00286993 ...  0.00648646  0.04047205
+  0.03031624]","Vucelamigodi lebyi nga riki enawini byi vavisa miganga na ikhonomi ya hina, naswona byi vanga ndzahleko wa malinhlengeleto eka havumbirhi bya mfumo na sekitara ya vucelamigod","Illegal mining hurts communities and our economy, and results in a loss of revenue for both government and the mining secto",0.86983484
+"[ 0.90613544  0.62504095 -0.08658981 ...  0.6033123   1.5711553
+  1.4169862 ]",[0.03676198 0.01366407 0.00234055 ... 0.03554203 0.04006224 0.01890545],Khabinete yi amukele ku tekiwa ka xisaka xa swibalesa na ku khomiwa ka 20 wa vaehleketeleriwa lava xakelanisiweke na vucelamigodi lebyi nga riki enawini hi nkarhi wa oparexini emuhochweni wa mugodi eStilfontein eN'walungu-Vupeladyamb,Cabinet welcomed the seizure of a firearms cache and the arrest of 20 suspects linked to illegal mining during an operation at a mineshaft in Stilfontein in North Wes,0.8838866
+[0.95825136 3.2007425  0.03388574 ... 0.9356863  1.420046   1.6608478 ],[0.02466084 0.06604645 0.00419279 ... 0.02673899 0.03540377 0.05043201],"Khabinete yi kombela vanhu va le Afrika-Dzonga ku ya emahlweni va tirhisana na tiejensi ta nsindziso wa nawu ku tiyisisa ku humelela ka tioparexini to lwisana na vugevenga ta nkarhi lowu tak Leswi swi ta rhumela xihungwana xo tiya xa leswaku vugevenga a byi hakeli, na leswaku swigevenga swi ta khomiwa na ku tengisiwa ku ri hava nchavo kumbe ku rhandziw 6.","Cabinet appeals to South Africans to continue working with law-enforcement agencies to ensure the success of future anti-crime operation This will send a strong message that crime does not pay, and that criminals will be arrested and prosecuted without fear or favou 6.",0.91605806
+"[ 0.10203405 -0.22392233  0.28009963 ... -0.23854831  0.14174812
+ -0.08641878]","[ 0.00733842  0.00035684 -0.0007631  ... -0.00269579  0.00484391
+  0.00118707]",Eneji,Energy,0.94643474
+[0.94641006 0.02582687 0.33174738 ... 0.47170797 1.4517183  1.1496507 ],[0.03408445 0.00081043 0.01256829 ... 0.02130863 0.05124974 0.01200025],Eskom ya ha sayina mitwanano ya vulombisi bya 30 wa malembe na vavekisi va vahumesi va gezi lava tiyimelaka ku aka ntalo wo endla eneji yo basa wuntshwa eka switichi swa gezi swa Majuba na Tutuka eMpumalang Vulombisi lebya misava byi ta koka rinoko ra vuvekisi lebyi kumbeteriwaka bya kwalomu ka R40 wa tibiliyon,Eskom recently signed 30-year lease agreements with four independent power producer investors to construct new clean-energy generation capacity at Majuba and Tutuka power stations in Mpumalang The land leases will attract an estimated investment of about R40 billio,0.8533467
+"[-0.07075335  0.11359108  1.6967943  ... -0.1458799   0.7556736
+ -0.2293433 ]","[-0.00129481 -0.00010086 -0.00469099 ...  0.00195577  0.01220588
+ -0.00166694]",Mune wa vavekisi lava,The four investors,0.83739007
+"[ 0.5122658  -0.25691092 -0.09269096 ...  1.550613    0.8427205
+  1.2409056 ]","[ 0.01993607 -0.00124284  0.00176263 ...  0.0275534   0.03036792
+  0.02710829]","HDF Energy South Africa, Red Rocket SA, Sola Group na Mainstream Renewable Power Developments South Africa","HDF Energy South Africa, Red Rocket SA, Sola Group and Mainstream Renewable Power Developments South Africa",0.95229304
+"[ 1.0494488  -0.30623883  0.25676385 ...  0.38359576  1.2491688
+  0.84639734]",[0.0059154  0.00029136 0.00021271 ... 0.0010141  0.02075899 0.01414148],va ta hoxa xandla eka mpimohansi wa 2 000 ya timegawati eka giridi ya gezi ya rixak,will contribute at least 2 000 megawatts to the national electricity gri,0.801963
+"[ 0.5913262  -0.05467102  0.61691153 ...  0.526894    0.28041252
+  0.6949405 ]","[ 0.02305063 -0.00044377  0.01346304 ...  0.00648636  0.01877514
+  0.02553082]","Ntalo wo endla gezi lowuntshwa wu languteriwa ku khomanisiwa eka giridi ku ha si hela 24 kufika eka 36 wa tin'hweti kusuka eka mpfalelo wa timali, ku ri karhi ku landzeleriwa mipasiso yo lawula ya mbangu, yo tsema tindhawu na yin'wana","The new generation capacity is expected to be connected to the grid within 24 to 36 months from financial closure, subject to environmental, land zoning and other regulatory approvals",0.8692594
+"[-0.32214713 -0.53019255 -0.18453918 ... -0.69517237 -0.43210253
+ -0.18478073]","[ 2.2316020e-05  1.0298445e-03 -1.9275286e-04 ... -6.5178871e-03
+ -6.1618821e-03 -1.0013369e-04]",Nsirhelelo wa swakudya,Food security,0.918633
+"[ 0.64182395 -0.20181727 -0.0658109  ...  0.75316256  0.5744544
+  2.4688122 ]","[ 0.01528548 -0.00164678  0.02589684 ...  0.02977961  0.01964708
+  0.06802725]",Khabinete yi amukele ku rhurheriwa ka Ntsombano wa Agri SA wa 2022 ePitori hi masiku ya 13 na 14 Nhlangula 2022 ehansi ka nkongomelo:,Cabinet welcomed the hosting of the Agri SA Congress 2022 in Pretoria on 13 and 14 October 2022 under the theme:,0.8693248
+"[ 0.39612663 -0.33217528 -0.03839543 ...  0.2709133   0.51129156
+ -0.6206292 ]","[ 0.00572871 -0.00143584  0.01128162 ...  0.00746467  0.0153757
+  0.00246643]",Ku Rima swa laha Tikweni .,Growing Local .,0.6805033
+"[ 0.43785876 -0.21990953 -0.14675052 ...  0.84173185  1.2462693
+  0.6435442 ]","[-0.00067357 -0.00035227 -0.00021061 ...  0.01109193  0.02172345
+  0.03856424]","Ntsombano lowu vulavurisane hi mayelana na timhaka to tanihi ku endla ntirho wa makungukulu ya vurimi ya varimi va laha tikweni; switirhisiwakulu leswi yisekaka emahlweni eka swakudya leswi rimiweke laha tikweni; ku endliwa ka mbangu wa laha tikweni wu va lowu yisekaka emahlweni eka ntshovelo wa swakudya swa laha tikweni kuya eka nkarhi lowu taka, na ku tiyisiwa ka vuswikoti bya vatshoveri va swakudya ku phurosesa swirin'wa leswi rimiweke laha tikwen","The congress engaged on issues such as making agriculture masterplans work for local growers; sustainable infrastructure for locally grown food; making the local environment sustainable for local food production into the future, and strengthening food producers",0.8789868
+"[ 0.5959126   0.20560656 -0.24049807 ...  1.1951371   1.0923493
+  0.5610152 ]",[0.00738614 0.00142275 0.00103202 ... 0.03479295 0.02916787 0.01937463],"Eka ku rhangisiwa ku ya emahlweni ka nsirhelelo wa swakudya, Khabinete yi tlhele yi amukela ku simekiwa ka Habu ya Nsirhelelaswihanyi ya Rixaka hi Nongoloko wa Xinakulobye xa Vutumbuluxi bya Ikhonomiswihanyi ya Vurimi wa Ndzawulo ya Sayense na Vutumbuluxi, hi ku tirhisana na Yunivhesiti ya Pitor Habu leyi yi ta seketela nsivelo, hunguto na malawulelo ya vuvabyi bya swirin'wa na swiharhi, leswi swi nga ta hoxa xandla eka ntshovelo, nsirhelelo wa swakudya na nhluvukiso wa matikoxikaya lowu yisekaka emahlwen","In further prioritising food security, Cabinet also welcomed the launch of the National Biosecurity Hub, by the Department of Science and Innovation's Agricultural Bio-economy Innovation Partnership Programme, in collaboration with the University of Pretori The hub will support the prevention, reduction and management of crop and animal disease, which will contribute to increased productivity, food security and sustainable rural developmen",0.9069035
+"[ 0.63983387 -0.10749727 -0.28552505 ...  0.28758353  0.29044592
+  0.61743647]","[ 0.00408866 -0.00296827 -0.00060771 ...  0.00854465 -0.00353386
+  0.01201626]",Swiboho swa Khabinete1.,Cabinet decisions1.,0.8262756
+"[ 0.61424184 -0.08173828 -0.23110339 ...  0.76473904  0.5702475
+  0.5766863 ]","[ 0.0019087  -0.00331343 -0.00086213 ...  0.00129993  0.02522204
+  0.02005534]",Ku Pfumeleriwa Ximfumo ka Chatara ya Vuhangalasi bya Matimba ya Yuniyoni ya Afrika (AU),Ratification of the Decentralisation Charter of the African Union (AU),0.76441634
+"[ 0.6161481   0.11998109 -0.144736   ...  0.89361703  1.466435
+  2.561069  ]","[ 0.01158699 -0.00234224  0.00470729 ...  0.02414974  0.05257585
+  0.07141098]","Khabinete yi pasise xiringanyeto xo ya ePalamende xa Chatara ya AU hi mayelana na Mikhuvanene na Milawu ya Vuhangalasi bya Matimba, Mafumelo ya le Tikweni na Nhluvukiso wa le Tikweni ku ya pfumeleriwa ximfum Afrika-Dzonga yi sayine chatara leyi hi Mhawuri 2022.","Cabinet approved the submission to Parliament the AU Charter on the Values and Principles of Decentralisation, Local Governance and Local Development for ratificatio South Africa signed the charter in August 2022.",0.8632597
+"[ 0.7097903   0.4960991  -0.06704354 ...  1.2702105   0.6615046
+  0.87404007]",[0.01219431 0.00323417 0.01774651 ... 0.03209276 0.01372936 0.01914807],"Chatara ya Vuhangalasi bya Matimba yi nyika rimba eka matiko lama nga swirho hinkwawo dokhumente yo letela hi mayelana na vuhangalasi bya matimba na mitirho kusuka eka mfumo wa rixaka kuya eka swiyenge swa swin'wana swa mfum Chatara leyi yi tirhana ngopfungopfu na vuhangalasi bya vulawuri na mitirho, rimba ra mafumelo ya le tikweni na nhluvukiso wa le tikweni","The Decentralisation Charter provides a framework to all member states a guiding document on the decentralisation of powers and functions from national to other spheres of governmen The charter deals largely with the decentralisation of authority and functions, local governance framework and local development",0.85913557
+"[ 0.701219   -0.1613062  -0.2663472  ...  0.7829118   0.54457617
+  1.0191597 ]","[ 2.5905181e-02 -6.0843497e-05 -4.4455607e-03 ...  3.6767326e-02
+  1.3933610e-02  2.9999472e-02]",Khansele ya Vuhlayiseki bya le Swiporweni ya Matiko ya Misava ya Lembe na Lembe ya vu32 (IRSC),32nd Annual International Railway Safety Council (IRSC),0.86807597
+"[ 0.90871626 -0.22562397  0.3498938  ...  0.79751354  0.71015275
+  2.2680402 ]","[ 0.01962465 -0.00328805  0.02668496 ...  0.010848    0.01681433
+  0.05448259]",Khabinete yi pasise ku rhurheriwa ka Nhlengeletano ya IRSC ya Lembe na Lembe ya vu32 eJoni kusuka 1 kufika 6 Nhlangula 2023 ehansi ka nkongomelo:,Cabinet approved the hosting of the 32nd Annual IRSC Meeting in Johannesburg from 1 to 6 October 2023 under the theme:,0.8976939
+"[ 0.62915933 -0.18203947 -0.0813832  ...  0.59812033  0.6526007
+  0.62795675]","[ 0.00973025 -0.00216465  0.00014933 ...  0.0184774   0.01483692
+  0.01597887]",Ku vumbiwa hi vuntshwa ka swiporo eka Misava leyi kanakanisaka .,Reshaping railways in an uncertain World .,0.8350678
+"[ 0.6554051   0.11805267 -0.10145089 ...  1.0609286   0.9231693
+  0.6016253 ]","[ 0.01225981 -0.00191158 -0.00031253 ...  0.02818068  0.01912964
+  0.01207369]",IRSC i foramu ya matiko ya misava leyi yi tisaka endhawini yin'we tiphurofexinali ta vuhlayiseki bya le swiporweni kusuka emisaveni hinkwayo ku cincanisa mitokoto ku endlela ku antswisa vuhlayiseki bya le swiporwen,The IRSC is an international forum that brings together railway safety professionals from all over the world to exchange experiences so as to improve railway safet,0.895761
+"[ 0.29631847 -0.20516768 -0.14848785 ...  0.77466786  0.7709389
+  2.41756   ]","[ 0.00840002 -0.00036914  0.00278265 ...  0.01117183  0.0184861
+  0.06171931]","Tanihi xirho xa IRSC, Mulawuri wa Vuhlayiseki bya le Swiporweni wa Afrika-Dzonga u rhurhele rohetelela foramu leyi hi 201","As a member of the IRSC, South Africa s Railway Safety Regulator last hosted this forum in 201",0.85786426
+"[ 0.8390615   0.02712406 -0.15804835 ...  0.41155487  0.2699603
+  0.86684114]","[ 0.0072117  -0.0012516  -0.00039069 ...  0.0315158   0.01950905
+  0.0313174 ]",Xiyimo xa 2 xa Kungu ra Switirhisiwakulu ra Rixaka ra Mpfapfarhuto ra 2050 (NIP 2050),Draft National Infrastructure Plan 2050 (NIP 2050) Phase 2,0.8408373
+"[ 1.0513132e+00 -5.8185167e-05 -3.0945930e-01 ...  9.1000307e-01
+  3.6092764e-01  7.0520401e-01]","[ 0.0090619  -0.00099705 -0.00044888 ...  0.02372985  0.00265071
+  0.00984715]",Khabinete yi pasise ku gazetiwa ka Xiyimo xa 2 xa NIP ya 2050 ya mpfapfarhuto leswaku vaaki va nyika mavonel,Cabinet approved the gazetting of the draft NIP 2050 Phase 2 for public consultatio,0.8415718
+"[ 0.31126294 -0.02440002 -0.2222694  ...  0.616354    1.0742719
+  0.43490344]","[ 0.00458633 -0.00299102 -0.00054836 ...  0.0183374  -0.00367642
+  0.01876273]",Kungu leri ri nyika mafambelo eka ku tiyisa na ku engetela tiphurojeke leti pfanganisiweke ta xiqhinga ta mfum,The plan offers direction in strengthening and augmenting government strategic integrated project,0.829927
+"[ 0.5369045   2.150561   -0.07956342 ...  1.775034    0.59239364
+  0.7238384 ]","[ 1.1661179e-02  6.6425420e-02 -1.5313415e-05 ...  5.1437210e-02
+  1.9267011e-02  9.1557084e-03]","Ri kuma tiphurojeke ta xiqhinga eka matshamelo ya vanhu; gezi ra masipala; mati; thyaka ro tiya; vutleketli bya mani na mani; switirhisiwakulu swa dyondzo na swa rihanyo; switirhisiwakulu swa xidijitali, na vugevenga na vukungundzwan","It identifies the strategic projects in human settlements; municipal electricity; water; solid waste; passenger transport; education and health infrastructure; digital infrastructure, and crime and corruptio",0.8876438
+"[ 0.72226304  0.23552437 -0.04710457 ...  0.79995525  0.76563436
+  2.076417  ]","[ 0.02267973  0.01306306 -0.0003962  ...  0.03867174  0.03659244
+  0.04661612]","Xivumbeko xa kungu leri xi nyika xivono xa xiyenge lexi ku faneleke ku tirhaniwa na xona, xi nyika nhlahluvo wa xiyimo xa nkarhi wa sweswi, xi katsakanya swiyimo swa nkoka swa ku humelela naswona xi vula leswaku i swidingo swihi leswi swi faneleke ku endliwa ku kota ku fikelela xivono lex Xi ringanyeta phurosese ya matirhiselo leyi yi fanele ku tekiwa eka kungu ra matirhelo ra ndzhendzeleko lowu yaka emahlweni wa malembe manharhu","The format of the plan provides a vision of the area to be tackled, offers an assessment of the current status, outlines the essential conditions for success and states what needs to be done to achieve the visio It proposes the implementation process to be taken over the three-year running cycle action plan",0.89350384
+"[ 1.0349662   0.7544574  -0.16791056 ...  0.7461425   0.9024966
+  0.05859853]","[ 9.6959444e-03  9.9500554e-05 -3.8711791e-04 ...  7.1267798e-03
+ -2.6011125e-03  3.4382266e-03]",Rimba ra Matirhiselo ra Rixaka eka Ku Endliwa ka Xiphurofexinali ka Vukorhokeri bya Mfumo,National Implementation Framework towards the Professionalisation of the Public Service,0.7956754
+"[ 0.9968832   0.17584848 -0.20909601 ...  0.9403398   0.8349448
+  2.2849479 ]","[ 0.0236565   0.00204961 -0.0005048  ...  0.03567224  0.0081042
+  0.0556516 ]",Khabinete yi pasise Rimba ra Matirhiselo ra Rixaka eka Ku Endliwa ka Xiphurofexinali ka Vukorhokeri bya Mfum Rimba leri ri kandziyisiwile leswaku vaaki va nyika mavonelo hi 2021.,Cabinet approved the National Implementation Framework towards the Professionalisation of the Public Servic The framework was published for public consultation in 2021.,0.82319915
+"[ 0.2691859   0.94885767 -0.0709478  ...  1.292357    0.76871514
+  0.60833716]","[ 0.02726876  0.00169358 -0.00030886 ...  0.04576475  0.02734485
+  0.02084385]","Rimba leri ri nyika ntlhanu wa tiphuphu hi mayelana na miphalalo eka ku endliwa ka xiphurofexinali ka Vukorhokeri bya Mfum Tiphuphu leti ti katsa leswi endliwaka ku nga si thoriwa na ku hlawuriwa endzeni ka Vukorhokeri bya Mfumo; ku tivisiwa ka mutirhi na ku amukeriwa ka mutirhi entirhweni; nkunguhato na malawulelo ya matirhelo; ku dyondza loku yaka emahlweni na nhluvukiso wa xiphurofexinali, ku ya emahlweni ka ntirhovutomi na timhangu ta ntirhovutomi","The framework provides five pillars on interventions in professionalising the Public Servic The pillars include pre-entry recruitment and selection within the Public Service; induction and onboarding; planning and performance management; continuous learning and professional development, and career progression and career incidents",0.8920617
+"[ 0.35003147  0.16275139 -0.06002977 ...  0.45163506  0.17648068
+  0.04858176]","[ 0.00687853 -0.00036179 -0.00075757 ...  0.02195341  0.01158119
+  0.00704283]",Ku cinca eka swipimelo swa le ntirhweni swa Valawuri-Jenerala (tiDG),Changes in the conditions of employment for Directors-General (DGs),0.8528826
+"[ 0.7701713   0.3662439  -0.24172845 ...  1.5023919   0.87762445
+  1.227399  ]","[ 0.0198348  -0.00330678 -0.00034753 ...  0.0124391   0.02340931
+  0.02154028]","Khabinete yi pasise xiviko lexi xi ringanyetaka magoza ku tiyisa vuswikoti bya tiDG eka Vukorhokeri bya Mfum Xiviko lexi xi endle swiringanyeto swo talanyana, ku katsa na nkarhi wa ku va ehofisini wa tiDG na malawulelo ya vurhumisi hi Vulawuri bya Vurhangerinkulu eka vaofisiri va tinkot","Cabinet approved the report that proposes measures to strengthen the capacity and capability of the DGs in the Public Servic The report made several proposals,",0.79014194
+"[ 1.1964821   0.09603252 -0.21029931 ...  1.6941305   0.93793195
+  0.7483107 ]","[ 0.00911671  0.00256473 -0.0001569  ...  0.04142645  0.00528684
+  0.00573561]","Xiviko lexi xi tlhele xi ringanyeta leswaku DG ya le Hofisini ya Phuresidente yi ta thoriwa tanihi Nhloko ya Mafambiselo ya Mfum Eka swifundzakulu, ntirho lowu wu ta nyikiwa tiDG leri nga etihofisini ta Tiphurimiy Xiviko xi ye emahlweni xi ringanyeta magoza ku letela tindzawulo hi mayelana na malawulelo ya tikontiraka ta tiD","The report also proposed that the DG in The Presidency will be designated as the Head of Public Administratio In the provinces, this function will be designated to the DGs in the offices of the Premier The report further proposed measures to guide departments on the management of contracts of DG",0.8741151
+[1.4257783  0.8214459  0.14747593 ... 1.0892875  0.56058013 0.29201138],"[ 0.03332988  0.00045549  0.00509485 ... -0.00180097  0.01890202
+  0.02717988]","Sisiteme ya Malawulelo ya Matirhelo leyi pfuxetiweke ya tiDG yi le ku pfuxetiweni ku yi fambelanisa na ku cinca loku pasisiwek Holobye wo Khomela wa Vukorhokeri bya Mfumo na Mafambiselo, Ttn Thulas Nxesi, vhiki leri taka u ta rhamba nhlengeletano ya swihangalasamahungu ku hlamusela hi ku komisa Rimba ra Matirhiselo ra Rixaka eka ku Endliwa ka Xipfurofexinali ka Vukorhokeri bya Mfumo na ku tlhela a tlhantlha ku cinca ku loku pasisiweke eka swipimelo swa le ntirhweni swa tiDG","The Acting Minister of Public Service and Administration, Mr Thulas Nxesi, will next week convene a media briefing to outline the National Implementation Framework towards the Professionalisation of the Public Service and also unpack the approved changes in the conditions of employment for DGs",0.82869494
+[0.654866   0.5178032  0.04913057 ... 1.5004871  0.46060154 2.0717232 ],"[ 0.00197085 -0.00140049 -0.00029492 ...  0.00245358  0.00711002
+  0.02668637]",Xiviko xa Ndzima leyi Khatsiweke xa Vuntlhanu hi mayelana na Matirhiselo ya Phepha ra Swibumabumelo ra Mfumo hi mayelana na Vanhu lava nga na Vutsoniwa (WPRPD) ra 2020-2021,"Fifth Progress Report on the Implementation of the White Paper on the Rights of Persons with Disabilities (WPRPD) 2020-2021 Cabinet approved the Fifth Progress Report on the Implementation of the WPRPD, which provides an update on the implementation of the WPRP The report covers inputs from national and provincial government department It provides updates on the policy implementation that include budget allocation",0.7799562
+"[ 0.6043276   0.26277626 -0.24011515 ...  1.3081789   0.73120147
+  0.63236165]","[ 0.01957621 -0.00085266  0.04414836 ...  0.05369463  0.00950567
+  0.0427364 ]","Khabinete yi pasise Xiviko xa Ndzima leyi Khatsiweke xa Vuntlhanu hi mayelana na Matirhiselo ya WPRPD, lexi xi nyikaka vuxokoxoko byintshwa hi mayelana na matirhiselo ya WPRP Xiviko lexi xi angarhela swibumabumelo kusuka eka tindzawulo ta mfumo ta rixaka na ta swifundzakul Xi nyika vuxokoxoko byintshwa hi mayelana na matirhiselo ya pholisi lama ma katsaka miavelo ya mpimanyet","The MTBPS gives substance to government's commitments within an overall level of spending that the nation can affor It further details how government will close the gap between revenue and expenditure, and make the most of the available resource 5.",0.77540195
+"[ 0.5099223  -0.48081782 -0.43217966 ...  0.5338076   0.42769486
+  1.8811264 ]","[ 0.0113683  -0.00264609 -0.00169794 ...  0.01787797  0.00683122
+  0.0493446 ]",Xiviko xa ku ya emahlweni xa lembe na lembe xo sungula xi kandziyisiwile hi 2017.,The first annual progress report was published in 2017.,0.89386785
+"[ 0.48167044  0.72467375 -0.04910747 ...  1.1605624   1.3608118
+  0.27385277]","[ 0.00605671 -0.00188932  0.00115691 ...  0.03559048  0.01364034
+ -0.00979259]","Xiviko xa ndzima leyi khatsiweke xa vuntlhanu xi pasisiwile ku va xi gazetiwa na ku kandziyisiwa hi Ndzawulo ya Vavasati, Vantshwa na Vanhu lava nga na Vutsoniwa","This fifth progress report has been approved to be gazetted and published by the Department of Women, Youth and Persons with Disabilities",0.8561274
+[0.6613506  0.04641592 0.03899542 ... 1.131723   1.0799565  0.5126404 ],"[ 2.4180532e-02 -1.6908279e-03 -1.0291220e-03 ...  2.4788832e-02
+  3.4643430e-02 -9.8913160e-06]",Hundzuluxo eka Atikili ya 20(1) ya Ntwanano hi mayelana na ku Herisiwa ka Mixaka Hinkwayo ya Xihlawuhlawu Ehenhla ka Vavasati (CEDAW),Amendment to Article 20(1) of the Convention on the Elimination of All Forms of Discrimination Against Women (CEDAW),0.87662816
+"[ 0.93037003  0.02963613 -0.05105657 ...  1.1331357   0.47980365
+  1.3825885 ]","[ 0.02564241 -0.00381725  0.00335174 ...  0.04050836  0.01108169
+  0.0429729 ]",Khabinete yi pasise xiringanyeto xo ya ePalamende xa hundzuluxo wa Atikili ya 20(1) ya CEDAW leswaku wu ya pfumeleriwa ximfum Mihundzuluxo leyi yi lulamisela nkarhivunavi lowu engeteriweke wa tinhlengeletano ta komiti leti ti phurosesaka swiviko swa matiko lama nga swirh,Cabinet approved the submission to Parliament of the amendment to Article 20(1) of the CEDAW for ratificatio The amendments provide for an increased duration of the committee meetings that process the member states,0.83997655
+"[ 0.12301323 -0.219882    0.08206735 ...  0.7239497   0.5169493
+  2.6007373 ]","[ 0.0102169  -0.00125573  0.00202224 ...  0.00657349  0.01869593
+  0.06982806]",Afrika-Dzonga yi sayine ntwanano lowu hi 1993 kutani endzhakukaswona yi wu pfumelela ximfumo hi N'wendzamhala 1995.,South Africa signed this convention in 1993 and subsequently ratified it in December 1995.,0.87470734
+"[ 0.90050143  0.2332513  -0.10114998 ...  1.2828214   0.69071597
+  1.8709674 ]","[ 0.01152983 -0.00238271  0.00204258 ...  0.02284762 -0.0006751
+  0.04584974]",Xiringanyeto lexo ya ePalamende xi lava ku fambelanisa ntwanano lowu pfumeleriweke ximfumo nkarhi lowu nga hundza na hundzuluxo wa Atikili ya 20(1) ya ntwanano lowu,The submission to Parliament seeks to align the previously ratified convention with the amendment to Article 20(1) of the convention,0.80778056
+"[ 0.8650538  -0.23339729  0.00741111 ...  0.76829225  0.39556095
+  0.4505001 ]","[ 0.02730049 -0.0013392  -0.00058664 ...  0.02655395  0.01259276
+  0.014218  ]",Ntwanano wa Misava Hinkwayo hi mayelana na ku Tekeriwa Enhlokweni ka Mithwaso leyi khumbaka Dyondzo ya le Henhla,Global Convention on the Recognition of Qualifications concerning Higher Education,0.8706999
+"[ 0.7044913   0.08609721 -0.39486015 ...  0.6582225   1.1944754
+  1.9697332 ]","[ 0.02340523 -0.00347427 -0.0003005  ...  0.01741176  0.03118415
+  0.06062323]","Khabinete yi pasise xiringanyeto xo ya Palamende xa Ntwanano wa Misava Hinkwayo hi mayelana na ku Tekeriwa Enhlokweni ka Mithwaso leyi khumbaka Dyondzo ya le Henhl Xikan'wekan'we loko xi pasisiwile ximfumo xi ta nghenisiwa eka Nhlangano wa Dyondzo, Sayense na Mfumo wa Vun'we bya Tinxaka (UN) kutani laha tikweni xi ta endliwa xi tirha hi ku tirhisa Nawu wa Rimba ra Mithwaso wa Rixaka, 2008 (Nawu wa 67 wa 2008).","Cabinet approved the submission to Parliament of the Global Convention on the Recognition of Qualifications concerning Higher Education for ratificatio Once ratified it will be deposited to the United Nations (UN) Educational, Scientific and Cultural Organization and domestically enabled through the National Qualifications Framework Act, 2008 (Act 67 of 2008).",0.8790039
+"[ 0.80627006  0.0400823  -0.0759207  ...  1.1580448   1.1744215
+  2.0771592 ]","[ 0.03000333 -0.00308537 -0.00111691 ...  0.020575    0.03018483
+  0.04522415]","Ntwanano lowa Misava Hinkwayo wu tumbuluxa milawu yo angarhela emisaveni ya ku tekeriwa enhlokweni lokunene, ka nkavuciva na ku va loku nga riki na xihlawuhlawu ka mithwaso na dyondzo ya le henhla na mithwas Wu pfumelela ku tekeriwa enhlokweni ka mithwaso ya le matikweni mambe eka matiko lama nga swirho swa UN ya 19","The Global Convention establishes universal principles for fair, transparent and non-discriminatory recognition of higher education qualifications and qualification It allows for the recognition of foreign qualifications in 193 UN member states",0.8644941
+"[ 0.3630419  -0.21700352 -0.32932118 ...  0.18383196  0.1719192
+  0.38347206]","[ 0.00584712  0.00014788 -0.00029185 ...  0.01026153  0.00728563
+  0.03249679]",Ku humesiwa ka mihundzuluxo eka Xiletelo xa Swirho swa Vurhangerinkulu,Withdrawal of the amendments to the Guide for Members of the Executive,0.8138889
+"[ 0.7179119   0.00399921 -0.07849228 ...  0.86256963  1.4818767
+  1.2595443 ]",[0.00555899 0.00052454 0.01122131 ... 0.01412016 0.04250455 0.05345885],"Khabinete yi seketele xitiviso lexi xi nyikiweke hi Hofisi ya Phuresidente hi Musumbhuluko, 17 Nhlangula 2022 xa ku humesa mihundzuluxo lexi endliweke eka Xiletelo xa Swirho swa Vurhangerinkulu, lexi tlhelaka xi vitaniwa Bukumpfuno ya Vaholobye, ya 2022.","Cabinet endorsed the announcement made by The Presidency on Monday, 17 October 2022 to withdraw the amendments made to the Guide for Members of the Executive, also called the Ministerial Handbook, for 2022.",0.8806765
+"[ 0.46973974 -0.097236    0.0958319  ...  0.536056    0.6077961
+  1.0030166 ]",[0.00102028 0.00031196 0.00469888 ... 0.0323581  0.01088888 0.03606791],Mihundzuluxo leyi a yi endliwile hi Dzivamisoko 2022 a yi lulamisela vatirhi vo engetela eka tin'wana ta tihofisi ta Vaholobye lava nga na vutihlamuleri bya kutlula photifoliyo yin'w Yi tlhele yi lava Mfumo ku byarha vutihlamuleri hi vutalo bya tihakelo leti fambelanisiwaka na mphakelo wa gezi na mati eka vutshamo bya ximfumo laha ku tshamaka swirho swa vurhangerinkul,The amendments that were made in April 2022 provided for additional capacity to some of the offices of the Ministers who are responsible for more than one portfoli They also required the State to take over full responsibility for the costs associated with the provision of electricity and water to official residences occupied by members of the executiv,0.87548554
+"[ 0.47881785  0.03735917 -0.09491661 ...  0.8223493   0.5759123
+  0.963005  ]","[ 0.01086912 -0.00062087 -0.00021183 ...  0.04683277  0.03114892
+  0.02278759]","Khabinete yi tekele enhlokweni swivilelo leswi boxiweke hi vaaki kutani yi teka xiboho xa ku kambisisa Xiletelo xa Swirho swa Vurhangerinkul Phurosese leyi yi ta fambisiwa hi xivumbeko lexi nga voyameliki etlhelo naswona xikan'wekan'we loko yi hetiwile, xiletelo lexi xi ta endliwa xi kumeka eka mani na mani hi ku tirhisa webusayiti ya Ndzawulo ya Vukorhokeri bya Mfumo na Mafambiselo: wwdpsgoz","Cabinet noted the concerns raised by the public and resolved to review the Guide for Members of the Executiv This process will be handled by a neutral structure and once completed, the guide will be made public through the Department of Public Service and Administration s website: wwdpsgoz Just Energy Transition Partnership (JETP) and JETP Investment Plan (JETP-IP)1",0.85981596
+"[ 0.23657525 -0.12199775 -0.07585523 ...  1.0306853   0.57520604
+  0.9185309 ]","[ 0.00029702 -0.00175278  0.00050214 ...  0.03866821  0.01556321
+  0.0124708 ]",Xinakulobye xa Ncinco xa Eneji Leyinene (JETP) na Kungu ra Vuvekisi ra JETP (JETP-IP)1,National Development Plan (NDP) and State Capacity Conference,0.72627616
+"[ 0.03271184 -0.14931685 -0.188188   ...  1.3808101   0.42941046
+  1.6974851 ]","[-1.6852320e-05 -6.4999459e-04 -1.8298878e-06 ...  4.5979302e-02
+  1.2350942e-02  2.7413065e-02]","Endzhaku ka ku amukeriwa ka andlalo hi mayelana na JETP na JETP-IP, Khabinete yi seketele JETP-IP naswona yi hundzise ku amukela ka yona ka ntirho lowu koxometiweke lowu endliweke ku yi hluvukis 1","After welcoming a presentation on the JETP and the JETP-IP, Cabinet endorsed the JETP-IP and expressed its appreciation of the detailed work undertaken to develop i 1",0.8788254
+"[ 0.2832089  -0.18555778 -0.01707624 ...  1.638209    0.74724203
+  0.8748426 ]","[ 0.00810483  0.00544822 -0.00035017 ...  0.04282964  0.01248027
+  0.0267783 ]","JETP-IP yi katsakanya vuvekisi lebyi lavekaka ku fikelela vutiboheleri bya ku hungutiwa ka khaboni lebyi endliweke hi Mfumo wa Afrika-Dzonga loko ku ri karhi ku kondleteriwa nhluvukiso lowu yisekaka emahlweni, na ku tiyisisa leswaku ku na ncinco lowunene wa vatirhi lava khumbekaka na miganga leyi khumbekak 1","The JETP-IP outlines the investments required to achieve the decarbonisation commitments made by the Government of South Africa while promoting sustainable development, and ensuring a just transition for affected workers and communitie 1",0.8762976
+"[ 0.83889395  0.05331356 -0.18335523 ...  0.67085326  0.44621992
+  0.99983364]","[ 0.01489549 -0.00190426  0.00105424 ...  0.00508634  0.0053233
+  0.02040458]",Komiti ya le Xikarhi ka Vaholobye hi mayelana na ku Cinca ka Tlilayimete ku nga ri khale yi ta khoma nhlengeletano ya swihangalasamahungu ku nyika vuxokoxoko byo tal,The Inter-Ministerial Committee on Climate Change will soon hold a media briefing to provide more detail,0.86764103
+"[ 0.11521901 -0.44499707 -0.11698805 ... -0.10618982 -0.06202773
+  0.3417616 ]","[ 2.0932467e-03 -2.0482062e-04  4.8137150e-05 ...  1.0729725e-03
+  1.5222376e-03  7.8740409e-03]",Milawumbisi1.,Messages1.,0.813887
+"[ 0.36240816  0.04535614 -0.3179437  ...  0.6513976   0.11396152
+  1.2550476 ]","[ 1.3823366e-02 -7.9493551e-03  7.8444391e-05 ...  1.8850168e-02
+  2.1489961e-03  2.5063794e-02]",Nawumbisi wa Vutleketli bya le Matini bya Xibindzu wa 2022,Merchant Shipping Bill of 2022,0.8609389
+"[ 0.36891785  0.11637606 -0.24214548 ...  1.1446749   0.6656012
+  2.0486581 ]","[ 0.02009197 -0.00375568 -0.0003071  ...  0.02883448  0.01347792
+  0.06389952]","Khabinete yi pasise xiringanyeto xa Nawumbisi wa Vutleketli bya le Matini bya Xibindzu wa 2022 xo ya ePalamende ku ya phurosesiwa ku ya emahlwen Nawumbisi lowu wu tlhantlha Nawu wa Vutleketli bya le Matini bya Xibindzu wa 70 wa malembe hi vukhale, 1951 (Nawu wa 57 wa 1951).","Cabinet has approved the submission of the Merchant Shipping Bill of 2022 to Parliament for further processin The Bill overhauls the 70-year-old Merchant Shipping Act, 1951 (Act 57 of 1951).",0.8894763
+"[ 0.8832924   0.44427285 -0.19032444 ...  1.1659323   1.4740129
+  0.7587626 ]","[ 0.0220988   0.01540226 -0.00027971 ...  0.00659503  0.02444166
+  0.01026876]","Xikan'wekan'we loko wu pasisiwile tanihi nawu, Nawumbisi lowu wu ta nyika rimba ra xinawu ra vutleketli bya le matini ku lawula nkhulukelano wa vukorhokeri na tinhundzu wa swikwekwets Exikarhi ka swin'wana, wu ta lawula ku dizayini, ntsariso, na ku thya mavito na ku suriwa ka swikwekwets","value chai It will regulate amongst others the designing, registration, naming and scrapping of ship",0.7744701
+"[ 0.46368584  0.05124043 -0.27189776 ...  0.8841028   1.6926956
+  1.9992201 ]","[ 0.00982952 -0.00102495  0.00098572 ...  0.03294768  0.04706432
+  0.05295982]",Ku cinca loku ku ta hoxa xandla eka pfuxetiwa ka sekitara ya vutleketli bya le lwandle na ku tlhela yi fambelanisa tiko na Ntwanano wa Nhlangano wa Malwandle wa Matiko ya Misav Afrika-Dzonga yi amukerile ximfumo ntwanano low,These changes will contribute towards reviving the maritime transport sector and also aligning the country with the International Maritime Organisation Conventio South Africa has ratified this conventio,0.88324577
+"[ 0.41000152 -0.12641309 -0.28114757 ...  0.22042508  0.09758165
+  0.96294045]","[ 0.01375788  0.00754135 -0.00024819 ...  0.00740501  0.00308611
+  0.02258945]",Nawumbisi wa Hundzuluxo wa Tinhlayonhlayo wa 2020,Statistics Amendment Bill of 2020,0.8121638
+[ 0.9358482  0.2285769 -0.2377707 ...  1.1491743  1.116121   2.3365836],[0.02860378 0.01841522 0.00067192 ... 0.04528087 0.02679718 0.06543273],"Khabinete yi pasise xiringanyeto xo ya ePalamende xa Nawumbisi wa Hundzuluxo wa Tinhlayonhlayo wa 2022 ku ya phurosesiwa ku ya emahlwen Nawumbisi lowu wu ringanyeta hundzuluxo eka Nawu wa Tinhlayonhlayo, 1999 (Nawu wa 6 wa 1999).","Cabinet approved the submission to Parliament of the Statistics Amendment Bill of 2022 for further processin The Bill proposes the amendment to the Statistics Act, 1999 (Act 6 of 1999).",0.8870126
+"[ 1.1081316   0.21988781 -0.03319468 ...  0.9338803   0.9485049
+  0.9897647 ]","[ 0.03526     0.01334033 -0.00041097 ...  0.0407978   0.0155597
+  0.01863872]",Mihundzuluxo leyi yi lulamisela nhluvukiso na matirhiselo ya Sisiteme ya tinhlayonhlayo ya Rixaka leyi yi seketelaka swiboho leswi simekiweke eka vumbhon,The amendments provide for the development and implementation of the National Statistics System that supports evidence-based decision,0.8298783
+[0.22503425 0.02532553 0.4080014  ... 1.1263546  0.4742588  0.8494968 ],[0.0064179  0.00412225 0.00258657 ... 0.00941594 0.02707298 0.04071881],"Yi tiyisa nhlanganeriso lowu nga kona exikarhi ka Tinhlayonhlayo ta Afrika-Dzonga na swiyenge swin'wana swa mfumo, na ku ndlandlamukisa rimba ro lawula ra Nawu low","They strengthen the existing coordination between Statistics South Africa and other organs of state, and broaden the regulatory framework of the Ac",0.8720381
+"[-0.09604499 -0.18896583  0.06564768 ... -0.36781976 -0.37111914
+  1.174831  ]","[-0.00130068  0.00138589 -0.000487   ... -0.00196136 -0.00190788
+  0.02203241]",Swiendleko leswi Taka1.,Upcoming events1.,0.8153457
+"[ 0.5586427  -0.2611134  -0.13905576 ...  0.83227146  0.7380689
+  0.8199119 ]","[ 0.00818553 -0.00203806  0.00096301 ...  0.02434944  0.03761121
+  0.02388546]","Samiti ya Mabindzu Lamatsongo, Lamatsongotsongo na ya le Xikarhi (SMME) na Mabindzunhlanganelo ya Phuresidente","National Presidential Small, Micro and Medium Enterprises (SMME) and Cooperatives Summit",0.8948649
+"[ 0.42524233 -0.07738901  0.31157994 ...  1.1015409   1.4216303
+  2.409209  ]",[0.03856571 0.00307684 0.02062516 ... 0.04276273 0.04565106 0.03909971],"Ndzawulo ya Nhluvukiso wa Mabindzu Lamatsongo, hi ku tirhisana na vakhomaxiave va sekitara leyi nga riki ya mfumo, yi ta rhurhela Samiti ya SMME na Mabindzunhlanganelo ya Phuresidente eBryanston, Gauteng kusuka 13 kufika 15 Hukuri 2022.","The Department of Small Business Development, in partnership with private-sector stakeholders, will host the National Presidential SMME and Cooperatives Summit in Bryanston, Gauteng from 13 to 15 November 2022.",0.8931801
+"[ 0.8871315   0.22386895 -0.2955737  ...  0.8284294   1.3723246
+  0.95352376]","[ 0.01055147  0.00799222 -0.00019663 ...  0.0320367   0.02724869
+  0.03526698]","Samiti leyi yi tisa endhawini yin'we vatlanginkulu va sekitara leyi nga riki ya mfumo na ya mfumo eka ikhosisiteme ya mabindzu lamatsongo, ku burisana hi mayelana na ku kuma tindlela ta ku tirhisana eka ku tiyisa sekitara ley Vatekaxiave lava languteriwaka va katsa tichembara ta mabindzu, vatirhi va SMME, swidyondzeki, vaendlatipholisi na mihlangano ya timali ya nhluvukis","The summit will bring together private and public sector key actors in the small enterprise ecosystem, to deliberate on finding ways to collaborate in strengthening this secto Expected participants include chambers of commerce, SMME practitioners, academics, policymakers and development finance institution",0.8802537
+"[ 0.7371497  -0.09558808 -0.15986454 ...  0.8174186   1.5539154
+  1.6181372 ]","[ 0.02772419 -0.00185421 -0.00024761 ...  0.04060886  0.04765376
+  0.03458486]","Samiti leyi yi ta tlhela yi kanela Kungukulu ra Nhluvukiso wa mabindzu Lamatsongo leri Pfanganisiweke ra Rixaka, leri ri nyikaka rimba ra xiqhinga ku tiyisa sekitara ya SMM Samiti leyi yi tlhela yi languteriwa ku tivisa Masagwati ya SMME ya Phuresidente ya Rixaka ya Lembe na Lembe","The summit will also discuss the National Integrated Small Enterprise Development Masterplan, which provides a strategic framework to strengthen the SMME secto The summit is also expected to introduce the Annual National Presidential SMME Awards",0.865965
+[0.75251275 1.3054535  0.10337532 ... 0.31511384 0.7948562  1.5580363 ],[0.0249794  0.02577156 0.01456896 ... 0.01159653 0.01782152 0.0344634 ],Ku Rhurheriwa ka Samiti ya Madzolonga yo ya hi Rimbewu na ku Dlayeteriwa ka Vaxisati (GBVF) ya 2022,Hosting of the Presidential Gender-Based Violence and Femicide (GBVF) Summit 2022,0.8467038
+"[ 2.5295196   0.15391028 -0.04264193 ...  1.2784522   1.7293478
+  2.631348  ]",[0.07089991 0.00310402 0.00844483 ... 0.03326031 0.05749716 0.0445632 ],Phuresidente Ramaphosa u ta rhurhela Samiti ya GBVF ya Phuresidente ya vumbirhi eGallagher Convention Centre eGauteng hi masiku ya 1 na 2 Hukuri 2022.,President Ramaphosa will host the second Presidential GBVF Summit at the Gallagher Convention Centre in Gauteng on 1 and 2 November 2022.,0.8876072
+"[ 0.4212901  -0.07908006 -0.00762168 ...  1.9478518   1.3969083
+  0.7540694 ]",[0.01509194 0.00115928 0.00379506 ... 0.0456572  0.02851994 0.02618477],Samiti leyo sungula leyi khomiweke hi 2018 yi tirhisiwile ku bohelela nakambe mfumo na vatirhisani lava nga na ku tsakela kun'we va vaaki eka ku herisa timhangu ta le henhla ta madzolonga ehenhla ha vavasati erixaken,The first summit held in 2018 was used to recommit government and social partners to ending the high incidents of violence against women in the countr,0.8787683
+"[ 1.4186788   0.16860156 -0.21313547 ...  0.6356272   1.2805353
+  1.1025993 ]","[ 0.02262019 -0.00279058 -0.00077532 ... -0.00330646  0.0383468
+  0.04152196]",Samiti leya vumbirhi yi ta tirhisiwa ku kambisisa ndzima leyi khatsiweke eka ku tirhisiwa ka Kungu ra Xiqhinga ra Rixaka hi mayelana na GBV Yi ta rhurheriwa ehansi ka nkongomelo:,The second summit will be used to take stock of the progress made in the implementation of the National Strategic Plan on GBV It will be hosted under the theme:,0.83154064
+"[ 0.40799102 -0.02614501 -0.27546287 ...  0.3532673   0.11803322
+  1.0861518 ]","[ 0.01811014  0.00101712 -0.00123315 ...  0.00099617  0.01488481
+  0.04056707]","Vutihlamuleri, Hatlisiso na Ntwariso SWESWI .",Accountability; Acceleration and Amplification NOW .,0.80109227
+"[ 0.5999026  -0.08271588 -0.20125024 ...  1.253211    0.75220525
+  1.0747293 ]","[ 0.02001908 -0.00018534  0.00042579 ...  0.02851122  0.02499943
+  0.01759913]","Samiti leyi yi ta burisana, exikarhi ka swin'wana, hi mayelana na ku kuma tindlela ta ku hatlisisa magoza na vutihlamuleri kusuka eka tindzawulokulu na vakhomaxiave hinkwavo lava va katsaka vaaki lava nga na ku tsakela kun'we, sekitara leyi nga riki ya mfumo na vatirh 3.","The summit will deliberate on, amongst other issues, finding ways to accelerate actions and accountability from key departments and all the stakeholders that include civil society, the private sector and labou 3.",0.88829005
+"[ 0.82545954 -0.25758126 -0.30250618 ...  0.5878138   1.1664406
+  0.6316164 ]","[ 1.8010492e-02 -1.6296277e-03 -4.5791833e-04 ... -2.3288258e-05
+  3.7330449e-02  1.3513865e-02]",Xivijo xa Phuresidente xa Vuntlhanu xi ya eKapa-N'walungu,Fifth Presidential Imbizo to the Northern Cape,0.8329674
+[0.4281255  0.25504678 0.00405151 ... 1.5544586  1.2085127  1.6695923 ],[0.02834619 0.00169356 0.01831931 ... 0.0193646  0.02975527 0.0369842 ],"Xivijo xa Phuresidente xa Modlolo wa Nhluvukiso wa Swifundzatsongo (DDM) xa Vuntlhanu eUpington, Kapa-N'walungu xi ta endleka hi Ravuntlhanu, 21 Hukuri 2022 eMxolisi Dicky Jacobs Stadiu","The Fifth District Development Model (DDM) Presidential Imbizo in Upington, Northern Cape will take place on Friday, 21 October 2022 at the local Mxolisi Dicky Jacobs Stadiu",0.91362035
+"[ 0.44679442  2.471871   -0.19306953 ...  1.1285137   0.87869513
+  0.532561  ]","[ 0.01645265  0.00053192  0.00151995 ...  0.03520662 -0.01326904
+  0.02694282]","Xivijo xa Phuresidente xa DDM xi ta hlahluva ndzima leyi khatsiweke na mitlhontlho ya mphakelo wa vukorhokeri eKapa-N walungu na ku phalala ku yi ololox DDM yi tiyisisa leswaku nkunguhato wa mphakelo wa vukorhokeri, ku tirhisiwa na ku pimanyeta swi pfanganisiwa ku tiyisa mphakelo wa vukorhokeri emigangen","The DDM Presidential Imbizo will assess service-delivery progress and challenges in the Northern Cape and intervene to resolve the The DDM ensures that service-delivery planning, implementation and budgeting are integrated to enhance service delivery to communitie",0.86475533
+"[ 0.3416274  -0.03313923 -0.23292166 ...  0.8208215   0.9772951
+  1.5246025 ]",[0.00830313 0.02459343 0.00246302 ... 0.02741994 0.01365304 0.03209786],"Eka ku lulamisela Xivijo lexi, Vaholobye, swirho swa tikhansele ta vurhangerinkulu na timeyara va ta endla migingiriko yo fikelela miganga ya le Upington na leyi nga ekusuhi na kon 4.","Leading up to the Imbizo, Ministers, members of the executive councils and mayors will embark on community-outreach activities in and around Upingto 4.",0.8226517
+"[ 0.36216405  0.5732681  -0.02214915 ...  0.86782813  0.39561194
+  0.49639866]","[ 0.00788852  0.00027181 -0.00090943 ...  0.02042115 -0.00292039
+  0.00963986]",Xitatimente xa Pholisi ya Mpimanyeto wa le Xikarhi ka Theme (MTBPS),Medium Term Budget Policy Statement (MTBPS),0.7615725
+[0.675327   0.05534486 0.2591312  ... 1.1080936  1.4945521  1.1617738 ],[0.00702232 0.00092965 0.03065441 ... 0.0291089  0.0207961  0.03820626],"Khabinete ya tshemba leswaku MTBPS ya 2022 leyi faneleke ku andlariwa hi Holobye wa Timali Enoch Godongwana hi Ravunharhu, 26 Nhlangula 2022 i xiphemu xa nkoka xa phurosese yo pimanyeta yo pfuleka na ku va leyi nga na vutihlamuleri ya Afrika-Dzong","Cabinet believes that the 2022 MTBPS to be tabled by Finance Minister Enoch Godongwana on Wednesday, 26 October 2022 is an important part of South Africa s open and accountable budgeting proces",0.9053316
+"[ 0.90768445  0.04902076 -0.08446291 ...  2.338899    0.80706763
+  0.77830553]","[ 0.03681535 -0.00104179  0.00792909 ...  0.0389712   0.05331006
+  0.00969556]","MTBPS yi tiyisa vutiboheleri bya mfumo endzeni ka levhele yo angarhela ya ntirhisomali lowu rixaka ri nga ta kota ku wu fikelel Yi tlhela yi koxometa hilaha mfumo wu nga ta pfala hakona vangwa leri nga exikarhi malinhlengeleto na ntirhisomali, na ku tirhisa hi ndlela leyi vuyerisaka swipfuno leswi nga kon 5.","Cabinet extended its congratulations and well-wishes to: Mr Sam Matekane, the Prime Minister-elect of the Kingdom of Lesoth Cabinet also joined the AU Election Observation Mission to the 7 October 2022 National Assembly Elections in the Kingdom of Lesotho in commending the electoral and political maturity of the People of the Kingdom of Lesotho for conducting the successful election South Africa remains dedicated to strengthening and consolidating bilateral relations as well as enhancing cooperation on regional, continental and global issues of mutual interest",0.7356355
+[0.7532136  0.10133905 0.05583306 ... 0.10063378 0.16925165 0.06676937],"[ 0.00526055 -0.00219146  0.00035875 ...  0.00359432 -0.00119803
+  0.00065792]",Swikambelo swa Matiriki,Matric Exams,0.8360144
+"[ 1.0601754  -0.2514821   0.31376252 ...  0.5486852   0.7585267
+  3.5669117 ]","[ 0.01716994 -0.00345988  0.02286198 ...  0.02307597  0.018596
+  0.0770098 ]",Swikambelo swa Xitifikheti xa le Henhla xa Rixaka swa 2022 swi ta sungula hi siku ra 31 Nhlangula kutani swi fika emakumu hi siku ra 7 N'wendzamhala 2022.,The 2022 National Senior Certificate examinations begin on 31 October and end on 7 December 2022.,0.9061042
+"[ 0.24399287 -0.17756797  0.10731493 ...  0.81085676  1.1204444
+  1.2257991 ]","[ 0.00539498 -0.00140954  0.00167837 ...  0.02915493  0.02878465
+  0.04420678]","Khabinete yi navelela Tlilasi ya 2022 leswinene loko yi ri karhi va tirhana na xiyenge xo hetelela xa rendzo ra vona ra xikol Nseketelo lowu yaka emahlweni kusuka eka vadyondzisi, vatswari na vahlayisi wu ta pfuna swinene eka ku pfuna vadyondzi lava ku langutana na swikambelo leswi hi vutitshemb","Cabinet wishes the Class of 2022 well as they embark on the final leg of their school journe The continued support from teachers, parents and guardians will go a long way in helping these learners to face these exams with confidenc",0.90632856
+"[ 0.6983487  -0.10188447  0.25008053 ...  1.4651418   0.597088
+  0.96466786]","[ 0.02007852 -0.00065197  0.01854944 ...  0.02663923  0.02191232
+  0.02608652]","Khabinete yi hlohlotela vatswari na vahlayisi ku tlanga xiphemu xa vona hi ku khutaza na ku hlohlotela vadyondzi lava, na ku tumbuluxa mbangu wo tirheka wa ku hlaya ekaya","Cabinet urges parents and guardians to play their part by encouraging and motivating the learners, and creating a conducive environment for studying at home",0.9060435
+"[ 0.15322113 -0.26405048 -0.31615365 ...  0.54634225  0.29432657
+ -0.15361354]","[ 0.00474893  0.00085823 -0.00140002 ...  0.00419952  0.01464595
+  0.00298407]",Khomferense ya Kungu ra Nhluvukiso ra Rixaka na Vuswikoti bya Tiko,CEO: National Nuclear Regulato,0.66024673
+[1.9254836  0.77841073 0.2454188  ... 0.8009406  1.6600578  1.9575597 ],[0.03560973 0.00383928 0.01193399 ... 0.0285482  0.04751431 0.03541975],"Ndzawulo ya Vukorhokeri bya Mfumo na Mafambiselo, hi ku tirhisana na Khomixini ya Nkunguhato ya Rixaka na Xikolo xa Tidyondzo ta Nhluvukiso xa Yunivhesiti ya KwaZulu-Natal, yi ta rhurhela Khomferense ya NDP na Vuswikoti bya Tiko kusuka 7 kufika 9 Hukuri 2022 eka Khamphasi ya Kholichi ya Howard, Yunivhesiti ya KwaZulu-Nata","The Department of Public Service and Administration, in partnership with the National Planning Commission and the University of KwaZulu-Natal School of Development Studies, will host the NDP and State Capacity Conference from 7 to 9 November 2022 at Howard College Campus, University of KwaZulu-Nata",0.91893256
+"[ 0.5718411  -0.24401845 -0.26004693 ...  1.0798373   0.5656721
+  1.366414  ]","[ 0.01294029 -0.00082208  0.00179277 ...  0.02112818  0.01797756
+  0.04325837]","Khomferense leyi yi ta ehleketisisa hi mayelana na vuswikoti bya tiko na matirhelo eka 10 ra malembe lamo sungula ya NDP, naswona yi ta khomiwa ehansi ka nkongomelo:","The conference will reflect on state capacity and performance in the first 10 years of the NDP, and will be held under the theme:",0.8953216
+"[ 0.25032693 -0.03606545 -0.23140898 ...  1.7668246   0.19412814
+  1.9107714 ]",[0.00542512 0.00347251 0.01353249 ... 0.03862038 0.01646333 0.03593483],Vuehleketisisi hi mayelana na Vuswikoti bya Tiko na Matirhelo ya Mfumo eka malembe ya khume lamo sungula ya,Reflections on State Capacity and Government Performance through the first ten-years of the NDP,0.8440918
+"[ 0.8784439  -0.05465502 -0.27099425 ...  0.6325621   0.70505583
+  0.51845837]","[ 0.0023283  -0.00242809 -0.00126682 ...  0.00068705  0.02488461
+  0.0423947 ]",Ku Nyikiwa ka Hosinkulu Misuzulu kaZwelithini Xitifikheti xa ku Tekeriwa Enhlokweni,including the tenure of DGs and the management of delegations by the Executive Authority to the accounting officer,0.7311932
+"[ 1.0695634   0.35994637 -0.14623697 ...  1.2958337   1.0068073
+  2.6828744 ]",[0.0584386  0.01334258 0.01880214 ... 0.05695524 0.05611601 0.07222967],"Phuresidente Ramaphosa u ta nyika Ndhabezitha Hosinkulu Misuzulu kaZwelithini Xitifikheti xa ku Tekeriwa Enhlokweni eMoses Mabhida Stadium eDurban hi Mugqivela, 29 Nhlangula 2022.","President Ramaphosa will hand over the Certificate of Recognition to His Majesty King MisuZulu ka Zwelithini at the Moses Mabhida Stadium in Durban on Saturday, 29 October 2022.",0.85730165
+"[ 0.9270584   0.08734973 -0.17134038 ...  0.7888673   1.2705809
+  0.61186844]","[ 1.0990257e-02 -7.5857875e-05 -1.8142673e-04 ...  9.5965415e-03
+  1.9940153e-02  2.4768971e-03]",Leswi swi landzela ku vekiwa exitulwini ka xintu ka nkhuvu wa,This follows the customary coronation,0.72266775
+"[ 1.0915804  -0.4520027  -0.83521557 ...  0.05380782  0.9919965
+  0.23194093]","[ 0.07974922  0.00115375 -0.00110611 ...  0.00536166  0.02444261
+  0.01109079]",Ukungena eSibayeni,Adv Xola Stemela,0.5875969
+"[ 1.9107492e+00 -1.2898804e-01 -2.7166687e-05 ...  8.0426830e-01
+  2.3592420e+00  1.0175987e+00]","[ 0.05874325 -0.00127186 -0.00089273 ...  0.02638467  0.04571351
+  0.02068068]","wa Ndhabezitha lowu khomiweke hi siku ra 20 Mhawuri 2022, lowu wu n'wi vekeke exitulwini xa vuhoxi tanihi Hosinkulu ya Rixaka ra Mazul","ceremony of His Majesty held on 20 August 2022, which ascended him to the throne as King of the Zulu Natio",0.85596323
+"[-0.01681829 -0.39070204 -0.12061238 ... -0.16367526 -0.05210353
+  0.2714164 ]","[ 0.00541374 -0.0019694  -0.00156499 ... -0.00135649  0.00336086
+  0.01254619]",Mahungu1.,Appointments1.,0.76038873
+"[ 0.6959304   0.05487416 -0.1168717  ...  1.4195396   1.1297956
+  1.1036005 ]","[ 0.02842442 -0.00155135 -0.00026658 ...  0.03516597  0.04172992
+  0.03694635]","VuhoyozeriKhabinete yi hundzise vuhoyozeri bya yona na ku navelela leswinene eka: Ttn Sam Matekane, Hubyankulu leyi nga si vekiwaka ximfumo ya Kingdom of Lesoth Khabinete yi tlhele yi tikatsa na Ntirhokulu wa Nxiyaxiyo wa Nhlawulo wa AU eka Mihlawulo ya Huvo ya Rixaka ya 7 Nhlangula 2022 eKingdom of Lesotho eka ku hoyozela ku vupfa ka nhlawulo na ka tipolitiki ka Vanhu va Kingdom of Lesotho eka ku khoma ka vona mihlawulo leyi nga humelel","Cabinet expressed condolences to the family and friends of: Father Albert Nolan (88), a dedicated South African Catholic Priest who challenged the religious views that sought to entrench the apartheid syste In 2003, then President Thabo Mbeki awarded him the Order of Luthuli in Silver for his",0.8168505
+"[ 0.5800738   0.09549487 -0.10882428 ...  0.6707007   0.7047623
+  1.1474973 ]","[ 0.01678796 -0.00011001 -0.00090296 ...  0.03777855  0.04447744
+  0.03881535]","Afrika-Dzonga yi tshama ya ha tiyimiserile ku tiyisa na ku pfhumbisa vuxaka bya matiko lamambirhi xikan'we na ku antswisa ntirhisano hi mayelana na swiphiqo swa xifundza, swa tikokulu na swa misava hinkwayo leswi vuyerisaka matlhelo hinkwawo","lifelong dedication to the struggle for democracy, human rights and justice and for challenging the religious dogma including the theological justification for apartheid .",0.6601144
+"[ 0.99676365  0.09190676 -0.2901952  ...  1.1296176   1.9320774
+  1.5415967 ]","[ 0.05725333  0.0062323  -0.00036025 ...  0.04789894  0.05283594
+  0.01916204]","Michavelelo Khabinete yi hundzise michavelelo ya yona eka ndyangu na vanghana va: Papa Albert Nolan (88), Mupirisita wa Khatholiki ya le Afrika-Dzonga loyi a tiyimiserile loyi a kaneteke mavonelo ya vukhongeri lama a ma lava ku tiyisa sisiteme ya mfumo wa xihlawuhlaw Hi 2003, khale ka Phuresidente Thabo Mbeki u n'wi nyike Risiva ra Luthuli hi Silivhere eka",Handing over of the Certificate of Recognition to King MisuZulu ka Zwelithini,0.6681124
+"[ 0.39512628  0.13734016 -0.22696967 ...  1.079496    1.3553761
+  1.4651479 ]","[ 0.05107162 -0.00043387  0.00025928 ... -0.00699498  0.04538759
+  0.022353  ]","vutiyimiseri bya yena bya vutomi hinkwabyo eka ku lwela xidemokirasi, timfanelo ta ximunhu na vululami na ku kaneta tidyondzo ta vukhongeri ku katsa na amukeriwa ka ntivovukhongeri ka mfumo wa xihlawuhlawu .",All appointments are subject to the verification of qualifications and the relevant clearanc,0.6284992
+"[ 0.04375966 -0.33054864  0.20949802 ... -0.0886475  -0.00852693
+  0.15844409]","[ 0.03864395 -0.0012033  -0.00057512 ...  0.00059446  0.00286357
+  0.01372523]",Ku thoriwa1.,Bills1.,0.70725924
+"[ 1.2638925  -0.05466162 -0.0787561  ...  0.5672639   0.803376
+  0.1747092 ]","[ 2.3463488e-02 -1.0899669e-03 -6.8586487e-05 ...  2.2295732e-02
+  3.1004852e-02  1.2145006e-02]",Ku thoriwa hinkwako ku fanele ku landzelela vutiyisisi bya mithwaso na mbhasiso lowu fanelek,"Once enacted, the Bill will provide the merchant shipping legal framework to regulate ships",0.6027949
+"[ 2.2394657   0.6759615  -0.24774267 ...  0.54737175  0.9936248
+  0.16550498]","[ 0.06701611 -0.0004802  -0.00129498 ...  0.02113463  0.04032376
+  0.00182583]",Gqweta James Mlawu,Adv James Mlawu,0.849435
+"[-0.16464587  0.04290967 -0.4313956  ...  0.83125573 -0.3351091
+ -0.07260533]","[ 0.0079064   0.00160461 -0.00107844 ...  0.02107702  0.00165635
+  0.00021387]",Mulawuri-Jenerala: Ndzawulo ya Vutleketl,Director-General: Department of Transpor,0.87267184
+"[ 0.63650346 -0.34455565 -0.39532554 ...  0.24416661  1.7362286
+  0.20673358]","[ 0.02327638 -0.00110983 -0.00022932 ... -0.0022989   0.03553067
+  0.00665903]",Ttn Shabeer Khan,Mr Shabeer Khan,0.8919359
+"[ 0.7645598   0.10477525 -0.23098156 ...  0.53272825  0.7921636
+  0.08240833]","[ 0.02463895 -0.00794362 -0.00079146 ...  0.01302083  0.02127872
+  0.00122737]",N'watinkota-Jenerala: Vutamelankwama bya Rixaka,Accountant-General: National Treasury,0.7986094
+"[ 0.3932336  -0.14205045 -0.18256667 ...  0.11467012  0.43780863
+  0.6421636 ]","[-0.00195105 -0.0015066   0.00049718 ...  0.01137685  0.00593667
+  0.01793528]",Khabinete yi pfumelelane na ku thoriwa loku landzelaka:,Cabinet concurred with the following appointments:,0.79969776
+"[-0.02705692 -0.54544497 -0.2195805  ...  0.30998603  0.84929484
+  0.47244588]","[-0.00281433  0.00217148  0.00213467 ...  0.02020015  0.00910732
+  0.00530309]",Swirho swa Bodo ya Vupfhumba ya Afrika-Dzonga:,South African Tourism Board members:,0.8568795
+"[ 1.0063756  -0.01596486 -0.19158627 ...  0.6419603   0.9592692
+  0.9165676 ]","[ 0.01632803  0.00204222 -0.00117181 ...  0.00424191  0.02731873
+  0.03604352]",Dkd Nondumiso Maphazi (Mutshamaxitulu),Dr Nondumiso Maphazi (Chairperson),0.7517667
+"[ 1.0273062  -0.13310577 -0.26123965 ...  0.01244876  0.63470656
+  1.0818676 ]","[ 0.04364773 -0.00032757 -0.00105559 ... -0.00349015  0.01406624
+  0.03007632]",Dkd Aubrey Mhlongo (Xandla xa Mutshamaxitulu),Dr Aubrey Mhlongo (Deputy Chairperson),0.90281916
+"[ 2.1035008  -0.1006838  -0.18531232 ...  0.62377906  1.3469359
+ -0.19240917]","[ 0.04779072 -0.00121902 -0.00012096 ...  0.00535055  0.04683417
+ -0.00225967]",Mnn Pretty Ntombela,Ms Pretty Ntombela,0.8248898
+"[ 1.411226   -0.3925998  -0.20842454 ...  0.88598406  1.7939389
+  0.07633615]","[ 0.07454309 -0.0003153  -0.00019393 ...  0.01016045  0.04963241
+  0.00351168]",Mnn Nomahlubi Mazwai,Mr Risenga Maluleke,0.69373494
+"[ 0.69875443 -0.24566825 -0.37300304 ...  0.42135975  0.65663457
+  0.23408161]","[ 0.06326457 -0.00164299 -0.00098571 ...  0.00249952  0.03603926
+ -0.00015534]",Ttn Odwa Mtati,Prof Chitja Twala,0.6860111
+"[ 0.8592172  -0.2458109  -0.24910417 ...  0.79344374  0.3707849
+  0.6674817 ]","[ 0.02994991 -0.00013464 -0.00026232 ...  0.00337248  0.01834289
+  0.01538148]",Ttn Ravi Nadasen (Ku thoriwa nakambe),Mr Ravi Nadasen (Reappointment),0.8307912
+"[ 0.4160886  -0.05187891 -0.12784986 ...  0.4111082   0.26871735
+  0.3003288 ]","[ 0.01348087  0.00074494 -0.00026484 ...  0.01098251  0.01084939
+  0.01472319]",Ttn Enver Duminy (Ku thoriwa nakambe),Mr Enver Duminy (Reappointment),0.7905613
+"[ 0.8055227   0.32293975 -0.315079   ...  0.5164989   0.60845214
+  0.5102674 ]","[-0.00371631 -0.00012304  0.00234804 ...  0.011985    0.0231997
+  0.00731042]",Mnn Nandipha Mzileni Mbulawa,CEO: South African National Roads Agenc,0.6240819
+"[ 0.57437533 -0.29619014 -0.30593234 ...  0.26367715  0.3144894
+  0.19342074]","[ 0.04985889  0.01252866  0.00166127 ... -0.002593    0.00387808
+  0.01584245]",Ttn Mduduzi Zakwe (Ku thoriwa nakambe),Statistician-General (Renewal of contract).,0.6998264
+"[ 0.4535442  -0.38882175 -0.42621225 ...  0.06367548  0.31650198
+  0.7984428 ]","[ 0.00270487 -0.00113668  0.00044953 ... -0.00039063  0.00835192
+  0.01251818]",Mnn Rosemary Anderson,Ms Rosemary Anderson,0.9169711
+"[ 0.89273065 -0.22985375 -0.02504791 ...  0.38302976  0.22934353
+  0.53306186]",[0.02464987 0.00022563 0.00103706 ... 0.00877419 0.0144349  0.01264497],Mnn Lehlohonolo Rapodile; na,Ms N Jaxa (Alternate member); and,0.67211163
+"[ 0.32101363  0.04611351 -0.2570062  ...  0.5551462   0.24310978
+  0.5755905 ]","[ 0.01096532  0.00399947 -0.00010377 ...  0.00731915  0.00763642
+  0.02573023]",Mnn Nonkqubela Silulwane (Muyimeri wa ndzawulo).,Ms Nomusa Mufamadi (Chairperson),0.676015
+"[ 1.0179437   0.1387842  -0.27215943 ...  0.3676135   0.8685282
+  0.05137853]","[ 0.00405311  0.03257856 -0.00085001 ...  0.01401135  0.00920445
+  0.00010659]",Swirho swa Bodo ya Khoporexini ya Malawulelo ya Nkhuluko wa Swipandzamananga swa le Magondzweni:,Road Traffic Management Corporation Board members:,0.79129106
+"[ 1.804054   -0.04700838 -0.28375667 ...  0.6209017   0.69099414
+  0.69376445]","[ 0.07275613  0.00311065 -0.00167466 ...  0.00184975  0.02546605
+  0.02123759]",Dkd Eddie Mogalefi Thebe (Ku thoriwa nakambe),Dr Eddie Mogalefi Thebe (Reappointment),0.91791874
+"[ 1.8519754  -0.17498803 -0.33875483 ...  0.39949164  0.59631646
+  0.6107232 ]","[ 0.06879736  0.00572512 -0.00020173 ... -0.0027886   0.01909021
+  0.01328983]",Mnn Thandi Clara Thankge (Ku thoriwa nakambe),Ms Thandi Clara Thankge (Reappointment),0.89367473
+"[ 1.6885705  -0.04278407 -0.26302117 ...  0.19120477  0.8773339
+  0.0493888 ]","[ 0.05995277 -0.00095272 -0.00076158 ...  0.01124052  0.0217532
+ -0.00104261]",Phurof Maredi Mphahlele,Prof Maredi Mphahlele,0.68350524
+"[ 0.28741997 -0.22415079 -0.2684515  ...  0.77233475  0.7009801
+  0.81162745]","[ 0.04487371 -0.00095975  0.0004469  ...  0.00560575  0.03407195
+  0.01693029]",Mnn Nomusa Mufamadi (Mutshamaxitulu),Ms HM Mbanyele-Ntshinga (Alternate member).,0.6785588
+"[ 3.1762316   0.54710394 -0.38064733 ...  0.40480468  0.67031115
+  0.45835826]","[ 9.1030188e-02  7.1443734e-05 -1.4242977e-04 ...  7.6536140e-03
+  3.8661160e-02  1.4047247e-02]",Gqweta Xola Stemela,Ms Lerato Magalo,0.7145622
+"[ 1.9938027   0.02744859 -0.2855115  ...  0.7868015   1.0209063
+  0.29601657]","[ 0.06700187  0.00034436 -0.00011546 ...  0.00863567  0.04483354
+  0.00084685]",Mnn Lerato Magalo,Ms Nandipha Mzileni Mbulawa,0.7529462
+"[ 0.866553    0.29906014 -0.4459369  ...  0.24196239  0.48153207
+  0.27634248]",[0.00781863 0.00131899 0.00031674 ... 0.01263835 0.00165173 0.03889479],Phurof Chitja Twala,The revised Performance Management System for DGs is being revised to align it with the approved change,0.6232927
+"[ 0.37932095 -0.4004919  -0.33160326 ...  0.40252763  0.7707641
+  0.69081944]","[ 0.04011477  0.00423989 -0.00035303 ...  0.00494667  0.06106146
+ -0.00421549]",Ttn Nkumeleni John Kudzingana,Mr Nkumeleni John Kudzingana,0.6693666
+"[ 0.72542083 -0.1852332  -0.24683265 ...  0.62049776  0.445317
+  0.50554097]","[ 6.8278573e-02  3.5840056e-03 -3.1720694e-05 ... -2.2304754e-03
+  3.1760346e-02  1.6816596e-02]",Mnn N Jaxa (Xirho xo cincana); na,Ms Lehlohonolo Rapodile; and,0.68935454
+"[ 0.9321891  -0.04069088 -0.16999713 ...  0.7563273   0.5520924
+  0.2475988 ]","[ 0.02591938  0.0013549  -0.00017411 ... -0.00219573  0.02858484
+  0.0193119 ]",Mnn HM Mbanyele-Ntshinga (Xirho xo cincana).,Mr Mduduzi Zakwe (Reappointment),0.72775304
+"[ 0.9028929  -0.22467081 -0.23351748 ...  0.42590502  0.76238203
+  0.29902834]","[ 0.00697251  0.00043543 -0.00044758 ...  0.00777441  0.00883237
+  0.00455149]",Ttn Tshepo Monaheng,Ukungena eSibayeni,0.63222027
+"[ 0.77022594 -0.20348103  0.2411873  ...  0.80662733  0.80228555
+  2.4624014 ]","[ 0.01395077 -0.00060205  0.00574405 ...  0.00072088  0.02539621
+  0.05737613]",Muofisirinkulu wa Vurhangerinkulu (CEO): Khamphani ya Swihlahla ya Afrika-Dzonga (Kontiraka yi pfuxetiwile ku ringana malembe manharhu (3)).,Chief Executive Officer (CEO): South African Forestry Company (Contract renewed for three (3) years).,0.93034434
+"[ 1.8118731  -0.12886883 -0.38904232 ...  1.109056    1.1911086
+  0.40288162]","[ 0.05785025 -0.00023756 -0.00023264 ...  0.01574121  0.02741362
+  0.00692293]",Ttn Reginald Lavhelesani Demana,Mr Reginald Lavhelesani Demana,0.7656127
+"[ 0.6311328  -0.15256777 -0.3370876  ...  0.855485    1.29197
+  0.05986614]","[ 1.3340444e-02  1.3352059e-03 -9.6466756e-05 ...  1.3915843e-02
+  3.4695026e-02  1.4465603e-02]",CEO: Ejensi ya Magondzo ya Rixaka ya Afrika-Dzong,Ms Ditebogo Kgomo,0.6194067
+"[ 0.96123666 -0.3397465  -0.22947031 ...  0.70595205  0.8243246
+  0.08572152]","[ 0.01932795 -0.00068367 -0.00028126 ...  0.00909294 -0.00637949
+  0.01885222]",Mnn Ditebogo Kgomo,Mr Odwa Mtati,0.6979903
+"[ 0.9576795  -0.17824864 -0.28348988 ...  0.60475874  0.9891335
+  0.4028466 ]","[ 0.00404889 -0.00010651 -0.00031837 ...  0.00199621  0.05059747
+  0.00198331]",CEO: Mulawuri wa Nyutliliya wa Rixak,Mr Tshepo Monaheng,0.6260285
+"[ 3.5089066  -0.03779228 -0.1437122  ...  0.8003622   1.715864
+  0.1032249 ]",[0.04940205 0.00304118 0.00023361 ... 0.01433357 0.04219284 0.02171902],Ttn Risenga Maluleke,Ms Nomahlubi Mazwai,0.67227924
+"[ 0.6632597   0.0620109  -0.0843948  ...  0.44105017  0.60063416
+  0.10991299]","[ 0.0807547   0.00021629  0.00720573 ... -0.00345915  0.02331397
+  0.01985523]",N'watinhlayonhlayo-Jenerala (Mpfuxeto wa Kontiraka).,Ms Nonkqubela Silulwane (Departmental representative).,0.63774145
+"[ 1.3580657  -0.1554694  -0.3138851  ...  0.30616105  1.3216105
+  0.2821259 ]","[ 0.00139759 -0.00034166 -0.00056562 ...  0.0037609   0.00254546
+  0.00029972]",Mnn Kedibone Olga Madiehe,Condolences,0.31775767
+"[ 1.0823495   0.2915522  -0.36782527 ...  0.57954544  0.7369873
+  0.68486387]","[-0.00127414 -0.0025206  -0.00042134 ... -0.00196849 -0.00563724
+  0.00204479]",CEO: Ejensi ya Mafambiselo ya Tiphenceni ta MfumSwivutiso: Phumla Williams,report,0.36704308
+"[ 0.70501626 -0.25814226 -0.09881999 ...  0.38969615  0.11455078
+  1.5888917 ]","[ 4.3035611e-03 -4.9268550e-05 -5.6170177e-04 ...  2.6530115e-04
+  3.3288756e-03 -1.8969752e-04]",Muvulavuleri wa Khabinete Selifoni: 083 501 0139,Congratulations,0.2565976
