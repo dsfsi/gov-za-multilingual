@@ -148,7 +148,7 @@ def create_embeddings(source_lang, target_lang, lang, data):
 if __name__ == "__main__":
     # Create language mappings
     language_mappings = {'en': '', 'af': '', 'nr': '', 'xh': 'xho_Latn', 'zu': 'zul_Latn', 'st': '', 'nso': 'nso_Latn', 'tn': 'tsn_Latn',
-                 'ss': 'ssw_Latn', 've': '', 'ts': 'sot_Latn', 'tso': 'tso_Latn'}
+                 'ss': 'ssw_Latn', 've': '', 'ts': 'sot_Latn'}
 
     #   Install models and all necessary files
     config = LoadConfig()
@@ -159,14 +159,13 @@ if __name__ == "__main__":
     #   Get the speeches data json
     speeches_data = pd.read_json(f"{DATA_PATH}/govza-cabinet-statements.json")
 
-    #   Create new column with the date - replaced by _ as well as rename Xitsonga column
+    #   Create new column with the date - replaced by _
     speeches_data['date_key'] = speeches_data['date'].astype(str).str.replace('-', '_')
-    speeches_data.rename(columns={'ts last': 'tso'}, inplace=True)
 
     #   Create embeddings & align files
     for (key, value) in language_mappings.items():
         if key != 'en' and value != '':
-            SRC_LANG = "xh"
+            SRC_LANG = key
             TRG_LANG = "en"
             data_frame = create_embeddings(SRC_LANG, TRG_LANG, language_mappings, speeches_data)
             
