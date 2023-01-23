@@ -148,7 +148,7 @@ def create_embeddings(source_lang, target_lang, lang, data):
 if __name__ == "__main__":
     # Create language mappings
     language_mappings = {'en': '', 'af': '', 'nr': '', 'xh': 'xho_Latn', 'zu': 'zul_Latn', 'st': '', 'nso': 'nso_Latn', 'tn': 'tsn_Latn',
-                 'ss': 'ssw_Latn', 've': '', 'ts': 'sot_Latn'}
+                 'ss': 'ssw_Latn', 've': '', 'ts': 'tso_Latn'}
 
     #   Install models and all necessary files
     config = LoadConfig()
