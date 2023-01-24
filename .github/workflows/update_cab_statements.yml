@@ -6,35 +6,30 @@ on:
   workflow_dispatch:
 
 jobs:
-  fetch_and_update_statements:
-    name: fetch and update cabinent statements
-    runs-on: ubuntu-latest
-    steps:
-    - name: checkout repo content
-      uses: actions/checkout@v2 
+    fetch_and_update_statements:
+        name: fetch and update cabinent statements
+        runs-on: ubuntu-latest
+        steps:
+            -   name:   Checkout to develop/master branch
+                uses:   actions/checkout@v2 
 
-    - name: setup python
-      uses: actions/setup-python@v4
-      with:
-        python-version: '3.8' 
-        
-    - name: install python packages
-      run: |
-        python -m pip install --upgrade pip
-        pip install -r requirements.txt
-    - name: execute script
-      run: |
-        cd src/gov_cab_statements_scrape
-        python3 main.py
-        cd ../..
-    - name: check for repo changes
-      id: changes
-      uses: UnicornGlobal/has-changes-action@v1.0.11
-    - name: commit and push if changes
-      if: steps.changes.outputs.changed == 1
-      run: |
-        git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action"
-        git add .
-        git commit -m "Updated govza-cabinet-statements.json on `date` with GitHub Actions"
-        git push origin master
+            -   name:   Set up Python
+                uses:   actions/setup-python@v4
+                with:
+                    python-version: '3.8' 
+                
+            -   name:   Install Python requirements
+                run: |
+                    python -m pip install --upgrade pip
+                    pip install -r requirements.txt
+
+            -   name:   Execute script
+                run: |
+                    cd src/gov_cab_statements_scrape
+                    python3 main.py
+                    cd ../..
+
+            -   name:   Commit and push the changes into the repository (master branch) if there are any
+                uses:   stefanzweifel/git-auto-commit-action@v4
+                with:
+                    commit_message: "Updated govza-cabinet-statements.json on `date` with GitHub Actions"
