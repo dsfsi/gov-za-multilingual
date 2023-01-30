@@ -159,35 +159,35 @@ if __name__ == "__main__":
     #   Get the speeches data json
     speeches_data = pd.read_json(f"{DATA_PATH}/govza-cabinet-statements.json")
 
-    #   Create new column with the date - replaced by _
-    speeches_data['date_key'] = speeches_data['date'].astype(str).str.replace('-', '_')
+    # #   Create new column with the date - replaced by _
+    # speeches_data['date_key'] = speeches_data['date'].astype(str).str.replace('-', '_')
 
-    #   Create embeddings & align files
-    for (key, value) in language_mappings.items():
-        if key != 'en' and value != '':
-            SRC_LANG = key
-            TRG_LANG = "en"
-            data_frame = create_embeddings(SRC_LANG, TRG_LANG, language_mappings, speeches_data)
+    # #   Create embeddings & align files
+    # for (key, value) in language_mappings.items():
+    #     if key != 'en' and value != '':
+    #         SRC_LANG = key
+    #         TRG_LANG = "en"
+    #         data_frame = create_embeddings(SRC_LANG, TRG_LANG, language_mappings, speeches_data)
             
-            #   Find the text files
-            txt_folder = f'{DATA_PATH}/processed/{SRC_LANG}_{TRG_LANG}_aligned_csv'              # Change when loading different files
+    #         #   Find the text files
+    #         txt_folder = f'{DATA_PATH}/processed/{SRC_LANG}_{TRG_LANG}_aligned_csv'              # Change when loading different files
     
-            txt_files = []
-            for root, folder, files in os.walk(txt_folder):
-                for file in files:
-                    if file.endswith('.csv'):
-                        txt_files.append(file)
+    #         txt_files = []
+    #         for root, folder, files in os.walk(txt_folder):
+    #             for file in files:
+    #                 if file.endswith('.csv'):
+    #                     txt_files.append(file)
     
-            df = pd.DataFrame(txt_files, columns=['File_Name'])
-            df["language"] = ''
-            df_files = pd.concat((pd.read_csv(txt_folder + '/' + f) for f in txt_files), ignore_index=True)
-            df_files.loc[df_files['Cosine_Score'] > 0.7].src_text.to_csv(f'20221002_{SRC_LANG}.txt', header=None, index=None, sep=' ')
-            df_files.loc[df_files['Cosine_Score'] > 0.7].trg_text.to_csv(f'20221002_{TRG_LANG}.txt', header=None, index=None, sep=' ')
+    #         df = pd.DataFrame(txt_files, columns=['File_Name'])
+    #         df["language"] = ''
+    #         df_files = pd.concat((pd.read_csv(txt_folder + '/' + f) for f in txt_files), ignore_index=True)
+    #         df_files.loc[df_files['Cosine_Score'] > 0.7].src_text.to_csv(f'20221002_{SRC_LANG}.txt', header=None, index=None, sep=' ')
+    #         df_files.loc[df_files['Cosine_Score'] > 0.7].trg_text.to_csv(f'20221002_{TRG_LANG}.txt', header=None, index=None, sep=' ')
             
-            np.savetxt(f'20221002_{SRC_LANG}.txt', df_files.loc[df_files['Cosine_Score'] > 0.7].src_text, fmt='%s')
-            np.savetxt(f'20221002_{TRG_LANG}.txt', df_files.loc[df_files['Cosine_Score'] > 0.7].trg_text, fmt='%s')
+    #         np.savetxt(f'20221002_{SRC_LANG}.txt', df_files.loc[df_files['Cosine_Score'] > 0.7].src_text, fmt='%s')
+    #         np.savetxt(f'20221002_{TRG_LANG}.txt', df_files.loc[df_files['Cosine_Score'] > 0.7].trg_text, fmt='%s')
 
-            #   Do some cleaning
-            os.system(f'rm *.txt')                              #   Remove all text files in current directory
-            os.system(f'rm *_emb')                              #   Remove all embeddings files in current directory
-            os.system(f'rm ./content/sample_data/*.txt')        #   Remove all csv files in current directory
+    #         #   Do some cleaning
+    #         os.system(f'rm *.txt')                              #   Remove all text files in current directory
+    #         os.system(f'rm *_emb')                              #   Remove all embeddings files in current directory
+    #         os.system(f'rm ./content/sample_data/*.txt')        #   Remove all csv files in current directory
