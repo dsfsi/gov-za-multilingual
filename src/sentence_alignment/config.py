@@ -5,7 +5,7 @@ import nltk
 class LoadConfig:
     def __init__(self):
         self.nltk_download("punkt")
-        self.set_laser_environment(os.getcwd())
+        self.set_laser_environment("/LASER")
         self.install_external_tools()
         self.install_models()
 
@@ -14,19 +14,20 @@ class LoadConfig:
         nltk.download(tokenizer_type)
 
     def install_external_tools(self):
-        if os.path.exists("./tools-external"):
+        if os.path.exists("./LASER/tools-external"):
             print("External Tools already exists, skipping installation...")
         else:
             print("Installing External Tools...")
-            os.system("bash ./install_external_tools.sh")
+            os.system("bash ./LASER/install_external_tools.sh")
 
     def install_models(self):
         print("Installing the Models...")
-        os.system("bash ./install_models.sh")
+        os.system("bash ./LASER/install_models.sh")
 
     def set_laser_environment(self, laser_env):
-        print(f"Setting LASER environment to {laser_env}")
-        os.environ["LASER"] = laser_env
+        LASER_ENVIRON = os.getcwd() + laser_env
+        print(f"Setting LASER environment to {LASER_ENVIRON}")
+        os.environ["LASER"] = LASER_ENVIRON
 
     def download_models(self, language_mappings):
         models = ""
@@ -34,4 +35,4 @@ class LoadConfig:
             models += language_mappings[code] + " "
 
         print(f"Downloading(s) {models}...")
-        os.system(f"bash ./nllb/download_models.sh {models}")
+        os.system(f"bash ./LASER/nllb/download_models.sh {models}")
