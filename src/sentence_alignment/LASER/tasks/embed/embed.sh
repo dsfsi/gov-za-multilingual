@@ -19,7 +19,7 @@
 # BEGIN PARAMETERS TO SET
 #############################
 # location of models (e.g. /path/to/models); no trailing slash
-model_dir=$(pwd)
+model_dir=${LASER}
 
 # version number for LASER3 models
 version=1

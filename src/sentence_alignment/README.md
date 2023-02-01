@@ -34,7 +34,7 @@ Change Line Endings For ALl .sh Files:
 
 How To Run the Script:
 ----------------------
-- Go to the following directory `src/sentence_alignment/LASER/`
+- Go to the following directory `src/sentence_alignment/`
 - Run the following command:  ```python3 main.py```
 
 Author(s):
