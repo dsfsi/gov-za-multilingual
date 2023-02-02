@@ -1,4 +1,4 @@
-Cabinet statements from the SA governemnt in multiple languages - gov-za-multilingual
+The South African gov-za-multilingual corpus
 ==============================
 About Dataset
 ---------------------
