@@ -158,17 +158,17 @@ def create_embeddings(source_lang, target_lang, lang, data, last_date):
 if __name__ == "__main__":
     # Create language mappings
     language_mappings = {
-        'en': '',
-        'af': '',
-        'nr': '',
-        'xh': 'xho_Latn',
-        'zu': 'zul_Latn',
-        'st': '',
+        'eng': '',
+        'afr': '',
+        'nbl': '',
+        'xho': 'xho_Latn',
+        'zul': 'zul_Latn',
+        'sot': '',
         'nso': 'nso_Latn',
-        'tn': 'tsn_Latn',
-        'ss': 'ssw_Latn',
-        've': '',
-        'ts': 'tso_Latn'
+        'tsn': 'tsn_Latn',
+        'ssw': 'ssw_Latn',
+        'ven': '',
+        'tso': 'tso_Latn'
     }
 
     #   Install models and all necessary files
@@ -182,6 +182,19 @@ if __name__ == "__main__":
 
     #   Create new column with the date - replaced by _
     speeches_data['date_key'] = speeches_data['date'].astype(str).str.replace('-', '_')
+
+    #   Rename the columns to match the language mappings
+    speeches_data.rename(columns={'en':'eng'}, inplace=True)
+    speeches_data.rename(columns={'af':'afr'}, inplace=True)
+    speeches_data.rename(columns={'nr':'nbl'}, inplace=True)
+    speeches_data.rename(columns={'xh':'xho'}, inplace=True)
+    speeches_data.rename(columns={'zu':'zul'}, inplace=True)
+    speeches_data.rename(columns={'st':'sot'}, inplace=True)
+    speeches_data.rename(columns={'nso':'nso'}, inplace=True)
+    speeches_data.rename(columns={'tn':'tsn'}, inplace=True)
+    speeches_data.rename(columns={'ss':'ssw'}, inplace=True)
+    speeches_data.rename(columns={'ve':'ven'}, inplace=True)
+    speeches_data.rename(columns={'ts':'tso'}, inplace=True)
 
     #    Read in the last date that embeddings were created
     with open(f"./last_date.txt", 'r') as file:
