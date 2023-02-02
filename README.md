@@ -9,12 +9,12 @@ The datasets contain government cabinet statements in 11 languages, namely:
 
 |  Language  | Code |  Language  | Code |
 |------------|------|------------|------|
-| English    | (en) | Sepedi     | (nso)|
-| Afrikaans  | (af) | Setswana   | (tn) |
-| isiNdebele | (nr) | Siswati    | (ss) |
-| isiXhosa   | (xh) | Tshivenda  | (ve) |
-| isiZulu    | (zu) | Xitstonga  | (ts) |
-| Sesotho    | (st) |
+| English    | (eng) | Sepedi     | (nso) |
+| Afrikaans  | (afr) | Setswana   | (tsn) |
+| isiNdebele | (nbl) | Siswati    | (ssw) |
+| isiXhosa   | (xho) | Tshivenda  | (ven) |
+| isiZulu    | (zul) | Xitstonga  | (tso) |
+| Sesotho    | (sot) |
 
 
 The dataset contains the full data in a JSON file (/data/govza-cabinet-statements.json), as well as CSV’s split by each language, eg: “govza-cabinet-statements-en.csv” for english.
@@ -31,7 +31,7 @@ Authors
 
 Citation
 --------
-Vukosi Marivate, Matimba Shingange, Richard Lastrucci. **Cabinet statements from the SA governemnt in multiple languages - gov-za-multilingual**, 2022
+Vukosi Marivate, Matimba Shingange, Richard Lastrucci, Isheanesu Joseph Dzingirai. **Cabinet statements from the SA governemnt in multiple languages - gov-za-multilingual**, 2022
 
 Licences
 -------

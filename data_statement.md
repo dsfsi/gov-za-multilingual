@@ -24,12 +24,12 @@ Language Variety
 All recorded cabinet statements have translations to 11 languages:
 |  Language  | Code |  Language  | Code |
 |------------|------|------------|------|
-| English    | (en) | Sepedi     | (nso)|
-| Afrikaans  | (af) | Setswana   | (tn) |
-| isiNdebele | (nr) | Siswati    | (ss) |
-| isiXhosa   | (xh) | Tshivenda  | (ve) |
-| isiZulu    | (zu) | Xitstonga  | (ts) |
-| Sesotho    | (st) |
+| English    | (eng) | Sepedi     | (nso) |
+| Afrikaans  | (afr) | Setswana   | (tsn) |
+| isiNdebele | (nbl) | Siswati    | (ssw) |
+| isiXhosa   | (xho) | Tshivenda  | (ven) |
+| isiZulu    | (zul) | Xitstonga  | (tso) |
+| Sesotho    | (sot) |
 
 Speaker demographic
 -------------------
