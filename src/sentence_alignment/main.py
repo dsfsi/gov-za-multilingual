@@ -6,6 +6,7 @@ from config import LoadConfig
 from nltk import tokenize
 from sklearn.metrics.pairwise import cosine_similarity
 from datetime import datetime
+from itertools import combinations
 
 
 
@@ -171,6 +172,10 @@ if __name__ == "__main__":
         'tso': 'tso_Latn'
     }
 
+    # Create unique 2-pairs of languages
+    languages = list(language_mappings.keys())
+    language_pairs = list(combinations(languages, 2))
+
     #   Install models and all necessary files
     config = LoadConfig()
 
@@ -201,10 +206,13 @@ if __name__ == "__main__":
         last_date = file.read()
 
     #   Create embeddings & align files
-    for (key, value) in language_mappings.items():
-        if key != 'en':
-            SRC_LANG = key
-            TRG_LANG = "en"
+    for (first_lang, second_lang) in language_pairs:
+        out_put_file = "aligned_" + first_lang + "_" + second_lang
+        csv_path = f'{DATA_PATH}/sentence_align_output/'
+
+        if first_lang != 'eng' and not os.path.exists(csv_path + "out_put_file" + ".csv"):
+            SRC_LANG = first_lang
+            TRG_LANG = second_lang
             new_date = create_embeddings(SRC_LANG, TRG_LANG, language_mappings, speeches_data, last_date)
 
             #   Do some cleaning

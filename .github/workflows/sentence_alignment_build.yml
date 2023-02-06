@@ -33,7 +33,7 @@ jobs:
 
             -   name:   Perform the sentence alignment
                 run:    |
-                    cd ./src/sentence_alignment/LASER
+                    cd ./src/sentence_alignment
                     python3 main.py
 
             -   name:   Commit and push the changes into the repository (master branch) if there are any
