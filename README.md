@@ -22,6 +22,23 @@ The dataset does not contain special characters like unicode or ascii.
 
 Please see the [data-statement.md](/data_statement.md) for full dataset information. *(TODO)*
 
+Number of Aligned Pairs with Cosine Similarity Score >= 0.65
+------------------------------------------------------------
+
+| src_lang | trg_lang | num_aligned_pairs |
+|----------|----------|-------------------|
+| afr      | eng      | 14549             |
+| nbl      | eng      | 3616              |    
+| nso      | eng      | 15257             |
+| sot      | eng      | 5212              |
+| ssw      | eng      | 15721             |
+| tsn      | eng      | 14544             |
+| tso      | eng      | 16068             |
+| ven      | eng      | 3670              |
+| xho      | eng      | 16537             |
+| zul      | eng      | 16149             |
+
+
 Authors
 -------
 - Vukosi Marivate - [@vukosi](https://twitter.com/vukosi)
