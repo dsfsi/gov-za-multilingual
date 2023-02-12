@@ -9,22 +9,18 @@ from datetime import datetime
 from itertools import combinations
 
 
-
-
-DATA_PATH = "./../../data"
-
-
+SENTENCE_ALIGN_OUTPUT_PATH = "./../../data/sentence_align_output/"
 
 
 def align_files(source_file, target_file, source_lang, target_lang, f, g):
     #   Create Paths to use to output the aligned files to
-    csv_path = f'{DATA_PATH}/sentence_align_output/'
+    csv_path = SENTENCE_ALIGN_OUTPUT_PATH
 
     if not os.path.exists(csv_path):
         os.mkdir(csv_path)
 
     used_sentences = []  # This is used keep record of indexes used as target sentences
-    df = pd.DataFrame(columns=[source_lang, target_lang, "src_text", "trg_text", "Cosine_Score"])
+    df = pd.DataFrame(columns=[source_lang, target_lang, "src_text", "trg_text", "cosine_score"])
     loop_iter = min([len(source_file), len(target_file), len(f), len(g)])
 
     for i in range(loop_iter):                          # range(len(source_file)):
@@ -44,18 +40,18 @@ def align_files(source_file, target_file, source_lang, target_lang, f, g):
 
         # Create dataframe to store sentences
         df = df.append({source_lang: source_file[i], target_lang: target_file[max_similar], 'src_text': f['text'][i],
-                        'trg_text': g['text'][max_similar], 'Cosine_Score': similarity_array[max_similar]},
+                        'trg_text': g['text'][max_similar], 'cosine_score': similarity_array[max_similar]},
                        ignore_index=True)
 
     # Output full dataframe to a csv file
     out_put_file = "aligned_" + source_lang + "_" + target_lang
+    df.columns= df.columns.str.lower()
+
 
     if os.path.exists(csv_path + out_put_file + ".csv"):
         df.to_csv(csv_path + out_put_file + ".csv", sep=',', index=False, mode='a', header=False)
     else:
         df.to_csv(csv_path + out_put_file + ".csv", sep=',', index=False)
-
-
 
 
 def get_embeddings(f, g, source_embeddings, target_embeddings, source_model, target_model):
@@ -76,8 +72,6 @@ def get_embeddings(f, g, source_embeddings, target_embeddings, source_model, tar
     return source_file_arr, target_file_arr
 
 
-
-
 def pre_process_text(input_text):
     input_text = re.sub(r'^[. ]?[\d]+[. ]', '', input_text)                     #   Remove a single/multi digit starting a line e.g. 7.
     input_text = re.sub(r'[.\] ]?[\d]+[.][\d]+[.]', '. ', input_text)           #   Replace Numbers e.g. .2.2. with period
@@ -86,8 +80,6 @@ def pre_process_text(input_text):
     input_text = re.sub(r'[.:;,\( ]+?[a-zA-Z][.\) ]', ' ', input_text)          #   Replace a period / colon / semi-colon followed by a letter with a period
     
     return input_text
-
-
 
 
 def split_sentences_characters(input_text):
@@ -101,8 +93,6 @@ def split_sentences_characters(input_text):
                 output_array.append(k)
 
     return output_array
-
-
 
 
 def create_embeddings(source_lang, target_lang, lang, data, last_date):
@@ -154,8 +144,6 @@ def create_embeddings(source_lang, target_lang, lang, data, last_date):
     return date_key
 
 
-
-
 if __name__ == "__main__":
     # Create language mappings
     language_mappings = {
@@ -183,7 +171,7 @@ if __name__ == "__main__":
     config.download_models(language_mappings)
 
     #   Get the speeches data json
-    speeches_data = pd.read_json(f"{DATA_PATH}/govza-cabinet-statements.json")
+    speeches_data = pd.read_json("./../../data/govza-cabinet-statements.json")
 
     #   Create new column with the date - replaced by _
     speeches_data['date_key'] = speeches_data['date'].astype(str).str.replace('-', '_')
@@ -208,7 +196,7 @@ if __name__ == "__main__":
     #   Create embeddings & align files
     for (first_lang, second_lang) in language_pairs:
         out_put_file = "aligned_" + first_lang + "_" + second_lang
-        csv_path = f'{DATA_PATH}/sentence_align_output/'
+        csv_path = SENTENCE_ALIGN_OUTPUT_PATH
 
         if first_lang != 'eng' and not os.path.exists(csv_path + "out_put_file" + ".csv"):
             SRC_LANG = first_lang
@@ -222,3 +210,18 @@ if __name__ == "__main__":
 
     with open(f"./last_date.txt", 'w') as file:
         file.write(new_date)
+
+    with open("filtered_data.txt", 'w') as filtered_file:
+        csv_files = os.listdir(SENTENCE_ALIGN_OUTPUT_PATH)
+        filtered_file.write("|----------|----------|-------------------|\n")
+        filtered_file.write("| src_lang | trg_lang | num_aligned_pairs |\n")
+        filtered_file.write("|----------|----------|-------------------|\n")
+
+        for csv_file in csv_files:
+            df = pd.read_csv(SENTENCE_ALIGN_OUTPUT_PATH + csv_file)
+            df = df[df["cosine_score"] >= 0.65]
+            strip_file_name = re.split("[_.]", csv_file)
+
+            filtered_file.write("|" + " " + strip_file_name[1] +" " * 5 + " " + "|" + " " + strip_file_name[2] + " " * 5 + " " + "|" + " " + str(len(df)) + " " * (17 - len(str(len(df)))) + " " + "|\n")
+    
+        filtered_file.write("|----------|----------|-------------------|\n")
