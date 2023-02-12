@@ -198,7 +198,7 @@ if __name__ == "__main__":
         out_put_file = "aligned_" + first_lang + "_" + second_lang
         csv_path = SENTENCE_ALIGN_OUTPUT_PATH
 
-        if first_lang != 'eng' and not os.path.exists(csv_path + "out_put_file" + ".csv"):
+        if first_lang != 'eng':
             SRC_LANG = first_lang
             TRG_LANG = second_lang
             new_date = create_embeddings(SRC_LANG, TRG_LANG, language_mappings, speeches_data, last_date)
@@ -208,9 +208,12 @@ if __name__ == "__main__":
             os.system(f'rm *_emb')                              #   Remove all embeddings files in current directory
             os.system(f'rm ./content/sample_data/*.txt')        #   Remove all csv files in current directory
 
+
+    #   Write the new date to the file
     with open(f"./last_date.txt", 'w') as file:
         file.write(new_date)
 
+    #   Create a table with the number of aligned pairs
     with open("filtered_data.txt", 'w') as filtered_file:
         csv_files = os.listdir(SENTENCE_ALIGN_OUTPUT_PATH)
         filtered_file.write("|----------|----------|-------------------|\n")
