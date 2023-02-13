@@ -1,5 +1,8 @@
-The South African gov-za-multilingual corpus
+The South African Gov-ZA multilingual corpus
 ==============================
+Github: https://github.com/dsfsi/gov-za-multilingual
+Zenodo: 
+
 About Dataset
 ---------------------
 The data set contains cabinet statements from the South African government. Data was scraped from the governments website:
@@ -90,10 +93,11 @@ Authors
 - Matimba Shingange
 - Richard Lastrucci
 - Isheanesu Joseph Dzingirai
+- Jenalea Rajab
 
 Citation
 --------
-Vukosi Marivate, Matimba Shingange, Richard Lastrucci, Isheanesu Joseph Dzingirai. **Cabinet statements from the SA governemnt in multiple languages - gov-za-multilingual**, 2022
+Vukosi Marivate, Matimba Shingange, Richard Lastrucci, Isheanesu Joseph Dzingirai, Jenalea Rajab. **The South African Gov-ZA multilingual corpus**, 2022
 
 Licences
 -------
