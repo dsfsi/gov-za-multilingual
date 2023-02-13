@@ -20,7 +20,7 @@ def align_files(source_file, target_file, source_lang, target_lang, f, g):
         os.mkdir(csv_path)
 
     used_sentences = []  # This is used keep record of indexes used as target sentences
-    df = pd.DataFrame(columns=[source_lang, target_lang, "src_text", "trg_text", "cosine_score"])
+    df = pd.DataFrame(columns=["src_text", "trg_text", "cosine_score"])
     loop_iter = min([len(source_file), len(target_file), len(f), len(g)])
 
     for i in range(loop_iter):                          # range(len(source_file)):
@@ -39,9 +39,7 @@ def align_files(source_file, target_file, source_lang, target_lang, f, g):
         used_sentences.append(max_similar)
 
         # Create dataframe to store sentences
-        df = df.append({source_lang: source_file[i], target_lang: target_file[max_similar], 'src_text': f['text'][i],
-                        'trg_text': g['text'][max_similar], 'cosine_score': similarity_array[max_similar]},
-                       ignore_index=True)
+        df = df.append({'src_text': f['text'][i], 'trg_text': g['text'][max_similar], 'cosine_score': similarity_array[max_similar]}, ignore_index=True)
 
     # Output full dataframe to a csv file
     out_put_file = "aligned_" + source_lang + "_" + target_lang
