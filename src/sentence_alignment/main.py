@@ -214,10 +214,12 @@ if __name__ == "__main__":
     #   Create a table with the number of aligned pairs
     with open("filtered_data.txt", 'w') as filtered_file:
         csv_files = os.listdir(SENTENCE_ALIGN_OUTPUT_PATH)
+        csv_files.sort()
+
         filtered_file.write("|----------|----------|-------------------|\n")
         filtered_file.write("| src_lang | trg_lang | num_aligned_pairs |\n")
         filtered_file.write("|----------|----------|-------------------|\n")
-
+        
         for csv_file in csv_files:
             df = pd.read_csv(SENTENCE_ALIGN_OUTPUT_PATH + csv_file)
             df = df[df["cosine_score"] >= 0.65]
