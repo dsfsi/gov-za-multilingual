@@ -1,7 +1,7 @@
-Data statement for Cabinet Statements from the SA Gov in multiple languages
+Data statement for Cabinet Statements from The South African Gov-ZA multilingual corpus
 ===========================================================================
 
-**Dataset Name:** Cabinet Statements from the SA Gov in multiple languages
+**Dataset Name:** The South African Gov-ZA multilingual corpus
 
 **Citation:** Vukosi Marivate, Matimba Shingange, Richard Lastrucci. Cabinet statements from the SA governemnt in multiple languages
 
