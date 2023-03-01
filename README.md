@@ -1,7 +1,8 @@
 The South African Gov-ZA multilingual corpus
 ==============================
 Github: https://github.com/dsfsi/gov-za-multilingual
-Zenodo: 
+Zenodo: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7635167.svg)](https://doi.org/10.5281/zenodo.7635167)
+
 
 About Dataset
 ---------------------
