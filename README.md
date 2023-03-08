@@ -1,8 +1,10 @@
 The South African Gov-ZA multilingual corpus
 ==============================
 Github: https://github.com/dsfsi/gov-za-multilingual
+
 Zenodo: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7635167.svg)](https://doi.org/10.5281/zenodo.7635167)
 
+Arxiv Preprint: [![arXiv](https://img.shields.io/badge/arXiv-2303.03750-b31b1b.svg)](https://arxiv.org/abs/2303.03750)
 
 About Dataset
 ---------------------
@@ -98,7 +100,36 @@ Authors
 
 Citation
 --------
+Preprint/Paper
+
+[Preparing the Vuk'uzenzele and ZA-gov-multilingual South African  multilingual corpora](https://arxiv.org/pdf/2303.03750)
+
+> @article{lastrucci2023preparing,
+  title   = {Preparing the Vuk'uzenzele and ZA-gov-multilingual South African multilingual corpora},
+  author  = {Richard Lastrucci and Isheanesu Dzingirai and Jenalea Rajab and Andani Madodonga and Matimba Shingange and Daniel Njini and Vukosi Marivate},
+  year    = {2023},
+  journal = {arXiv preprint arXiv: Arxiv-2303.03750}
+}
+
+Dataset
+
 Vukosi Marivate, Matimba Shingange, Richard Lastrucci, Isheanesu Joseph Dzingirai, Jenalea Rajab. **The South African Gov-ZA multilingual corpus**, 2022
+
+> @dataset{marivate_vukosi_2023_7635168,
+  author       = {Marivate, Vukosi and
+                  Shingange, Matimba and
+                  Lastrucci, Richard and
+                  Dzingirai, Isheanesu and
+                  Rajab, Jenalea},
+  title        = {The South African Gov-ZA multilingual corpus},
+  month        = feb,
+  year         = 2023,
+  publisher    = {Zenodo},
+  version      = {1.0},
+  doi          = {10.5281/zenodo.7635168},
+  url          = {https://doi.org/10.5281/zenodo.7635168}
+}
+
 
 Licences
 -------
