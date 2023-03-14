@@ -6,6 +6,8 @@ Zenodo: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7635167.svg)](https:
 
 Arxiv Preprint: [![arXiv](https://img.shields.io/badge/arXiv-2303.03750-b31b1b.svg)](https://arxiv.org/abs/2303.03750)
 
+View main dataset on [Datasette](https://lite.datasette.io/?json=https%3A%2F%2Fraw.githubusercontent.com%2Fdsfsi%2Fgov-za-multilingual%2Fmaster%2Fdata%2Fgovza-cabinet-statements.json)
+
 About Dataset
 ---------------------
 The data set contains cabinet statements from the South African government. Data was scraped from the governments website:
