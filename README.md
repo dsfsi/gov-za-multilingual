@@ -10,7 +10,7 @@ View main dataset on [Datasette](https://lite.datasette.io/?json=https%3A%2F%2Fr
 
 About Dataset
 ---------------------
-The data set contains cabinet statements from the South African government. Data was scraped from the governments website:
+The data set contains cabinet statements from the South African government, maintained by the [Government Communication and Information System (GCIS)](https://www.gcis.gov.za/). Data was scraped from the governments website:
 https://www.gov.za/cabinet-statements
 
 The datasets contain government cabinet statements in 11 languages, namely:
