@@ -135,5 +135,5 @@ Vukosi Marivate, Matimba Shingange, Richard Lastrucci, Isheanesu Joseph Dzingira
 
 Licences
 -------
-* License for Data - [CC 4.0 BY SA](LICENSE_data.md)
+* License for Data - [CC 4.0 BY](LICENSE_data.md)
 * Licence for Code - [MIT License](LICENSE)
