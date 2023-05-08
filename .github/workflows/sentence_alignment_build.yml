@@ -5,6 +5,7 @@ on:
         workflows: ['fetch and update cabinent statements']
         types:
             - completed
+    workflow_dispatch:
 
 jobs:
     SentenceAlignment:
