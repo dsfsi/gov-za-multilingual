@@ -36,7 +36,7 @@ def align_files(source_file, target_file, source_lang, target_lang, f, g):
                 similarity_array[j] = sim_score[0][0]
 
         max_similar = max(similarity_array, key=similarity_array.get, default=0)
-        used_sentences = pd.concat([used_sentences, max_similar])
+        used_sentences.append(max_similar)
 
         # Create dataframe to store sentences
         temp = {'src_text': f['text'][i], 'trg_text': g['text'][max_similar], 'cosine_score': similarity_array[max_similar]}
