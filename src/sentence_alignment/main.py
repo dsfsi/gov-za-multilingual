@@ -39,7 +39,7 @@ def align_files(source_file, target_file, source_lang, target_lang, f, g):
         used_sentences.append(max_similar)
 
         # Create dataframe to store sentences
-        temp = pd.DataFrame.from_dict({'src_text': f['text'][i], 'trg_text': g['text'][max_similar], 'cosine_score': similarity_array[max_similar]})
+        temp = pd.DataFrame.from_dict([{'src_text': f['text'][i], 'trg_text': g['text'][max_similar], 'cosine_score': similarity_array[max_similar]}])
         df = pd.concat([df, temp], ignore_index=True)
 
     # Output full dataframe to a csv file
