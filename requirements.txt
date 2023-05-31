@@ -1,6 +1,6 @@
 beautifulsoup4
 numpy
-pandas
+pandas==2.0.2
 soupsieve
 
 faiss-cpu
