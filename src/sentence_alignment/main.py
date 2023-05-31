@@ -36,11 +36,11 @@ def align_files(source_file, target_file, source_lang, target_lang, f, g):
                 similarity_array[j] = sim_score[0][0]
 
         max_similar = max(similarity_array, key=similarity_array.get, default=0)
-        used_sentences = pd.concat(used_sentences, max_similar)
+        used_sentences = pd.concat([used_sentences, max_similar])
 
         # Create dataframe to store sentences
         temp = {'src_text': f['text'][i], 'trg_text': g['text'][max_similar], 'cosine_score': similarity_array[max_similar]}
-        df = pd.concat(df, temp, ignore_index=True)
+        df = pd.concat([df, temp], ignore_index=True)
 
     # Output full dataframe to a csv file
     out_put_file = "aligned_" + source_lang + "_" + target_lang
@@ -89,7 +89,7 @@ def split_sentences_characters(input_text):
         for j in text:
             text = re.split('#n#', j)
             for k in text:
-                output_array = pd.concat(output_array, k)
+                output_array.append(k)
 
     return output_array
 
