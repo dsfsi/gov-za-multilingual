@@ -1,5 +1,8 @@
 The South African Gov-ZA multilingual corpus
 ==============================
+
+[![Automated Sentence Alignment of Cabinet Speeches CI](https://github.com/dsfsi/gov-za-multilingual/actions/workflows/sentence_alignment_build.yml/badge.svg)](https://github.com/dsfsi/gov-za-multilingual/actions/workflows/sentence_alignment_build.yml)
+
 Github: https://github.com/dsfsi/gov-za-multilingual
 
 Zenodo: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7635167.svg)](https://doi.org/10.5281/zenodo.7635167)
