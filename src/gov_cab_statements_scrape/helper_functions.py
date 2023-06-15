@@ -75,7 +75,7 @@ def check_translations(url): #build dictonary of translation urls
     page = urlopen(req)
     doc = BeautifulSoup(page, 'html.parser')
 
-    title = re.sub("[^\u0000-\u007F]+", " ",(doc.find('h1', class_='title').text))
+    title = (doc.find('h1', class_='title').text)
     translations = doc.find('section', id="block-locale-language") 
     if translations != None:
         trans_elements = translations.find_all('li')
@@ -101,7 +101,7 @@ def extract_translations(url):
     if len(trans_urls) > 0:
         print("Extracting...")
         statement = {}
-        statement['title'] = re.sub("[^\u0000-\u007F]+", " ",(doc.find('h1', class_='title').text))
+        statement['title'] = (doc.find('h1', class_='title').text)
         statement['date'] = doc.find('span', class_='date-display-single').text
         statement['datetime'] = doc.find('span', class_='date-display-single')['content']
         statement['url'] = url
@@ -109,11 +109,8 @@ def extract_translations(url):
             req_trans = Request(trans['url'])
             page_trans = urlopen(req_trans)
             doc_trans = BeautifulSoup(page_trans, 'html.parser')
-            title_trans = re.sub("[^\u0000-\u007F]+", " ", doc_trans.find('h1', class_='title').text)
-            text_trans = re.sub(
-                "[^\u0000-\u007F]+", 
-                " ",
-                doc_trans.find('div',class_='field field-name-body field-type-text-with-summary field-label-hidden').text.replace('\xa0',' '))
+            title_trans = doc_trans.find('h1', class_='title').text
+            text_trans = doc_trans.find('div',class_='field field-name-body field-type-text-with-summary field-label-hidden').text.replace('\xa0',' ')
             statement[trans['lang']] = {'text':text_trans, 'title':title_trans, 'url': trans['url']}
         print ("Extracted: " + statement['title']) 
         return statement
