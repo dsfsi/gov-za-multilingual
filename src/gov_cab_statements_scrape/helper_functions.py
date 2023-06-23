@@ -1,3 +1,4 @@
+import datetime
 import json, re, os
 import pandas as pd
 from bs4 import BeautifulSoup
@@ -103,7 +104,7 @@ def extract_translations(url):
         statement = {}
         statement['title'] = (doc.find('h1', class_='title').text)
         statement['date'] = doc.find('span', class_='date-display-single').text
-        statement['datetime'] = doc.find('span', class_='date-display-single')['content']
+        statement['datetime'] = doc.find('span', class_='date-display-single')['content'][0:10]
         statement['url'] = url
         for trans in trans_urls:
             req_trans = Request(trans['url'])
@@ -114,3 +115,4 @@ def extract_translations(url):
             statement[trans['lang']] = {'text':text_trans, 'title':title_trans, 'url': trans['url']}
         print ("Extracted: " + statement['title']) 
         return statement
+    
