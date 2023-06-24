@@ -2,13 +2,13 @@ import os, subprocess, nltk
 from pathlib import Path
 
 
-laser_path = Path(Path(os.path.abspath(__file__)).parent / 'LASER') # path to LASER module
+LASER_PATH = Path(Path(os.path.abspath(__file__)).parent / 'LASER') # path to LASER module
 
 def set_environ_var():
     """
     ### Sets enviroment variables for use within the LASER module
     """
-    os.environ['LASER'] = str(laser_path)
+    os.environ['LASER'] = str(LASER_PATH)
     os.environ['LC_ALL']='C.UTF-8'
     os.environ['LANG']='C.UTF-8'
 
@@ -17,16 +17,16 @@ def setup_laser():
     ### Downloads configs for LASER repo
     """
     print('Setting Up LASER module...')
-    if (os.path.exists(f'{laser_path}/models')):
+    if (os.path.exists(f'{LASER_PATH}/models')):
         print('LASER/models dir found, skipping installation, delete folders for and run script again for fresh installation')
     else: 
-        command = f'bash {laser_path}/install_models.sh'
+        command = f'bash {LASER_PATH}/install_models.sh'
         subprocess.run(command, shell=True)
         
-    if (os.path.exists(f'{laser_path}/tools-external')):
+    if (os.path.exists(f'{LASER_PATH}/tools-external')):
         print('LASER/tools-external dir found, skipping installation, delete folders for and run script again for fresh installation')
     else: 
-        command = f'bash {laser_path}/install_external_tools.sh'
+        command = f'bash {LASER_PATH}/install_external_tools.sh'
         subprocess.run(command, shell=True)
     print('LASER module configured.')
 
@@ -38,7 +38,7 @@ def download_laser_models(lang_mappings):
         -   lang_mappings: a dictionary mapping langs to LASER models, eg. 'xho -> xho_Latn`. (dict)
     """
     print('Downloading LASER models...')
-    command = f'bash {laser_path}/nllb/download_models.sh'
+    command = f'bash {LASER_PATH}/nllb/download_models.sh'
     for _,val in lang_mappings.items():
         command = "{} {}".format(command, val)
     subprocess.run(command, shell=True)

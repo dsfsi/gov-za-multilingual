@@ -1,5 +1,8 @@
+from itertools import combinations
 import file_handler as f
+import sentence_embed as se
 import sentence_align as sa
+import config as c
 
 lang_map = {
     "af" : "afr",
@@ -21,7 +24,7 @@ lang_model_map = {
     "nbl" : "",
     "nso" : "nso_Latn",
     "sot" : "sot_Latn",
-    "sse" : "ssw_Latn",
+    "ssw" : "ssw_Latn",
     "tsn" : "tsn_Latn",
     "tso" : "tso_Latn",
     "ven" : "",
@@ -31,20 +34,34 @@ lang_model_map = {
 
 
 if __name__ == "__main__":
-    lastdate = f.extract_latest_edition();
+    lastdate = f.extract_latest_edition()
     cab_statements = f.read_JSON_file()
 
+    # add check to see if config is necessary (latest_date == last_date)
+
+    c.set_environ_var()
+    c.setup_laser()
+    c.download_laser_models(lang_model_map)
+    c.download_tokeniser()
+
+    
+    # for statement in cab_statements:
+    #     if statement["datetime"] >= lastdate:
+    #         print(statement["datetime"] + " // "  + lastdate)
+    #         for k in lang_map.keys(): 
+    #             tokens = sa.tokenise(statement[k]["text"])
+    #             date = statement["datetime"]
+    #             f.write_tokens_to_file(date, lang_map[k], tokens)
+    #             se.encode_sentence_tokens(date, lang_map[k], lang_model_map[lang_map[k]])
+
+
+    langs = lang_model_map.keys()
+    lang_pairs = list(combinations(langs, 2))
+
     for statement in cab_statements:
-
-        if statement["datetime"] >= lastdate:
-            print(statement["datetime"] + " // "  + lastdate)
-            for k in lang_map.keys(): 
-                tokens = sa.tokenise(statement[k]["text"])
-                date = statement["datetime"]
-                f.write_tokens_to_file(date, lang_map[k], tokens)
-                # f.encode_sentence_tokens(date, lang_map[k], lang_model_map[lang_map[k]])
-            
-
+        for (src_lang, tgt_lang) in lang_pairs:
+            if statement["datetime"] >= lastdate:
+                sa.sentence_alignment(src_lang, tgt_lang, statement["datetime"])
 
 
 # import re
