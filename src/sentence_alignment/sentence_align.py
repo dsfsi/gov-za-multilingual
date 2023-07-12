@@ -6,10 +6,20 @@ from file_handler import get_tokens, append_to_csv
 from sentence_embed import decode_sentences
 
 def tokenise(text): # -> str
+  output_array = []
   text = pre_process_text(text) # clean data
-  return nltk.tokenize.sent_tokenize(text) #tokenise data
+  text = nltk.tokenize.sent_tokenize(text) #tokenise data
+  for i in text:
+    text = re.split('\s{2,}',i)
+    for j in text:
+      text = re.split('#n#',j)
+      for k in text:
+        output_array.append(k)
+
+  return output_array
 
 def pre_process_text(input_text):
+  input_text = input_text.replace("\n", "").replace("\r", "")
   input_text = re.sub(r'^[. ]?[\d]+[. ]', '', input_text)                     #   Remove a single/multi digit starting a line e.g. 7.
   input_text = re.sub(r'[.\] ]?[\d]+[.][\d]+[.]', '. ', input_text)           #   Replace Numbers e.g. .2.2. with period
   input_text = re.sub(r'[.\] ]?[\d]+[.]', '. ', input_text)                   #   Replace Numbers e.g. .2. with period

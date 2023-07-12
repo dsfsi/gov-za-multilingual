@@ -45,14 +45,14 @@ if __name__ == "__main__":
     c.download_tokeniser()
 
     
-    # for statement in cab_statements:
-    #     if statement["datetime"] >= lastdate:
-    #         print(statement["datetime"] + " // "  + lastdate)
-    #         for k in lang_map.keys(): 
-    #             tokens = sa.tokenise(statement[k]["text"])
-    #             date = statement["datetime"]
-    #             f.write_tokens_to_file(date, lang_map[k], tokens)
-    #             se.encode_sentence_tokens(date, lang_map[k], lang_model_map[lang_map[k]])
+    for statement in cab_statements:
+        if statement["datetime"] >= lastdate:
+            print(statement["datetime"] + " // "  + lastdate)
+            for k in lang_map.keys(): 
+                tokens = sa.tokenise(statement[k]["text"])
+                date = statement["datetime"]
+                f.write_tokens_to_file(date, lang_map[k], tokens)
+                se.encode_sentence_tokens(date, lang_map[k], lang_model_map[lang_map[k]])
 
 
     langs = lang_model_map.keys()
