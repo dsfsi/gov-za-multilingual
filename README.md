@@ -94,6 +94,9 @@ Number of Aligned Pairs with Cosine Similarity Score >= 0.65
 |   nbl    | tsn      | 3369              |
 |   tsn    | ven      | 3267              |
 
+Disclaimer
+-------
+This dataset contains machine-readable data extracted from online cabinet statements from the South African government, provided by the Government Communication Information System (GCIS). While efforts were made to ensure the accuracy and completeness of this data, there may be errors or discrepancies between the original publications and this dataset. No warranties, guarantees or representations are given in relation to the information contained in the dataset. The members of the Data Science for Societal Impact Research Group bear no responsibility and/or liability for any such errors or discrepancies in this dataset. The Government Communication Information System (GCIS) bears no responsibility and/or liability for any such errors or discrepancies in this dataset. It is recommended that users verify all information contained herein before making decisions based upon this information.
 
 Authors
 -------
