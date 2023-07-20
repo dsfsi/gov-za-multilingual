@@ -8,6 +8,7 @@ JSON_PATH = Path(ROOT_PATH / "data" / "govza-cabinet-statements.json")
 TOKEN_PATH = Path(ROOT_PATH / "data" / "tokenised")
 EMBED_PATH = Path(ROOT_PATH / "data" / "embed")
 OUT_CSV_PATH = Path(ROOT_PATH / "data" / "opt_aligned_out")
+RAW_PATH = Path(ROOT_PATH / "data" / "raw")
 
 def extract_latest_edition():
     """
@@ -38,6 +39,17 @@ def read_JSON_file():
         return data
     except:
         return []
+    
+def write_raw_to_file(date, lang, text):
+    if not os.path.exists(RAW_PATH / date):
+        os.makedirs(RAW_PATH / date)
+
+    path = Path(RAW_PATH / date / "{}_{}.txt".format(date, lang))
+
+    f = open(path, "w")
+    f.write("{}\n".format(text))
+
+    
     
 def write_tokens_to_file(date, lang, tokens):
     if not os.path.exists(TOKEN_PATH / date):
