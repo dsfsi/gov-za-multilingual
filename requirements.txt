@@ -9,3 +9,4 @@ transliterate
 tabulate
 scikit-learn
 nltk
+urlextract

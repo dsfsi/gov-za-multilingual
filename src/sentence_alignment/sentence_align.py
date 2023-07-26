@@ -30,6 +30,9 @@ def remove_urls(input_text):
 def fix_person_titles(lang, input_text): 
   if lang == "afr":
     input_text = re.sub(r'Mnr.', 'Mnr', input_text)
+    input_text = re.sub(r'Me.', 'Me', input_text)
+    input_text = re.sub(r'Adv.', 'Adv', input_text)
+    input_text = re.sub(r'mnr.', 'mnr', input_text)
     input_text = re.sub(r'Meneer.', 'Meneer', input_text)
     input_text = re.sub(r'Prof.', 'Prof', input_text)
     input_text = re.sub(r'Wetnr.', 'Wetnr', input_text)
@@ -47,6 +50,8 @@ def fix_person_titles(lang, input_text):
   elif lang == "nso":
     pass
   elif lang == "ssw":
+    input_text = re.sub(r'Umnu.', 'Umnu', input_text)
+    input_text = re.sub(r'Mk.', 'Mk', input_text)
     input_text = re.sub(r'KuMnu.', 'KuMnu', input_text)
     input_text = re.sub(r'Mnu.', 'Mnu', input_text)
     input_text = re.sub(r'noPhrof.', 'noPhrof', input_text)
@@ -79,6 +84,8 @@ def pre_process_text(lang, input_text):
   input_text = re.sub(r'[A-Z]\.\s', '', input_text)
   input_text = re.sub(r'([A-z]\.)([A-z])', r'\1 \2', input_text)
   input_text = re.sub(r'<}0{>', ' ', input_text)
+  input_text = re.sub(r'\([a-z]\)', '', input_text)
+  input_text = re.sub('\;', '', input_text)
   input_text = fix_person_titles(lang,  input_text)
     
   return input_text
