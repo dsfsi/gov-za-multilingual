@@ -2,6 +2,7 @@ from itertools import combinations
 import file_handler as f
 import sentence_embed as se
 import sentence_align as sa
+import sentence_tokenise as st
 import config as c
 
 lang_map = {
@@ -49,22 +50,22 @@ if __name__ == "__main__":
         if statement["datetime"] >= lastdate:
             print(statement["datetime"] + " // "  + lastdate)
             for k in lang_map.keys(): 
-                tokens = sa.tokenise(lang_map[k], statement[k]["text"])
+                tokens = st.tokenise(lang_map[k], statement[k]["text"])
                 date = statement["datetime"]
-                processed = sa.pre_process_text(lang_map[k],statement[k]["text"])
+                processed = st.pre_process_text(lang_map[k],statement[k]["text"])
                 # f.write_raw_to_file(date, lang_map[k], statement[k]["text"])
                 # f.write_raw_to_file('{}_processed'.format(date), lang_map[k], processed)
                 f.write_tokens_to_file(date, lang_map[k], tokens)
-                se.encode_sentence_tokens(date, lang_map[k], lang_model_map[lang_map[k]])
+    #             se.encode_sentence_tokens(date, lang_map[k], lang_model_map[lang_map[k]])
 
 
     # langs = lang_model_map.keys()
     # lang_pairs = list(combinations(langs, 2))
 
     # for statement in cab_statements:
-        # for (src_lang, tgt_lang) in lang_pairs:
-            # if statement["datetime"] >= lastdate:
-                # sa.sentence_alignment(src_lang, tgt_lang, statement["datetime"])
+    #     for (src_lang, tgt_lang) in lang_pairs:
+    #         if statement["datetime"] >= lastdate:
+    #             sa.sentence_alignment(src_lang, tgt_lang, statement["datetime"])
 
 
 # import re

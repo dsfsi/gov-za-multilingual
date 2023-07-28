@@ -1,87 +1,9 @@
 
 from sklearn.metrics.pairwise import cosine_similarity
-import nltk, re
 
 from file_handler import get_tokens, append_to_csv
+# from sentence_tokenise import 
 from sentence_embed import decode_sentences
-
-from urlextract import URLExtract
-
-def tokenise(lang, text): # -> str
-  output_array = []
-  text = pre_process_text(lang, text) # clean data
-  text = nltk.tokenize.sent_tokenize(text) #tokenise data
-  for i in text:
-    text = re.split('\s{2,}',i)
-    for j in text:
-      text = re.split('#n#',j)
-      for k in text:
-        output_array.append(k)
-
-  return output_array
-
-def remove_urls(input_text): 
-  extractor = URLExtract()
-  urls = extractor.find_urls(input_text)
-  for url in urls:
-    input_text = re.sub(url, 'WEBTOKEN', input_text) 
-  return input_text
-
-def fix_person_titles(lang, input_text): 
-  if lang == "afr":
-    input_text = re.sub(r'Mnr.', 'Mnr', input_text)
-    input_text = re.sub(r'Meneer.', 'Meneer', input_text)
-    input_text = re.sub(r'Prof.', 'Prof', input_text)
-    input_text = re.sub(r'Wetnr.', 'Wetnr', input_text)
-  elif lang == "eng":
-    input_text = re.sub(r'Mnr.', 'Mnr', input_text)
-    input_text = re.sub(r'Meneer.', 'Meneer', input_text)
-    input_text = re.sub(r'Prof.', 'Prof', input_text)
-  elif lang == "nbl":
-    input_text = re.sub(r'kuNom.', 'KuNom.', input_text)
-    input_text = re.sub(r'KuNom.', 'KuNom', input_text)
-    input_text = re.sub(r'UDorh.', 'UDorh', input_text)
-    input_text = re.sub(r'UMm.', 'UMm', input_text)
-    input_text = re.sub(r'UNom.', 'UNom', input_text)
-    input_text = re.sub(r'noPhrof.', 'noPhrof', input_text)
-  elif lang == "nso":
-    pass
-  elif lang == "ssw":
-    input_text = re.sub(r'KuMnu.', 'KuMnu', input_text)
-    input_text = re.sub(r'Mnu.', 'Mnu', input_text)
-    input_text = re.sub(r'noPhrof.', 'noPhrof', input_text)
-  elif lang == "sot":
-    pass
-  elif lang == "tsn":
-    pass
-  elif lang == "tso":
-    pass
-  elif lang == "ven":
-    pass
-  elif lang == "xho":
-    pass
-  elif lang == "zul":
-    pass
-  return input_text
-
-def pre_process_text(lang, input_text):
-  input_text = re.sub(r'\s{2,}', ' ', input_text) # Replace more than 2 spaces with a single space
-  input_text = re.sub(r'(\d{4})(\d)', r'\1.\2', input_text) # Adds a full stop in between a year and a section number 20237.1 > 2023.7.1
-  input_text = re.sub(r'\.\d{1,2}\.\d{1,2}\.', '.', input_text) 
-  input_text = re.sub(r'\s\d{1,2}\.\d\s', ' ', input_text)
-  input_text = re.sub(r'\s\d{1,2}\.\d{1,2}\.\s', ' ', input_text)
-  input_text = re.sub(r'\d{1,2}\.\d{1,2}\.', ' ', input_text)
-  input_text = re.sub(r'\.\d{1,2}\.', '.', input_text)
-  input_text = remove_urls(input_text)
-  input_text = re.sub(r'[\w.+-]+@[\w-]+\.[\w.-]+', 'EMAILTOKEN', input_text) # Remove Email
-  input_text = re.sub(r'\s\d{1,2}\.\s', '.', input_text)
-  input_text = re.sub(r'([A-z])(\d{1,2}\.)', r'\1.', input_text)
-  input_text = re.sub(r'[A-Z]\.\s', '', input_text)
-  input_text = re.sub(r'([A-z]\.)([A-z])', r'\1 \2', input_text)
-  input_text = re.sub(r'<}0{>', ' ', input_text)
-  input_text = fix_person_titles(lang,  input_text)
-    
-  return input_text
 
 def cosine_score(src, tgt):
   return cosine_similarity(src.reshape(1,-1), tgt.reshape(1,-1))[0][0]
