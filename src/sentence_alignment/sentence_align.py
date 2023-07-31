@@ -86,54 +86,53 @@ def pre_process_text(lang, input_text):
 def cosine_score(src, tgt):
   return cosine_similarity(src.reshape(1,-1), tgt.reshape(1,-1))[0][0]
 
-def sentence_alignment(src, tgt, date):
-  src_tokens = get_tokens(date, src)
-  tgt_tokens = get_tokens(date, tgt)
-  src_vectors_orig = decode_sentences(date, src)
-  tgt_vectors_orig = decode_sentences(date, tgt)
+# def sentence_alignment(src, tgt, date):
+#   src_tokens = get_tokens(date, src)
+#   tgt_tokens = get_tokens(date, tgt)
+#   src_vectors_orig = decode_sentences(date, src)
+#   tgt_vectors_orig = decode_sentences(date, tgt)
 
-  unaligned_src_sentences = []
-  (k,l) = (0,10)
-  tgt_vectors = tgt_vectors_orig.copy()
-  src_vectors = src_vectors_orig.copy()
+#   (k,l) = (0,10)
+#   tgt_vectors = tgt_vectors_orig.copy()
+#   src_vectors = src_vectors_orig.copy()
   
-  for i, vector in enumerate(src_vectors_orig):
-    # print(src_tokens[0], tgt_tokens[0])
+#   for i, vector in enumerate(src_vectors_orig):
+#     # print(src_tokens[0], tgt_tokens[0])
 
-    candidates = get_tgt_vector_canditates(tgt_vectors_orig, k, l)
-    tgt_info = max_sentence(0.9, vector, candidates)
+#     candidates = get_tgt_vector_canditates(tgt_vectors_orig, k, l)
+#     tgt_info = max_sentence(0.9, vector, candidates)
 
-    if tgt_info == None:
-      unaligned_src_sentences.append(src)
-      (k,l) = (k,l+1)
-      continue
-    else:
-      tgt_i = tgt_info["index"]
-      print("ITERATAION\n")
-      print( "src : {}".format(src_tokens[i]))
-      print( "tgt : {}".format(tgt_tokens[tgt_i]))
-      print( "(k,l) : {}".format((k,l)))
-      print( "i : {}".format(tgt_i))
-      print()
-      src_sentence =src_tokens[tgt_i]
-      tgt_sentence =tgt_tokens[tgt_i]
-      tgt_vectors = remove_element_at_index(tgt_vectors, tgt_i)
-      # src_vectors = remove_element_at_index(src_vectors, i)
-      tgt_tokens = remove_element_at_index(tgt_tokens, tgt_i)
-      # src_tokens = remove_element_at_index(src_tokens, i)
-      if l == len(tgt_vectors)-1:
-         (k,l) = (k,l-1)
-      aligned_sentences.append(  {
-          "src" : src_sentence,
-          "tgt" : tgt_sentence,
-          "score" : tgt_info["score"]
-        }
-      )
-      if l > 10:
-         (k,l) = (k,l-1)
+#     if tgt_info == None:
+#       unaligned_src_sentences.append(src)
+#       (k,l) = (k,l+1)
+#       continue
+#     else:
+#       tgt_i = tgt_info["index"]
+#       print("ITERATAION\n")
+#       print( "src : {}".format(src_tokens[i]))
+#       print( "tgt : {}".format(tgt_tokens[tgt_i]))
+#       print( "(k,l) : {}".format((k,l)))
+#       print( "i : {}".format(tgt_i))
+#       print()
+#       src_sentence =src_tokens[tgt_i]
+#       tgt_sentence =tgt_tokens[tgt_i]
+#       tgt_vectors = remove_element_at_index(tgt_vectors, tgt_i)
+#       # src_vectors = remove_element_at_index(src_vectors, i)
+#       tgt_tokens = remove_element_at_index(tgt_tokens, tgt_i)
+#       # src_tokens = remove_element_at_index(src_tokens, i)
+#       if l == len(tgt_vectors)-1:
+#          (k,l) = (k,l-1)
+#       aligned_sentences.append(  {
+#           "src" : src_sentence,
+#           "tgt" : tgt_sentence,
+#           "score" : tgt_info["score"]
+#         }
+#       )
+#       if l > 10:
+#          (k,l) = (k,l-1)
 
 
-  return aligned_sentences
+#   return aligned_sentences
 
     
 
