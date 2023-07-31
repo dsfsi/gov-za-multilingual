@@ -92,35 +92,109 @@ def sentence_alignment(src, tgt, date):
   src_vector = decode_sentences(date, src)
   tgt_vector = decode_sentences(date, tgt)
 
-  used_sentences = []
-  loop_iter = min(len(src_tokens),len(src_vector), len(tgt_tokens), len(tgt_vector))
+  (k,l) = (0,10)
+  tgt_vectors = tgt_vectors_orig.copy()
+  src_vectors = src_vectors_orig.copy()
   
-  src_sentences=[]
-  tgt_sentences=[]
-  cosine_scores=[]
+  for i, vector in enumerate(src_vectors_orig):
+    # print(src_tokens[0], tgt_tokens[0])
 
-  for i in range(loop_iter):
-    similarity_dict = {}
-    for j in range(loop_iter-1):
-      if j in used_sentences:
-        continue
-      else:
-        src_embed = src_vector[i]
-        tgt_embed = tgt_vector[i]
-        sim_score = cosine_score(src_embed, tgt_embed)
-        similarity_dict[j]= sim_score
+    candidates = get_tgt_vector_canditates(tgt_vectors_orig, k, l)
+    tgt_info = max_sentence(0.9, vector, candidates)
 
-    max_similar = max(similarity_dict, key = similarity_dict.get, default=0)
-    used_sentences.append(max_similar)
-
-    if max_similar == 0:
+    if tgt_info == None:
+      unaligned_src_sentences.append(src)
+      (k,l) = (k,l+1)
       continue
-    tgt_sentences.append(tgt_tokens[max_similar])
-    src_sentences.append(src_tokens[i])
-    cosine_scores.append(similarity_dict[max_similar])
+    else:
+      tgt_i = tgt_info["index"]
+      print("ITERATAION\n")
+      print( "src : {}".format(src_tokens[i]))
+      print( "tgt : {}".format(tgt_tokens[tgt_i]))
+      print( "(k,l) : {}".format((k,l)))
+      print( "i : {}".format(tgt_i))
+      print()
+      src_sentence =src_tokens[tgt_i]
+      tgt_sentence =tgt_tokens[tgt_i]
+      tgt_vectors = remove_element_at_index(tgt_vectors, tgt_i)
+      # src_vectors = remove_element_at_index(src_vectors, i)
+      tgt_tokens = remove_element_at_index(tgt_tokens, tgt_i)
+      # src_tokens = remove_element_at_index(src_tokens, i)
+      if l == len(tgt_vectors)-1:
+         (k,l) = (k,l-1)
+      aligned_sentences.append(  {
+          "src" : src_sentence,
+          "tgt" : tgt_sentence,
+          "score" : tgt_info["score"]
+        }
+      )
+      if l > 10:
+         (k,l) = (k,l-1)
 
-  print("Writing {} for {}-{} to csv...".format(date, src, tgt))
-  append_to_csv(src, tgt, src_sentences, tgt_sentences, cosine_scores)
+
+  return aligned_sentences
+
+    
+
+def max_sentence(threshhold, src, candidates):
+  max_score = float("-inf")
+  scores = []
+  for cand in candidates:
+    scores.append(cosine_score(src, cand))
+  # print("===================")
+  # print("SCORES: {}".format(scores))
+  # print()
+  max_score = max(scores) 
+  max_index = scores.index(max_score)   
+
+
+  if max_score > threshhold:
+     return {
+        "tgt" : candidates[max_index],
+        "score" : max_score,
+        "index" : max_index
+     }
+  else: return None
+
+def get_tgt_vector_canditates(vectors, i, j):
+    return vectors[i:j]
+  
+
+# def sentence_alignment(src, tgt, date):
+#   src_tokens = get_tokens(date, src)
+#   tgt_tokens = get_tokens(date, tgt)
+#   src_vector = decode_sentences(date, src)
+#   tgt_vector = decode_sentences(date, tgt)
+
+#   used_sentences = []
+#   loop_iter = min(len(src_tokens),len(src_vector), len(tgt_tokens), len(tgt_vector))
+  
+#   src_sentences=[]
+#   tgt_sentences=[]
+#   cosine_scores=[]
+
+#   for i in range(loop_iter):
+#     similarity_dict = {}
+#     for j in range(loop_iter-1):
+#       if j in used_sentences:
+#         continue
+#       else:
+#         src_embed = src_vector[i]
+#         tgt_embed = tgt_vector[i]
+#         sim_score = cosine_score(src_embed, tgt_embed)
+#         similarity_dict[j]= sim_score
+
+#     max_similar = max(similarity_dict, key = similarity_dict.get, default=0)
+#     used_sentences.append(max_similar)
+
+#     if max_similar == 0:
+#       continue
+#     tgt_sentences.append(tgt_tokens[max_similar])
+#     src_sentences.append(src_tokens[i])
+#     cosine_scores.append(similarity_dict[max_similar])
+
+#   print("Writing {} for {}-{} to csv...".format(date, src, tgt))
+#   append_to_csv(src, tgt, src_sentences, tgt_sentences, cosine_scores)
 
 
 
