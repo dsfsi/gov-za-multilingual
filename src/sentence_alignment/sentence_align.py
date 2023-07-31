@@ -70,7 +70,7 @@ def pre_process_text(lang, input_text):
   input_text = re.sub(r'\.\d{1,2}\.\d{1,2}\.', '.', input_text) 
   input_text = re.sub(r'\s\d{1,2}\.\d\s', ' ', input_text)
   input_text = re.sub(r'\s\d{1,2}\.\d{1,2}\.\s', ' ', input_text)
-  input_text = re.sub(r'\d{1,2}\.\d{1,2}\.', ' ', input_text)
+  input_text = re.sub(r'\d{1,2}\.\d{1,2}\.', '.', input_text)
   input_text = re.sub(r'\.\d{1,2}\.', '.', input_text)
   input_text = remove_urls(input_text)
   input_text = re.sub(r'[\w.+-]+@[\w-]+\.[\w.-]+', 'EMAILTOKEN', input_text) # Remove Email

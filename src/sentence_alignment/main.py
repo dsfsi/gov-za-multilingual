@@ -52,7 +52,7 @@ if __name__ == "__main__":
             for k in lang_map.keys(): 
                 tokens = sa.tokenise(lang_map[k], statement[k]["text"])
                 date = statement["datetime"]
-                processed = st.pre_process_text(lang_map[k],statement[k]["text"])
+                processed = sa.pre_process_text(lang_map[k],statement[k]["text"])
                 f.write_raw_to_file(date, lang_map[k], statement[k]["text"])
                 f.write_raw_to_file('{}_processed'.format(date), lang_map[k], processed)
                 f.write_tokens_to_file(date, lang_map[k], tokens)
