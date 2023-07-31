@@ -1,4 +1,5 @@
 from itertools import combinations
+import os
 import file_handler as f
 import sentence_embed as se
 import sentence_align as sa
@@ -36,7 +37,7 @@ lang_model_map = {
 if __name__ == "__main__":
     lastdate = f.extract_latest_edition()
     cab_statements = f.read_JSON_file()
-
+    
     # add check to see if config is necessary (latest_date == last_date)
 
     c.set_environ_var()
@@ -61,6 +62,7 @@ if __name__ == "__main__":
     langs = lang_model_map.keys()
     lang_pairs = list(combinations(langs, 2))
 
+<<<<<<< HEAD
     for statement in cab_statements:
         for (src_lang, tgt_lang) in lang_pairs:
             if statement["datetime"] >= lastdate:
@@ -298,3 +300,12 @@ if __name__ == "__main__":
 #             filtered_file.write("|" + " " + strip_file_name[1] +" " * 5 + " " + "|" + " " + strip_file_name[2] + " " * 5 + " " + "|" + " " + str(len(df)) + " " * (17 - len(str(len(df)))) + " " + "|\n")
     
 #         filtered_file.write("|----------|----------|-------------------|\n")
+=======
+    # for statement in cab_statements:
+    #     # for (src_lang, tgt_lang) in lang_pairs:
+    #         if statement["datetime"] == lastdate:
+    #             sentences = sa.sentence_alignment('eng', 'afr', statement["datetime"])
+    #             print(len(sentences))
+                # for sentence in sentences:
+                #     if sentence: print(sentence)
+>>>>>>> a046199f5f2a72c6536d3f775f7c44b9a800c9b4
