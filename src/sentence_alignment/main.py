@@ -40,32 +40,32 @@ if __name__ == "__main__":
     
     # add check to see if config is necessary (latest_date == last_date)
 
-    c.set_environ_var()
-    c.setup_laser()
-    c.download_laser_models(lang_model_map)
-    c.download_tokeniser()
+    # c.set_environ_var()
+    # c.setup_laser()
+    # c.download_laser_models(lang_model_map)
+    # c.download_tokeniser()
 
     
-    for statement in cab_statements:
-        if statement["datetime"] >= lastdate:
-            print(statement["datetime"] + " // "  + lastdate)
-            for k in lang_map.keys(): 
-                tokens = sa.tokenise(lang_map[k], statement[k]["text"])
-                date = statement["datetime"]
-                processed = sa.pre_process_text(lang_map[k],statement[k]["text"])
-                f.write_raw_to_file(date, lang_map[k], statement[k]["text"])
-                f.write_raw_to_file('{}_processed'.format(date), lang_map[k], processed)
-                f.write_tokens_to_file(date, lang_map[k], tokens)
-                se.encode_sentence_tokens(date, lang_map[k], lang_model_map[lang_map[k]])
+    # for statement in cab_statements:
+    #     if statement["datetime"] >= lastdate:
+    #         print(statement["datetime"] + " // "  + lastdate)
+    #         for k in lang_map.keys(): 
+    #             tokens = sa.tokenise(lang_map[k], statement[k]["text"])
+    #             date = statement["datetime"]
+    #             processed = sa.pre_process_text(lang_map[k],statement[k]["text"])
+    #             f.write_raw_to_file(date, lang_map[k], statement[k]["text"])
+    #             f.write_raw_to_file('{}_processed'.format(date), lang_map[k], processed)
+    #             f.write_tokens_to_file(date, lang_map[k], tokens)
+    #             se.encode_sentence_tokens(date, lang_map[k], lang_model_map[lang_map[k]])
 
 
     langs = lang_model_map.keys()
     lang_pairs = list(combinations(langs, 2))
 
-    # for statement in cab_statements:
-    #     # for (src_lang, tgt_lang) in lang_pairs:
-    #         if statement["datetime"] == lastdate:
-    #             sentences = sa.sentence_alignment('eng', 'afr', statement["datetime"])
-    #             print(len(sentences))
+    for statement in cab_statements:
+        # for (src_lang, tgt_lang) in lang_pairs:
+        if statement["datetime"] == '2023-05-25':
+            sa.sentence_alignment('eng', 'afr', statement["datetime"])
+            break
                 # for sentence in sentences:
                 #     if sentence: print(sentence)

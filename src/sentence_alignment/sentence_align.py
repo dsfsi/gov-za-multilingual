@@ -1,4 +1,5 @@
 
+from pprint import pprint
 from sklearn.metrics.pairwise import cosine_similarity
 import nltk, re
 
@@ -93,22 +94,109 @@ def pre_process_text(lang, input_text):
 def cosine_score(src, tgt):
   return cosine_similarity(src.reshape(1,-1), tgt.reshape(1,-1))[0][0]
 
+def align(vectors, tokens):
+  (i,j) = (0,0)
+  src_vect, tgt_vect = vectors
+  src_tokens, tgt_tokens = tokens
+  sentences = []
+  count = 0
+  while i < len(src_vect) and j < len(tgt_vect):
+    score = cosine_score(src_vect[i], tgt_vect[j])
+    if i==0 and score < 0.7:
+      return None
+    elif score < 0.6: 
+      return sentences
+    else:
+      sentence = {
+        "src" : src_tokens[i],
+        "tgt" : tgt_tokens[j],
+        "score" : score,
+      }
+      sentences.append(sentence)
+    (i,j) = (i+1, j+1)
+  return sentences
+  
+def update_indices(indexes, vectors):
+    (i, j) = indexes
+    (best_i, best_j) = (-1, -1)
+    src_vect, tgt_vect = vectors
+    threshold = 0.7
+
+    for x in range(0, 3):
+        for y in range(0, 3):
+            i_temp, j_temp = i + y, j + x
+
+            if i_temp < len(src_vect) and j_temp < len(tgt_vect):
+                score = cosine_score(src_vect[i_temp], tgt_vect[j_temp])
+
+                if score > threshold:
+                    (best_i, best_j) = (i_temp, j_temp)
+                    break
+
+        if best_i != -1 and best_j != -1:
+            break
+
+    if best_i != -1 and best_j != -1: 
+      return (best_i, best_j)
+    else: return (i+1, j+1)
+  
+  
+def sentence_alignment(src, tgt, date):
+  src_tokens = get_tokens(date, src)
+  tgt_tokens = get_tokens(date, tgt)
+  src_vectors = decode_sentences(date, src)
+  tgt_vectors = decode_sentences(date, tgt)
+  aligned_sentences = []
+  (i,j) = (0,0)
+  factor = 5
+  while i+factor < len(src_tokens) and j+factor < len(tgt_tokens):
+    some_sentences = align((src_vectors[i:i+factor], tgt_vectors[j:j+factor]), (src_tokens[i:i+factor], tgt_tokens[j:j+factor]))
+    if some_sentences != None:
+      aligned_sentences.extend(some_sentences)
+      length = len(some_sentences)
+      (i,j) = (i+length, j+length)
+    else:
+      (i,j) = update_indices((i,j), (src_vectors, tgt_vectors))
+
+
+  pprint(aligned_sentences)
+
 # def sentence_alignment(src, tgt, date):
 #   src_tokens = get_tokens(date, src)
 #   tgt_tokens = get_tokens(date, tgt)
 #   src_vectors_orig = decode_sentences(date, src)
 #   tgt_vectors_orig = decode_sentences(date, tgt)
-
+#   aligned = []
 #   (k,l) = (0,10)
 #   tgt_vectors = tgt_vectors_orig.copy()
 #   src_vectors = src_vectors_orig.copy()
+#   length = min(len(src_tokens), len(tgt_tokens))
+#   i,j=0,0
+
+#   while i < length and j < length:
   
-#   for i, vector in enumerate(src_vectors_orig):
-#     # print(src_tokens[0], tgt_tokens[0])
+#     score = cosine_score(src_vectors[i], tgt_vectors[j])
 
-#     candidates = get_tgt_vector_canditates(tgt_vectors_orig, k, l)
-#     tgt_info = max_sentence(0.9, vector, candidates)
-
+   
+          
+          
+#     i+=1
+#     j+=1
+    # if score > 0.8:
+    #   aligned.append({
+    #     'src' : src_tokens[i],
+    #     'tgt' : tgt_tokens[j],
+    #     'score' : score
+    #   })
+    # else:
+    #   j = j+1
+    #   score = cosine_score(src_vectors[i], tgt_vectors[j])
+    #   if score > 0.8:
+    #     aligned.append({
+    #       'src' : src_tokens[i],
+    #       'tgt' : tgt_tokens[j],
+    #       'score' : score
+    #     })
 #     if tgt_info == None:
 #       unaligned_src_sentences.append(src)
 #       (k,l) = (k,l+1)
@@ -143,29 +231,7 @@ def cosine_score(src, tgt):
 
     
 
-def max_sentence(threshhold, src, candidates):
-  max_score = float("-inf")
-  scores = []
-  for cand in candidates:
-    scores.append(cosine_score(src, cand))
-  # print("===================")
-  # print("SCORES: {}".format(scores))
-  # print()
-  max_score = max(scores) 
-  max_index = scores.index(max_score)   
 
-
-  if max_score > threshhold:
-     return {
-        "tgt" : candidates[max_index],
-        "score" : max_score,
-        "index" : max_index
-     }
-  else: return None
-
-def get_tgt_vector_canditates(vectors, i, j):
-    return vectors[i:j]
-  
 
 # def sentence_alignment(src, tgt, date):
 #   src_tokens = get_tokens(date, src)
