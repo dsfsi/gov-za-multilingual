@@ -7,7 +7,7 @@ ROOT_PATH = Path(os.path.abspath(__file__)).parent.parent.parent # gov-za/
 JSON_PATH = Path(ROOT_PATH / "data" / "govza-cabinet-statements.json")
 TOKEN_PATH = Path(ROOT_PATH / "data" / "tokenised")
 EMBED_PATH = Path(ROOT_PATH / "data" / "embed")
-OUT_CSV_PATH = Path(ROOT_PATH / "data" / "opt_aligned_out")
+OUT_PATH = Path(ROOT_PATH / "data" / "opt_aligned_out")
 RAW_PATH = Path(ROOT_PATH / "data" / "raw")
 
 def extract_latest_edition():
@@ -74,19 +74,37 @@ def get_tokens(date, lang):
     return open(token_path, 'r').readlines()
     
 def append_to_csv(src,tgt,src_sentences,tgt_sentences, sim_scores):
-    date = {
+    data = {
         "src_text" : src_sentences,
         "tgt_text" : tgt_sentences,
         "cosine_score" : sim_scores
     }
 
-    df = pandas.DataFrame(date)
-    csv_path = Path(OUT_CSV_PATH / "aligned_{}_{}.csv".format(src, tgt))
+    df = pandas.DataFrame(data)
+    csv_path = Path(OUT_PATH / "aligned_{}_{}.csv".format(src, tgt))
 
-    if not os.path.exists(OUT_CSV_PATH):
-        os.makedirs(OUT_CSV_PATH)
+    if not os.path.exists(OUT_PATH):
+        os.makedirs(OUT_PATH)
 
     if os.path.exists(csv_path):
         df.to_csv(csv_path, mode="a", header=False, index=False)
     else:
         df.to_csv(csv_path, mode="w", header=True, index=False)
+
+def write_to_jsonl(src,tgt,date,data):
+    file_name = "aligned-{}-{}.jsonl".format(src, tgt)
+    file_path = OUT_PATH  / file_name
+
+    if not os.path.exists(OUT_PATH):
+        os.makedirs(OUT_PATH)
+
+    if file_name in os.listdir(OUT_PATH):
+        f = open(file_path, 'a')
+        for d in data:
+            f.write(json.dumps(d) + '\n')
+    else:
+        f = open(file_path, 'w')
+        for d in data:
+            f.write(json.dumps(d) + '\n')
+
+    # print("Aligned {}-{} from Cab Statement on {}".format(src,tgt, date))

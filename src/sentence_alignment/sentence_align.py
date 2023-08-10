@@ -3,7 +3,7 @@ from pprint import pprint
 from sklearn.metrics.pairwise import cosine_similarity
 import nltk, re
 
-from file_handler import get_tokens, append_to_csv
+from file_handler import get_tokens, write_to_jsonl
 from sentence_embed import decode_sentences
 
 from urlextract import URLExtract
@@ -99,7 +99,6 @@ def align(vectors, tokens):
   src_vect, tgt_vect = vectors
   src_tokens, tgt_tokens = tokens
   sentences = []
-  count = 0
   while i < len(src_vect) and j < len(tgt_vect):
     score = cosine_score(src_vect[i], tgt_vect[j])
     if i==0 and score < 0.7:
@@ -110,7 +109,7 @@ def align(vectors, tokens):
       sentence = {
         "src" : src_tokens[i],
         "tgt" : tgt_tokens[j],
-        "score" : score,
+        "score" : str(score),
       }
       sentences.append(sentence)
     (i,j) = (i+1, j+1)
@@ -150,16 +149,23 @@ def sentence_alignment(src, tgt, date):
   (i,j) = (0,0)
   factor = 5
   while i+factor < len(src_tokens) and j+factor < len(tgt_tokens):
+    # print(f"src: {i+factor} - {len(src_tokens)}")
+    # print(f"tgt: {j+factor} - {len(tgt_tokens)}")
     some_sentences = align((src_vectors[i:i+factor], tgt_vectors[j:j+factor]), (src_tokens[i:i+factor], tgt_tokens[j:j+factor]))
-    if some_sentences != None:
+    if some_sentences != None and len(some_sentences) > 0:
       aligned_sentences.extend(some_sentences)
       length = len(some_sentences)
       (i,j) = (i+length, j+length)
     else:
+      (last_i,last_j) = (i,j)
       (i,j) = update_indices((i,j), (src_vectors, tgt_vectors))
+      if (last_i,last_j) == (i,j):
+        print("failed to realign indexes, exiting...")
+        break
+    
+  write_to_jsonl(src, tgt, date, aligned_sentences)
 
 
-  pprint(aligned_sentences)
 
 # def sentence_alignment(src, tgt, date):
 #   src_tokens = get_tokens(date, src)
