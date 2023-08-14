@@ -10,7 +10,7 @@ EMBED_PATH = Path(ROOT_PATH / "data" / "embed")
 OUT_PATH = Path(ROOT_PATH / "data" / "opt_aligned_out")
 RAW_PATH = Path(ROOT_PATH / "data" / "raw")
 
-def extract_latest_edition():
+def extract_latest_date():
     """
     ### Reads the value stored in `last_edition_read.txt` which stores the last edition which underwent SA.
     """
@@ -23,11 +23,21 @@ def extract_latest_edition():
     if not os.path.exists(file_path):
         open(file_path , 'w')
 
-    edition = open(file_path,'r').read() #read as str
+    date = open(file_path,'r').read() #read as str
 
     if not re.match('^\d{4}-\d{2}-\d{2}$', edition): 
-        edition = '2013-05-02'
-    return edition
+        date = '2013-05-02'
+    return date
+
+def write_latest_date(date):
+    """
+    Writes an edition to last_edition_read.txt
+    """
+    open(
+        Path(
+            Path(os.path.abspath(__file__)).parent #src/sentence_alignment
+            / 'last_edition_read.txt'
+        ),'w').write(date)
 
 def read_JSON_file():
     """

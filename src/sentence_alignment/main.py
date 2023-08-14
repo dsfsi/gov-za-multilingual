@@ -35,11 +35,9 @@ lang_model_map = {
 
 
 if __name__ == "__main__":
-    lastdate = f.extract_latest_edition()
+    lastdate = f.extract_latest_date()
     cab_statements = f.read_JSON_file()
     
-    # add check to see if config is necessary (latest_date == last_date)
-
     c.set_environ_var()
     c.setup_laser()
     c.download_laser_models(lang_model_map)
@@ -61,11 +59,14 @@ if __name__ == "__main__":
 
     langs = lang_model_map.keys()
     lang_pairs = list(combinations(langs, 2))
-
+    new_lastdate = ''
     for statement in cab_statements:
         for (src_lang, tgt_lang) in lang_pairs:
             if statement["datetime"] > lastdate:
                 sa.sentence_alignment(src_lang, tgt_lang, statement["datetime"])
                 
         if statement["datetime"] > lastdate:
+            new_lastdate = statement["datetime"]
             print("Aligned cab statement on {}".format(statement["datetime"]))
+
+    f.write_latest_date(new_lastdate)
