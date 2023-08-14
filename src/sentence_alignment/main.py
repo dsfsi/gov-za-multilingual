@@ -59,7 +59,7 @@ if __name__ == "__main__":
 
     langs = lang_model_map.keys()
     lang_pairs = list(combinations(langs, 2))
-    new_lastdate = ''
+    new_lastdate = lastdate
     for statement in cab_statements:
         for (src_lang, tgt_lang) in lang_pairs:
             if statement["datetime"] > lastdate:
