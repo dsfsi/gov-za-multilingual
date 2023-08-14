@@ -113,6 +113,10 @@ def extract_translations(url):
             title_trans = doc_trans.find('h1', class_='title').text
             text_trans = doc_trans.find('div',class_='field field-name-body field-type-text-with-summary field-label-hidden').text.replace('\xa0',' ')
             statement[trans['lang']] = {'text':text_trans, 'title':title_trans, 'url': trans['url']}
+        
+        if statement['en'] == statement['zu']: return None # If text is the same, then not translated
+
         print ("Extracted: " + statement['title']) 
         return statement
+    return None
     
