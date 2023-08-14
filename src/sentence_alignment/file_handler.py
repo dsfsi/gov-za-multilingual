@@ -25,7 +25,7 @@ def extract_latest_date():
 
     date = open(file_path,'r').read() #read as str
 
-    if not re.match('^\d{4}-\d{2}-\d{2}$', edition): 
+    if not re.match('^\d{4}-\d{2}-\d{2}$', date): 
         date = '2013-05-02'
     return date
 
