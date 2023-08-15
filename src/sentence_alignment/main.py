@@ -45,7 +45,7 @@ if __name__ == "__main__":
 
     
     for statement in cab_statements:
-        if statement["datetime"] >= lastdate:
+        if statement["datetime"] > lastdate:
             print(statement["datetime"] + " // "  + lastdate)
             for k in lang_map.keys(): 
                 tokens = sa.tokenise(lang_map[k], statement[k]["text"])
