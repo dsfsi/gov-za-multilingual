@@ -1,3 +1,4 @@
+import datetime
 import json, re, os
 import pandas as pd
 from bs4 import BeautifulSoup
@@ -103,7 +104,7 @@ def extract_translations(url):
         statement = {}
         statement['title'] = (doc.find('h1', class_='title').text)
         statement['date'] = doc.find('span', class_='date-display-single').text
-        statement['datetime'] = doc.find('span', class_='date-display-single')['content']
+        statement['datetime'] = doc.find('span', class_='date-display-single')['content'][0:10]
         statement['url'] = url
         for trans in trans_urls:
             req_trans = Request(trans['url'])
@@ -112,5 +113,10 @@ def extract_translations(url):
             title_trans = doc_trans.find('h1', class_='title').text
             text_trans = doc_trans.find('div',class_='field field-name-body field-type-text-with-summary field-label-hidden').text.replace('\xa0',' ')
             statement[trans['lang']] = {'text':text_trans, 'title':title_trans, 'url': trans['url']}
+        
+        if statement['en']['text'] == statement['zu']['text']: return None # If text is the same, then not translated
+
         print ("Extracted: " + statement['title']) 
         return statement
+    return None
+    

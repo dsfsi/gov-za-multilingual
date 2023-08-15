@@ -108,7 +108,7 @@ Authors
 
 Citation
 --------
-Preprint/Paper
+Paper
 
 [Preparing the Vuk'uzenzele and ZA-gov-multilingual South African  multilingual corpora](https://arxiv.org/pdf/2303.03750)
 
