@@ -11,6 +11,8 @@ Arxiv Preprint: [![arXiv](https://img.shields.io/badge/arXiv-2303.03750-b31b1b.s
 
 View main dataset on [Datasette](https://lite.datasette.io/?json=https%3A%2F%2Fraw.githubusercontent.com%2Fdsfsi%2Fgov-za-multilingual%2Fmaster%2Fdata%2Fgovza-cabinet-statements.json)
 
+Give Feedback 📑: [DSFSI Resource Feedback Form](https://docs.google.com/forms/d/e/1FAIpQLSf7S36dyAUPx2egmXbFpnTBuzoRulhL5Elu-N1eoMhaO7v10w/formResponse){:target="_blank"}
+
 About Dataset
 ---------------------
 The data set contains cabinet statements from the South African government, maintained by the [Government Communication and Information System (GCIS)](https://www.gcis.gov.za/). Data was scraped from the governments website:
