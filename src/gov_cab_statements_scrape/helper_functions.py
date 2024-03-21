@@ -45,15 +45,17 @@ def get_cabinent_statements_urls(date):
     page_no = 0
     date_found = False
     cabinent_statements = []
-
+    date = date.zfill(11)
     while date_found == False:
         url = 'https://www.gov.za/cabinet-statements?page=' + str(page_no)
         req = Request(url)
         page = urlopen(req)
         doc = BeautifulSoup(page, 'html.parser')
-
+        
         news_table = doc.tbody
+        
         news_table_rows = news_table.contents
+        news_table_rows = list(filter(lambda x: x != '\n' , news_table_rows))
         i=0
         for row in news_table_rows:
             statement = {}
@@ -75,16 +77,15 @@ def check_translations(url): #build dictonary of translation urls
     req = Request(url)
     page = urlopen(req)
     doc = BeautifulSoup(page, 'html.parser')
-
-    title = (doc.find('h1', class_='title').text)
-    translations = doc.find('section', id="block-locale-language") 
-    if translations != None:
-        trans_elements = translations.find_all('li')
+    title = (doc.find('h1', class_='page-title').text)
+    translations = doc.find('div', id="block-languageswitcher")
+    trans_elements = translations.find_all('li')
+    if len(trans_elements) == len(languages):
         trans_urls = []
-        for i in range(len(languages)):
+        for elem in trans_elements:
             trans_item = {}
-            trans_item['lang'] = languages[i]
-            trans_item['url'] = 'https://www.gov.za' + trans_elements[i].find('a')['href']
+            trans_item['lang'] = elem['hreflang']
+            trans_item['url'] = 'https://www.gov.za' + elem.find('a')['href']
             trans_urls.append(trans_item)
         print("Translations found for " + title)
         return trans_urls 
@@ -102,16 +103,16 @@ def extract_translations(url):
     if len(trans_urls) > 0:
         print("Extracting...")
         statement = {}
-        statement['title'] = (doc.find('h1', class_='title').text)
-        statement['date'] = doc.find('span', class_='date-display-single').text
-        statement['datetime'] = doc.find('span', class_='date-display-single')['content'][0:10]
+        statement['title'] = (doc.find('h1', class_='page-title').text)
+        statement['date'] = doc.find('time').text
+        statement['datetime'] = doc.find('time')['datetime'][0:10]
         statement['url'] = url
         for trans in trans_urls:
             req_trans = Request(trans['url'])
             page_trans = urlopen(req_trans)
             doc_trans = BeautifulSoup(page_trans, 'html.parser')
-            title_trans = doc_trans.find('h1', class_='title').text
-            text_trans = doc_trans.find('div',class_='field field-name-body field-type-text-with-summary field-label-hidden').text.replace('\xa0',' ')
+            title_trans = doc_trans.find('h1', class_='page-title').text.strip()
+            text_trans = doc_trans.find('div',class_='field field--name-body field--type-text-with-summary field--label-hidden field__item').text.replace('\xa0',' ')
             statement[trans['lang']] = {'text':text_trans, 'title':title_trans, 'url': trans['url']}
         
         if statement['en']['text'] == statement['zu']['text']: return None # If text is the same, then not translated
