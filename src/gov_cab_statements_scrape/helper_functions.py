@@ -19,7 +19,6 @@ def write_JSON_file(data):
     return
 
 def update_csv_file(new_data ,lang):
-    # broken needs fixing
     items = []
     for data in new_data:
         item = {}
