@@ -11,6 +11,8 @@ Arxiv Preprint: [![arXiv](https://img.shields.io/badge/arXiv-2303.03750-b31b1b.s
 
 View main dataset on [Datasette](https://lite.datasette.io/?json=https%3A%2F%2Fraw.githubusercontent.com%2Fdsfsi%2Fgov-za-multilingual%2Fmaster%2Fdata%2Fgovza-cabinet-statements.json)
 
+Give Feedback 📑: [DSFSI Resource Feedback Form](https://docs.google.com/forms/d/e/1FAIpQLSf7S36dyAUPx2egmXbFpnTBuzoRulhL5Elu-N1eoMhaO7v10w/formResponse){:target="_blank"}
+
 About Dataset
 ---------------------
 The data set contains cabinet statements from the South African government, maintained by the [Government Communication and Information System (GCIS)](https://www.gcis.gov.za/). Data was scraped from the governments website:
@@ -94,6 +96,9 @@ Number of Aligned Pairs with Cosine Similarity Score >= 0.65
 |   nbl    | tsn      | 3369              |
 |   tsn    | ven      | 3267              |
 
+Disclaimer
+-------
+This dataset contains machine-readable data extracted from online cabinet statements from the South African government, provided by the Government Communication Information System (GCIS). While efforts were made to ensure the accuracy and completeness of this data, there may be errors or discrepancies between the original publications and this dataset. No warranties, guarantees or representations are given in relation to the information contained in the dataset. The members of the Data Science for Societal Impact Research Group bear no responsibility and/or liability for any such errors or discrepancies in this dataset. The Government Communication Information System (GCIS) bears no responsibility and/or liability for any such errors or discrepancies in this dataset. It is recommended that users verify all information contained herein before making decisions based upon this information.
 
 Authors
 -------
@@ -105,15 +110,20 @@ Authors
 
 Citation
 --------
-Preprint/Paper
+Paper
 
 [Preparing the Vuk'uzenzele and ZA-gov-multilingual South African  multilingual corpora](https://arxiv.org/pdf/2303.03750)
 
-> @article{lastrucci2023preparing,
-  title   = {Preparing the Vuk'uzenzele and ZA-gov-multilingual South African multilingual corpora},
-  author  = {Richard Lastrucci and Isheanesu Dzingirai and Jenalea Rajab and Andani Madodonga and Matimba Shingange and Daniel Njini and Vukosi Marivate},
-  year    = {2023},
-  journal = {arXiv preprint arXiv: Arxiv-2303.03750}
+> @inproceedings{lastrucci-etal-2023-preparing,
+    title = "Preparing the Vuk{'}uzenzele and {ZA}-gov-multilingual {S}outh {A}frican multilingual corpora",
+    author = "Richard Lastrucci and Isheanesu Dzingirai and Jenalea Rajab and Andani Madodonga and Matimba Shingange and Daniel Njini and Vukosi Marivate",
+    booktitle = "Proceedings of the Fourth workshop on Resources for African Indigenous Languages (RAIL 2023)",
+    month = may,
+    year = "2023",
+    address = "Dubrovnik, Croatia",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2023.rail-1.3",
+    pages = "18--25"
 }
 
 Dataset
