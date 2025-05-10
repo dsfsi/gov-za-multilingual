@@ -1,35 +1,65 @@
-name: fetch and update cabinent statements
+name: Fetch and Update Cabinet Statements
 
 on:
   schedule:
-    - cron: '0 14 * * */5' # Every Friday at 2pm
-  workflow_dispatch:
+    - cron: '0 14 * * 5'  # Every Friday at 2pm
+  workflow_dispatch:  # Allow manual triggering
 
 jobs:
-    fetch_and_update_statements:
-        name: fetch and update cabinent statements
-        runs-on: ubuntu-latest
-        steps:
-            -   name:   Checkout to develop/master branch
-                uses:   actions/checkout@v2 
-
-            -   name:   Set up Python
-                uses:   actions/setup-python@v4
-                with:
-                    python-version: '3.8' 
-                
-            -   name:   Install Python requirements
-                run: |
-                    python -m pip install --upgrade pip
-                    pip install -r requirements.txt
-
-            -   name:   Execute script
-                run: |
-                    cd src/gov_cab_statements_scrape
-                    python3 main.py
-                    cd ../..
-
-            -   name:   Commit and push the changes into the repository (master branch) if there are any
-                uses:   stefanzweifel/git-auto-commit-action@v4
-                with:
-                    commit_message: "Updated govza-cabinet-statements.json on `date` with GitHub Actions"
+  fetch_and_update_statements:
+    name: Fetch and Update Cabinet Statements
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0  # Fetch all history for proper git operations
+      
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.8'
+          cache: 'pip'  # Cache pip dependencies
+      
+      - name: Install Python dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+      
+      - name: Create log directory
+        run: mkdir -p logs
+      
+      - name: Execute scraper script
+        run: |
+          cd src/gov_cab_statements_scrape
+          python main.py
+          cd ../..
+        continue-on-error: true  # Don't fail the workflow if script has errors
+      
+      - name: Upload logs as artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: scraper-logs
+          path: src/gov_cab_statements_scrape/logs/
+          retention-days: 14
+      
+      - name: Commit and push changes
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "Updated govza-cabinet-statements data files on $(date +'%Y-%m-%d')"
+          file_pattern: 'data/*.json data/interim/*.csv'
+          commit_user_name: GitHub Actions
+          commit_user_email: actions@github.com
+          commit_author: GitHub Actions <actions@github.com>
+          status_options: '--untracked-files=no'
+          push_options: '--force'
+      
+      - name: Check for changes
+        id: git-check
+        run: |
+          git diff --quiet && git diff --staged --quiet || echo "::set-output name=changes_detected::true"
+      
+      - name: Notify if no changes
+        if: steps.git-check.outputs.changes_detected != 'true'
+        run: echo "No changes detected in this run."
