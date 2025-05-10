@@ -1,4 +1,6 @@
+beautifulsoup4
 numpy
+pandas
 soupsieve
 faiss-cpu
 fairseq==0.12.1
@@ -7,20 +9,3 @@ tabulate
 scikit-learn
 nltk
 urlextract
-# Web scraping dependencies
-beautifulsoup4==4.12.2
-lxml==4.9.3
-
-# Data handling
-pandas==2.0.3
-
-# HTTP requests
-requests==2.31.0
-urllib3==2.0.7
-
-# Pin specific versions to avoid conflicts
-omegaconf>=2.0.5,<2.1  # Explicitly specify compatible version
-hydra-core==1.0.7      # Pin to specific version
-
-# Force pip to use older version if needed
-# pip<24.1
