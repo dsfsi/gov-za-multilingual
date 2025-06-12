@@ -3,7 +3,6 @@ numpy
 pandas
 soupsieve
 faiss-cpu
-fairseq==0.12.1
 transliterate
 tabulate
 scikit-learn
