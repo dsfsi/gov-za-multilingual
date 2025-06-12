@@ -1,46 +1,44 @@
 name: Sentence Alignment of Cabinet Speeches CI
 
 on:
-    workflow_run:
-        workflows: ['fetch and update cabinent statements']
-        types:
-            - completed
-    workflow_dispatch:
+  workflow_run:
+    workflows: ['fetch and update cabinent statements']
+    types:
+      - completed
+  workflow_dispatch:
 
 jobs:
-    SentenceAlignment:
-        name: perform sentence alignment
-        runs-on:    ubuntu-latest
+  SentenceAlignment:
+    name: perform sentence alignment
+    runs-on:    ubuntu-latest
 
-        steps:
-            -   name:   Checkout to develop/master branch
-                uses:   actions/checkout@v2
+    steps:
+      - name:   Checkout to develop/master branch
+        uses:   actions/checkout@v2
 
-            -   name:   Set up Python
-                uses:   actions/setup-python@v4
-                with:
-                    python-version: "3.12"
+      - name: Install Ubuntu packages
+        run: |
+          sudo apt-get install build-essential
+          sudo apt-get install cmake
+          sudo apt-get install zip
 
-            -   name:   Install Fairseq from GitHub
-                run: |
-                    pip install git+https://github.com/facebookresearch/fairseq.git
-            
-            -   name:   Install Python requirements
-                run: |
-                    python -m pip install --upgrade pip
-                    pip install -r requirements.txt
+      - name:   Set up Python
+        uses:   actions/setup-python@v4
+        with:
+          python-version: "3.12"
 
-            -   name:   Install Ubuntu packages
-                run: |
-                    sudo apt-get install build-essential
-                    sudo apt-get install cmake
-                    sudo apt-get install zip
+      #   Installing fairseq using pip version >= 24.1 will BREAK. Please do not change the pip versionm
+      - name: Downgrade pip to 24.0 and install fairseq from GitHub as well as requirements.txt
+        run: |
+          python -m pip install pip==24.0
+          pip install git+https://github.com/facebookresearch/fairseq.git
+          pip install -r requirements.txt
 
-            -   name:   Perform the sentence alignment
-                run: |
-                    python3 ./src/sentence_alignment/main.py
+      -   name:   Perform the sentence alignment
+          run: |
+            python3 ./src/sentence_alignment/main.py
 
-            -   name:   Commit and push the changes into the repository (master branch) if there are any
-                uses:   stefanzweifel/git-auto-commit-action@v4
-                with:
-                    commit_message: "📦(SA): Added new aligned files"
+      -   name:   Commit and push the changes into the repository (master branch) if there are any
+          uses:   stefanzweifel/git-auto-commit-action@v4
+          with:
+            commit_message: "📦(SA): Added new aligned files"
