@@ -13,9 +13,9 @@ def tokenise(lang, text): # -> str
   text = pre_process_text(lang, text) # clean data
   text = nltk.tokenize.sent_tokenize(text) #tokenise data
   for i in text:
-    text = re.split('\s{2,}',i)
+    text = re.split(r'\s{2,}',i)
     for j in text:
-      text = re.split('#n#',j)
+      text = re.split(r'#n#',j)
       for k in text:
         output_array.append(k)
 
@@ -86,7 +86,7 @@ def pre_process_text(lang, input_text):
   input_text = re.sub(r'([A-z]\.)([A-z])', r'\1 \2', input_text)
   input_text = re.sub(r'<}0{>', ' ', input_text)
   input_text = re.sub(r'\([a-z]\)', '', input_text)
-  input_text = re.sub('\;', '', input_text)
+  input_text = re.sub(r'\;', '', input_text)
   input_text = fix_person_titles(lang,  input_text)
     
   return input_text

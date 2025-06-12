@@ -1,8 +1,7 @@
 import os, subprocess, nltk
 from pathlib import Path
 
-
-LASER_PATH = Path(Path(os.path.abspath(__file__)).parent / 'LASER') # path to LASER module
+LASER_PATH = os.path.join(Path().resolve(), 'LASER') # path to LASER module
 
 def set_environ_var():
     """
@@ -17,16 +16,16 @@ def setup_laser():
     ### Downloads configs for LASER repo
     """
     print('Setting Up LASER module...')
-    if (os.path.exists(f'{LASER_PATH}/models')):
+    if os.path.exists(os.path.join(LASER_PATH,'models')):
         print('LASER/models dir found, skipping installation, delete folders for and run script again for fresh installation')
     else: 
-        command = f'bash {LASER_PATH}/install_models.sh'
+        command = f'bash {os.path.join(LASER_PATH, 'install_models.sh')}'
         subprocess.run(command, shell=True)
         
-    if (os.path.exists(f'{LASER_PATH}/tools-external')):
+    if os.path.exists(f'{os.path.join(LASER_PATH, 'tools-external')}'):
         print('LASER/tools-external dir found, skipping installation, delete folders for and run script again for fresh installation')
     else: 
-        command = f'bash {LASER_PATH}/install_external_tools.sh'
+        command = f'bash {os.path.join(LASER_PATH, 'install_external_tools.sh')}'
         subprocess.run(command, shell=True)
     print('LASER module configured.')
 
@@ -48,4 +47,5 @@ def download_laser_models(lang_mappings):
 def download_tokeniser() -> None:
     print('Downloading NLTK tokeniser...')
     nltk.download('punkt')
+    nltk.download('punkt_tab')
     print('NLTK tokeniser downloaded')
