@@ -2,7 +2,7 @@
 import os, re, json, pandas
 from pathlib import Path
 
-ROOT_PATH = Path(os.path.abspath(__file__)).parent.parent.parent # gov-za/
+ROOT_PATH = Path(os.path.abspath(__file__)).parent.parent.parent  # gov-za/
 
 JSON_PATH = Path(ROOT_PATH / "data" / "govza-cabinet-statements.json")
 TOKEN_PATH = Path(ROOT_PATH / "data" / "tokenised")
@@ -10,24 +10,26 @@ EMBED_PATH = Path(ROOT_PATH / "data" / "embed")
 OUT_PATH = Path(ROOT_PATH / "data" / "opt_aligned_out")
 RAW_PATH = Path(ROOT_PATH / "data" / "raw")
 
+
 def extract_latest_date():
     """
     ### Reads the value stored in `last_edition_read.txt` which stores the last edition which underwent SA.
     """
 
-    file_path =  Path(
-            Path(os.path.abspath(__file__)).parent #src/sentence_alignment
-            / 'last_edition_read.txt' 
-        )
+    file_path = Path(
+        Path(os.path.abspath(__file__)).parent  # src/sentence_alignment
+        / 'last_edition_read.txt'
+    )
 
     if not os.path.exists(file_path):
-        open(file_path , 'w')
+        open(file_path, 'w')
 
-    date = open(file_path,'r').read() #read as str
+    date = open(file_path, 'r').read()  # read as str
 
     if not re.match(r'^\d{4}-\d{2}-\d{2}$', date):
         date = '2013-05-02'
     return date
+
 
 def write_latest_date(date):
     """
@@ -35,9 +37,10 @@ def write_latest_date(date):
     """
     open(
         Path(
-            Path(os.path.abspath(__file__)).parent #src/sentence_alignment
+            Path(os.path.abspath(__file__)).parent  # src/sentence_alignment
             / 'last_edition_read.txt'
-        ),'w').write(date)
+        ), 'w').write(date)
+
 
 def read_json_file():
     """
@@ -46,6 +49,7 @@ def read_json_file():
     with open(JSON_PATH, 'r', encoding='utf-8') as f:
         data = json.load(f)
         return data
+
 
 def write_raw_to_file(date, lang, text):
     if not os.path.exists(RAW_PATH / date):
@@ -56,19 +60,18 @@ def write_raw_to_file(date, lang, text):
     f = open(path, "w")
     f.write("{}\n".format(text))
 
-    
-    
+
 def write_tokens_to_file(date, lang, tokens):
     if not os.path.exists(TOKEN_PATH / date):
         os.makedirs(TOKEN_PATH / date)
-    
+
     path = Path(TOKEN_PATH / date / "{}_{}.txt".format(date, lang))
-    
+
     if os.path.exists(path):
         f = open(path, "a")
         for t in tokens:
             f.write("{}\n".format(t))
-    else:   
+    else:
         f = open(path, "w")
         for t in tokens:
             f.write("{}\n".format(t))
@@ -76,15 +79,17 @@ def write_tokens_to_file(date, lang, tokens):
     print("Written {} tokens for {} to file".format(lang, date))
     f.close()
 
+
 def get_tokens(date, lang):
     token_path = Path(TOKEN_PATH / date / "{}_{}.txt".format(date, lang))
     return open(token_path, 'r').readlines()
-    
-def append_to_csv(src,tgt,src_sentences,tgt_sentences, sim_scores):
+
+
+def append_to_csv(src, tgt, src_sentences, tgt_sentences, sim_scores):
     data = {
-        "src_text" : src_sentences,
-        "tgt_text" : tgt_sentences,
-        "cosine_score" : sim_scores
+        "src_text": src_sentences,
+        "tgt_text": tgt_sentences,
+        "cosine_score": sim_scores
     }
 
     df = pandas.DataFrame(data)
@@ -98,18 +103,16 @@ def append_to_csv(src,tgt,src_sentences,tgt_sentences, sim_scores):
     else:
         df.to_csv(csv_path, mode="w", header=True, index=False)
 
-def write_to_jsonl(src,tgt,date,data):
+
+def write_to_jsonl(src, tgt, date, data):
     file_name = "aligned-{}-{}.jsonl".format(src, tgt)
-    file_path = OUT_PATH  / file_name
+    file_path = OUT_PATH / file_name
     os.makedirs(OUT_PATH, exist_ok=True)
 
-    print('We have passed directory checking in write_to_jsonl')
     mode = 'a' if file_path.exists() else 'w'
 
     with open(file_path, mode, encoding='utf-8') as f:
-        print('We have opened file checking in write_to_jsonl')
         for d in data:
             f.write(json.dumps(d) + '\n')
 
-
-    print("Aligned {}-{} from Cab Statement on {}".format(src,tgt, date))
+    print("Aligned {}-{} from Cab Statement on {}".format(src, tgt, date))
