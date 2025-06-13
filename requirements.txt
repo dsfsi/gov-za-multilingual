@@ -1,5 +1,5 @@
 beautifulsoup4==4.13.4
-numpy==2.3.0
+numpy
 pandas==2.3.0
 soupsieve==2.7
 faiss-cpu==1.11.0
