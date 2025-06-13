@@ -2,6 +2,7 @@ import os, subprocess, nltk
 from pathlib import Path
 
 LASER_PATH = os.path.join(Path().resolve(), 'LASER') # path to LASER module
+print(LASER_PATH)
 
 def set_environ_var():
     """

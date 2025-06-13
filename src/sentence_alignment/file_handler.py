@@ -25,7 +25,7 @@ def extract_latest_date():
 
     date = open(file_path,'r').read() #read as str
 
-    if not re.match('^\d{4}-\d{2}-\d{2}$', date): 
+    if not re.match(r'^\d{4}-\d{2}-\d{2}$', date):
         date = '2013-05-02'
     return date
 
@@ -68,11 +68,11 @@ def write_tokens_to_file(date, lang, tokens):
     path = Path(TOKEN_PATH / date / "{}_{}.txt".format(date, lang))
     
     if os.path.exists(path):
-        f = open(path, "a");
+        f = open(path, "a")
         for t in tokens:
             f.write("{}\n".format(t))
     else:   
-        f = open(path, "w");
+        f = open(path, "w")
         for t in tokens:
             f.write("{}\n".format(t))
 
