@@ -25,13 +25,13 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
-          python-version: "3.8"
+          python-version: "3.8"   # Please do not change python version as it will break fairseq dependency
 
-      #   Installing fairseq using pip version >= 24.1 will BREAK. Please do not change the pip versionm
+      #   Installing fairseq using pip version >= 24.1 will BREAK. Please do not change the pip version
       - name: Downgrade pip to 24.0 and install fairseq from GitHub as well as requirements.txt
         run: |
           python -m pip install pip==24.0
-          pip install git+https://github.com/facebookresearch/fairseq.git
+          pip install git+https://github.com/facebookresearch/fairseq.git@v0.12.2
           pip install -r requirements.txt
 
       - name: Perform the sentence alignment
