@@ -2,7 +2,7 @@ name: Sentence Alignment of Cabinet Speeches CI
 
 on:
   workflow_run:
-    workflows: ['fetch and update cabinent statements']
+    workflows: [ 'fetch and update cabinent statements' ]
     types:
       - completed
   workflow_dispatch:
@@ -10,11 +10,11 @@ on:
 jobs:
   SentenceAlignment:
     name: perform sentence alignment
-    runs-on:    ubuntu-latest
+    runs-on: ubuntu-latest
 
     steps:
-      - name:   Checkout to develop/master branch
-        uses:   actions/checkout@v2
+      - name: Checkout to develop/master branch
+        uses: actions/checkout@v2
 
       - name: Install Ubuntu packages
         run: |
@@ -22,8 +22,8 @@ jobs:
           sudo apt-get install cmake
           sudo apt-get install zip
 
-      - name:   Set up Python
-        uses:   actions/setup-python@v4
+      - name: Set up Python
+        uses: actions/setup-python@v4
         with:
           python-version: "3.12"
 
@@ -34,11 +34,12 @@ jobs:
           pip install git+https://github.com/facebookresearch/fairseq.git
           pip install -r requirements.txt
 
-      -   name:   Perform the sentence alignment
-          run: |
-            python3 ./src/sentence_alignment/main.py
+      - name: Perform the sentence alignment
+        run: |
+          cd src/sentence_alignment
+          python main.py
 
-      -   name:   Commit and push the changes into the repository (master branch) if there are any
-          uses:   stefanzweifel/git-auto-commit-action@v4
-          with:
-            commit_message: "📦(SA): Added new aligned files"
+      - name: Commit and push the changes into the repository (master branch) if there are any
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "📦(SA): Added new aligned files"
