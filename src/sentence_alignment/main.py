@@ -58,10 +58,14 @@ if __name__ == "__main__":
     langs = lang_model_map.keys()
     lang_pairs = list(combinations(langs, 2))
     new_lastdate = lastdate
+
+    print('===================Testing for lop')
+
     for statement in cab_statements:
         for (src_lang, tgt_lang) in lang_pairs:
+            print(f'=================={statement["datetime"]} // {src_lang} // {tgt_lang}')
             if statement["datetime"] > lastdate and (src_lang in statement and tgt_lang in statement):
-                print('We are here')
+                print('====================================We are here')
                 sa.sentence_alignment(src_lang, tgt_lang, statement["datetime"])
 
         if statement["datetime"] > lastdate:

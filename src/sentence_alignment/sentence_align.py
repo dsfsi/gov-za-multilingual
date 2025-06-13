@@ -163,5 +163,5 @@ def sentence_alignment(src, tgt, date):
         print("failed to realign indexes, exiting...")
         break
 
-  print(f'Length of aligned_sentences: {len(aligned_sentences)}')
+  print(f'==============================Length of aligned_sentences: {len(aligned_sentences)}')
   write_to_jsonl(src, tgt, date, aligned_sentences)
