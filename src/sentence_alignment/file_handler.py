@@ -103,10 +103,13 @@ def write_to_jsonl(src,tgt,date,data):
     file_path = OUT_PATH  / file_name
     os.makedirs(OUT_PATH, exist_ok=True)
 
+    print('We have passed directory checking in write_to_jsonl')
     mode = 'a' if file_path.exists() else 'w'
 
     with open(file_path, mode, encoding='utf-8') as f:
+        print('We have opened file checking in write_to_jsonl')
         for d in data:
             f.write(json.dumps(d) + '\n')
+
 
     print("Aligned {}-{} from Cab Statement on {}".format(src,tgt, date))
