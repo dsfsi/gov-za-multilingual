@@ -101,16 +101,11 @@ def append_to_csv(src,tgt,src_sentences,tgt_sentences, sim_scores):
 def write_to_jsonl(src,tgt,date,data):
     file_name = "aligned-{}-{}.jsonl".format(src, tgt)
     file_path = OUT_PATH  / file_name
+    os.makedirs(OUT_PATH, exist_ok=True)
 
-    if not os.path.exists(OUT_PATH):
-        os.makedirs(OUT_PATH)
+    mode = 'a' if file_path.exists() else 'w'
 
-    if file_name in os.listdir(OUT_PATH):
-        f = open(file_path, 'a')
-        for d in data:
-            f.write(json.dumps(d) + '\n')
-    else:
-        f = open(file_path, 'w')
+    with open(file_path, mode, encoding='utf-8') as f:
         for d in data:
             f.write(json.dumps(d) + '\n')
 
