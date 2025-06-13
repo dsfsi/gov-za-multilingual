@@ -39,17 +39,14 @@ def write_latest_date(date):
             / 'last_edition_read.txt'
         ),'w').write(date)
 
-def read_JSON_file():
+def read_json_file():
     """
     ### Reads in govza-cabinet-statements.json
     """
-    try:
-        with open(JSON_PATH, 'r') as f:
-            data = json.load(f)
+    with open(JSON_PATH, 'r', encoding='utf-8') as f:
+        data = json.load(f)
         return data
-    except:
-        return []
-    
+
 def write_raw_to_file(date, lang, text):
     if not os.path.exists(RAW_PATH / date):
         os.makedirs(RAW_PATH / date)
@@ -117,4 +114,4 @@ def write_to_jsonl(src,tgt,date,data):
         for d in data:
             f.write(json.dumps(d) + '\n')
 
-    # print("Aligned {}-{} from Cab Statement on {}".format(src,tgt, date))
+    print("Aligned {}-{} from Cab Statement on {}".format(src,tgt, date))

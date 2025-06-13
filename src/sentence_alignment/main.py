@@ -35,7 +35,7 @@ lang_model_map = {
 
 if __name__ == "__main__":
     lastdate = f.extract_latest_date()
-    cab_statements = f.read_JSON_file()
+    cab_statements = f.read_json_file()
 
     c.set_environ_var()
     c.setup_laser()
