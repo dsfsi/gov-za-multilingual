@@ -2,12 +2,12 @@ import os, subprocess, nltk
 from pathlib import Path
 
 LASER_PATH = os.path.join(Path().resolve(), 'LASER') # path to LASER module
-print(LASER_PATH)
 
 def set_environ_var():
     """
     ### Sets enviroment variables for use within the LASER module
     """
+    print(f'Laser Path: {LASER_PATH}')
     os.environ['LASER'] = str(LASER_PATH)
     os.environ['LC_ALL']='C.UTF-8'
     os.environ['LANG']='C.UTF-8'
