@@ -143,9 +143,9 @@ def update_indices(indexes, vectors):
             break
 
     if best_i != -1 and best_j != -1:
-        return (best_i, best_j)
+        return best_i, best_j
     else:
-        return (i + 1, j + 1)
+        return i + 1, j + 1
 
 
 def sentence_alignment(src, tgt, date):
@@ -153,23 +153,27 @@ def sentence_alignment(src, tgt, date):
     tgt_tokens = get_tokens(date, tgt)
     src_vectors = decode_sentences(date, src)
     tgt_vectors = decode_sentences(date, tgt)
+
     aligned_sentences = []
     (i, j) = (0, 0)
     factor = 5
+
     while i + factor < len(src_tokens) and j + factor < len(tgt_tokens):
-        # print(f"src: {i+factor} - {len(src_tokens)}")
-        # print(f"tgt: {j+factor} - {len(tgt_tokens)}")
-        some_sentences = align((src_vectors[i:i + factor], tgt_vectors[j:j + factor]),
-                               (src_tokens[i:i + factor], tgt_tokens[j:j + factor]))
-        if some_sentences != None and len(some_sentences) > 0:
+        some_sentences = align(
+            (src_vectors[i:i + factor], tgt_vectors[j:j + factor]),
+            (src_tokens[i:i + factor], tgt_tokens[j:j + factor])
+        )
+
+        if some_sentences is not None and len(some_sentences) > 0:
             aligned_sentences.extend(some_sentences)
             length = len(some_sentences)
             (i, j) = (i + length, j + length)
         else:
             (last_i, last_j) = (i, j)
             (i, j) = update_indices((i, j), (src_vectors, tgt_vectors))
+
             if (last_i, last_j) == (i, j):
                 print("failed to realign indexes, exiting...")
                 break
 
-    write_to_jsonl(src, tgt, date, aligned_sentences)
+    write_to_jsonl(src, tgt, aligned_sentences)

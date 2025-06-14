@@ -62,7 +62,7 @@ if __name__ == "__main__":
     for statement in cab_statements:
         for (src_lang, tgt_lang) in lang_pairs:
             statement_keys = statement.keys()
-            if statement["datetime"] > last_date and (src_lang or tgt_lang in statement_keys):
+            if statement["datetime"] > last_date and (src_lang and tgt_lang in statement_keys):
                 sa.sentence_alignment(src_lang, tgt_lang, statement["datetime"])
 
         if statement["datetime"] > last_date:

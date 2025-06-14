@@ -55,8 +55,6 @@ def write_tokens_to_file(date, lang, tokens):
         for token in tokens:
             token_file.write(f'{token}\n')
 
-    print(f'Written {lang} tokens for {date} to file')
-
 
 def get_tokens(date, lang):
     token_path = Path(TOKEN_PATH / date / f'{date}_{lang}.txt')
@@ -77,7 +75,7 @@ def append_to_csv(src, tgt, src_sentences, tgt_sentences, sim_scores):
     df.to_csv(csv_path, mode=mode, header=header, index=False)
 
 
-def write_to_jsonl(src, tgt, date, data):
+def write_to_jsonl(src, tgt, data):
     file_name = "aligned-{}-{}.jsonl".format(src, tgt)
     file_path = OUT_PATH / file_name
     os.makedirs(OUT_PATH, exist_ok=True)
@@ -86,5 +84,3 @@ def write_to_jsonl(src, tgt, date, data):
     with open(file_path, mode, encoding='utf-8') as f:
         for entry in data:
             f.write(json.dumps(entry) + '\n')
-
-    print("Aligned {}-{} from Cab Statement on {}".format(src, tgt, date))
