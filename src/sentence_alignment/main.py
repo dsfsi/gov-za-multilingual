@@ -34,7 +34,7 @@ lang_model_map = {
 }
 
 if __name__ == "__main__":
-    lastdate = f.extract_latest_date()
+    last_date = f.extract_latest_date()
     cab_statements = f.read_json_file()
 
     c.set_environ_var()
@@ -43,8 +43,8 @@ if __name__ == "__main__":
     c.download_tokeniser()
 
     for statement in cab_statements:
-        if statement["datetime"] > lastdate:
-            print(statement["datetime"] + " // " + lastdate)
+        if statement["datetime"] > last_date:
+            print(statement["datetime"] + " // " + last_date)
             for k in lang_map.keys():
                 if k in statement:
                     tokens = sa.tokenise(lang_map[k], statement[k]["text"])
@@ -57,16 +57,16 @@ if __name__ == "__main__":
 
     langs = lang_model_map.keys()
     lang_pairs = list(combinations(langs, 2))
-    new_lastdate = lastdate
+    new_last_date = last_date
 
     for statement in cab_statements:
         for (src_lang, tgt_lang) in lang_pairs:
-            if statement["datetime"] > lastdate:
-                print('====================================We are here')
+            statement_keys = statement.keys()
+            if statement["datetime"] > last_date and (src_lang or tgt_lang in statement_keys):
                 sa.sentence_alignment(src_lang, tgt_lang, statement["datetime"])
 
-        if statement["datetime"] > lastdate:
-            new_lastdate = statement["datetime"]
+        if statement["datetime"] > last_date:
+            new_last_date = statement["datetime"]
             print("Aligned cab statement on {}".format(statement["datetime"]))
 
-    f.write_latest_date(new_lastdate)
+    f.write_latest_date(new_last_date)
