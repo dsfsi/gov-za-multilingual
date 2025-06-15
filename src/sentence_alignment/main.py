@@ -42,12 +42,15 @@ if __name__ == "__main__":
     config.download_laser_models(lang_model_map)
     config.download_tokeniser()
 
+    reversed_lang_map = {value: key for key, value in lang_map.items()}
     langs = list(lang_model_map.keys())
     lang_pairs = list(combinations(langs, 2))
     new_last_date = last_date
 
     for statement in cab_statements:
         statement_date = statement["datetime"]
+        statement_keys = list(statement.keys())
+
         if statement_date <= last_date:
             continue
 
@@ -65,7 +68,10 @@ if __name__ == "__main__":
                 sentence_embed.encode_sentence_tokens(statement_date, lang_code, lang_model_map[lang_code])
 
         for src_lang, tgt_lang in lang_pairs:
-            if src_lang in statement and tgt_lang in statement:
+            src_lang_code = reversed_lang_map[src_lang]
+            tgt_lang_code = reversed_lang_map[tgt_lang]
+
+            if src_lang_code in statement_keys and tgt_lang_code in statement_keys:
                 sentence_align.sentence_alignment(src_lang, tgt_lang, statement_date)
 
         new_last_date = statement_date
