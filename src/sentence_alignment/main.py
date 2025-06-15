@@ -1,9 +1,9 @@
 from itertools import combinations
 
-import config as c
-import file_handler as f
-import sentence_align as sa
-import sentence_embed as se
+import config
+import file_handler
+import sentence_align
+import sentence_embed
 
 lang_map = {
     "af": "afr",
@@ -34,39 +34,41 @@ lang_model_map = {
 }
 
 if __name__ == "__main__":
-    last_date = f.extract_latest_date()
-    cab_statements = f.read_json_file()
+    last_date = file_handler.extract_latest_date()
+    cab_statements = file_handler.read_json_file()
 
-    c.set_environ_var()
-    c.setup_laser()
-    c.download_laser_models(lang_model_map)
-    c.download_tokeniser()
+    config.set_environ_var()
+    config.setup_laser()
+    config.download_laser_models(lang_model_map)
+    config.download_tokeniser()
 
-    for statement in cab_statements:
-        if statement["datetime"] > last_date:
-            print(statement["datetime"] + " // " + last_date)
-            for k in lang_map.keys():
-                if k in statement:
-                    tokens = sa.tokenise(lang_map[k], statement[k]["text"])
-                    date = statement["datetime"]
-                    processed = sa.pre_process_text(lang_map[k], statement[k]["text"])
-                    f.write_raw_to_file(date, lang_map[k], statement[k]["text"])
-                    f.write_raw_to_file('{}_processed'.format(date), lang_map[k], processed)
-                    f.write_tokens_to_file(date, lang_map[k], tokens)
-                    se.encode_sentence_tokens(date, lang_map[k], lang_model_map[lang_map[k]])
-
-    langs = lang_model_map.keys()
+    langs = list(lang_model_map.keys())
     lang_pairs = list(combinations(langs, 2))
     new_last_date = last_date
 
     for statement in cab_statements:
-        for (src_lang, tgt_lang) in lang_pairs:
-            statement_keys = statement.keys()
-            if statement["datetime"] > last_date and (src_lang and tgt_lang in statement_keys):
-                sa.sentence_alignment(src_lang, tgt_lang, statement["datetime"])
+        statement_date = statement["datetime"]
+        if statement_date <= last_date:
+            continue
 
-        if statement["datetime"] > last_date:
-            new_last_date = statement["datetime"]
-            print("Aligned cab statement on {}".format(statement["datetime"]))
+        print(f"{statement_date} // {last_date}")
 
-    f.write_latest_date(new_last_date)
+        for lang_key, lang_code in lang_map.items():
+            if lang_key in statement:
+                text = statement[lang_key]["text"]
+                tokens = sentence_align.tokenise(lang_code, text)
+                processed = sentence_align.pre_process_text(lang_code, text)
+
+                file_handler.write_raw_to_file(statement_date, lang_code, text)
+                file_handler.write_raw_to_file(f'{statement_date}_processed', lang_code, processed)
+                file_handler.write_tokens_to_file(statement_date, lang_code, tokens)
+                sentence_embed.encode_sentence_tokens(statement_date, lang_code, lang_model_map[lang_code])
+
+        for src_lang, tgt_lang in lang_pairs:
+            if src_lang in statement and tgt_lang in statement:
+                sentence_align.sentence_alignment(src_lang, tgt_lang, statement_date)
+
+        new_last_date = statement_date
+        print(f"Aligned cab statement on {statement_date}")
+
+    file_handler.write_latest_date(new_last_date)

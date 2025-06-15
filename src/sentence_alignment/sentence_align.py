@@ -176,4 +176,4 @@ def sentence_alignment(src, tgt, date):
                 print("failed to realign indexes, exiting...")
                 break
 
-    write_to_jsonl(src, tgt, aligned_sentences)
+    write_to_jsonl(src, tgt, date, aligned_sentences)
