@@ -15,51 +15,63 @@ jobs:
         uses: actions/checkout@v3
         with:
           fetch-depth: 0  # Fetch all history for proper git operations
-      
-      - name: Set up Python
+
+      - name: Set up Python 3.8
         uses: actions/setup-python@v4
         with:
-          python-version: '3.8'
-          cache: 'pip'  # Cache pip dependencies
-      
+          python-version: 3.8
+          cache: pip  # Cache pip dependencies
+
+      - name: Cache pip dependencies
+        uses: actions/cache@v3
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ hashFiles('requirements.txt') }}
+          restore-keys: |
+            ${{ runner.os }}-pip-
+
       - name: Install Python dependencies
         run: |
           python -m pip install pip==23.0.1  # Use a known stable pip version
           pip install beautifulsoup4==4.12.2 lxml==4.9.3 pandas==2.0.3 requests==2.31.0 urllib3==2.0.7
-      
+
       - name: Create log directory
         run: mkdir -p logs
-      
+
       - name: Execute scraper script
         run: |
           cd src/gov_cab_statements_scrape
           python main.py
           cd ../..
         continue-on-error: true  # Don't fail the workflow if script has errors
-      
+
       - name: Upload logs as artifact
         uses: actions/upload-artifact@v4
         with:
           name: scraper-logs
           path: src/gov_cab_statements_scrape/logs/
           retention-days: 14
-      
+
+      - name: Set datetime of when sentence alignment was completed
+        id: scrape_datetime
+        run: echo "timestamp=$(date -u '+%Y-%m-%dT%H:%M:%SZ')" >> "$GITHUB_OUTPUT"
+
       - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: "Updated govza-cabinet-statements data files on $(date +'%Y-%m-%d')"
+          commit_message: 'Updated govza-cabinet-statements data files on ${{ steps.scrape_datetime.outputs.timestamp }}'
           file_pattern: 'data/*.json data/interim/*.csv'
           commit_user_name: GitHub Actions
           commit_user_email: actions@github.com
           commit_author: GitHub Actions <actions@github.com>
           status_options: '--untracked-files=no'
           push_options: '--force'
-      
+
       - name: Check for changes
         id: git-check
         run: |
           git diff --quiet && git diff --staged --quiet || echo "::set-output name=changes_detected::true"
-      
+
       - name: Notify if no changes
         if: steps.git-check.outputs.changes_detected != 'true'
         run: echo "No changes detected in this run."
