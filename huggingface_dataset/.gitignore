@@ -1,0 +1,28 @@
+# Ignore generated data files (too large for git)
+data/
+*.parquet
+
+# Ignore summary files (generated)
+dataset_summary.csv
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db

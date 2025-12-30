@@ -1,0 +1,13 @@
+# Requirements for preparing and uploading the Hugging Face dataset
+
+# Core dependencies
+pandas==2.0.3
+scikit-learn==1.3.2
+pyarrow==14.0.1  # For Parquet file support
+
+# Hugging Face
+datasets==2.15.0
+huggingface-hub==0.19.4
+
+# Optional: for uploading
+tqdm==4.66.1
