@@ -60,7 +60,8 @@ def write_tokens_to_file(date, lang, tokens):
 
 def get_tokens(date, lang):
     token_path = Path(TOKEN_PATH / date / f'{date}_{lang}.txt')
-    return open(token_path, 'r', encoding='utf-8').readlines()
+    with open(token_path, 'r', encoding='utf-8') as f:
+        return f.readlines()
 
 
 def append_to_csv(src, tgt, src_sentences, tgt_sentences, sim_scores):

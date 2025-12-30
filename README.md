@@ -35,6 +35,85 @@ The dataset does not contain special characters like unicode or ascii.
 
 Please see the [data-statement.md](/data_statement.md) for full dataset information. *(TODO)*
 
+
+## Getting Started
+
+### Quick Setup
+
+For first-time setup, we provide an automated setup script:
+
+```bash
+./setup.sh
+```
+
+This will:
+- Verify Python 3.8 is installed (required for sentence alignment)
+- Install system dependencies (Ubuntu)
+- Install Python dependencies
+- Fix shell script line endings for LASER
+- Optionally install development tools
+
+Alternatively, use the Makefile:
+
+```bash
+make setup
+```
+
+### Requirements
+
+**For Sentence Alignment:**
+- Ubuntu 20.04 (Ubuntu 22.04 not supported due to Python 3.8 compatibility)
+- Python 3.8 (required for fairseq compatibility)
+- System packages: `build-essential`, `cmake`, `zip`
+
+**For Scraping Only:**
+- Python 3.8+
+- Works on any OS
+
+### Installation
+
+```bash
+# Install Python dependencies
+pip install -r requirements.txt
+
+# Install development dependencies (optional)
+pip install -r requirements-dev.txt
+
+# For Ubuntu: Install system packages
+sudo apt-get update
+sudo apt-get install build-essential cmake zip
+```
+
+### Usage
+
+```bash
+# Run the scraper
+make scrape
+
+# Run sentence alignment
+make align
+
+# View all available commands
+make help
+```
+
+### Development
+
+We use pre-commit hooks for code quality:
+
+```bash
+# Install pre-commit hooks
+pip install -r requirements-dev.txt
+pre-commit install
+
+# Run hooks manually
+pre-commit run --all-files
+```
+
+For more detailed information, see:
+- [CLAUDE.md](CLAUDE.md) - Architecture and development guide
+- [QOL_IMPROVEMENTS.md](QOL_IMPROVEMENTS.md) - Recent quality of life improvements
+
 Number of Aligned Pairs with Cosine Similarity Score >= 0.65
 ------------------------------------------------------------
 

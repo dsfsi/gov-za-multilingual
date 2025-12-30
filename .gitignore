@@ -94,3 +94,18 @@ target/
 data/.temp/
 data/.temp
 
+# Scraper logs
+src/gov_cab_statements_scrape/logs/
+
+# LASER downloaded models and tools
+src/sentence_alignment/LASER/models/
+src/sentence_alignment/LASER/tools-external/
+src/sentence_alignment/LASER/nllb/models/
+
+# Sentence alignment tracking
+src/sentence_alignment/last_edition_read.txt
+
+# Claude Code
+.claude/
+CLAUDE.md
+

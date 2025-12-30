@@ -1,5 +1,7 @@
 from itertools import combinations
 
+from tqdm import tqdm
+
 import config
 import file_handler
 import sentence_align
@@ -34,47 +36,102 @@ lang_model_map = {
 }
 
 if __name__ == "__main__":
-    last_date = file_handler.extract_latest_date()
-    cab_statements = file_handler.read_json_file()
+    import sys
+    import traceback
 
-    config.set_environ_var()
-    config.setup_laser()
-    config.download_laser_models(lang_model_map)
-    config.download_tokeniser()
+    print("=" * 60)
+    print("Gov-ZA Multilingual Sentence Alignment")
+    print("=" * 60)
 
-    reversed_lang_map = {value: key for key, value in lang_map.items()}
-    langs = list(lang_model_map.keys())
-    lang_pairs = list(combinations(langs, 2))
-    new_last_date = last_date
+    try:
+        last_date = file_handler.extract_latest_date()
+        print(f"Last processed date: {last_date}")
 
-    for statement in cab_statements:
-        statement_date = statement["datetime"]
-        statement_keys = list(statement.keys())
+        cab_statements = file_handler.read_json_file()
+        print(f"Total statements in database: {len(cab_statements)}")
 
-        if statement_date <= last_date:
-            continue
+        # Filter new statements
+        new_statements = [s for s in cab_statements if s["datetime"] > last_date]
+        print(f"New statements to process: {len(new_statements)}")
 
-        print(f"{statement_date} // {last_date}")
+        if len(new_statements) == 0:
+            print("\nNo new statements to process. Exiting.")
+            sys.exit(0)
 
-        for lang_key, lang_code in lang_map.items():
-            if lang_key in statement:
-                text = statement[lang_key]["text"]
-                tokens = sentence_align.tokenise(lang_code, text)
-                processed = sentence_align.pre_process_text(lang_code, text)
+        print("\nSetting up LASER...")
+        config.set_environ_var()
+        config.setup_laser()
+        config.download_laser_models(lang_model_map)
+        config.download_tokeniser()
+        print("✓ LASER setup complete\n")
 
-                file_handler.write_raw_to_file(statement_date, lang_code, text)
-                file_handler.write_raw_to_file(f'{statement_date}_processed', lang_code, processed)
-                file_handler.write_tokens_to_file(statement_date, lang_code, tokens)
-                sentence_embed.encode_sentence_tokens(statement_date, lang_code, lang_model_map[lang_code])
+        reversed_lang_map = {value: key for key, value in lang_map.items()}
+        langs = list(lang_model_map.keys())
+        lang_pairs = list(combinations(langs, 2))
+        new_last_date = last_date
 
-        for src_lang, tgt_lang in lang_pairs:
-            src_lang_code = reversed_lang_map[src_lang]
-            tgt_lang_code = reversed_lang_map[tgt_lang]
+        print(f"Processing {len(new_statements)} statements...")
+        for statement in tqdm(new_statements, desc="Statements", unit="stmt"):
+            statement_date = statement["datetime"]
+            statement_keys = list(statement.keys())
 
-            if src_lang_code in statement_keys and tgt_lang_code in statement_keys:
-                sentence_align.sentence_alignment(src_lang, tgt_lang, statement_date)
+            try:
+                # Tokenize and embed all languages
+                available_langs = [(k, v) for k, v in lang_map.items() if k in statement]
+                for lang_key, lang_code in tqdm(available_langs, desc=f"  Languages ({statement_date})", leave=False, unit="lang"):
+                    text = statement[lang_key]["text"]
+                    tokens = sentence_align.tokenise(lang_code, text)
+                    processed = sentence_align.pre_process_text(lang_code, text)
 
-        new_last_date = statement_date
-        print(f"Aligned cab statement on {statement_date}")
+                    file_handler.write_raw_to_file(statement_date, lang_code, text)
+                    file_handler.write_raw_to_file(f'{statement_date}_processed', lang_code, processed)
+                    file_handler.write_tokens_to_file(statement_date, lang_code, tokens)
+                    sentence_embed.encode_sentence_tokens(statement_date, lang_code, lang_model_map[lang_code])
 
-    file_handler.write_latest_date(new_last_date)
+                # Align all language pairs
+                relevant_pairs = [
+                    (src, tgt) for src, tgt in lang_pairs
+                    if reversed_lang_map[src] in statement_keys and reversed_lang_map[tgt] in statement_keys
+                ]
+
+                for src_lang, tgt_lang in tqdm(relevant_pairs, desc=f"  Aligning pairs", leave=False, unit="pair"):
+                    sentence_align.sentence_alignment(src_lang, tgt_lang, statement_date)
+
+                new_last_date = statement_date
+
+            except Exception as e:
+                print(f"\n⚠️  Error processing statement {statement_date}: {e}")
+                print("Continuing with next statement...")
+                continue
+
+        file_handler.write_latest_date(new_last_date)
+
+        print("\n" + "=" * 60)
+        print("✓ Sentence alignment complete!")
+        print(f"Processed {len(new_statements)} statements")
+        print(f"Last processed date: {new_last_date}")
+        print("=" * 60)
+
+    except FileNotFoundError as e:
+        print(f"\n❌ ERROR: File not found")
+        print(f"   {e}")
+        print("\nPlease ensure:")
+        print("  1. You're running from src/sentence_alignment/ directory")
+        print("  2. The data/govza-cabinet-statements.json file exists")
+        print("  3. LASER submodule is properly initialized")
+        sys.exit(1)
+
+    except RuntimeError as e:
+        print(f"\n❌ ERROR: {e}")
+        sys.exit(1)
+
+    except KeyboardInterrupt:
+        print("\n\n⚠️  Interrupted by user")
+        print(f"Progress saved up to: {new_last_date if 'new_last_date' in locals() else last_date}")
+        sys.exit(130)
+
+    except Exception as e:
+        print(f"\n❌ UNEXPECTED ERROR: {e}")
+        print("\nFull traceback:")
+        traceback.print_exc()
+        sys.exit(1)

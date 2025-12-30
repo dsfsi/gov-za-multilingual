@@ -7,7 +7,7 @@
 PROJECT_DIR := $(shell dirname $(realpath $(lastword $(MAKEFILE_LIST))))
 BUCKET = [OPTIONAL] your-bucket-for-syncing-data (do not include 's3://')
 PROFILE = default
-PROJECT_NAME = mit-808-starter
+PROJECT_NAME = gov-za-multilingual
 PYTHON_INTERPRETER = python3
 
 ifeq (,$(shell which conda))
@@ -79,6 +79,34 @@ test_environment:
 #################################################################################
 # PROJECT RULES                                                                 #
 #################################################################################
+
+## Check Python 3.8 is installed (required for sentence alignment)
+check_python:
+	@$(PYTHON_INTERPRETER) -c "import sys; assert sys.version_info[:2] == (3, 8), 'Python 3.8 required for sentence alignment'"
+	@echo ">>> Python 3.8 detected - OK"
+
+## Fix line endings in LASER shell scripts (CRLF -> LF)
+fix_line_endings:
+	@echo ">>> Fixing line endings in LASER shell scripts..."
+	@find src/sentence_alignment/LASER -name "*.sh" -type f -exec sed -i '' 's/\r$$//' {} \; 2>/dev/null || \
+	find src/sentence_alignment/LASER -name "*.sh" -type f -exec sed -i 's/\r$$//' {} \;
+	@echo ">>> Line endings fixed"
+
+## Run cabinet statement scraper
+scrape:
+	cd src/gov_cab_statements_scrape && $(PYTHON_INTERPRETER) main.py
+
+## Run sentence alignment
+align:
+	cd src/sentence_alignment && $(PYTHON_INTERPRETER) main.py
+
+## Install development dependencies
+requirements-dev:
+	$(PYTHON_INTERPRETER) -m pip install -r requirements-dev.txt
+
+## Run all setup steps
+setup: check_python requirements fix_line_endings
+	@echo ">>> Setup complete! You can now run 'make scrape' or 'make align'"
 
 
 
