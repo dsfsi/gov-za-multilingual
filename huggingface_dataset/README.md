@@ -24,6 +24,447 @@ tags:
 pretty_name: Gov-ZA Cabinet Statements (Sentence-Aligned)
 size_categories:
 - 100K<n<1M
+configs:
+- config_name: afr-eng
+  data_files:
+  - split: train
+    path: afr-eng/train/*.parquet
+  - split: test
+    path: afr-eng/test/*.parquet
+  - split: validation
+    path: afr-eng/eval/*.parquet
+- config_name: afr-nbl
+  data_files:
+  - split: train
+    path: afr-nbl/train/*.parquet
+  - split: test
+    path: afr-nbl/test/*.parquet
+  - split: validation
+    path: afr-nbl/eval/*.parquet
+- config_name: afr-nso
+  data_files:
+  - split: train
+    path: afr-nso/train/*.parquet
+  - split: test
+    path: afr-nso/test/*.parquet
+  - split: validation
+    path: afr-nso/eval/*.parquet
+- config_name: afr-sot
+  data_files:
+  - split: train
+    path: afr-sot/train/*.parquet
+  - split: test
+    path: afr-sot/test/*.parquet
+  - split: validation
+    path: afr-sot/eval/*.parquet
+- config_name: afr-ssw
+  data_files:
+  - split: train
+    path: afr-ssw/train/*.parquet
+  - split: test
+    path: afr-ssw/test/*.parquet
+  - split: validation
+    path: afr-ssw/eval/*.parquet
+- config_name: afr-tsn
+  data_files:
+  - split: train
+    path: afr-tsn/train/*.parquet
+  - split: test
+    path: afr-tsn/test/*.parquet
+  - split: validation
+    path: afr-tsn/eval/*.parquet
+- config_name: afr-tso
+  data_files:
+  - split: train
+    path: afr-tso/train/*.parquet
+  - split: test
+    path: afr-tso/test/*.parquet
+  - split: validation
+    path: afr-tso/eval/*.parquet
+- config_name: afr-ven
+  data_files:
+  - split: train
+    path: afr-ven/train/*.parquet
+  - split: test
+    path: afr-ven/test/*.parquet
+  - split: validation
+    path: afr-ven/eval/*.parquet
+- config_name: afr-xho
+  data_files:
+  - split: train
+    path: afr-xho/train/*.parquet
+  - split: test
+    path: afr-xho/test/*.parquet
+  - split: validation
+    path: afr-xho/eval/*.parquet
+- config_name: afr-zul
+  data_files:
+  - split: train
+    path: afr-zul/train/*.parquet
+  - split: test
+    path: afr-zul/test/*.parquet
+  - split: validation
+    path: afr-zul/eval/*.parquet
+- config_name: eng-nbl
+  data_files:
+  - split: train
+    path: eng-nbl/train/*.parquet
+  - split: test
+    path: eng-nbl/test/*.parquet
+  - split: validation
+    path: eng-nbl/eval/*.parquet
+- config_name: eng-nso
+  data_files:
+  - split: train
+    path: eng-nso/train/*.parquet
+  - split: test
+    path: eng-nso/test/*.parquet
+  - split: validation
+    path: eng-nso/eval/*.parquet
+- config_name: eng-sot
+  data_files:
+  - split: train
+    path: eng-sot/train/*.parquet
+  - split: test
+    path: eng-sot/test/*.parquet
+  - split: validation
+    path: eng-sot/eval/*.parquet
+- config_name: eng-ssw
+  data_files:
+  - split: train
+    path: eng-ssw/train/*.parquet
+  - split: test
+    path: eng-ssw/test/*.parquet
+  - split: validation
+    path: eng-ssw/eval/*.parquet
+- config_name: eng-tsn
+  data_files:
+  - split: train
+    path: eng-tsn/train/*.parquet
+  - split: test
+    path: eng-tsn/test/*.parquet
+  - split: validation
+    path: eng-tsn/eval/*.parquet
+- config_name: eng-tso
+  data_files:
+  - split: train
+    path: eng-tso/train/*.parquet
+  - split: test
+    path: eng-tso/test/*.parquet
+  - split: validation
+    path: eng-tso/eval/*.parquet
+- config_name: eng-ven
+  data_files:
+  - split: train
+    path: eng-ven/train/*.parquet
+  - split: test
+    path: eng-ven/test/*.parquet
+  - split: validation
+    path: eng-ven/eval/*.parquet
+- config_name: eng-xho
+  data_files:
+  - split: train
+    path: eng-xho/train/*.parquet
+  - split: test
+    path: eng-xho/test/*.parquet
+  - split: validation
+    path: eng-xho/eval/*.parquet
+- config_name: eng-zul
+  data_files:
+  - split: train
+    path: eng-zul/train/*.parquet
+  - split: test
+    path: eng-zul/test/*.parquet
+  - split: validation
+    path: eng-zul/eval/*.parquet
+- config_name: nbl-nso
+  data_files:
+  - split: train
+    path: nbl-nso/train/*.parquet
+  - split: test
+    path: nbl-nso/test/*.parquet
+  - split: validation
+    path: nbl-nso/eval/*.parquet
+- config_name: nbl-sot
+  data_files:
+  - split: train
+    path: nbl-sot/train/*.parquet
+  - split: test
+    path: nbl-sot/test/*.parquet
+  - split: validation
+    path: nbl-sot/eval/*.parquet
+- config_name: nbl-ssw
+  data_files:
+  - split: train
+    path: nbl-ssw/train/*.parquet
+  - split: test
+    path: nbl-ssw/test/*.parquet
+  - split: validation
+    path: nbl-ssw/eval/*.parquet
+- config_name: nbl-tsn
+  data_files:
+  - split: train
+    path: nbl-tsn/train/*.parquet
+  - split: test
+    path: nbl-tsn/test/*.parquet
+  - split: validation
+    path: nbl-tsn/eval/*.parquet
+- config_name: nbl-tso
+  data_files:
+  - split: train
+    path: nbl-tso/train/*.parquet
+  - split: test
+    path: nbl-tso/test/*.parquet
+  - split: validation
+    path: nbl-tso/eval/*.parquet
+- config_name: nbl-ven
+  data_files:
+  - split: train
+    path: nbl-ven/train/*.parquet
+  - split: test
+    path: nbl-ven/test/*.parquet
+  - split: validation
+    path: nbl-ven/eval/*.parquet
+- config_name: nbl-xho
+  data_files:
+  - split: train
+    path: nbl-xho/train/*.parquet
+  - split: test
+    path: nbl-xho/test/*.parquet
+  - split: validation
+    path: nbl-xho/eval/*.parquet
+- config_name: nbl-zul
+  data_files:
+  - split: train
+    path: nbl-zul/train/*.parquet
+  - split: test
+    path: nbl-zul/test/*.parquet
+  - split: validation
+    path: nbl-zul/eval/*.parquet
+- config_name: nso-sot
+  data_files:
+  - split: train
+    path: nso-sot/train/*.parquet
+  - split: test
+    path: nso-sot/test/*.parquet
+  - split: validation
+    path: nso-sot/eval/*.parquet
+- config_name: nso-ssw
+  data_files:
+  - split: train
+    path: nso-ssw/train/*.parquet
+  - split: test
+    path: nso-ssw/test/*.parquet
+  - split: validation
+    path: nso-ssw/eval/*.parquet
+- config_name: nso-tsn
+  data_files:
+  - split: train
+    path: nso-tsn/train/*.parquet
+  - split: test
+    path: nso-tsn/test/*.parquet
+  - split: validation
+    path: nso-tsn/eval/*.parquet
+- config_name: nso-tso
+  data_files:
+  - split: train
+    path: nso-tso/train/*.parquet
+  - split: test
+    path: nso-tso/test/*.parquet
+  - split: validation
+    path: nso-tso/eval/*.parquet
+- config_name: nso-ven
+  data_files:
+  - split: train
+    path: nso-ven/train/*.parquet
+  - split: test
+    path: nso-ven/test/*.parquet
+  - split: validation
+    path: nso-ven/eval/*.parquet
+- config_name: nso-xho
+  data_files:
+  - split: train
+    path: nso-xho/train/*.parquet
+  - split: test
+    path: nso-xho/test/*.parquet
+  - split: validation
+    path: nso-xho/eval/*.parquet
+- config_name: nso-zul
+  data_files:
+  - split: train
+    path: nso-zul/train/*.parquet
+  - split: test
+    path: nso-zul/test/*.parquet
+  - split: validation
+    path: nso-zul/eval/*.parquet
+- config_name: sot-ssw
+  data_files:
+  - split: train
+    path: sot-ssw/train/*.parquet
+  - split: test
+    path: sot-ssw/test/*.parquet
+  - split: validation
+    path: sot-ssw/eval/*.parquet
+- config_name: sot-tsn
+  data_files:
+  - split: train
+    path: sot-tsn/train/*.parquet
+  - split: test
+    path: sot-tsn/test/*.parquet
+  - split: validation
+    path: sot-tsn/eval/*.parquet
+- config_name: sot-tso
+  data_files:
+  - split: train
+    path: sot-tso/train/*.parquet
+  - split: test
+    path: sot-tso/test/*.parquet
+  - split: validation
+    path: sot-tso/eval/*.parquet
+- config_name: sot-ven
+  data_files:
+  - split: train
+    path: sot-ven/train/*.parquet
+  - split: test
+    path: sot-ven/test/*.parquet
+  - split: validation
+    path: sot-ven/eval/*.parquet
+- config_name: sot-xho
+  data_files:
+  - split: train
+    path: sot-xho/train/*.parquet
+  - split: test
+    path: sot-xho/test/*.parquet
+  - split: validation
+    path: sot-xho/eval/*.parquet
+- config_name: sot-zul
+  data_files:
+  - split: train
+    path: sot-zul/train/*.parquet
+  - split: test
+    path: sot-zul/test/*.parquet
+  - split: validation
+    path: sot-zul/eval/*.parquet
+- config_name: ssw-tsn
+  data_files:
+  - split: train
+    path: ssw-tsn/train/*.parquet
+  - split: test
+    path: ssw-tsn/test/*.parquet
+  - split: validation
+    path: ssw-tsn/eval/*.parquet
+- config_name: ssw-tso
+  data_files:
+  - split: train
+    path: ssw-tso/train/*.parquet
+  - split: test
+    path: ssw-tso/test/*.parquet
+  - split: validation
+    path: ssw-tso/eval/*.parquet
+- config_name: ssw-ven
+  data_files:
+  - split: train
+    path: ssw-ven/train/*.parquet
+  - split: test
+    path: ssw-ven/test/*.parquet
+  - split: validation
+    path: ssw-ven/eval/*.parquet
+- config_name: ssw-xho
+  data_files:
+  - split: train
+    path: ssw-xho/train/*.parquet
+  - split: test
+    path: ssw-xho/test/*.parquet
+  - split: validation
+    path: ssw-xho/eval/*.parquet
+- config_name: ssw-zul
+  data_files:
+  - split: train
+    path: ssw-zul/train/*.parquet
+  - split: test
+    path: ssw-zul/test/*.parquet
+  - split: validation
+    path: ssw-zul/eval/*.parquet
+- config_name: tsn-tso
+  data_files:
+  - split: train
+    path: tsn-tso/train/*.parquet
+  - split: test
+    path: tsn-tso/test/*.parquet
+  - split: validation
+    path: tsn-tso/eval/*.parquet
+- config_name: tsn-ven
+  data_files:
+  - split: train
+    path: tsn-ven/train/*.parquet
+  - split: test
+    path: tsn-ven/test/*.parquet
+  - split: validation
+    path: tsn-ven/eval/*.parquet
+- config_name: tsn-xho
+  data_files:
+  - split: train
+    path: tsn-xho/train/*.parquet
+  - split: test
+    path: tsn-xho/test/*.parquet
+  - split: validation
+    path: tsn-xho/eval/*.parquet
+- config_name: tsn-zul
+  data_files:
+  - split: train
+    path: tsn-zul/train/*.parquet
+  - split: test
+    path: tsn-zul/test/*.parquet
+  - split: validation
+    path: tsn-zul/eval/*.parquet
+- config_name: tso-ven
+  data_files:
+  - split: train
+    path: tso-ven/train/*.parquet
+  - split: test
+    path: tso-ven/test/*.parquet
+  - split: validation
+    path: tso-ven/eval/*.parquet
+- config_name: tso-xho
+  data_files:
+  - split: train
+    path: tso-xho/train/*.parquet
+  - split: test
+    path: tso-xho/test/*.parquet
+  - split: validation
+    path: tso-xho/eval/*.parquet
+- config_name: tso-zul
+  data_files:
+  - split: train
+    path: tso-zul/train/*.parquet
+  - split: test
+    path: tso-zul/test/*.parquet
+  - split: validation
+    path: tso-zul/eval/*.parquet
+- config_name: ven-xho
+  data_files:
+  - split: train
+    path: ven-xho/train/*.parquet
+  - split: test
+    path: ven-xho/test/*.parquet
+  - split: validation
+    path: ven-xho/eval/*.parquet
+- config_name: ven-zul
+  data_files:
+  - split: train
+    path: ven-zul/train/*.parquet
+  - split: test
+    path: ven-zul/test/*.parquet
+  - split: validation
+    path: ven-zul/eval/*.parquet
+- config_name: xho-zul
+  data_files:
+  - split: train
+    path: xho-zul/train/*.parquet
+  - split: test
+    path: xho-zul/test/*.parquet
+  - split: validation
+    path: xho-zul/eval/*.parquet
 ---
 
 # Gov-ZA Multilingual Cabinet Statements (Sentence-Aligned)

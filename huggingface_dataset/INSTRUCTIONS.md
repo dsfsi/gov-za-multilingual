@@ -176,6 +176,39 @@ Found 165 Parquet files to upload
 View at: https://huggingface.co/datasets/dsfsi/govza-sa-cabinet-statements-sentence-aligned
 ```
 
+### Step 5: Upload the Dataset Loading Script
+
+**IMPORTANT:** After uploading the data, you must also upload the dataset loading script to make all 55 language pairs visible.
+
+The dataset loading script (`govza-sa-cabinet-statements-sentence-aligned.py`) tells Hugging Face how to load and expose all language pair configurations.
+
+**Upload manually via Hugging Face website:**
+
+1. Go to your dataset repository on Hugging Face
+2. Click "Files and versions" tab
+3. Click "Add file" → "Upload files"
+4. Upload `govza-sa-cabinet-statements-sentence-aligned.py` to the root directory
+5. Commit the changes
+
+**Or upload via command line:**
+
+```bash
+huggingface-cli upload dsfsi/govza-sa-cabinet-statements-sentence-aligned \
+  govza-sa-cabinet-statements-sentence-aligned.py \
+  --repo-type dataset
+```
+
+**Why this is needed:**
+
+Without this script, Hugging Face will only auto-detect one configuration (afr-eng) instead of all 55 language pairs. The script explicitly defines all configurations and enables users to load any language pair:
+
+```python
+# Will work after uploading the script:
+dataset = load_dataset("dsfsi/govza-sa-cabinet-statements-sentence-aligned", "afr-eng")
+dataset = load_dataset("dsfsi/govza-sa-cabinet-statements-sentence-aligned", "xho-zul")
+# ... and all other 53 pairs
+```
+
 ## Dataset Structure
 
 ### Language Pairs
